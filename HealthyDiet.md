@@ -13,10 +13,13 @@ Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green g
 Cranberry Juice         4 oz  
 Water                   4 oz
 Extra virgin olive oil  1 tbsp
-Apple Cider Vinegar     2 tsp  
-Turmeric                1 tsp
-Black pepper            1 tsp
-Juice Half of a Lemon
+Apple Cider Vinegar     1 tbsp  
+Juice Half of a Lemon  
+
+Optional:
+Turmeric                1 tsp  
+Black pepper            1 tsp  
+Ginger                  1 tsp
 
 ### Evening
 Chia seeds    1 tbsp

@@ -2,7 +2,7 @@
 
 ## [Lactobacillis reuteri](https://drdavisinfinitehealth.com/2019/07/how-to-make-l-reuteri-yogurt-step-by-step/)  
 [Video](https://www.youtube.com/watch?v=aHfqE_zLPxE)  
-[PDF Instructions](../L-reuteri-yogurt-recipe.pdf)  
+[PDF Instructions](../../Health/L-reuteri-yogurt-recipe.pdf)  
 Starter microbes [BioGaia Gastrus Probiotic Capsules](https://www.amazon.com/dp/B0FDX7DYP2)
 
 Glass or ceramic bowl or other vessel large enough to hold at least one quart of liquid

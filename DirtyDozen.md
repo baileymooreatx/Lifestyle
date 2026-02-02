@@ -1,6 +1,8 @@
-# Dirty Dozen: produce most contaminated with pesticides  
+# Dirty Dozen  
 
-Better to buy organic if possible
+Produce that is most contaminated with pesticides.  
+Buy organic, if possible.  
+
 1. Strawberries
 2. Spinach
 3. Kale, Collards, and Mustard Greens

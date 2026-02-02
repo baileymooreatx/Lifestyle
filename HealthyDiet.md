@@ -3,8 +3,12 @@
 ## Manage macronutrients to lower insulin  
 1. Control carbohydrates - no processed foods, avoid barcodes  
 2. Prioritize protein  
-3. Fat is good  
-4. Fast frequently - intermittent fasting
+3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
+Prefer healthy oils: extra virgin olive oil, avocado oil, and coconut oil.
+4. Intermittent Fasting - Reduce the number of eating hours per day by one hour 
+each day until the window reaches eight hours or less.  
+The extreme case is one meal a day (OMAD).  
+Meals should be about four hours apart with no snacking between them.
 
 ## Increase fiber and nutrient availability  
 Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green glass.  

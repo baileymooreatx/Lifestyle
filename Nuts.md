@@ -1,11 +1,14 @@
-# [Nuts](https://www.youtube.com/watch?v=ENsbJrlXrso)
-Avoid
+# [Nuts](https://www.youtube.com/watch?v=ENsbJrlXrso)  
+
+## Avoid  
+
 * Cashews are high in carbohydrates and Omega-6 acids
-* Peanuts are often mold contaminated and inflammatory
-* Brazil nuts are too high in selenium
+* Peanuts are often contaminated with mold and inflammatory
+* Brazil nuts are too high in selenium, so only eat one or two
 * Pine nuts
 
-Healthy Options
+## Healthy Options  
+
 * Walnuts for Omega-3 fatty acids and microbiome support
 * Macadamia nuts for oleic acid and palmetoleic acid
 * Dry roasted almonds for protein, magnesium, vitamin E, appetite regulation, and bone density

@@ -1,14 +1,44 @@
 # Healthy Diet
 
 ## Manage macronutrients to lower insulin  
-1. Control carbohydrates - no processed foods, avoid barcodes  
-2. Prioritize protein  
+1. Control carbohydrates
+   1. No ultra processed foods
+   2. Avoid boxes and barcodes by eating lots of plants    
+   3. Prefer fewer ingredients
+   4. When you cook it yourself, you control the ingredients
+2. Prioritize protein - eat one gram of protein per pound for your ideal weight  
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
-Prefer healthy oils: extra virgin olive oil, avocado oil, and coconut oil.
-4. Intermittent Fasting - Reduce the number of eating hours per day by one hour 
-each day until the window reaches eight hours or less.  
-The extreme case is one meal a day (OMAD).  
-Meals should be about four hours apart with no snacking between them.
+Prefer healthy oils  
+   1. Extra virgin olive oil (EVOO)  
+   2. Avocado oil  
+   3. Coconut oil  
+4. [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
+   Reduce the number of hours when you eat per day by one hour 
+   each day until the window reaches eight hours or less.  
+   Meals should be about four hours apart with no snacking between them.  
+   [Fasting length](https://www.youtube.com/watch?v=f4idT8Mnj78)
+   1. 12 hour fast should be baseline.  
+      Do not eat three hours before sleeping.  
+      Improves insulin signaling.  
+      Minimal fat loss.
+   2. 16 hour fast with an 8-hour eating window  
+      Improves insulin sensitivity.  
+      Burns fat, but only short term because it creates a cortisol adaptation.
+   3. 24 hour fast, also called one meal a day (OMAD) is optimal for fat loss, but will plateau.  
+      Significant insulin drop  
+      Growth hormone spikes  
+      Increases autophagy  
+      Deep ketosis  
+   4. 36 hour fast  
+      Deep ketosis  
+      Deep autophagy  
+   5. Mix up the schedule to prevent adaptation and plateaus
+   
+      | Difficulty   | Schedule                                                                                            |  
+      |:-------------|:----------------------------------------------------------------------------------------------------|  
+      | Beginner     | 16 hour fast four days per week.  Avoid fasting one day per week.                                   | 
+      | Intermediate | 24 hour fast once per week. 12 to 14 hour eating window on other days                               |
+      | Advanced     | 36 hour fast once per week with a high protein re-feed day. Strength training on high protien days. |
 
 ## Increase fiber and nutrient availability  
 Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green glass.  

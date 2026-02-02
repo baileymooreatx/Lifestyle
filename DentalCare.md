@@ -22,14 +22,17 @@ Swish 1 tsp in your mouth for 10 minutes before rinsing.
 Brush with mixture for one or two minutes before rinsing.
 
 ## [Dr. Ellie Phillips'](https://www.youtube.com/watch?v=a_iK4965Qj8) [Complete Mouth Care System](../../Health/zellies-dental-guide.pdf)  
+
+Perform these steps in the morning and before bed.  
 1. Rinse with CLOSYS® mouth rinse for one minute.  
 » Do not rinse with water after this step.  
 2. Brush with a soft toothbrush and use Crest® Regular Cavity Protection Toothpaste (1-2 Minutes).  
-» Don’t use Crest® with: whitening, tartar control, stannous fluoride, sodium monofluorophosphate or triclosan.  
+» Do not use Crest® with: whitening, tartar control, stannous fluoride, sodium monofluorophosphate or triclosan.  
 » Keep toothbrush sanitary and clean. Keep it away from the toilet area.  
 » Do not rinse with water after this step.  
-3. Rinse with LISTERINE® (30-60 Seconds). Only use the Original or Cool Mint flavors with ADA Shield.  
-» Don’t use LISTERINE® with plaque or tartar control, or whitening.  
+3. Rinse with LISTERINE® (30-60 Seconds). 
+» Only use the Original or Cool Mint flavors with the ADA Shield.  
+» Do not use LISTERINE® with plaque or tartar control, or whitening.  
 » Do not rinse with water after this step.  
 4. Rinse with ACT® Anticavity Fluoride Rinse for 1 minute. Only use the Mint, Cinnamon or Bubblegum flavors.  
 » Avoid all other ACT® formulas.  

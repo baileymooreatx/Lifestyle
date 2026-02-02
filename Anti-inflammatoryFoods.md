@@ -1,4 +1,4 @@
-# [Anti-Inflammatory foods](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm)
+# Anti-Inflammatory foods
 * Ashwagandha
 * Astragalus Root
 * Black Pepper
@@ -32,3 +32,7 @@
 * Spearmint
 * St. John’s Wort
 * Turmeric  
+  
+## Sources
+[Article](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm) on medicinenet.com  
+[Video](https://www.youtube.com/watch?v=z_SbShnKnxo) Dr. Amin Hedayat, MD  

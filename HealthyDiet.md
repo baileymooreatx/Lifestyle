@@ -1,37 +1,43 @@
 # Healthy Diet
 
 ## Manage macronutrients to lower insulin  
-1. Control carbohydrates - no processed foods, nothing with a barcode  
+1. Control carbohydrates - no processed foods, avoid barcodes  
 2. Prioritize protein  
 3. Fat is good  
-4. Fast frequently
+4. Fast frequently - intermittent fasting
 
 ## Increase fiber and nutrient availability  
 Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green glass.  
 
-### Morning  
-Cranberry Juice         4 oz  
-Water                   4 oz  
-Extra virgin olive oil  1 tbsp  
-Apple Cider Vinegar     1 tbsp  
-Juice Half of a Lemon  
+### [Morning](https://www.youtube.com/watch?v=dvx9lXwvm84&t=100s)   
 
-Optional:
-Turmeric                1 tsp  
-Black pepper            1 tsp  
-Ginger                  1 tsp  
+| **Ingredient**            | **Volume**      |
+|:--------------------------|:----------------|
+| Cranberry Juice           | 4 fluid oz      |
+| Water                     | 4 fluid oz      |
+| Extra virgin olive oil    | 1 tablespoon    |
+| Apple Cider Vinegar       | 1 tablespoon    |
+| Lemon Juice               | Half of a Lemon |
+| **Optional spices**       |                 |
+| Turmeric and Black Pepper | 1 teaspoon each |
+| Ginger                    | 1 teaspoon      |
 
-### Evening
-Chia seeds    1 tbsp  
-Cinnamon    1/2 tsp  
-Olive Oil     1 tbsp  
-Water         8 oz  
+### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)  
 
 Drink 1 hour before bed, blended for best results.  
 
-### Clove Water  
+| **Ingredient**         | **Volume**   |
+|:-----------------------|:-------------|
+| Water                  | 8 fluid oz   |
+| Chia seeds             | 1 tablespoon |
+| Ceylon Cinnamon        | ½ teaspoon   |
+| Extra virgin olive oil | 1 tablespoon |
+| Apple Cider Vinegar    | 1 tablespoon |
+| Sea salt               | ½ teaspoon   |
+
+### [Clove Water](https://www.youtube.com/watch?v=XEcssz8NOhg)  
 5 whole cloves  
 1 cup water  
 
-Bring the water and cloves to a boil then reduce to simmer for 20 minutes.
+Bring the water and cloves to a boil then reduce to simmer for 20 minutes.  
 Drink 30 minutes before bed.

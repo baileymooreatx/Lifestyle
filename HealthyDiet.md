@@ -15,7 +15,7 @@ Prefer healthy oils
 4. [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
    Reduce the number of hours when you eat per day by one hour 
    each day until the window reaches eight hours or less.  
-   Meals should be about four hours apart with no snacking between them.  
+   Meals should be about four hours apart with no snacking between them.
    [Fasting length](https://www.youtube.com/watch?v=f4idT8Mnj78)
    1. 12 hour fast should be baseline.  
       Do not eat three hours before sleeping.  
@@ -32,13 +32,18 @@ Prefer healthy oils
    4. 36 hour fast  
       Deep ketosis  
       Deep autophagy  
-   5. Mix up the schedule to prevent adaptation and plateaus
+   5. Mix up the schedule to prevent adaptation and plateaus.  
+      Don't fast too much for too long. Have recovery days with no fasting.
+5. [Before fasting](https://www.youtube.com/watch?v=fnIrkwke_M8), take the following steps
+   1. Cut out carbs 7 days before fast. Go in as a fat burner not a sugar burner.
+   2. No snacking. 3 meals a day.
+   3. Consume 2 tbsp each of avocado oil, coconut oil and butter for 7 days leading up to fast.
    
-      | Difficulty   | Schedule                                                                                            |  
-      |:-------------|:----------------------------------------------------------------------------------------------------|  
-      | Beginner     | 16 hour fast four days per week.  Avoid fasting one day per week.                                   | 
-      | Intermediate | 24 hour fast once per week. 12 to 14 hour eating window on other days                               |
-      | Advanced     | 36 hour fast once per week with a high protein re-feed day. Strength training on high protien days. |
+   | Difficulty   | Schedule                                                                                            |  
+   |:-------------|:----------------------------------------------------------------------------------------------------|  
+   | Beginner     | 16 hour fast four days per week. Avoid fasting one day per week. 18/6 is a better variation.        | 
+   | Intermediate | 24 hour fast once per week. 12 to 14 hour eating window on other days                               |
+   | Advanced     | 36 hour fast once per week with a high protein re-feed day. Strength training on high protien days. |
 
 ## Increase fiber and nutrient availability  
 Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green glass.  

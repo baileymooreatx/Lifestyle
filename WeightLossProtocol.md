@@ -14,14 +14,15 @@ Optional: Coffee with one scoop of Multi Collagen Peptides
 # 7:00 a.m. to 12:00 p.m. | Fat-burning phase
 Stay fasted to keep insulin low and enable maximum fat-burning  
 Take a long walk  
-Avoid artificial sweeteners  
+Avoid artificial sweeteners sucralose and aspartame  
+Monk fruit, stevia, xylitol, and erythritol do not trigger insulin
 
 # 12:00 p.m. to 1:30 p.m. | Meal #1
 Eat 6 to 8 oz (170 to 225 g) of animal protein such as eggs, salmon, sardines, or beef
 Pair with a large leafy green salad
 Include healthy fats, such as olive oil, butter, cheese, or avocado
 Have ½ cup L. reuteri yogurt
-Take a 15- to 30-minute walk after eating to lower insulin without activating stress
+Take a 15 to 30 minute walk after eating to lower insulin without activating stress
 Optional: Drink diluted apple cider vinegar or lemon water before the meal
 
 # 1:30 p.m. to 5:00 p.m. | Afternoon

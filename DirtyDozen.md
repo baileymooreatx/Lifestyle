@@ -15,3 +15,7 @@ Buy organic, if possible.
 10. Bell and hot peppers
 11. Celery
 12. Tomatoes 
+
+## [Nontoxic Vegetable Wash](https://www.youtube.com/watch?v=GKLZpquBc_4)  
+Mix 1/4 cup (2 fluid ounces) of 3% **Food Grade** hydrogen peroxide with one gallon of water.
+Soak vegetables for 20 minutes.

@@ -22,7 +22,7 @@ Eat 6 to 8 oz (170 to 225 g) of animal protein such as eggs, salmon, sardines, o
 Pair with a large leafy green salad
 Include healthy fats, such as olive oil, butter, cheese, or avocado
 Have ½ cup L. reuteri yogurt
-Take a 15 to 30 minute walk after eating to lower insulin without activating stress
+Walk for 15 to 30 minutes walk after eating to lower insulin without activating stress
 Optional: Drink diluted apple cider vinegar or lemon water before the meal
 
 # 1:30 p.m. to 5:00 p.m. | Afternoon
@@ -36,7 +36,7 @@ Eat 6 to 8 oz (170 to 225 g) of high-quality protein
 Pair with a large salad or non-starchy vegetables
 Include healthy fats, such as olive oil, butter, and avocado
 Avoid snacking after meals
-Take a 15 to 30 minute walk after eating to lower insulin without activating stress
+Walk for 15 to 30 minutes after eating to lower insulin without activating stress
 
 # 7:00 p.m. to 10:00 p.m. | Evening
 Take Magnesium Powder to support healthy cortisol balance

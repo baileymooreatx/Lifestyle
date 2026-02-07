@@ -16,6 +16,14 @@ Buy organic, if possible.
 11. Celery
 12. Tomatoes 
 
-## [Nontoxic Vegetable Wash](https://www.youtube.com/watch?v=GKLZpquBc_4)  
-Mix 1/4 cup (2 fluid ounces) of 3% **Food Grade** hydrogen peroxide with one gallon of water.
+## Nontoxic Vegetable Wash  
+
+### [Hydrogen Peroxide](https://www.youtube.com/watch?v=GKLZpquBc_4)  
+Mix 
+* 1/4 cup (2 fluid ounces) of 3% **Food Grade** hydrogen peroxide 
+* gallon of cold water  
+
 Soak vegetables for 20 minutes.
+
+### [White Vinegar](https://www.youtube.com/watch?v=VmRtK4CVQ20)  
+Others use 1/4 cup of white vinegar in cold water

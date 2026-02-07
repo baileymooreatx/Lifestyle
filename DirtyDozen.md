@@ -17,9 +17,9 @@ Buy organic, if possible.
 12. Tomatoes 
 
 ## Nontoxic Vegetable Wash  
-I am specifically interested in broccoli because it's not easy to clean 
-like smooth vegetables are. For smooth vegetables, I usually use baking soda 
-and a vegetable brush.
+I am specifically interested in [cleaning broccoli](https://www.wikihow.com/Clean-Broccoli) 
+because it's not easy to clean like smooth vegetables are. For smooth vegetables, I usually use baking soda 
+and a vegetable brush.  
 
 ### [Hydrogen Peroxide](https://www.youtube.com/watch?v=GKLZpquBc_4)  
 Mix 

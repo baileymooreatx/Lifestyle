@@ -12,6 +12,8 @@ See [coconut oil pulling dangers and benefits](https://www.drberg.com/blog/cocon
 Swish 1 tsp in your mouth for 10 minutes before rinsing.
 
 ## [Teeth Whitening](https://www.youtube.com/watch?v=S8kPjMd8akI)  
+Use **Food Grade** 3% hydrogen peroxide because it does not contain 
+chemical stabilizers. This is **not** the same as the topical antiseptic.
 
 | Ingredient            | Volume  |
 |:----------------------|:--------|

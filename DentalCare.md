@@ -1,4 +1,28 @@
-# Dental Care
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Dental Care](#dental-care)
+  - [Remove Plaque](#remove-plaque)
+  - [Teeth Whitening](#teeth-whitening)
+  - [Dr. Ellie Phillips' Complete Mouth Care System](#dr-ellie-phillips-complete-mouth-care-system)
+  - [Basic Nano Hydroxyapatite Mouthwash](#basic-nano-hydroxyapatite-mouthwash)
+    - [Ingredients](#ingredients)
+    - [Instructions](#instructions)
+    - [Tips](#tips)
+  - [Basic Nano Hydroxyapatite Toothpaste](#basic-nano-hydroxyapatite-toothpaste)
+    - [Ingredients](#ingredients-1)
+    - [Instructions](#instructions-1)
+    - [Tips](#tips-1)
+  - [Whitening Nano Hydroxyapatite Toothpaste](#whitening-nano-hydroxyapatite-toothpaste)
+    - [Base Ingredients](#base-ingredients)
+    - [Natural Whitening Boosters](#natural-whitening-boosters)
+    - [Flavor & Enhancement](#flavor--enhancement)
+    - [Instructions](#instructions-2)
+    - [Whitening Benefits](#whitening-benefits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+# Dental Care  
 
 ## [Remove Plaque](https://www.youtube.com/watch?v=666NgzT3gl8)  
 See [coconut oil pulling dangers and benefits](https://www.drberg.com/blog/coconut-oil-pulling-dangers)  
@@ -40,3 +64,88 @@ Perform these steps in the morning and before bed.
 » Avoid all other ACT® formulas.  
 » Do not rinse with water after this step.  
 » Try to avoid eating or drinking for 30 minutes after finishing with this step.  
+
+## Basic Nano Hydroxyapatite Mouthwash  
+  
+### Ingredients  
+  
+1/2 teaspoon nano hydroxyapatite powder  
+8 oz filtered water  
+2-3 drops peppermint essential oil (optional, for flavor)  
+1/4 teaspoon baking soda (optional, for extra pH balancing)  
+  
+### Instructions  
+  
+Mix the nano hydroxyapatite powder with filtered water in a glass jar.  
+Add baking soda if desired for enhanced pH balancing.  
+Add peppermint essential oil for taste.  
+Stir well before each use.  
+Use as a daily rinse (swish for 30-60 seconds, then spit out).
+
+### Tips
+
+Store in a cool, dark place; the powder will settle, so shake before use.  
+For sensitive teeth, start with a smaller amount of powder.  
+This mouthwash helps neutralize acids and balance oral pH for fresher breath.  
+
+## Basic Nano Hydroxyapatite Toothpaste
+
+### Ingredients
+
+3 tablespoons coconut oil (or carrier oil of choice)  
+2-3 tablespoons nano hydroxyapatite powder  
+1 tablespoon baking soda  
+5-10 drops peppermint essential oil (optional, for flavor)  
+1-2 drops xylitol (sweetness & cavity prevention)  
+
+### Instructions
+
+Mix coconut oil and nano hydroxyapatite powder in a glass jar.  
+Add baking soda for gentle polishing and pH balancing.  
+Stir until you reach your preferred consistency (paste or powder).  
+Add peppermint oil and sweetener if desired.  
+Use a pea-sized amount on your toothbrush, brush gently for 2 minutes.  
+
+### Paste vs. Powder Option
+
+Paste: Add more oil for a creamy consistency (easier to apply).  
+Powder: Use less oil for a drier texture (lasts longer, portable).  
+
+### Tips  
+  
+Store in an airtight glass container away from heat and moisture.  
+Stir well before each use as ingredients may separate.
+The ultra-fine 60 nm particles help re-mineralize enamel naturally.   
+
+## Whitening Nano Hydroxyapatite Toothpaste  
+  
+### Base Ingredients  
+  
+3 tablespoons coconut oil (antimicrobial properties)
+2-3 tablespoons nano hydroxyapatite powder (natural whitening & re-mineralization)
+1 tablespoon baking soda (gentle abrasive for stain removal)
+
+### Natural Whitening Boosters
+
+1/2 teaspoon activated charcoal powder (stain absorption)
+1 teaspoon bentonite clay (gentle polishing & detoxifying)
+1/4 teaspoon turmeric powder (natural brightening, anti-inflammatory)
+
+### Flavor & Enhancement
+
+5-10 drops peppermint or tea tree oil (freshening & antibacterial)
+1-2 drops xylitol (sweetness & cavity prevention)
+
+### Instructions
+
+Mix dry ingredients first (hydroxyapatite, baking soda, clay, charcoal, turmeric)
+Gradually add coconut oil until you reach desired consistency
+Add essential oils and sweetener last
+Store in glass jar, use pea-sized amount
+
+### Whitening Benefits
+
+Nano hydroxyapatite: Naturally fills enamel imperfections for smoother, brighter surface
+Activated charcoal: Absorbs surface stains from coffee, tea, wine
+Bentonite clay: Gentle polishing action removes plaque buildup
+Turmeric: Natural brightening without harsh chemicals

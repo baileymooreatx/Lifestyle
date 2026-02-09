@@ -11,6 +11,13 @@ sea salt and ground black pepper to taste
 Combine all ingredients in a glass jar with a tight-fitting lid.
 Place the lid on the jar and shake vigorously until thoroughly combined.
 
+## [Clove Water](https://www.youtube.com/watch?v=XEcssz8NOhg)
+5 whole cloves  
+1 cup water
+
+Bring the water and cloves to a boil then reduce to simmer for 20 minutes.  
+Drink 30 minutes before bed.  
+
 ## [Milk Bread Buns](https://www.youtube.com/watch?v=mp4nHjZycnA)  
 3 eggs
 1 tbsp baking powder

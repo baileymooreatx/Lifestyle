@@ -1,0 +1,76 @@
+# Supplements  
+A list of my daily supplements    
+  
+| Supplement                                                                                                      | Dosage                                                                                                                                                                      |
+|:----------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [5-HTP](https://www.amazon.com/dp/B0013OQI1W)                                                                   | 100 mg 5-hydroxytryptophan one hour before bed                                                                                                                              |   
+| [Apple Cider Vinegar](https://www.amazon.com/dp/B075SV5G9N)                                                     | 1 to 2 tablespoons in the morning, 15 minutes before meals, and 30 minutes before bed                                                                                       |
+| [B-100](https://www.amazon.com/dp/B000UX110A) DEPRECATED                                                        | See B-100 Details table below. Take B vitamins in the morning.                                                                                                              |
+| [Ceylon Cinnamon](https://www.amazon.com/dp/B01BHF3IXM)                                                         | 1 teaspoon in the morning and one hour before bed                                                                                                                           |
+| [Creatine](https://www.amazon.com/dp/B09YFHGK3F/)                                                               | 5g creatine monohydrate (micronized) in the morning, before meals, one hour before bed up to four times per day (20 g total)                                                |                                                     |
+| [D3 & K2](https://www.amazon.com/dp/B07YMJLTR6)                                                                 | 10,000 IU D3 as cholecalciferol, 200 μg K2 as menaquinone-7 (MK-7) with a meal containing fat                                                                               |
+| [Ginger powder](https://www.amazon.com/dp/B08TBBBJK8)                                                           | 1 teaspoon in the morning and one hour before bed                                                                                                                           |
+| [Hydroxymethylbutyrate](https://www.healthline.com/nutrition/hmb) ([HMB](https://www.amazon.com/dp/B0F5M5HXC3)) | 1 g calcium β-Hydroxy β-methylbutyrate monohydrate in coconut oil in the morning                                                                                            |
+| [Extra Virgin Olive Oil](https://www.amazon.com/dp/B08BN5T114)                                                  | 1 tablespoon morning, when hungry, and one hour before bed                                                                                                                  | 
+| [Magnesium Glycinate](https://www.amazon.com/dp/B0DLLLZD5K)                                                     | 1000 mg magnesium glycinate, 80 mg vitamin C as ascorbal palminate (fat-soluble) 30 minutes before bed                                                                      |
+| [Melatonin](https://www.amazon.com/Natrol-Melatonin-Dissolves-Absorption-Strawberry/dp/B00C3Q5JVE)              | 2 mg melatonin one hour before bed                                                                                                                                          |
+| [Methyl B-12](https://www.amazon.com/dp/B00663G680) DEPRECATED                                                  | Folate 680 μg, vitamin B-12 (as Methylcobalamin) 5 mg in the morning                                                                                                        |
+| [Methylated Multivitamin for Women](https://www.amazon.com/dp/B0F8FWJN2Q/)                                      | 2 capsules with a meal                                                                                                                                                      |
+| [Niacin](https://www.amazon.com/NOW-Niacin-Sustained-Release-Tablets/dp/B00028LV8K) (sustained release)         | 500 mg niacin (B-6) as nicotinic acid one hour before bed                                                                                                                   |
+| [Turmeric](https://www.amazon.com/dp/B0DK66NCWL) with black pepper                                              | 450 mg Turmeric Extract (Curcuma longa root), 150 mg Turmeric Extract standardized to 95% Curcuminoids, Ginger and Black Pepper extracts 2400 mg in MCT oil  in the morning |
+ 
+## Multivitamin for Women Details  
+
+| Nutrient                                                                                        | Amount per Serving | % Daily Value |
+|:------------------------------------------------------------------------------------------------|-------------------:|--------------:|
+| Vitamin A (as retinyl palmitate)                                                                |           1,200 μg |          133% |
+| Vitamin C (as ascorbyl palmitate)                                                               |              80 mg |           89% |
+| Vitamin D (as cholecalciferol) (D3)                                                             |              50 μg |          250% |
+| Vitamin E (as d-alpha tocopherol plus d-gamma, d-delta, d-beta tocopherols) (Natural Vitamin E) |              20 mg |          133% |
+| Vitamin K (as phytonadione)                                                                     |              50 μg |           42% |
+| Thiamine (as thiamin mononitrate) (B1)                                                          |               6 mg |          500% |
+| Riboflavin (as riboflavin 5' phosphate) (Activated B2)                                          |              10 mg |          769% |
+| Niacin (as niacinamide) (No Flush Niacin) (B3)                                                  |              16 mg |          100% |
+| Vitamin B6 (as pyridoxal 5' phosphate) (Activated B6)                                           |               8 mg |          471% | 
+| Folate (as L-5-Methyltetrahy drofolate) (Activated B9 Folate)                                   |         680 μg DFE |          170% |
+| Vitamin B12 (as methylcobalamin) (Activated B12)                                                |               1 mg |       41,667% |
+| Biotin (as d-biotin)                                                                            |               1 mg |        3,333% |
+| Pantothenic Acid (as calcium pantothenate) (B5)                                                 |              10 mg |          200% |
+| Calcium (as calcium carbonate)                                                                  |              90 mg |            7% |
+| Iron (as ferrous bisglycinate)                                                                  |              18 mg |          100% |
+| Iodine (as potassium iodide)                                                                    |             150 μg |          100% |
+| Magnesium (as magnesium oxide)                                                                  |             100 mg |           24% |
+| Zinc (as zinc picolinate)                                                                       |              12 mg |          109% |
+| Selenium (as selenium citrate)                                                                  |             100 μg |          182% |
+| Copper (as copper glycinate)                                                                    |               1 mg |          111% |
+| Manganese (as manganese glycinate)                                                              |               2 mg |           87% |
+| Chromium (as chromium picolinate)                                                               |             120 μg |          343% |
+| Molybdenum (as molybdenum amino acid chelate)                                                   |              40 μg |           89% |
+| Inositol                                                                                        |              10 mg |               |
+| Lutein                                                                                          |               1 mg |               |
+| Zeaxanthin                                                                                      |              40 μg |               |
+
+110 mg of Proprietary Women's Support Blend
+* Chasteberry Extract (Vitex agnus castus) (fruit)
+* Cranberry Extract (Vaccinium macrocarpon) (fruit)
+* Ashwagandha Extract (Withania somnifera) (root)
+* Pomegranate Extract (Punica granatum) (fruit)
+* Dong Quai (Angelica sinensis) (root)
+* Hydrolyzed Collagen Peptides
+
+## B-100 Details  
+This supplement is no longer necessary after changing multivitamins.  
+
+| Nutrient                                     |             Amount per Serving | % Daily Value |
+|:---------------------------------------------|-------------------------------:|--------------:|
+| Thiamin (from Thiamin HCl) (Vitamin B-1)     |                         100 mg |         8333% |
+| Riboflavin (Vitamin B-2)                     |                         100 mg |         7692% |
+| Niacin (Vitamin B-3) (as Niacinamide)        |                         100 mg |          625% |
+| Vitamin B-6 (from Pyridoxine HCl)            |                         100 mg |         5882% |
+| Folate                                       | 680 μg DFE (400 μg folic acid) |          170% |
+| Vitamin B-12 (as Cyanocobalamin)             |                         100 μg |         4167% |
+| Biotin                                       |                         100 μg |          333% |
+| Pantothenic Acid (from Calcium Pantothenate) |                         100 mg |         2000% |
+| Choline (from Choline Bitartrate)            |                          10 mg |            2% |
+| Inositol                                     |                          10 mg |               |
+| PABA (Para-Aminobenzoic Acid)                |                          10 mg |               |

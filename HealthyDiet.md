@@ -12,7 +12,8 @@ Prefer healthy oils
    1. Extra virgin olive oil (EVOO)  
    2. Avocado oil  
    3. Coconut oil  
-4. [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
+
+## [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
    Reduce the number of hours when you eat per day by one hour 
    each day until the window reaches eight hours or less.  
    Meals should be about four hours apart with no snacking between them.

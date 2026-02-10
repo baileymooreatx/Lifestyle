@@ -4,7 +4,7 @@
 
 * Cashews are high in carbohydrates and Omega-6 acids
 * Peanuts are often contaminated with mold and inflammatory
-* Brazil nuts are too high in selenium, so only eat one or two
+* Brazil nuts are too high in selenium, so only eat one or two per day
 * Pine nuts
 
 ## Healthy Options  

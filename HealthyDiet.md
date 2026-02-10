@@ -8,7 +8,7 @@
    4. When you cook it yourself, you control the ingredients
 2. Prioritize protein - eat one gram of protein per pound for your ideal weight  
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
-Prefer healthy oils  
+   Prefer healthy oils  
    1. Extra virgin olive oil (EVOO)  
    2. Avocado oil  
    3. Coconut oil  

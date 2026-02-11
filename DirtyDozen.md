@@ -14,9 +14,24 @@ Buy organic, if possible.
 9. Pears
 10. Bell and hot peppers
 11. Celery
-12. Tomatoes 
+12. Tomatoes  
+
+## [Produce Sticker Codes](https://en.wikipedia.org/wiki/Price_look-up_code)  
+
+[Price Look-Up (PLU) codes](https://plufinder.com/) are 4 or 5-digit numbers that identify 
+bulk produce items at point-of-sale systems globally. They are used to identify produce, 
+determine pricing, track inventory, and distinguish between conventional and organic produce.  
+  
+For example, 4011 is a conventional banana, while 94011 is an organic banana.
+
+| Meaning                                            | Digits                        |
+|:---------------------------------------------------|:------------------------------|
+| Organic                                            | 5 digits starting with 9      |
+| Conventionally grown, usually with pesticides      | 4 digits starting with 3 or 4 |
+| Previously reserved for genetically modified (GMO) | 5 digits starting with 8      |
 
 ## Nontoxic Vegetable Wash  
+
 I am specifically interested in [cleaning broccoli](https://www.wikihow.com/Clean-Broccoli) 
 because it's not easy to clean like smooth vegetables are. For smooth vegetables, I usually use baking soda 
 and a vegetable brush.  

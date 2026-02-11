@@ -1,22 +1,48 @@
 # Healthy Diet
 
-## Manage macronutrients to lower insulin  
+## Manage macronutrients to lower insulin and reduce inflammation    
 1. Control carbohydrates
-   1. No ultra processed foods
-   2. Avoid boxes and barcodes by eating lots of plants    
-   3. Prefer fewer ingredients
-   4. When you cook it yourself, you control the ingredients
-2. Prioritize protein - eat one gram of protein per pound for your ideal weight  
+   1. No ultra processed foods  
+   2. Minimize sugar  
+   3. Avoid boxes and barcodes by eating lots of plants.  
+      See [Eat 30 plants per week](Eat30Plants.md).  
+      1. Vegetables  
+         * Leafy greens: arugula, spinach, kale, chard, collards, lettuce    
+         * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
+         * Beets, carrots, sweet potatoes, yams  
+         * Peppers, cucumber, eggplant, onions, leeks, scallions  
+      2. Fruits  
+         * Berries: blueberries, strawberries, blackberries, raspberries  
+         * Pomegranate (seeds or fresh, unsweetened)  
+         * Tart cherries  
+         * Citrus: oranges, lemons, limes, and grapefruit  
+           Whole fruit, not juice  
+         * Apples in moderation, with the skin  
+         * Grapes in moderation, dark or red preferred for resveratrol  
+2. Prioritize protein: eat one gram of protein per pound for your ideal weight
+   1. Wild-caught, low-mercury fish: salmon, sardines, mackerel. anchovies  
+   2. Eggs: Pasture raised or organic when possible  
+   3. Grass fed beef, bison, venison, lamb  
+   4. Chicken and turkey (check labels for additives and chlorine)  
+      Pasture raised when possible
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
    Prefer healthy oils  
-   1. Extra virgin olive oil (EVOO)  
-   2. Avocado oil  
-   3. Coconut oil  
-
+   1. Extra virgin olive oil (EVOO)  first cold pressed  
+      Ideally: organic, not blended, and stored in dark glass to prevent oxidation  
+      Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
+   2. Avocados and Avocado oil (cold pressed and tested)   
+   3. Coconut oil is good for cooking at high temperature.  
+   4. Grass fed butter or ghee, beef tallow  
+   5. Nuts: walnuts, almonds, Brazil nuts  
+      Limit Brazil nuts are very high in Selenium
+   6. Seeds: flax, chia, hemp, pumpkin, sunflower (raw preferred)
+4. Prefer fewer ingredients
+5. When you cook it yourself, you control the ingredients
+   
 ## [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
    Reduce the number of hours when you eat per day by one hour 
    each day until the window reaches eight hours or less.  
-   Meals should be about four hours apart with no snacking between them.  
+   Meals should be about four hours apart with **no snacking** in between.  
 
 [Fasting length](https://www.youtube.com/watch?v=f4idT8Mnj78)
 1. [Prepare for fasting](https://www.youtube.com/watch?v=fnIrkwke_M8), take the following steps

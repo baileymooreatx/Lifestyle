@@ -1,14 +1,16 @@
-# Anti-Inflammatory foods
+# Anti-Inflammatory foods  
+
 * Ashwagandha
 * Astragalus Root
-* Black Pepper
+* Basil
+* Black Pepper - pair with Turmeric for absorption
 * Black Tea
 * Calendula
 * Cat’s Claw
 * Cardamon
 * Chamomile
 * Cilantro
-* Cinnamon
+* Cinnamon (Ceylon is best)
 * Cloves
 * Cayenne Pepper
 * Echinacea
@@ -31,7 +33,8 @@
 * Spinach
 * Spearmint
 * St. John’s Wort
-* Turmeric  
+* Thyme
+* Turmeric - pair with black pepper for absorption  
   
 ## Sources
 [Article](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm) on medicinenet.com  

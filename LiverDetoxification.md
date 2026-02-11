@@ -52,7 +52,7 @@
 3. Take TUDCA bile salt
 4. Trigger phase 1 and phase 2 detoxification (drinking green tea and eating broccoli sprouts)
 5. Consume milk thistle
-6. Take tocotrienols, a form of vitamin E, that breaks up scar tissue 
+6. Take [tocotrienols](https://en.wikipedia.org/wiki/Tocotrienol), a form of vitamin E, break up scar tissue 
   
 ## [Supplements to Reverse Fatty Liver](https://www.youtube.com/watch?v=FS-EFkLNHRI)  
 

@@ -37,5 +37,5 @@
 * Turmeric - pair with black pepper for absorption  
   
 ## Sources
-[Article](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm) on medicinenet.com  
-[Video](https://www.youtube.com/watch?v=z_SbShnKnxo) Dr. Amin Hedayat, MD  
+[10 Herbs and Spices That Fight Inflammation](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm) on medicinenet.com  
+[Anti-Inflammatory Diet and Food Shopping Masterclass For More Energy and Mental Clarity](https://www.youtube.com/watch?v=z_SbShnKnxo) Dr. Amin Hedayat, MD  

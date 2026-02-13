@@ -1,19 +1,18 @@
-# Sleep
-
-## [Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)  
+# [Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)  
 
 These supplements are recommended for people over fifty, who frequently have issues 
 with restful sleep.  
 
 | Supplement        | Sleep issue                          | Dosage and timing                                                   |
 |:------------------|:-------------------------------------|:--------------------------------------------------------------------|
-| Glycine and       | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
+| Glycine           | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
 | L-theanin         | Restless overactive mind             | 200 mg capsule an hour before bed                                   |
 | Magnolia Bark     | Waking before morning                | 200 upto 400 mg one hour before bed                                 |
 | Valerian and Hops | Difficulty falling asleep            | 300 to 500 mg of valerian extract<br> 100 to 200 mg of hops extract |
 | Jujube            | Night sweats and agitation           | Follow the label instructions and take 30 to 60 minutes before bed  |
 | Folate            | Restless leg syndrome                | 0.5 mg in the morning or at lunch                                   |
 | 5-HTP             | Insomnia or irregular sleep schedule | 100 to 200 mg 30 minutes to one hour before bed                     |
+  
   
 1. [Glycine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=77s) 
    production decreases with age. Glycine triggers peripheral vasodialation, 
@@ -39,11 +38,13 @@ with restful sleep.
 5. [Jujube](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=506s) 
    is helpful for menopausal sleep problems and burnout-related insomnia.  
    Look for a strong seed extract, or it may also be in a formula called 
-   Suan Zao Ren Tang. Follow the label instructions and take 30 to 60 minutes before bed.  
+   Suan Zao Ren Tang.  
+   Follow the label instructions and take 30 to 60 minutes before bed.  
 6. [Folate (L-methylfolate)](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=577s), 
    vitamin B9, supports melatonin production and reduces restless legs. Do not take
-   synthetic folate. Look for L-Methylfate or 5-MTHF. Take 0.5 mg in the morning or at lunch.  
-7. [5-HTP](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=647s)  
+   synthetic folate. Look for L-Methylfate or 5-MTHF.  
+   Take 0.5 mg in the morning or at lunch.  
+7. [5-HTP](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=647s) 
    can improve serotonin, melatonin, and sleep quality. This natural, amino acid is a 
-   serotonin precursor. Serotonin regulates mood, calmness, and melatonin.
+   serotonin precursor. Serotonin regulates mood, calmness, and melatonin.  
    Take 100 to 200 mg 30 minutes to one hour before bed.   

@@ -1,6 +1,7 @@
 # Healthy Diet
 
-## Manage macronutrients to lower insulin and reduce inflammation    
+## Manage macronutrients to lower insulin and reduce inflammation  
+
 1. Control carbohydrates
    1. No ultra processed foods  
    2. Minimize sugar  
@@ -37,8 +38,22 @@
       Limit Brazil nuts are very high in Selenium
    6. Seeds: flax, chia, hemp, pumpkin, sunflower (raw preferred)
 4. Prefer fewer ingredients
-5. When you cook it yourself, you control the ingredients
-   
+5. When you cook it yourself, you control the ingredients  
+  
+## Eat in the right order to prevent insulin spikes  
+
+Drink apple cider vinegar and water before the meal. Consider adding inulin.  
+Eating in the right order  
+ 
+1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
+   Eat salad or vegetables first.  
+2. [Protein + Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)
+   Protein releases GLP-1 to slow digestion and decrease insulin release.  
+   Fat increases satiety.  
+3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
+   Blood sugar increases slowly when carbs come last, avoiding a flood of insulin to lower glucose.  
+4. Take a 15-minute walk after eating to raises GLUT-4, so muscles can absorb glucose without insulin.
+
 ## [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)  
    Reduce the number of hours when you eat per day by one hour 
    each day until the window reaches eight hours or less.  

@@ -42,7 +42,7 @@ with restful sleep.
    Follow the label instructions and take 30 to 60 minutes before bed.  
 6. [Folate (L-methylfolate)](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=577s), 
    vitamin B9, supports melatonin production and reduces restless legs. Do not take
-   synthetic folate. Look for L-Methylfate or 5-MTHF.  
+   synthetic folate. Look for L-methylfolate or 5-MTHF, the bioactive forms.    
    Take 0.5 mg in the morning or at lunch.  
 7. [5-HTP](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=647s) 
    can improve serotonin, melatonin, and sleep quality. This natural, amino acid is a 

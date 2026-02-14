@@ -1,10 +1,11 @@
 # Lifestyle  
 
-A collection of ideas about how to improve health including
+A collection of ideas about how to improve health including  
 * A list of [anti-inflammatory foods](Anti-inflammatoryFoods.md)
 * Motivation to [eat more plants](Eat30Plants.md) each week
 * [Dental Care](DentalCare.md)  
-* [Keto diet and Intermittent Fasting](HealthyDiet.md)   
+* [Intermittent Fasting](Fasting.md)  
+* [Keto diet](HealthyDiet.md)  
 * Foods to improve [liver health](LiverDetoxification.md)
 * Healthy [nut](Nuts.md) choices and nuts to avoid  
 * Which [produce to buy organic](DirtyDozen.md) instead of conventional  

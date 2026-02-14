@@ -3,7 +3,7 @@ Reduce the number of hours when you eat per day by one hour
 each day until the window reaches eight hours or less.  
 Meals should be about four hours apart with **no snacking** in between.
 
-[Fasting length](https://www.youtube.com/watch?v=f4idT8Mnj78)
+## [Fasting length](https://www.youtube.com/watch?v=f4idT8Mnj78)
 1. [Prepare for fasting](https://www.youtube.com/watch?v=fnIrkwke_M8), take the following steps
     1. Cut out carbs 7 days before fast. Go in as a fat burner not a sugar burner.
     2. Eat three meals per day with no snacking between meals.
@@ -31,3 +31,20 @@ Meals should be about four hours apart with **no snacking** in between.
 | Beginner     | 16 hour fast four days per week. Avoid fasting one day per week. 18/6 is a better variation.        | 
 | Intermediate | 24 hour fast once per week. 12 to 14 hour eating window on other days                               |
 | Advanced     | 36 hour fast once per week with a high protein re-feed day. Strength training on high protien days. |
+
+## [Promote Autophagy](https://www.youtube.com/watch?v=vx6RkgoxzgQ)  
+
+* [Fasting 18+ Hours](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=310s)
+* [Low sugar and low carb diet](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=415s)
+* [Moderate protien Diet](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=430s)
+* [Dry fast](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=480s) no food or water
+* Intermittent dry fasting
+* [Calorie reduction](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=4575s) occasionally
+* [Exercise](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=630s) long duration, low intensity
+* [Pytonutrients](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=740s) that create a hormetic or stress response 
+  * Coffee
+  * Green tea
+  * Berberine
+  * Ashwaganda
+  * Ginger
+  * Some mushrooms  

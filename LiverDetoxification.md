@@ -4,11 +4,12 @@
 
 - [Liver detoxification](#liver-detoxification)
   - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
-    - [Signs of Liver Damage](#signs-of-liver-damage)
+  - [Signs of Liver Damage](#signs-of-liver-damage)
   - [The #1 Best Meal for Liver Detoxification](#the-1-best-meal-for-liver-detoxification)
   - [The 6 Best Ways to Heal a Fatty Liver](#the-6-best-ways-to-heal-a-fatty-liver)
   - [Supplements to Reverse Fatty Liver](#supplements-to-reverse-fatty-liver)
   - [Beverages to Reverse Fatty Liver](#beverages-to-reverse-fatty-liver)
+  - [Dr. Berg's list of foods that are toxic to the liver](#dr-bergs-list-of-foods-that-are-toxic-to-the-liver)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -23,7 +24,7 @@
 6. Avocados are anti-inflammatory and high in glutathione.
 7. Extra virgin olive oil is full of polyphenols and anti-inflammatory  
 
-### Signs of Liver Damage  
+## Signs of Liver Damage  
 1. Itchy skin  
 2. Jaundice  
 3. Lethargy  
@@ -93,3 +94,16 @@
 * Ginger tea - steep ginger root slices in boiled water for 10 minutes
 * Coffee
 * Hibiscus tea
+
+## Dr. Berg's list of [foods that are toxic to the liver](https://www.youtube.com/watch?v=1B98PDEe4vU)  
+1. **Soy Protein Isolates** are chemically isolated from soy using hexane, a solvent that is neurotoxic. 
+   Soy is GMO and contaminated with [glyphosate](https://en.wikipedia.org/wiki/Roundup_(herbicide))  
+2. **Fructose** can only be metabolized by the liver. Commonly sourced from GMO crops treated with glyphosate.  
+3. **Vegetable Fats** (seed oils) are full of Omega-6 fatty acids that create inflammation and oxidize easily. 
+   More GMO and glyphosate.
+4. **Whey Protein Powder** is inflammatory and increases negative liver markers.
+5. **Maltodextrin** is a synthetic sugar with a higher glycemic index than glucose. 
+   It promotes fatty liver. Check labels for this in supplements.
+6. **[Aflatoxins](https://en.wikipedia.org/wiki/Aflatoxin)** 
+7. **[Monosodium glutamate (MSG)](https://en.wikipedia.org/wiki/Monosodium_glutamate)** 
+   is a flavor enhancer that causes us to eat more food and is toxic to the liver.  

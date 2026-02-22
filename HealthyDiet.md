@@ -48,10 +48,11 @@ Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green g
 | **Ingredient**            | **Volume**      |
 |:--------------------------|:----------------|
 | Cranberry Juice           | 4 fluid oz      |
-| Water                     | 4 fluid oz      |
+| Water                     | 12 fluid oz     |
 | Extra virgin olive oil    | 1 tablespoon    |
-| Apple Cider Vinegar       | 1 tablespoon    |
+| Apple Cider Vinegar       | 2 tablespoon    |
 | Lemon Juice               | Half of a Lemon |
+| Sea salt                  | ½ teaspoon      |
 | **Optional spices**       |                 |
 | Turmeric and Black Pepper | 1 teaspoon each |
 | Ginger                    | 1 teaspoon      |

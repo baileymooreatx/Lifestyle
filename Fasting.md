@@ -48,3 +48,16 @@ Meals should be about four hours apart with **no snacking** in between.
   * Ashwaganda
   * Ginger
   * Some mushrooms  
+
+## [Indicators of Autophagy](https://www.youtube.com/watch?v=K3F3KRaJeLE)
+Autophagy onset occurs 17 to 24 hours after fast begins. 
+Deeper cellular cleaning requires 48 to 72 hours.  
+
+* Mental clarity from burning ketones instead of glucose  
+* Mild fatigue, but not wiped out  
+* Appetite comes and goes in 20 minute cycles
+* Signs of ketosis
+  * Fruity or metallic taste in your mouth  
+  * Reduced Appetite  
+  * Increased thirst  
+  * Mild fatigue or brain fog

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Intermittent Fasting](#intermittent-fasting)
+  - [Fasting length](#fasting-length)
+  - [Promote Autophagy](#promote-autophagy)
+  - [Indicators of Autophagy](#indicators-of-autophagy)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [Intermittent Fasting](https://www.youtube.com/watch?v=kHomeCqyWKk)
 Reduce the number of hours when you eat per day by one hour
 each day until the window reaches eight hours or less.  

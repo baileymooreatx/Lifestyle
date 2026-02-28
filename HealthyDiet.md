@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Healthy Diet](#healthy-diet)
+  - [Manage macronutrients to lower insulin and reduce inflammation](#manage-macronutrients-to-lower-insulin-and-reduce-inflammation)
+  - [Increase fiber and nutrient availability](#increase-fiber-and-nutrient-availability)
+    - [Morning](#morning)
+    - [Night](#night)
+  - [Eat in the right order to prevent insulin spikes](#eat-in-the-right-order-to-prevent-insulin-spikes)
+  - [Dr. Gundry's Superfoods](#dr-gundrys-superfoods)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Healthy Diet
 
 ## Manage macronutrients to lower insulin and reduce inflammation  
@@ -79,9 +93,18 @@ Eating in the right order
  
 1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
    Eat salad or vegetables first.  
-2. [Protein + Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)
+2. [Protein + Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)  
    Protein releases GLP-1 to slow digestion and decrease insulin release.  
    Fat increases satiety.  
 3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
    Blood sugar increases slowly when carbs come last, avoiding a flood of insulin to lower glucose.  
-4. Take a 15-minute walk after eating to raises GLUT-4, so muscles can absorb glucose without insulin.
+4. Take a 15-minute walk after eating to raises GLUT-4, so muscles can absorb glucose without insulin.  
+  
+## Dr. Gundry's [Superfoods](https://www.youtube.com/watch?v=9VsHYodU1lw)  
+  
+* Leafy greens: romaine, arugula, radicchio, and chicory family
+* Extra virgin olive oil
+* Mushrooms (cooked)
+* Fermented foods: sauerkraut, kimchi, yogurt, kiefer, black tea, coffee, and vinegar
+* Polyphenol rich foods: berries, pomegranate, and >85% dark chocolate
+* Avocados  

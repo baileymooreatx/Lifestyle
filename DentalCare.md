@@ -43,7 +43,7 @@ See [coconut oil pulling dangers and benefits](https://www.drberg.com/blog/cocon
 | Tea Tree Oil | 4 drops      | 1 ml        |
 | Xylitol      | 1 teaspoon   | 24.64 ml    |
  
-Swish 1 teaspoon in your mouth for 10 minutes before rinsing.
+Swish 1 teaspoon in your mouth for 20 minutes before rinsing.
 
 ### [Tartar Control Toothpaste](https://www.youtube.com/watch?v=TPjZvNA74ds)  
   

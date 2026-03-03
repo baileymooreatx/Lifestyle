@@ -37,7 +37,7 @@ A list of my daily supplements
 | Riboflavin (as riboflavin 5' phosphate) (Activated B2)                                          |              10 mg |          769% |
 | Niacin (as niacinamide) (No Flush Niacin) (B3)                                                  |              16 mg |          100% |
 | Vitamin B6 (as pyridoxal 5' phosphate) (Activated B6)                                           |               8 mg |          471% | 
-| Folate (as L-5-Methyltetrahy drofolate) (Activated B9 Folate)                                   |         680 μg DFE |          170% |
+| Folate (as L-5-Methyltetrahydrofolate) (Activated B9 Folate)                                    |         680 μg DFE |          170% |
 | Vitamin B12 (as methylcobalamin) (Activated B12)                                                |               1 mg |       41,667% |
 | Biotin (as d-biotin)                                                                            |               1 mg |        3,333% |
 | Pantothenic Acid (as calcium pantothenate) (B5)                                                 |              10 mg |          200% |

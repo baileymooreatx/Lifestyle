@@ -38,7 +38,7 @@ Listed from most effective to least effective
    pepper increases nutrient absorption by up to 2000%. Zeaxanthin is fat soluble 
    and very sensitive to heat. Do not cook it.
 6. Fennel seeds
-   Anethole, vitamin c, and potassium reduce intra ocular pressure.  
+   Anethole, vitamin C, and potassium reduce intra ocular pressure.  
    Taste like licorice. Estrogenic.  
    Drink one teaspoon of crushed fennel seeds steeped in hot water for eight 
    minutes thirty minutes before a meal. Consume daily.

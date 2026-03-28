@@ -18,17 +18,13 @@ push it alkaline**. Here’s how to do that in a practical, evidence-based way:
     * Ceramides
     * Mild surfactants (not harsh sulfates)
 
-👉 Over-cleansing is a common mistake—washing too often strips acidity.
-
----
+👉 Over-cleansing is a common mistake—washing too often strips acidity.  
 
 ## 2. Don’t over-wash (especially problem areas)
 
 * Once daily is enough for most body areas
 * High-risk fungal zones (feet, groin, underarms): cleanse, but don’t scrub aggressively
 * After sweating, rinse and dry rather than repeatedly using soap
-
----
 
 ## 3. Moisturize to support the acid mantle
 
@@ -41,9 +37,7 @@ Healthy skin barrier = stable pH
     * Cholesterol
 * Some products include mild acids (like lactic acid) that help maintain acidity
 
-This is especially important if you have conditions like eczema, where pH regulation is impaired.
-
----
+This is especially important if you have conditions like eczema, where pH regulation is impaired.  
 
 ## 4. Be careful with “harsh” or alkaline products
 
@@ -53,9 +47,7 @@ Avoid frequent use of:
 * Strong exfoliants (especially overuse)
 * DIY remedies like baking soda (very alkaline)
 
-These can raise skin pH and weaken antimicrobial defenses.
-
----
+These can raise skin pH and weaken antimicrobial defenses.  
 
 ## 5. Dry skin properly (especially folds and feet)
 
@@ -68,17 +60,13 @@ Even though moisture isn’t pH itself, it interacts with it:
     * Groin area
     * Under breasts or skin folds
 
----
-
 ## 6. Wear breathable fabrics
 
 * Choose cotton or moisture-wicking materials
 * Avoid prolonged occlusion (tight, non-breathable clothing)
 * Change out of sweaty clothes quickly
 
-This helps maintain both **proper pH and microbiome balance**
-
----
+This helps maintain both **proper pH and microbiome balance**.
 
 ## 7. Use targeted products when needed
 
@@ -89,64 +77,58 @@ If you’re prone to fungal issues:
 
 But don’t overdo treatments—they can irritate and disrupt balance if unnecessary.
 
----
-
 ## 8. Support your skin microbiome
 
 Your natural microbes help maintain acidity:
 
 * Avoid unnecessary antibiotics (topical or oral)
-* Don’t sterilize your skin—balance is better than “killing everything”
-
----
+* Don’t sterilize your skin—balance is better than “killing everything”  
 
 ## Bottom line
-
+```
 You don’t need to actively “acidify” your skin—just **avoid disrupting it**.
 The biggest wins are:
 
-* Gentle cleansing
-* Consistent moisturizing
-* Keeping skin dry (but not stripped)
-* Avoiding harsh, alkaline products
-
+Gentle cleansing
+Consistent moisturizing
+Keeping skin dry (but not stripped)
+Avoiding harsh, alkaline products
+```
 ---
 
-# Core routine (fungal-prevention focused)  
+## Core routine (fungal-prevention focused)  
 
 If your goal is **fungal prevention**, the routine isn’t just “use antifungal 
 stuff”—it’s about combining **pH-friendly cleansing + periodic antifungal 
 control + moisture management**. I’ll show you a simple, effective setup with 
 real product types that dermatologists commonly recommend.
 
-## 1) Daily gentle cleanser (protects acidity + barrier)
+### 1) Daily gentle cleanser (protects acidity + barrier)
 
 Use this every day on face/body.
 
-### Good options:
+#### Good options:
 
-* La Roche-Posay Toleriane Hydrating Gentle Cleanser · $8.49 ·
+* La Roche-Posay Toleriane Hydrating Gentle Cleanser
   Barrier-supporting, pH-balanced cleanser with ceramides and niacinamide.
-* CeraVe Hydrating Facial Cleanser · $12.37 ·
+* CeraVe Hydrating Facial Cleanser
   Very popular gentle cleanser that maintains skin barrier and natural pH.
-* Vanicream Gentle Body Wash · $11.99 ·
+* Vanicream Gentle Body Wash
   Minimal-ingredient, irritation-free cleanser ideal for sensitive or fungal-prone skin.
 
 👉 Why this matters: Gentle cleansers help maintain the **acid mantle**, which naturally suppresses fungal growth.
 
----
-
-## 2) Antifungal wash (2–4× per week or during flare risk)
+### 2) Antifungal wash (2 to 4 times per week or during flare risk)
 
 This is your **active prevention step**, especially for chest, back, groin, or feet.
 
-### Strong options:
+#### Strong options:
 
-* DermaHarmony 2% Pyrithione Zinc Cleanser · $8.79 ·
+* DermaHarmony 2% Pyrithione Zinc Cleanser  
   Zinc-based antifungal wash that targets yeast while staying relatively gentle.
-* Fungicure Medicated Antifungal Body Wash · $10.99 ·
+* Fungicure Medicated Antifungal Body Wash  
   In-shower antifungal wash designed for jock itch, ringworm, and general fungal issues.
-* Nizoral Ketoconazole Shampoo 1% · $27.99 ·
+* Nizoral Ketoconazole Shampoo 1%  
   Clinically proven antifungal shampoo often used off-label as a body wash for fungal acne.  
 
 👉 Dermatology tip: antifungal shampoos (ketoconazole, zinc, selenium) are 
@@ -155,16 +137,14 @@ commonly used on skin because they **reduce yeast like Malassezia**.
 **How to use:**
 
 * Apply to affected areas
-* Leave on **3–5 minutes** before rinsing
+* Leave on **3 to 5 minutes** before rinsing
 * Use more often if you’re sweating a lot or prone to breakouts
 
----
-
-## 3) Moisture control (CRITICAL for fungi)
+### 3) Moisture control (CRITICAL for fungi)
 
 Fungi thrive in damp environments—this step is huge.
 
-### Best powders:
+#### Best powders:
 
 * Zeasorb AF Antifungal Powder · $6.59 ·
   Highly absorbent miconazole powder that treats fungus and keeps skin dry.
@@ -179,7 +159,7 @@ Fungi thrive in damp environments—this step is huge.
 
 ---
 
-# What actually makes this work (key principles)
+### What actually makes this work (key principles)
 
 This routine works because it hits all 3 drivers of fungal infections:
 
@@ -191,14 +171,14 @@ Miss one of these, and fungi often come back.
 
 ---
 
-# Example simple routine
+## Example simple routine
 
 **Daily**
 
 * Shower with gentle cleanser
-* Dry thoroughly (especially folds + feet)
+* Dry thoroughly, especially folds and feet
 
-**3x/week**
+**3 times per week**
 
 * Use antifungal wash on high-risk areas
 
@@ -208,7 +188,7 @@ Miss one of these, and fungi often come back.
 
 ---
 
-# ⚠️ Common mistakes to avoid
+### ⚠️ Common mistakes to avoid
 
 * Using only antifungal products but **ignoring moisture**
 * Over-washing with harsh soaps → raises pH → worsens risk
@@ -216,7 +196,7 @@ Miss one of these, and fungi often come back.
 
 ---
 
-# Bottom line
+### Bottom line
 
 You don’t need an aggressive routine—just a **consistent, layered approach**:
 
@@ -224,17 +204,14 @@ You don’t need an aggressive routine—just a **consistent, layered approach**
 * Antifungal wash a few times weekly
 * Keep skin dry
 
----
+---  
 
+## Daily routine (under-breast care)
 For the **underside of the breasts (inframammary fold)**, fungal prevention is all about managing **moisture + friction + pH**, because this area is warm, occluded, and prone to yeast overgrowth (often intertrigo, commonly involving Candida albicans).
 
 Here’s a **targeted, practical routine** that works well:
 
----
-
-# Daily routine (under-breast care)
-
-## 1) Gentle cleansing (once daily)
+### 1) Gentle cleansing (once daily)
 
 Use a mild, pH-balanced cleanser in the shower.
 
@@ -245,9 +222,8 @@ Use a mild, pH-balanced cleanser in the shower.
 
 👉 Focus on **light cleansing**, not scrubbing—friction worsens irritation and raises infection risk.
 
----
 
-## 2) Strategic antifungal wash (2–4× per week)
+### 2) Strategic antifungal wash (2–4× per week)
 
 This area benefits from *preventive antifungal use*, especially in hot weather or if you’ve had past rashes.
 
@@ -260,11 +236,9 @@ This area benefits from *preventive antifungal use*, especially in hot weather o
 
 * Apply under breasts
 * Leave on **3–5 minutes**
-* Rinse thoroughly
+* Rinse thoroughly  
 
----
-
-## 3) Drying is non-negotiable
+### 3) Drying is non-negotiable
 
 This is the **most important step**.
 
@@ -276,15 +250,13 @@ After showering:
     * Air dry for a minute **or**
     * Use a hairdryer on *cool setting*
 
-👉 Even slight dampness here can trigger fungal growth.
+👉 Even slight dampness here can trigger fungal growth.  
 
----
-
-## 4) Moisture control during the day
+### 4) Moisture control during the day
 
 Because this is a skin fold, sweat accumulates easily.
 
-### Best options:
+#### Best options:
 
 * Antifungal powder (miconazole or tolnaftate)
 * Or non-medicated absorbent powder if no active issues
@@ -292,16 +264,13 @@ Because this is a skin fold, sweat accumulates easily.
 **Use:**
 
 * Light dusting under breasts in the morning
-* Reapply if sweating
+* Reapply if sweating  
 
----
-
-## 5) Barrier protection (reduces friction + irritation)
+### 5) Barrier protection (reduces friction + irritation)
 
 If skin rubs or gets irritated, fungi gain an advantage.
 
 * Use:
-
     * Zinc oxide cream (thin layer)
     * Anti-chafing balms
 
@@ -311,9 +280,7 @@ If skin rubs or gets irritated, fungi gain an advantage.
 * Have larger breasts
 * Experience frequent rubbing
 
----
-
-## 6) Clothing strategy (huge impact)
+### 6) Clothing strategy (huge impact)
 
 * Wear **breathable bras** (cotton or moisture-wicking)
 * Avoid tight, non-breathable fabrics
@@ -364,24 +331,24 @@ If these show up, increase antifungal use temporarily.
 
 ---
 
-## Bottom line
-
+### Bottom line
+```
 For under-breast fungal prevention, the priority order is:
 
 1. Keep it dry
 2. Reduce friction
 3. Support normal skin pH
 4. Use antifungal agents strategically  
-
-Here’s a **simple, no-fuss approach** that still hits the key drivers (moisture, fungi, and skin barrier) for the under-breast area:
-
+```
 ---
 
 ## ✅ Minimal “2-product routine”
+Here’s a **simple, no-fuss approach** that still hits the key drivers (moisture, fungi, and skin barrier) for the under-breast area:
+
 
 ### 1) Antifungal wash (your main active)
 
-Use **2–4× per week** in the shower.
+Use **2 to 4 per week** in the shower.
 
 * Look for:
 
@@ -391,12 +358,10 @@ Use **2–4× per week** in the shower.
 **How:**
 
 * Apply under breasts
-* Leave on **3–5 minutes**
+* Leave on **3 to 5 minutes**
 * Rinse
 
 👉 This keeps yeast like Candida albicans under control.
-
----
 
 ### 2) Antifungal or moisture-control powder (daily)
 
@@ -415,7 +380,7 @@ Use **every morning** (and reapply if sweaty).
 
 ---
 
-## That’s it:
+### That’s it:
 
 * Wash (a few times/week)
 * Powder (daily)
@@ -430,46 +395,38 @@ often with yeast involvement.
 
 ### Step up to a short treatment routine:
 
-1. Switch to daily antifungal treatment
-
-Instead of just prevention, use an **antifungal cream**:
-
+1) Switch to daily antifungal treatment.  
+  Instead of just prevention, use an **antifungal cream**:
   * Clotrimazole 1%
-  * Miconazole 2%
+  * Miconazole 2%  
 
-**Apply:**
+  **Apply**:
+  * Thin layer **2× daily**
+  * Continue for **1–2 weeks**, even after it looks better
 
-* Thin layer **2× daily**
-* Continue for **1–2 weeks**, even after it looks better
-
-2. Keep the area dry (even more aggressively)
-
+2) Keep the area dry (even more aggressively)
 * Dry after shower + during the day if sweaty
 * Use powder **on top of fully absorbed cream** (not immediately)
 
-3. Reduce friction + irritation
-
+3) Reduce friction + irritation
 * Wear loose, breathable bras
 * Consider a thin layer of zinc oxide if skin is raw (but not at the same time as antifungal cream—alternate if needed)
 
-4. Continue antifungal wash
-
+4) Continue antifungal wash
 * Use your ketoconazole or Pyrithione zinc wash **daily during the flare**
 
 ---
-
-# ⚠️ When to escalate
+## ⚠️ When to escalate
 
 Get medical care if:
 
-* No improvement after **10–14 days**
+* No improvement after **10 to 14 days**
 * Severe redness, cracking, or pain
 * Spreading beyond the fold
 
 A clinician may prescribe stronger antifungals or rule out bacterial involvement.
 
 ---
-
 # Bottom line
 
 **Prevention (2 products):**
@@ -478,5 +435,4 @@ A clinician may prescribe stronger antifungals or rule out bacterial involvement
 * Daily powder
 
 **If rash starts:**
-
-* Add antifungal cream + increase frequency + double down on dryness
+* Add antifungal cream, increase frequency, and double down on dryness  

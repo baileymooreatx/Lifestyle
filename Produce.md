@@ -1,21 +1,75 @@
-# Dirty Dozen  
+# Produce
 
+## Dirty Dozen  
 Produce that is most contaminated with pesticides.  
 Buy organic, if possible.  
 
-1. Strawberries
-2. Spinach
-3. Kale, Collards, and Mustard Greens
-4. Nectarines
-5. Apples
-6. Grapes
-7. Cherries
-8. Peaches
-9. Pears
-10. Bell and hot peppers
-11. Celery
-12. Tomatoes  
+### 🍓 Fruits  
+* Apples
+* Blueberries  
+* Cherries  
+* Grapes  
+* Peaches  
+* Pears  
+* Strawberries  
+  
+### 🥬 Vegetables
+* Spinach
+* Kale, collard & mustard greens
+* Bell peppers & hot peppers
+* Green beans
+* Tomatoes
 
+### Why these are higher risk
+* Thin or edible skins
+* More pesticide exposure during growth
+* Harder to wash completely (especially leafy greens)
+
+### Wash these in a Baking soda soak (Sodium bicarbonate)
+Fill a bowl with water
+Add 1 teaspoon baking soda per 2 cups water
+Soak produce for 10–15 minutes
+Rinse thoroughly under running water
+
+👉 Research shows this helps break down some pesticide residues better than water alone
+
+#### 🥬 For leafy greens (spinach, kale)
+* Separate leaves
+* Soak + rinse multiple times
+
+#### 🍓 For berries
+* Rinse gently under running water
+* Skip soaking too long (they get mushy)
+
+## 🧺 Clean Fifteen
+produce items that tend to have the **lowest pesticide residues**, 
+based on data from the **Environmental Working Group**.
+👉 These are generally safer to buy **conventional (non-organic)**:
+
+### 🥑 Fruits & vegetables
+* Asparagus
+* Avocados
+* Cabbage
+* Carrots
+* Honeydew melon
+* Kiwi
+* Mangoes
+* Mushrooms
+* Onions
+* Papaya
+* Pineapple
+* Sweet corn
+* Sweet peas (frozen)
+* Sweet potatoes
+* Watermelon
+  
+## 🧠 Why these are “cleaner”
+* Thick skins (like avocados, pineapple)
+* Lower pesticide use
+* Less residue detected in testing
+
+👉 Many are peeled before eating, which reduces exposure even more
+  
 ## [Produce Sticker Codes](https://en.wikipedia.org/wiki/Price_look-up_code)  
 
 [Price Look-Up (PLU) codes](https://plufinder.com/) are 4 or 5-digit numbers that identify 

@@ -4,19 +4,19 @@
 
 - [Produce](#produce)
   - [Dirty Dozen](#dirty-dozen)
-    - [🍓 Fruits](#-fruits)
-    - [🥬 Vegetables](#%F0%9F%A5%AC-vegetables)
+    - [Fruits](#fruits)
+    - [Vegetables](#vegetables)
     - [Why these are higher risk](#why-these-are-higher-risk)
     - [Wash these in a Baking soda soak (Sodium bicarbonate)](#wash-these-in-a-baking-soda-soak-sodium-bicarbonate)
       - [🥬 For leafy greens (spinach, kale)](#%F0%9F%A5%AC-for-leafy-greens-spinach-kale)
       - [🍓 For berries](#-for-berries)
-  - [🧺 Clean Fifteen](#%F0%9F%A7%BA-clean-fifteen)
-    - [🥑 Fruits & vegetables](#-fruits--vegetables)
-  - [🧠 Why these are “cleaner”](#-why-these-are-cleaner)
+  - [Clean Fifteen](#clean-fifteen)
+    - [Fruits & vegetables](#fruits--vegetables)
+  - [🫧 Why these are “cleaner”](#%F0%9F%AB%A7-why-these-are-cleaner)
   - [Produce Sticker Codes](#produce-sticker-codes)
   - [Nontoxic Vegetable Wash](#nontoxic-vegetable-wash)
-    - [Hydrogen Peroxide](#hydrogen-peroxide)
-    - [White Vinegar](#white-vinegar)
+    - [Hydrogen Peroxide kills bacteria](#hydrogen-peroxide-kills-bacteria)
+    - [White Vinegar kills bacteria](#white-vinegar-kills-bacteria)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -26,21 +26,21 @@
 Produce that is most contaminated with pesticides.  
 Buy organic, if possible.  
 
-### 🍓 Fruits  
-* Apples
-* Blueberries  
-* Cherries  
-* Grapes  
-* Peaches  
-* Pears  
-* Strawberries  
+### Fruits  
+🍎 Apples  
+🫐 Blueberries  
+🍒 Cherries  
+🍇 Grapes  
+🍑 Peaches  
+🍐Pears  
+🍓 Strawberries  
   
-### 🥬 Vegetables
-* Spinach
-* Kale, collard & mustard greens
-* Bell peppers & hot peppers
-* Green beans
-* Tomatoes
+### Vegetables
+* Spinach  
+* Kale, collard & mustard greens  
+🫑 Bell peppers & 🌶️ hot peppers  
+🫛 Green beans  
+🍅 Tomatoes  
 
 ### Why these are higher risk
 * Thin or edible skins
@@ -57,35 +57,35 @@ Rinse thoroughly under running water
 
 #### 🥬 For leafy greens (spinach, kale)
 * Separate leaves
-* Soak + rinse multiple times
+* Soak and rinse multiple times
 
 #### 🍓 For berries
 * Rinse gently under running water
 * Skip soaking too long (they get mushy)
 
-## 🧺 Clean Fifteen
+## Clean Fifteen
 produce items that tend to have the **lowest pesticide residues**, 
 based on data from the **Environmental Working Group**.
 👉 These are generally safer to buy **conventional (non-organic)**:
 
-### 🥑 Fruits & vegetables
-* Asparagus
-* Avocados
-* Cabbage
-* Carrots
-* Honeydew melon
-* Kiwi
-* Mangoes
-* Mushrooms
-* Onions
-* Papaya
-* Pineapple
-* Sweet corn
-* Sweet peas (frozen)
-* Sweet potatoes
-* Watermelon
+### Fruits & vegetables
+* Asparagus  
+🥑 Avocados  
+* Cabbage  
+🥕 Carrots  
+🍈 Honeydew melon  
+🥝 Kiwi  
+🥭 Mangoes  
+🍄‍🟫 Mushrooms  
+🧅 Onions  
+* Papaya  
+🍍 Pineapple  
+🌽 Sweet corn  
+🫛 Sweet peas (frozen)  
+🍠 Sweet potatoes  
+🍉 Watermelon  
   
-## 🧠 Why these are “cleaner”
+## 🫧 Why these are “cleaner”
 * Thick skins (like avocados, pineapple)
 * Lower pesticide use
 * Less residue detected in testing
@@ -112,14 +112,14 @@ I am specifically interested in [cleaning broccoli](https://www.wikihow.com/Clea
 because it's not easy to clean like smooth vegetables are. For smooth vegetables, I usually use baking soda 
 and a vegetable brush.  
 
-### [Hydrogen Peroxide](https://www.youtube.com/watch?v=GKLZpquBc_4)  
+### [Hydrogen Peroxide](https://www.youtube.com/watch?v=GKLZpquBc_4) kills bacteria  
 Mix 
 * 1/4 cup (2 fluid ounces) of 3% **Food Grade** hydrogen peroxide 
 * gallon of cold water  
 
 Soak vegetables for 20 minutes.
 
-### [White Vinegar](https://www.youtube.com/watch?v=VmRtK4CVQ20)  
+### [White Vinegar](https://www.youtube.com/watch?v=VmRtK4CVQ20) kills bacteria   
 Others use white vinegar in cold water.
 
 Fill a large bowl with a mixture of 3 parts water and 1 part white 

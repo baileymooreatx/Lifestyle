@@ -1,3 +1,28 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mind](#mind)
+  - [Fundamental Human Needs](#fundamental-human-needs)
+  - [Affirmations change self-image](#affirmations-change-self-image)
+  - [11 Bad Habits That Damage Your Brain](#11-bad-habits-that-damage-your-brain)
+  - [Increase neurogenesis](#increase-neurogenesis)
+  - [Stoic daily routine](#stoic-daily-routine)
+    - [Morning (5–10 minutes)](#morning-510-minutes)
+      - [1. Set your mindset](#1-set-your-mindset)
+      - [2. Choose your focus](#2-choose-your-focus)
+    - [During the day](#during-the-day)
+      - [3. Pause before reacting](#3-pause-before-reacting)
+      - [4. Practice restraint](#4-practice-restraint)
+      - [5. Optional: short reset](#5-optional-short-reset)
+    - [Evening (5–10 minutes)](#evening-510-minutes)
+      - [6. Reflect on your day](#6-reflect-on-your-day)
+      - [7. Perspective check (light version of *memento mori*)](#7-perspective-check-light-version-of-memento-mori)
+    - [Summary](#summary)
+    - [What changes over time](#what-changes-over-time)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Mind
 
 ## Fundamental Human Needs

@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Produce](#produce)
+  - [Dirty Dozen](#dirty-dozen)
+    - [🍓 Fruits](#-fruits)
+    - [🥬 Vegetables](#%F0%9F%A5%AC-vegetables)
+    - [Why these are higher risk](#why-these-are-higher-risk)
+    - [Wash these in a Baking soda soak (Sodium bicarbonate)](#wash-these-in-a-baking-soda-soak-sodium-bicarbonate)
+      - [🥬 For leafy greens (spinach, kale)](#%F0%9F%A5%AC-for-leafy-greens-spinach-kale)
+      - [🍓 For berries](#-for-berries)
+  - [🧺 Clean Fifteen](#%F0%9F%A7%BA-clean-fifteen)
+    - [🥑 Fruits & vegetables](#-fruits--vegetables)
+  - [🧠 Why these are “cleaner”](#-why-these-are-cleaner)
+  - [Produce Sticker Codes](#produce-sticker-codes)
+  - [Nontoxic Vegetable Wash](#nontoxic-vegetable-wash)
+    - [Hydrogen Peroxide](#hydrogen-peroxide)
+    - [White Vinegar](#white-vinegar)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Produce
 
 ## Dirty Dozen  

@@ -1,3 +1,51 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Skin care](#skin-care)
+  - [1. Use gentle, pH-balanced cleansers](#1-use-gentle-ph-balanced-cleansers)
+  - [2. Don’t over-wash (especially problem areas)](#2-dont-over-wash-especially-problem-areas)
+  - [3. Moisturize to support the acid mantle](#3-moisturize-to-support-the-acid-mantle)
+  - [4. Be careful with “harsh” or alkaline products](#4-be-careful-with-harsh-or-alkaline-products)
+  - [5. Dry skin properly (especially folds and feet)](#5-dry-skin-properly-especially-folds-and-feet)
+  - [6. Wear breathable fabrics](#6-wear-breathable-fabrics)
+  - [7. Use targeted products when needed](#7-use-targeted-products-when-needed)
+  - [8. Support your skin microbiome](#8-support-your-skin-microbiome)
+  - [Bottom line](#bottom-line)
+  - [Core routine (fungal-prevention focused)](#core-routine-fungal-prevention-focused)
+    - [1) Daily gentle cleanser (protects acidity + barrier)](#1-daily-gentle-cleanser-protects-acidity--barrier)
+      - [Good options:](#good-options)
+    - [2) Antifungal wash (2 to 4 times per week or during flare risk)](#2-antifungal-wash-2-to-4-times-per-week-or-during-flare-risk)
+      - [Strong options:](#strong-options)
+    - [3) Moisture control (CRITICAL for fungi)](#3-moisture-control-critical-for-fungi)
+      - [Best powders:](#best-powders)
+    - [What actually makes this work (key principles)](#what-actually-makes-this-work-key-principles)
+  - [Example simple routine](#example-simple-routine)
+    - [⚠️ Common mistakes to avoid](#-common-mistakes-to-avoid)
+    - [Bottom line](#bottom-line-1)
+  - [Daily routine (under-breast care)](#daily-routine-under-breast-care)
+    - [1) Gentle cleansing (once daily)](#1-gentle-cleansing-once-daily)
+    - [2) Strategic antifungal wash (2–4× per week)](#2-strategic-antifungal-wash-24%C3%97-per-week)
+    - [3) Drying is non-negotiable](#3-drying-is-non-negotiable)
+    - [4) Moisture control during the day](#4-moisture-control-during-the-day)
+      - [Best options:](#best-options)
+    - [5) Barrier protection (reduces friction + irritation)](#5-barrier-protection-reduces-friction--irritation)
+    - [6) Clothing strategy (huge impact)](#6-clothing-strategy-huge-impact)
+  - [⚙️ Simple daily plan](#-simple-daily-plan)
+  - [⚠️ Early warning signs to watch](#-early-warning-signs-to-watch)
+  - [🚫 Common mistakes in this area](#-common-mistakes-in-this-area)
+    - [Bottom line](#bottom-line-2)
+  - [✅ Minimal “2-product routine”](#-minimal-2-product-routine)
+    - [1) Antifungal wash (your main active)](#1-antifungal-wash-your-main-active)
+    - [2) Antifungal or moisture-control powder (daily)](#2-antifungal-or-moisture-control-powder-daily)
+    - [That’s it:](#thats-it)
+  - [🚨 If a rash has already started](#-if-a-rash-has-already-started)
+    - [Step up to a short treatment routine:](#step-up-to-a-short-treatment-routine)
+  - [⚠️ When to escalate](#-when-to-escalate)
+- [Bottom line](#bottom-line-3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Skin care  
 This routine is reduces risk of fungal infections and maintains 
 skin's natural acidic pH.

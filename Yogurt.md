@@ -1,4 +1,8 @@
-# Probiotic Yogurts  
+# Probiotic Fermented Dairy  
+
+These are like very thick yogurt, but they do not contain the microbes species 
+required to be called yogurt. Instead the contain microbes that kill harmful 
+bacteria in the small intestine and promote gut health.  
 
 ## [Lactobacillis reuteri](https://drdavisinfinitehealth.com/2019/07/how-to-make-l-reuteri-yogurt-step-by-step/)  
 [Video](https://www.youtube.com/watch?v=aHfqE_zLPxE)  
@@ -13,3 +17,4 @@ Starter: 2 tablespoons previous batch of L. reuteri yogurt (whey or curds or mix
 
 ## Lactobacillis gasseri
 Starter microbes [Swanson Lactobacillus Gasseri](https://www.amazon.com/dp/B00OLQLS64)  
+Ferment using the instructions listed above.

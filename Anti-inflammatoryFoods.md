@@ -5,7 +5,7 @@
 * Avocado
 * Basil  
 * [Bell Pepper](./Vegetables/BellPepper.md)  
-* Black Pepper - pair with other foods to improve their absorption  
+* [Black Pepper](./Spices/BlackPepper.md) - improves absorption of nutrients  
 * Black Tea
 * Calendula
 * Cat’s Claw
@@ -35,6 +35,7 @@
 * Parsley
 * Passion Flower  
 * [Pecans](./Nuts/Pecan.md)  
+* [Pineapple](./Fruits/Pineapple.md)  
 * [Pumpkin Seeds](./Seeds/Pumpkin.md)  
 * Rhodiola
 * Rosemary

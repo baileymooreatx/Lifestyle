@@ -4,18 +4,18 @@
 
 - [Pumpkin Seeds](#pumpkin-seeds)
   - [Activation](#activation)
-    - [1. Neutralization of Phytic Acid](#1-neutralization-of-phytic-acid)
-    - [2. Deactivation of Enzyme Inhibitors](#2-deactivation-of-enzyme-inhibitors)
-    - [3. Improved Texture and Nutrient Absorption](#3-improved-texture-and-nutrient-absorption)
+    - [Neutralization of Phytic Acid](#neutralization-of-phytic-acid)
+    - [Deactivation of Enzyme Inhibitors](#deactivation-of-enzyme-inhibitors)
+    - [Improved Texture and Nutrient Absorption](#improved-texture-and-nutrient-absorption)
     - [How to Do It Properly](#how-to-do-it-properly)
   - [Nutritional Profile](#nutritional-profile)
   - [Key Health Benefits](#key-health-benefits)
-    - [1. Heart Health and Blood Pressure](#1-heart-health-and-blood-pressure)
-    - [2. Prostate and Men’s Health](#2-prostate-and-mens-health)
-    - [3. Improved Sleep Quality](#3-improved-sleep-quality)
-    - [4. Blood Sugar Regulation](#4-blood-sugar-regulation)
-    - [5. Immune Support and Inflammation](#5-immune-support-and-inflammation)
-    - [6. Bone Health](#6-bone-health)
+    - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
+    - [Prostate and Men’s Health](#prostate-and-mens-health)
+    - [Improved Sleep Quality](#improved-sleep-quality)
+    - [Blood Sugar Regulation](#blood-sugar-regulation)
+    - [Immune Support and Inflammation](#immune-support-and-inflammation)
+    - [Bone Health](#bone-health)
   - [Recommended Intake](#recommended-intake)
   - [How to Eat Them](#how-to-eat-them)
 
@@ -35,7 +35,7 @@ designed to neutralize anti-nutrients and significantly improve digestibility.
 
 The primary benefits of this specific combination include:
 
-### 1. Neutralization of Phytic Acid
+### Neutralization of Phytic Acid
 
 Pumpkin seeds naturally contain **phytic acid**, an "anti-nutrient" that binds
 to essential minerals like **zinc**, **magnesium**, and **iron**, preventing
@@ -47,7 +47,7 @@ your body from absorbing them.
   optimal environment that accelerates the breakdown of phytic acid more
   effectively than water alone.
 
-### 2. Deactivation of Enzyme Inhibitors
+### Deactivation of Enzyme Inhibitors
 
 Seeds contain enzyme inhibitors that keep them dormant until conditions are
 right for sprouting. When eaten dry, these inhibitors can block your own
@@ -58,7 +58,7 @@ digestive enzymes.
   system, preventing common issues like **bloating**, **gas**, and stomach
   heaviness.
 
-### 3. Improved Texture and Nutrient Absorption
+### Improved Texture and Nutrient Absorption
 
 * **Digestibility:** The process softens the tough outer membrane of the seed,
   making it easier to chew and break down.
@@ -103,7 +103,7 @@ tryptophan, an amino acid precursor to serotonin.
 
 ## Key Health Benefits
 
-### 1. Heart Health and Blood Pressure
+### Heart Health and Blood Pressure
 
 The high **magnesium** content helps regulate blood pressure and maintain a
 steady heartbeat. The seeds are rich in mono- and polyunsaturated fats, which
@@ -111,7 +111,7 @@ can lower LDL ("bad") cholesterol and raise HDL ("good") cholesterol.
 Antioxidants and nitric oxide generated from the seeds also support blood vessel
 health and reduce oxidative stress linked to heart disease.
 
-### 2. Prostate and Men’s Health
+### Prostate and Men’s Health
 
 Pumpkin seeds are particularly beneficial for men due to their high **zinc**
 concentration, which is essential for prostate health. Studies suggest they may
@@ -119,27 +119,27 @@ reduce symptoms of benign prostatic hyperplasia (BPH) and support testosterone
 balance. The lignans (polyphenolic compounds) in the seeds may also help protect
 against prostate cancer.
 
-### 3. Improved Sleep Quality
+### Improved Sleep Quality
 
 They are a natural source of **tryptophan**, which the body converts into
 serotonin and then melatonin, the hormone that regulates sleep-wake cycles. The
 magnesium content further aids relaxation, potentially improving sleep duration
 and quality.
 
-### 4. Blood Sugar Regulation
+### Blood Sugar Regulation
 
 The high fiber and protein content, combined with healthy fats, help stabilize
 blood sugar levels and improve insulin sensitivity. This makes them a suitable
 snack for managing diabetes or preventing blood sugar spikes.
 
-### 5. Immune Support and Inflammation
+### Immune Support and Inflammation
 
 Rich in **zinc**, vitamin E, and various antioxidants, pumpkin seeds strengthen
 the immune system’s ability to fight infections. Their anti-inflammatory
 properties may help reduce the risk of chronic conditions like rheumatoid
 arthritis and certain cancers (including breast and colon cancer).
 
-### 6. Bone Health
+### Bone Health
 
 With significant amounts of **magnesium**, phosphorus, and zinc, these seeds
 contribute to bone mineral density. Magnesium deficiency is linked to

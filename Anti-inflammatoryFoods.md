@@ -1,20 +1,25 @@
 # Anti-Inflammatory foods  
 
 * Ashwagandha
-* Astragalus Root
-* Basil
-* Black Pepper - pair with Turmeric for absorption
+* Astragalus Root  
+* Avocado
+* Basil  
+* [Bell Pepper](./Vegetables/BellPepper.md)  
+* Black Pepper - pair with other foods to improve their absorption  
 * Black Tea
 * Calendula
 * Cat’s Claw
 * Cardamon
-* Chamomile
+* Chamomile  
+* [Chili Pepper](./Vegetables/ChiliPepper.md)  
 * Cilantro
-* Cinnamon (Ceylon is best)
+* Cinnamon (Ceylon is best)  
+* Coconut Oil  
 * [Cloves](./Recipes.md)
 * Cayenne Pepper
 * Echinacea
-* Fenugreek
+* Fenugreek  
+* [Flaxseed](./Seeds/Flaxseeds.md)  
 * Garlic
 * Ginger - pair with Turmeric for absorption
 * Ginseng
@@ -23,9 +28,14 @@
 * Kava Kava
 * Lemon Balm
 * Licorice Root
+* Olive Oil (Extra Virgin)  
+* [Onion](./Vegetables/Onion.md)  
+* [Oranges](./Fruits/Orange.md)  
 * Oregano
 * Parsley
-* Passion Flower
+* Passion Flower  
+* [Pecans](./Nuts/Pecan.md)  
+* [Pumpkin Seeds](./Seeds/Pumpkin.md)  
 * Rhodiola
 * Rosemary
 * Sage

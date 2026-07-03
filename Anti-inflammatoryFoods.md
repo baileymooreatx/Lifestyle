@@ -11,14 +11,14 @@
 * Chamomile
 * Cilantro
 * Cinnamon (Ceylon is best)
-* Cloves
+* [Cloves](./Recipes.md)
 * Cayenne Pepper
 * Echinacea
 * Fenugreek
 * Garlic
-* Ginger
+* Ginger - pair with Turmeric for absorption
 * Ginseng
-* Green Tea
+* Green Tea (Matcha)
 * Holy Basil
 * Kava Kava
 * Lemon Balm

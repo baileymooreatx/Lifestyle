@@ -1,21 +1,21 @@
 # Protein rich foods  
 
-Almonds
-Black beans
-Brown rice protein
-Chia seeds
-Chickpeas (Garbanzo beans)
-Edamame
-Hemp seeds
-Lentils
-Mushrooms 
-Oats
-Pea sprouts
-Pumpkin seeds
-Quinoa
-Seaweed 
-Spirulina
-Sunflower seeds
+* Almonds  
+* Black beans  
+* Brown rice protein  
+* [Chia seeds](./Seeds/Chia.md)  
+* Chickpeas (Garbanzo beans)  
+* Edamame  
+* Hemp seeds  
+* Lentils  
+* Mushrooms  
+* Oats  
+* Pea sprouts  
+* [Pumpkin seeds](./Seeds/Pumpkin.md)  
+* Quinoa  
+* Seaweed  
+* Spirulina  
+* Sunflower seeds  
 
 ## Sources  
 

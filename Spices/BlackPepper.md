@@ -1,13 +1,16 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated
-with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Black Pepper](#black-pepper)
-    - [Nutritional Profile](#nutritional-profile)
-    - [Key Bioactive Compounds](#key-bioactive-compounds)
-    - [Enhanced Nutrient Absorption](#enhanced-nutrient-absorption)
-    - [Digestive and Metabolic Support](#digestive-and-metabolic-support)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Key Bioactive Compounds](#key-bioactive-compounds)
+  - [Enhanced Nutrient Absorption](#enhanced-nutrient-absorption)
+  - [Digestive and Metabolic Support](#digestive-and-metabolic-support)
+  - [Optimal Storage Methods](#optimal-storage-methods)
+    - [Whole Peppercorns vs. Ground Pepper](#whole-peppercorns-vs-ground-pepper)
+  - [Critical Storage Factors](#critical-storage-factors)
+  - [What to Avoid](#what-to-avoid)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

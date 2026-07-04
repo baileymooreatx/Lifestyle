@@ -53,7 +53,7 @@
    6. Seeds
       * [Flaxseed](Seeds/Flaxseed.md)  
       * [Chia](./Seeds/Chia.md)  
-      * Hemp 
+      * [Hemp](./Seeds/HempHearts.md) 
       * [Pumpkin](./Seeds/Pumpkin.md) 
       * Sunflower (raw preferred)
 4. Prefer fewer ingredients

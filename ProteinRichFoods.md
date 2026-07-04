@@ -6,7 +6,7 @@
 * [Chia seeds](./Seeds/Chia.md)  
 * Chickpeas (Garbanzo beans)  
 * Edamame  
-* Hemp seeds  
+* [Hemp seeds or hearts](./Seeds/HempHearts.md) 
 * Lentils  
 * Mushrooms  
 * Oats  

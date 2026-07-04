@@ -24,6 +24,7 @@
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
 * Green Tea  
+* [Hemp seeds or hearts](./Seeds/HempHearts.md)
 * [Hibiscus Tea](./Drinks/HibiscusTea.md)  
 * Holy Basil
 * Kava Kava

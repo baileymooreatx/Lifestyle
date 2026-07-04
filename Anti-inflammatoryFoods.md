@@ -19,7 +19,7 @@
 * Cayenne Pepper
 * Echinacea
 * Fenugreek  
-* [Flaxseed](./Seeds/Flaxseeds.md)  
+* [Flaxseed](Seeds/Flaxseed.md)  
 * Garlic
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng

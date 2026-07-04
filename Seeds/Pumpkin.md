@@ -3,12 +3,12 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Pumpkin Seeds](#pumpkin-seeds)
+  - [Nutritional Profile](#nutritional-profile)
   - [Activation](#activation)
     - [Neutralization of Phytic Acid](#neutralization-of-phytic-acid)
     - [Deactivation of Enzyme Inhibitors](#deactivation-of-enzyme-inhibitors)
     - [Improved Texture and Nutrient Absorption](#improved-texture-and-nutrient-absorption)
     - [How to Do It Properly](#how-to-do-it-properly)
-  - [Nutritional Profile](#nutritional-profile)
   - [Key Health Benefits](#key-health-benefits)
     - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
     - [Prostate and Men’s Health](#prostate-and-mens-health)
@@ -27,6 +27,27 @@ Pumpkin seeds (also known as **pepitas**) are a nutrient-dense superfood packed
 with essential minerals, healthy fats, and antioxidants. A single ounce (28
 grams) provides significant daily values of magnesium, zinc, and protein,
 supporting heart health, immunity, and sleep regulation.  
+
+## Nutritional Profile
+
+A standard 1-ounce (28g) serving of raw, unsalted pumpkin seeds delivers a
+concentrated dose of nutrients:
+
+* **Calories:** Approximately 151–170 kcal
+* **Protein:** 7–9 grams (comparable to one large egg)
+* **Healthy Fats:** 14 grams (primarily unsaturated omega-3 and omega-6 fatty
+  acids)
+* **Fiber:** 1.8–2.1 grams (higher if eaten with the shell)
+* **Magnesium:** ~150 mg (37% of Daily Value), crucial for blood pressure
+  regulation and over 300 bodily reactions.
+* **Zinc:** ~2–2.5 mg (20% of Daily Value), vital for immune function and
+  prostate health.
+* **Iron:** ~2.3 mg (14% of Daily Value).
+* **Other Minerals:** Rich in potassium, phosphorus, copper, and selenium.
+
+Unlike many nuts, pumpkin seeds offer higher levels of magnesium and zinc with
+lower sugar content. They are also a source of vitamins E and B, and contain
+tryptophan, an amino acid precursor to serotonin.
 
 ## Activation
 
@@ -79,27 +100,6 @@ To maximize these benefits, follow this standard activation method:
 4. **Consume or Dry:** You can eat them immediately while soft (great for
    smoothies) or dehydrate/roast them at low temperatures to restore
    crunchiness.
-
-## Nutritional Profile
-
-A standard 1-ounce (28g) serving of raw, unsalted pumpkin seeds delivers a
-concentrated dose of nutrients:
-
-* **Calories:** Approximately 151–170 kcal
-* **Protein:** 7–9 grams (comparable to one large egg)
-* **Healthy Fats:** 14 grams (primarily unsaturated omega-3 and omega-6 fatty
-  acids)
-* **Fiber:** 1.8–2.1 grams (higher if eaten with the shell)
-* **Magnesium:** ~150 mg (37% of Daily Value), crucial for blood pressure
-  regulation and over 300 bodily reactions.
-* **Zinc:** ~2–2.5 mg (20% of Daily Value), vital for immune function and
-  prostate health.
-* **Iron:** ~2.3 mg (14% of Daily Value).
-* **Other Minerals:** Rich in potassium, phosphorus, copper, and selenium.
-
-Unlike many nuts, pumpkin seeds offer higher levels of magnesium and zinc with
-lower sugar content. They are also a source of vitamins E and B, and contain
-tryptophan, an amino acid precursor to serotonin.
 
 ## Key Health Benefits
 
@@ -161,4 +161,4 @@ sodium intake.
 * **Versatility:** Sprinkle them on salads, soups, oatmeal, or yogurt.
 * **Blending:** Mix them into smoothies or grind them into butter.
 * **Baking:** Incorporate them into bread, muffins, or granola bars.
-* **Snacking:** Eat them plain as a mid-day snack for sustained energy.
+* **Snacking:** Eat them plain as a midday snack for sustained energy.

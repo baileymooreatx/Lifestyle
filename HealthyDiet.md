@@ -42,49 +42,55 @@
       Pasture raised when possible
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
    Prefer healthy oils  
-   1. Extra virgin olive oil (EVOO)  first cold pressed  
-      Ideally: organic, not blended, and stored in dark glass to prevent oxidation  
+   1. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
+      Ideally organic, not blended, and stored in dark glass to prevent oxidation  
       Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
    2. Avocados and Avocado oil (cold pressed and tested)   
    3. Coconut oil is good for cooking at high temperature.  
    4. Grass fed butter or ghee, beef tallow  
    5. Nuts: walnuts, almonds, Brazil nuts  
       Limit Brazil nuts are very high in Selenium
-   6. Seeds: flax, chia, hemp, pumpkin, sunflower (raw preferred)
+   6. Seeds
+      * [Flaxseed](Seeds/Flaxseed.md)  
+      * [Chia](./Seeds/Chia.md)  
+      * Hemp 
+      * [Pumpkin](./Seeds/Pumpkin.md) 
+      * Sunflower (raw preferred)
 4. Prefer fewer ingredients
 5. When you cook it yourself, you control the ingredients  
 
 ## Increase fiber and nutrient availability
-Note: Extra Virgin Olive Oil should be early harvest and cold pressed in green glass.
+Note: Extra virgin olive oil should be early harvest and cold pressed in 
+dark, e.g. green, glass.
 
 ### [Morning](https://www.youtube.com/watch?v=dvx9lXwvm84&t=100s)
 
-| **Ingredient**            | **Volume**      |
-|:--------------------------|:----------------|
-| Cranberry Juice           | 4 fluid oz      |
-| Water                     | 12 fluid oz     |
-| Extra virgin olive oil    | 1 tablespoon    |
-| Apple Cider Vinegar       | 2 tablespoon    |
-| Lemon Juice               | Half of a Lemon |
-| Sea salt                  | ½ teaspoon      |
-| **Optional spices**       |                 |
-| Turmeric and Black Pepper | 1 teaspoon each |
-| Ginger                    | 1 teaspoon      |
+| **Ingredient**                                           | **Volume**      |
+|:---------------------------------------------------------|:----------------|
+| Cranberry Juice                                          | 4 fluid oz      |
+| Water                                                    | 12 fluid oz     |
+| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)  | 1 tablespoon    |
+| [Apple Cider Vinegar](./AppleCiderVinegar.md)            | 2 tablespoon    |
+| Lemon Juice                                              | Half of a Lemon |
+| Sea salt                                                 | ½ teaspoon      |
+| **Optional spices**                                      |                 |
+| Turmeric and Black Pepper                                | 1 teaspoon each |
+| [Ginger](./Spices/Ginger.md)                             | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 
 Drink 1 hour before bed, blended for best results.
 
-| **Ingredient**         | **Volume**   |
-|:-----------------------|:-------------|
-| Water                  | 8 fluid oz   |
-| Ceylon Cinnamon        | ½ teaspoon   |
-| Extra virgin olive oil | 1 tablespoon |
-| Apple Cider Vinegar    | 1 tablespoon |
-| Sea salt               | ½ teaspoon   |
-| **Optional Fiber**     |              |
-| Chia seeds             | 1 tablespoon |
-| Flax seeds             | 1 tablespoon |
+| **Ingredient**                                          | **Volume**   |
+|:--------------------------------------------------------|:-------------|
+| Water                                                   | 8 fluid oz   |
+| [Ceylon Cinnamon](./Spices/Cinnamon.md)                 | ½ teaspoon   |
+| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
+| [Apple Cider Vinegar](./AppleCiderVinegar.md)           | 1 tablespoon |
+| Sea salt                                                | ½ teaspoon   |
+| **Optional Fiber**                                      |              |
+| [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |
+| [Flaxseeds](./Seeds/Flaxseed.md)                        | 1 tablespoon |
 
 ## Eat in the right order to prevent insulin spikes  
 

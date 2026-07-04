@@ -19,6 +19,7 @@
     - [Optimal Storage Conditions](#optimal-storage-conditions)
     - [What to Avoid](#what-to-avoid)
     - [Freshness Timeline](#freshness-timeline)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -219,3 +220,7 @@ Even with perfect storage, coffee degrades over time:
   even days for pre-ground).
 * **Unopened Bags:** Can retain quality for **6 to 9 months** if the packaging
   remains intact and sealed.
+
+## My Preferred Brand  
+
+[Ruta Maya Organic Coffee Medium Roast](https://www.amazon.com/Coffee-Medium-Roast-Whole-Original/)

@@ -23,11 +23,13 @@
 * Garlic
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
-* Green Tea (Matcha)
+* Green Tea  
+* [Hibiscus Tea](./Drinks/HibiscusTea.md)  
 * Holy Basil
 * Kava Kava
 * Lemon Balm
-* Licorice Root
+* Licorice Root  
+* [Matcha](./Drinks/Matcha.md)    
 * [Olive Oil (Extra Virgin)](./Fats/ExtraVirginOliveOil.md)    
 * [Onion](./Vegetables/Onion.md)  
 * [Oranges](./Fruits/Orange.md)  

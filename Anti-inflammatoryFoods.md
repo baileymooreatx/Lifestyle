@@ -21,14 +21,14 @@
 * Fenugreek  
 * [Flaxseed](./Seeds/Flaxseeds.md)  
 * Garlic
-* Ginger - pair with black pepper for enhanced absorption
+* [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
 * Green Tea (Matcha)
 * Holy Basil
 * Kava Kava
 * Lemon Balm
 * Licorice Root
-* Olive Oil (Extra Virgin)  
+* [Olive Oil (Extra Virgin)](./Fats/ExtraVirginOliveOil.md)    
 * [Onion](./Vegetables/Onion.md)  
 * [Oranges](./Fruits/Orange.md)  
 * Oregano
@@ -40,7 +40,7 @@
 * Rhodiola
 * Rosemary
 * Sage
-* Saffron
+* [Saffron](./Spices/Saffron.md)  
 * Spinach
 * Spearmint
 * St. John’s Wort

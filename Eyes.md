@@ -20,14 +20,17 @@
    20 seconds while blinking slowly. During this time shift focus 
    between objects 20 feet away, 10 feet away, and close to you.
 3. [Palming](https://www.youtube.com/watch?v=lBRgLSrM0gk&t=426s)  
-   Tw0 times per day for 3 minutes  
+   Two times per day for 3 minutes  
    Warm your hands by rubbing them together. Cup them over your 
    closed eyes without pressing. Warmth increases blood flow to your 
    eyes. Darkness allows photoreceptors to reset.  
   
 ## [Supplements for Repair](https://www.youtube.com/watch?v=vU8lA2gEiJg)  
+
 Listed from most effective to least effective  
-1. **Saffron, turmeric, black pepper, and Ceylon cinnamon**  
+
+1. **[Saffron](./Spices/Saffron.md), turmeric, [black pepper](./Spices/BlackPepper.md), 
+   and [Ceylon cinnamon](./Spices/Cinnamon.md)**  
    Curcumin, crocin, piperine, and cinnamaldehyde are converted into glutathione.  
    Increases macular pigment density by 45% to 55% within 12 weeks.  
    Steep two saffron threads in warm water for five minutes.  
@@ -54,7 +57,7 @@ Listed from most effective to least effective
    Taste like licorice. Estrogenic.  
    Drink one teaspoon of crushed fennel seeds steeped in hot water for eight 
    minutes thirty minutes before a meal. Consume daily.
-7. **Ginger and lemon (juice or zest)**  
+7. **[Ginger](./Spices/Ginger.md) and lemon (juice or zest)**  
    Lemon improves absorption of the gingerols and shogaols in ginger.    
    Reduces retinal inflammation. Consume daily for 10 to 12 weeks.  
    Ginger thins blood.

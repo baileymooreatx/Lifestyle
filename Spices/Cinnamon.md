@@ -224,3 +224,7 @@ results, as the spice supports insulin sensitivity during the fasting state
 without breaking the fast (provided it is taken without sugar or milk). It also
 pairs well with **green tea** or **ginger**, which utilize different pathways to
 enhance fat oxidation and thermogenesis.
+
+## My Preferred Brand
+
+[True Organic Ceylon Cinnamon Powder Premium Grade](https://www.amazon.com/dp/B0DRPDPJML/)   

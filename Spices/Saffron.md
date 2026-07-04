@@ -14,6 +14,7 @@
     - [Weight Management and Digestion](#weight-management-and-digestion)
   - [How to Use Saffron](#how-to-use-saffron)
   - [Safety, Dosage, and Toxicity](#safety-dosage-and-toxicity)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -168,3 +169,7 @@ While highly beneficial, the therapeutic window for saffron is specific.
   stimulate uterine contractions, high-dose supplementation should be avoided by
   pregnant women and individuals on anticoagulant therapy unless supervised by a
   physician.
+
+## My Preferred Brand  
+
+[Banu Saffron All Red Certified Organic Grade A Saffron](https://www.amazon.com/stores/BanuOrganicSaffron/page/63EB11FE-A1FE-4727-BFEE-475DA10F7C5C)

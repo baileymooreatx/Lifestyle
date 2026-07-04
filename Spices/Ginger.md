@@ -82,3 +82,7 @@ people scheduled for surgery should consult a healthcare provider before
 increasing their intake, as ginger can stimulate bile production and affect
 blood clotting. Pregnant women should also consult a doctor before using ginger
 supplements, although dietary amounts are typically considered safe.
+
+## My Preferred Brand  
+
+[DEAL SUPPLEMENT Organic Fresh Ginger Powder, 3lbs](https://www.amazon.com/dp/B0C8LQVNX8/)

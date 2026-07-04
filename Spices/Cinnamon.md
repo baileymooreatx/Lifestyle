@@ -21,6 +21,7 @@
     - [Lipid Metabolism and Adipogenesis](#lipid-metabolism-and-adipogenesis)
   - [Clinical Evidence on Weight Loss](#clinical-evidence-on-weight-loss)
   - [Optimal Usage for Metabolic Benefits](#optimal-usage-for-metabolic-benefits)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

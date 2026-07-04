@@ -13,7 +13,7 @@
 * Chamomile  
 * [Chili Pepper](./Vegetables/ChiliPepper.md)  
 * Cilantro
-* Cinnamon (Ceylon is best)  
+* [Cinnamon (Ceylon)](./Spices/Cinnamon.md)  
 * Coconut Oil  
 * [Cloves](./Recipes.md)
 * Cayenne Pepper
@@ -21,7 +21,7 @@
 * Fenugreek  
 * [Flaxseed](./Seeds/Flaxseeds.md)  
 * Garlic
-* Ginger - pair with Turmeric for absorption
+* Ginger - pair with black pepper for enhanced absorption
 * Ginseng
 * Green Tea (Matcha)
 * Holy Basil
@@ -45,7 +45,7 @@
 * Spearmint
 * St. John’s Wort
 * Thyme
-* Turmeric - pair with black pepper for absorption  
+* Turmeric - pair with black pepper for enhanced absorption  
   
 ## Sources
 [10 Herbs and Spices That Fight Inflammation](https://www.medicinenet.com/10_herbs_and_spices_that_fight_inflammation/article.htm) on medicinenet.com  

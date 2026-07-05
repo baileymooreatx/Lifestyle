@@ -12,4 +12,6 @@
 * Walnuts for Omega-3 fatty acids and microbiome support
 * Macadamia nuts for oleic acid and palmetoleic acid
 * Dry roasted almonds for protein, magnesium, vitamin E, appetite regulation, and bone density
-* Pistachios contain [carotenoids](https://en.wikipedia.org/wiki/Carotenoid) and [L-Arginine](https://en.wikipedia.org/wiki/L-Arginine_ethyl_ester)  
+* [Pistachios](./Nuts/Pistachio.md) contain 
+  [carotenoids](https://en.wikipedia.org/wiki/Carotenoid) and 
+  [L-Arginine](https://en.wikipedia.org/wiki/L-Arginine_ethyl_ester)  

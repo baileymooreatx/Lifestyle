@@ -1,50 +1,50 @@
 # Anti-Inflammatory foods  
 
 * Ashwagandha
-* Astragalus Root  
+* Astragalus root  
 * Avocado
 * Basil  
-* [Bell Pepper](./Vegetables/BellPepper.md)  
-* [Black Pepper](./Spices/BlackPepper.md) - improves absorption of nutrients  
-* Black Tea
+* [Bell pepper](./Vegetables/BellPepper.md)  
+* [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients  
+* Black tea
 * Calendula
-* Cat’s Claw
+* Cat’s claw
 * Cardamon
 * Chamomile  
-* [Chili Pepper](./Vegetables/ChiliPepper.md)  
+* [Chili pepper](./Vegetables/ChiliPepper.md)  
 * Cilantro
 * [Cinnamon (Ceylon)](./Spices/Cinnamon.md)  
-* Coconut Oil  
+* Coconut oil  
 * [Cloves](./Recipes.md)
-* Cayenne Pepper
+* [Cayenne pepper](./Spices/CayennePepper.md)  
 * Echinacea
 * Fenugreek  
 * [Flaxseed](Seeds/Flaxseed.md)  
 * Garlic
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
-* Green Tea  
+* Green tea  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md)
-* [Hibiscus Tea](./Drinks/HibiscusTea.md)  
-* Holy Basil
+* [Hibiscus tea](./Drinks/HibiscusTea.md)  
+* Holy basil
 * Kava Kava
-* Lemon Balm
-* Licorice Root  
+* Lemon balm
+* Licorice root  
 * [Matcha](./Drinks/Matcha.md)    
-* [Olive Oil (Extra Virgin)](./Fats/ExtraVirginOliveOil.md)    
+* [Olive oil (extra virgin)](./Fats/ExtraVirginOliveOil.md)    
 * [Onion](./Vegetables/Onion.md)  
 * [Oranges](./Fruits/Orange.md)  
 * Oregano
 * Parsley
-* Passion Flower  
+* Passion flower  
 * [Pecans](./Nuts/Pecan.md)  
 * [Pineapple](./Fruits/Pineapple.md)  
-* [Pumpkin Seeds](./Seeds/Pumpkin.md)  
+* [Pumpkin seeds](./Seeds/Pumpkin.md)  
 * Rhodiola
 * Rosemary
 * Sage
 * [Saffron](./Spices/Saffron.md)  
-* [Sunflower Seeds](./Seeds/Sunflower.md)  
+* [Sunflower seeds](./Seeds/Sunflower.md)  
 * Spinach
 * Spearmint
 * St. John’s Wort

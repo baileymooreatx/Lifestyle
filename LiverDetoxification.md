@@ -49,7 +49,8 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 7. Kefir contains both friendly bacteria and yeast
 8. Walnuts
 9. Chocolate chips (sugarless)
-10. Herbs: thyme, sage, oregano, cayenne pepper, turmeric, and rosemary
+10. Herbs: thyme, sage, oregano, [cayenne pepper](./Spices/CayennePepper.md),
+    turmeric, and rosemary
 
 ## [The 6 Best Ways to Heal a Fatty Liver](https://www.youtube.com/watch?v=i-sGhGT7ctA)
 

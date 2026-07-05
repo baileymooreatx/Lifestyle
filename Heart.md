@@ -11,4 +11,4 @@ Listed in order from most effective to least effective
 5. Cumin, coriander, and fennel dry roasted then steeped in hot water
 6. Rosemary with black pepper
 7. [Ceylon cinnamon](./Spices/Cinnamon.md) (not cassia cinnamon which contains coumarin)
-8. Cayenne pepper
+8. [Cayenne pepper](./Spices/CayennePepper.md)

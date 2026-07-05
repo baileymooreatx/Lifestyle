@@ -61,7 +61,7 @@ Listed from most effective to least effective
    Lemon improves absorption of the gingerols and shogaols in ginger.    
    Reduces retinal inflammation. Consume daily for 10 to 12 weeks.  
    Ginger thins blood.
-8. **Cayenne pepper**  
+8. **[Cayenne pepper](./Spices/CayennePepper.md)**  
    Capsaicin increases blood flow to increase oxygenation.  
    Consume daily for at least 8 weeks.  
    Cayenne pepper thins blood.  

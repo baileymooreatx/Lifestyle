@@ -25,12 +25,13 @@
          * Leafy greens: arugula, spinach, kale, chard, collards, lettuce    
          * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
          * Beets, carrots, sweet potatoes, yams  
-         * Peppers, cucumber, eggplant, onions, leeks, scallions  
+         * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
+           [onions](./Vegetables/Onion.md), leeks, and scallions  
       2. Fruits  
          * Berries: blueberries, strawberries, blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
          * Tart cherries  
-         * Citrus: oranges, lemons, limes, and grapefruit  
+         * Citrus: [oranges](./Fruits/Orange.md), lemons, limes, and grapefruit  
            Whole fruit, not juice  
          * Apples in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
@@ -65,17 +66,17 @@ dark, e.g. green, glass.
 
 ### [Morning](https://www.youtube.com/watch?v=dvx9lXwvm84&t=100s)
 
-| **Ingredient**                                           | **Volume**      |
-|:---------------------------------------------------------|:----------------|
-| Cranberry Juice                                          | 4 fluid oz      |
-| Water                                                    | 12 fluid oz     |
-| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)  | 1 tablespoon    |
-| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)            | 2 tablespoon    |
-| Lemon Juice                                              | Half of a Lemon |
-| Sea salt                                                 | ½ teaspoon      |
-| **Optional spices**                                      |                 |
-| Turmeric and Black Pepper                                | 1 teaspoon each |
-| [Ginger](./Spices/Ginger.md)                             | 1 teaspoon      |
+| **Ingredient**                                          | **Volume**      |
+|:--------------------------------------------------------|:----------------|
+| Cranberry Juice                                         | 4 fluid oz      |
+| Water                                                   | 12 fluid oz     |
+| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon    |
+| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)  | 2 tablespoon    |
+| Lemon Juice                                             | Half of a Lemon |
+| Sea salt                                                | ½ teaspoon      |
+| **Optional spices**                                     |                 |
+| Turmeric and [Black Pepper](./Spices/BlackPepper.md)    | 1 teaspoon each |
+| [Ginger](./Spices/Ginger.md)                            | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 
@@ -86,7 +87,7 @@ Drink 1 hour before bed, blended for best results.
 | Water                                                   | 8 fluid oz   |
 | [Ceylon Cinnamon](./Spices/Cinnamon.md)                 | ½ teaspoon   |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
-| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)           | 1 tablespoon |
+| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)  | 1 tablespoon |
 | Sea salt                                                | ½ teaspoon   |
 | **Optional Fiber**                                      |              |
 | [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |
@@ -108,9 +109,23 @@ Eating in the right order
   
 ## Dr. Gundry's [Superfoods](https://www.youtube.com/watch?v=9VsHYodU1lw)  
   
-* Leafy greens: romaine, arugula, radicchio, and chicory family
-* Extra virgin olive oil
+* Leafy greens
+  * Romaine
+  * Arugula
+  * Radicchio
+  * Chicory family
+* [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)
 * Mushrooms (cooked)
-* Fermented foods: sauerkraut, kimchi, yogurt, kiefer, black tea, coffee, and vinegar
-* Polyphenol rich foods: berries, pomegranate, and >85% dark chocolate
+* Fermented foods
+  * Sauerkraut
+  * Kimchi
+  * [Yogurt](./Yogurt.md)  
+  * Kiefer
+  * [Black tea](./Drinks/BlackTea.md)  
+  * [Coffee](./Drinks/Coffee.md)  
+  * [Apple cider vinegar](./OtherFoods/AppleCiderVinegar.md)  
+* Polyphenol rich foods
+  * Berries
+  * Pomegranate
+  * Dark chocolate (85% cacao or more)
 * Avocados  

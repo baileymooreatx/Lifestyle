@@ -39,7 +39,8 @@ disease, diabetes, and cancer.
 * Basil
 * [Bell pepper](./Vegetables/BellPepper.md)
 * [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
-* [Black tea](./Drinks/BlackTea.md)
+* [Black tea](./Drinks/BlackTea.md)  
+* [Cacao](./OtherFoods/Cacoa.md)  
 * Calendula
 * Cat’s claw
 * Cardamon

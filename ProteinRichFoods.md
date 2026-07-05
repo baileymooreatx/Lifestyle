@@ -15,7 +15,7 @@
 * Quinoa  
 * Seaweed  
 * Spirulina  
-* Sunflower seeds  
+* [Sunflower seeds](./Seeds/Sunflower.md)  
 
 ## Sources  
 

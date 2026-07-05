@@ -44,6 +44,7 @@
 * Rosemary
 * Sage
 * [Saffron](./Spices/Saffron.md)  
+* [Sunflower Seeds](./Seeds/Sunflower.md)  
 * Spinach
 * Spearmint
 * St. John’s Wort

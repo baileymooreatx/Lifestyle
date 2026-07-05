@@ -55,7 +55,7 @@
       * [Chia](./Seeds/Chia.md)  
       * [Hemp](./Seeds/HempHearts.md) 
       * [Pumpkin](./Seeds/Pumpkin.md) 
-      * Sunflower (raw preferred)
+      * [Sunflower](./Seeds/Sunflower.md) (raw preferred)
 4. Prefer fewer ingredients
 5. When you cook it yourself, you control the ingredients  
 

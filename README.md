@@ -21,5 +21,5 @@ A collection of ideas about how to improve health
 * Homemade [yogurt instructions](Yogurt.md) for special strains of gut friendly bacteria  
 
 ## [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
-* [Recommended daily routine](DailyRoutine.md)  
-* [Weight loss protocol](WeightLossProtocol.md)
+* [Recommended daily routine](Frameworks/DailyRoutine.md)  
+* [Weight loss protocol](Frameworks/WeightLossProtocol.md)

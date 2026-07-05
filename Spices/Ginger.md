@@ -10,6 +10,7 @@
     - [Immune System and Antimicrobial Properties](#immune-system-and-antimicrobial-properties)
     - [Potential Cancer-Protective Effects](#potential-cancer-protective-effects)
   - [Safety and Considerations](#safety-and-considerations)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

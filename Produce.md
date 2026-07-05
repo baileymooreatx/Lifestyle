@@ -36,8 +36,8 @@ Buy organic, if possible.
 🍓 Strawberries  
   
 ### Vegetables
-* Spinach  
-* Kale, collard & mustard greens  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spinach  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kale, collard & mustard greens  
 🫑 Bell peppers & 🌶️ hot peppers  
 🫛 Green beans  
 🍅 Tomatoes  
@@ -69,16 +69,16 @@ based on data from the **Environmental Working Group**.
 👉 These are generally safer to buy **conventional (non-organic)**:
 
 ### Fruits & vegetables
-* Asparagus  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asparagus  
 🥑 Avocados  
-* Cabbage  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cabbage  
 🥕 Carrots  
 🍈 Honeydew melon  
 🥝 Kiwi  
 🥭 Mangoes  
 🍄‍🟫 Mushrooms  
 🧅 Onions  
-* Papaya  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Papaya  
 🍍 Pineapple  
 🌽 Sweet corn  
 🫛 Sweet peas (frozen)  

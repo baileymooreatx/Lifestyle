@@ -112,8 +112,8 @@ Eating in the right order
 * Leafy greens
   * Romaine
   * Arugula
-  * Radicchio
-  * Chicory family
+  * Radicchio and other members of the chicory family (genus Cichorium) such 
+    as Endive
 * [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)
 * Mushrooms (cooked)
 * Fermented foods
@@ -127,5 +127,5 @@ Eating in the right order
 * Polyphenol rich foods
   * Berries
   * Pomegranate
-  * Dark chocolate (85% cacao or more)
+  * Dark chocolate (85% [cacao](./OtherFoods/Cacoa.md) or more)
 * Avocados  

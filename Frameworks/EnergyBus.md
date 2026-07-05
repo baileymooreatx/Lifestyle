@@ -24,7 +24,7 @@
 
 # The Energy Bus
 
-The [Energy Bus](https://theenergybus.com/index.html) by Jon Gordon is a 
+The _[Energy Bus](https://theenergybus.com/index.html)_ by Jon Gordon is a 
 business fable that illustrates how to overcome adversity and negativity through
 the power of positive energy. The story follows George, a middle manager at the
 NRG Company whose life is spiraling out of control due to a negative mindset,
@@ -40,7 +40,7 @@ destiny.
 ## The 10 Rules of the Energy Bus
 
 The core of the book revolves around ten specific principles designed to fuel
-life and work with positive energy:
+life and work with positive energy.  
 
 ### 1. You're the Driver of Your Bus
 

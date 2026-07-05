@@ -12,6 +12,7 @@
   - [Bone Strength](#bone-strength)
   - [How to Incorporate Them](#how-to-incorporate-them)
   - [Storage](#storage)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -116,4 +117,8 @@ soaking and can be eaten raw. Common ways to consume them include:
 
 Because of their high fat content, hemp hearts can go rancid if exposed to heat
 and light. It is best to store opened packages in the **refrigerator**, where
-they can last up to a year.
+they can last up to a year.  
+
+## My Preferred Brand  
+
+[Micro Ingredients Organic Hemp Seeds Shelled Hemp Hearts ](https://www.amazon.com/dp/B0G2ZVFD3J)  

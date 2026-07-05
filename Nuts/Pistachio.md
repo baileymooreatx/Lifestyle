@@ -127,8 +127,8 @@ pistachios demonstrate remarkable resilience:
   **heat-stable** and remain largely unaffected by the roasting process.
 * **Total Phenolics:** While total flavonoid content may decrease slightly (by
   approximately 19% in some studies), the **total antioxidant activity**
-  (measured by ORAC values) remains statistically similar between raw and roasted
-  varieties.
+  measured by ORAC (Oxygen Radical Absorbance Capacity) score remains 
+  statistically similar between raw and roasted varieties.
 * **Bioavailability:** Roasting breaks down cell walls and reduces
   anti-nutrients (like phytic acid), which can actually **improve the
   digestibility** and absorption of certain minerals and phytochemicals,

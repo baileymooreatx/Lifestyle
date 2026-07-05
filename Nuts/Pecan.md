@@ -78,8 +78,9 @@ glycemic control due to their unique macronutrient profile.
 
 ## Cancer Prevention and Anti-Inflammatory Properties
 
-Pecans rank **highest among all nuts** in total antioxidant capacity (ORAC
-score), which is crucial for fighting chronic disease.
+Pecans rank **highest among all nuts** in total antioxidant capacity measured
+by ORAC (Oxygen Radical Absorbance Capacity) score, which is crucial for fighting 
+chronic disease.
 
 * **Antioxidant Powerhouse:** They are rich in **polyphenols** and **flavonoids
   ** that neutralize free radicals, reducing oxidative stress linked to aging

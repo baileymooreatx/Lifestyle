@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  *generated
 
 - [Hemp Hearts](#hemp-hearts)
   - [Complete Protein Profile](#complete-protein-profile)
@@ -11,6 +11,10 @@
   - [Anti-inflammatory](#anti-inflammatory)
   - [Bone Strength](#bone-strength)
   - [How to Incorporate Them](#how-to-incorporate-them)
+  - [False Positive on Drug Screening](#false-positive-on-drug-screening)
+    - [The Risk Factors](#the-risk-factors)
+    - [Screening vs. Confirmation](#screening-vs-confirmation)
+    - [Recommendations for High-Stakes Testing](#recommendations-for-high-stakes-testing)
   - [Storage](#storage)
   - [My Preferred Brand](#my-preferred-brand)
 
@@ -90,7 +94,7 @@ prevent constipation and supports a healthy microbiome.
 ## Anti-inflammatory
 
 The **GLA content** in hemp hearts acts as a natural anti-inflammatory agent.
-This can help alleviate symptoms of **eczema, dry skin, and rheumatoid 
+This can help alleviate symptoms of **eczema, dry skin, and rheumatoid
 arthritis**. The balanced fatty acid profile supports skin hydration and barrier
 function.
 
@@ -113,12 +117,63 @@ soaking and can be eaten raw. Common ways to consume them include:
 * **Hemp Milk**: Blended with water and strained to create a dairy-free milk
   alternative.
 
+## False Positive on Drug Screening
+
+It is **possible but highly unlikely** for consuming hemp hearts to cause a 
+failed drug test, provided they are from a reputable source and consumed in 
+normal dietary amounts.
+
+### The Risk Factors
+
+While hemp hearts naturally contain negligible THC, the risk of a positive test
+stems from **external contamination** rather than the seed itself.
+
+* **Surface Contamination**: Research indicates that up to **90% of THC on hemp
+  seeds sits on the surface**, acquired during harvesting or processing when
+  seeds contact resin-rich parts of the plant. Hulled hearts generally carry
+  less risk than whole seeds because the outer shell (where contamination
+  resides) is removed.
+* **Consumption Volume**: Experts suggest that an individual would need to
+  consume **very large quantities** (e.g., an entire bag or more daily) to
+  accumulate enough THC metabolites to exceed the standard federal screening
+  cutoff of **50 ng/mL**.
+* **Product Quality**: The primary variable is manufacturing. Poorly cleaned
+  seeds or products mislabeled as "hemp hearts" that actually contain flower
+  extracts can trigger positives.
+
+### Screening vs. Confirmation
+
+It is crucial to distinguish between the two stages of drug testing:
+
+1. **Initial Screening (Immunoassay)**: Hemp heart consumption *could*
+   theoretically trigger a **false positive** on this preliminary test due to
+   cross-reactivity with trace THC.
+2. **Confirmatory Testing (GC-MS)**: If a sample is sent for confirmation (which
+   is standard procedure for workplace tests before action is taken), hemp
+   hearts will **almost certainly not cause a failure**. Gas Chromatography-Mass
+   Spectrometry (GC-MS) is specific enough to distinguish between dietary trace
+   exposure and actual marijuana use.
+
+### Recommendations for High-Stakes Testing
+
+If you are subject to strict drug testing protocols (e.g., **DOT transportation,
+military, probation, or competitive sports**):
+
+* **Cease Consumption**: The safest approach is to stop eating hemp hearts and
+  other hemp-derived products **2–3 weeks** before a scheduled test to eliminate
+  any risk of accumulation.
+* **Verify Sources**: Ensure products are third-party tested and explicitly
+  state "THC-free" or comply with the **< 0.3% THC** federal limit.
+* **Disclose Usage**: If you test positive on an initial screen, immediately
+  inform the Medical Review Officer (MRO) of your dietary hemp consumption; they
+  can order the necessary confirmatory testing to clear your name.
+
 ## Storage
 
 Because of their high fat content, hemp hearts can go rancid if exposed to heat
 and light. It is best to store opened packages in the **refrigerator**, where
-they can last up to a year.  
+they can last up to a year.
 
-## My Preferred Brand  
+## My Preferred Brand
 
 [Micro Ingredients Organic Hemp Seeds Shelled Hemp Hearts ](https://www.amazon.com/dp/B0G2ZVFD3J)  

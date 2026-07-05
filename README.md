@@ -1,6 +1,7 @@
 # Lifestyle  
 
-A collection of ideas about how to improve health    
+Ideas about how to improve health and wellbeing  
+
 * [anti-inflammatory foods](Anti-inflammatoryFoods.md)  
 * [Eat more plants](Eat30Plants.md) each week to improve health and the gut 
   microbiome  
@@ -9,7 +10,8 @@ A collection of ideas about how to improve health
 * [Move](./Move.md) your body at least once an hour
 * Healthy [nut](Nuts.md) choices and nuts to avoid  
 * Which [produce to buy organic](Produce) instead of conventional  
-* High [protein](./ProteinRichFoods.md) foods not derived from animals 
+* High [protein](./ProteinRichFoods.md) foods not derived from animals  
+* Peace of [Mind](./Mind.md) with a splash of brain health  
 * [Seed](./Seeds) nutrition, preparation, and storage
 * [Sleep](Sleep.md) supplements
 * Daily [supplements](Supplements.md)  

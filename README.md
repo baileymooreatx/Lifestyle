@@ -22,6 +22,7 @@ Ideas about how to improve health and wellbeing
   * [Keto diet](HealthyDiet.md)  
 * Homemade [yogurt instructions](Yogurt.md) for special strains of gut friendly 
   bacteria  
+* [Peppers are fruit, but bananas are berries]()    
   
 ## [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
 * [Recommended daily routine](Frameworks/DailyRoutine.md)  

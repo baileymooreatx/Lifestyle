@@ -286,4 +286,5 @@ eating.
 
 ## My Preferred Brand
 
-[Yupik Organic Dry Roasted Salted Pistachios, In Shell](https://www.amazon.com/yupik-organic-salted-pistachios-snacks/dp/B07QW7MS1B/)    
+[Yupik **Organic** Dry Roasted **Salted** Pistachios, In Shell](https://www.amazon.com/yupik-organic-salted-pistachios-snacks/dp/B07QW7MS1B/)  
+[Yupik Dry Roasted **Unsalted** Pistachios, In Shell](https://www.amazon.com/yupik-roasted-pistachios-unsalted-nuts/dp/B07QW7N9N3/)  

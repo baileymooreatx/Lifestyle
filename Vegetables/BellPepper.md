@@ -4,13 +4,13 @@
 
 - [Bell Peppers](#bell-peppers)
   - [Key Nutrients](#key-nutrients)
-  - [Health Benefits by Body System](#health-benefits-by-body-system)
-    - [Immune and Cellular Health](#immune-and-cellular-health)
-    - [Eye Health](#eye-health)
-    - [Cardiovascular and Metabolic Health](#cardiovascular-and-metabolic-health)
-    - [Skin and Hair Vitality](#skin-and-hair-vitality)
+  - [Immune and Cellular Health](#immune-and-cellular-health)
+  - [Eye Health](#eye-health)
+  - [Cardiovascular and Metabolic Health](#cardiovascular-and-metabolic-health)
+  - [Skin and Hair Vitality](#skin-and-hair-vitality)
   - [Color Variations](#color-variations)
   - [Dietary Considerations](#dietary-considerations)
+  - [Organic vs. Conventional](#organic-vs-conventional)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,9 +43,7 @@ daily recommended intake (RDI)** for vitamin C, surpassing many citrus fruits.
 * **Fiber:** A medium pepper provides about 2–3 grams of fiber, aiding digestion
   and gut health.
 
-## Health Benefits by Body System
-
-### Immune and Cellular Health
+## Immune and Cellular Health
 
 The high concentration of **vitamin C** and antioxidants like **quercetin** and
 **luteolin** strengthens the immune system and protects cells from free radical
@@ -54,7 +52,7 @@ the risk of chronic diseases such as cancer and heart disease. Vitamin C also
 enhances the absorption of non-heme iron from plant foods, helping to prevent
 iron-deficiency anemia.
 
-### Eye Health
+## Eye Health
 
 Bell peppers are particularly beneficial for vision due to their carotenoid
 content. **Lutein** and **zeaxanthin**, found in high amounts in green, yellow,
@@ -62,7 +60,7 @@ and orange peppers, filter harmful blue light and protect the retina from
 age-related macular degeneration (AMD) and cataracts. Red peppers provide
 beta-carotene, which the body converts to vitamin A, essential for night vision.
 
-### Cardiovascular and Metabolic Health
+## Cardiovascular and Metabolic Health
 
 Regular consumption supports heart health through multiple mechanisms. 
 **Potassium** helps manage blood pressure, while **fiber** aids in lowering LDL
@@ -71,7 +69,7 @@ reduce inflammation and oxidative stress within the cardiovascular system.
 Additionally, bell peppers have a low glycemic index, making them suitable for
 blood sugar management.
 
-### Skin and Hair Vitality
+## Skin and Hair Vitality
 
 Nutrients in bell peppers, specifically vitamins C and E, promote collagen
 production, maintaining skin elasticity and protecting against environmental
@@ -104,3 +102,8 @@ note:
 * **Preparation:** Raw peppers retain the most vitamin C, as cooking can reduce
   this nutrient by up to 25%. However, cooking with a small amount of healthy
   fat can improve the absorption of fat-soluble vitamins like A and E.
+
+## Organic vs. Conventional  
+
+Buy organic if possible because they have thin, edible skins and are heavily 
+exposed to pesticide during growth.  

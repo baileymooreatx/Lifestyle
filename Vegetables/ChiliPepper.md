@@ -7,12 +7,13 @@
     - [Vitamins](#vitamins)
     - [Minerals](#minerals)
   - [Bioactive Compounds](#bioactive-compounds)
-  - [Health Benefits Supported by Nutrition](#health-benefits-supported-by-nutrition)
-    - [Immune Support](#immune-support)
-    - [Heart Health](#heart-health)
-    - [Metabolic Benefits](#metabolic-benefits)
-    - [Cognitive Function](#cognitive-function)
+  - [Immune Support](#immune-support)
+  - [Heart Health](#heart-health)
+  - [Metabolic Benefits](#metabolic-benefits)
+  - [Cognitive Function](#cognitive-function)
+  - [Pain Relief](#pain-relief)
   - [Important Considerations](#important-considerations)
+  - [Organic vs. Conventional](#organic-vs-conventional)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -75,36 +76,33 @@ health benefits. Research indicates capsaicin has:
 carotenoids (beta-carotene, lutein, zeaxanthin), and other polyphenols that
 protect cells from oxidative stress and may reduce the risk of chronic diseases.
 
-## Health Benefits Supported by Nutrition
-
-The impressive nutritional profile translates into multiple health advantages:
-
-### Immune Support  
+## Immune Support  
 
 The exceptional vitamin C content strengthens immune
 defenses and helps fight infections, while vitamin A maintains healthy mucosal
 barriers in respiratory, intestinal, and urinary systems.
 
-### Heart Health  
+## Heart Health  
   
 Potassium helps regulate blood pressure, while capsaicin may
 improve cholesterol profiles and enhance blood vessel function. The low sodium
 content further supports cardiovascular health.
 
-### Metabolic Benefits  
+## Metabolic Benefits  
   
 Capsaicin may slightly increase calorie burning and fat
 oxidation, supporting weight management efforts. The fiber content (1.5g per
 100g) aids digestion and promotes satiety.
 
-### Cognitive Function  
+## Cognitive Function  
   
-Iron content supports hemoglobin production and oxygen
-delivery to the brain, potentially improving cognitive performance and reducing
-dementia risk.
+Iron content supports hemoglobin production and oxygen delivery to the brain, 
+potentially improving cognitive performance and reducing dementia risk.  
 
-**Pain Relief**: Topical capsaicin applications are used for arthritis,
-neuropathy, and muscle pain due to its analgesic properties.
+## Pain Relief  
+
+Topical capsaicin applications are used for arthritis, neuropathy, and muscle 
+pain for their analgesic properties.  
 
 ## Important Considerations
 
@@ -116,4 +114,9 @@ for individuals with iron deficiency.
 
 For maximum nutritional benefit, fresh chili peppers are preferable to powdered
 forms, which may contain additives. Store fresh chilies refrigerated for up to a
-week, or dry them for longer-term storage.
+week, or dry them for longer-term storage.   
+
+## Organic vs. Conventional
+
+Buy organic if possible because they have thin, edible skins and are heavily
+exposed to pesticide during growth.  

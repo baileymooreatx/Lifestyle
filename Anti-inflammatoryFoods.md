@@ -49,7 +49,7 @@ disease, diabetes, and cancer.
 * Cilantro
 * [Cinnamon (Ceylon)](./Spices/Cinnamon.md)
 * Coconut oil
-* [Cloves](./Recipes.md)
+* [Cloves](./Spices/Clove.md)
 * [Cayenne pepper](./Spices/CayennePepper.md)
 * Echinacea
 * Fenugreek

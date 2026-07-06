@@ -52,7 +52,8 @@ disease, diabetes, and cancer.
 * [Cloves](./Spices/Clove.md)
 * [Cayenne pepper](./Spices/CayennePepper.md)
 * Echinacea
-* Fenugreek
+* Fenugreek  
+* [Fennel seeds](./Seeds/Fennel.md)  
 * [Flaxseed](Seeds/Flaxseed.md)
 * Garlic
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption

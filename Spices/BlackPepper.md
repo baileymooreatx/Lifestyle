@@ -64,7 +64,9 @@ enhances the absorption of vitamins and minerals such as **vitamin C**,
 **selenium**, **beta-carotene**, and **B-complex vitamins**.
 
 This effect is most famously observed when black pepper is consumed with
-**turmeric**; piperine can boost the absorption of curcumin (the active compound
+**[turmeric(./Turmeric.md)]**; piperine can boost the absorption of curcumin 
+(the active 
+compound
 in turmeric) by up to **2,000%**. By improving nutrient uptake, black pepper
 helps the body utilize food and supplements more effectively, maximizing the
 nutritional value of meals.

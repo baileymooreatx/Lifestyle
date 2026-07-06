@@ -29,7 +29,8 @@
 
 Listed from most effective to least effective  
 
-1. **[Saffron](./Spices/Saffron.md), turmeric, [black pepper](./Spices/BlackPepper.md), 
+1. **[Saffron](./Spices/Saffron.md), [turmeric](./Spices/Turmeric.md), 
+   [black pepper](./Spices/BlackPepper.md), 
    and [Ceylon cinnamon](./Spices/Cinnamon.md)**  
    Curcumin, crocin, piperine, and cinnamaldehyde are converted into glutathione.  
    Increases macular pigment density by 45% to 55% within 12 weeks.  
@@ -40,7 +41,8 @@ Listed from most effective to least effective
    Wait at least 20 minutes before consuming anything else.  
 2. **Saffron threads steeped in warm water**  
    Crocin and crocetin repair damaged retinal cells.  
-3. **Turmeric with black pepper and coconut oil**  
+3. **[Turmeric](./Spices/Turmeric.md) with [black pepper](./Spices/BlackPepper.md) 
+   and coconut oil**  
    Curcumin in turmeric activates the Nrf2 pathway to increase glutathione production.  
    Curcumin is fat soluble, so it needs to be consumed with fat.  
    Fat and piperine in black pepper increase bioavailability.  

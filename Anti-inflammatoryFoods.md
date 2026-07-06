@@ -83,7 +83,7 @@ disease, diabetes, and cancer.
 * Spearmint
 * St. John’s Wort
 * Thyme
-* Turmeric - pair with black pepper for enhanced absorption
+  * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
 
 ## Mechanisms of Action
 

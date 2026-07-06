@@ -135,7 +135,8 @@ cayenne offers systemic benefits:
 * **Dosage:** Incorporating **1/4 to 1/2 teaspoon** of ground cayenne into meals
   daily is a practical way to achieve anti-inflammatory effects.
 * **Synergy:** It works synergistically with other anti-inflammatory foods (like
-  turmeric and ginger) to combat chronic inflammation.
+  [turmeric](./Turmeric.md) and [ginger](./Ginger.md)) to combat chronic 
+  inflammation.
 * **Limitations:** Oral capsaicin may take longer to show effects on joint pain
   compared to topical application, and high doses can cause gastrointestinal
   discomfort in sensitive individuals.

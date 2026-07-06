@@ -21,8 +21,8 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 1. [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)
    are high in sulforaphane.  
 2. Garlic is antibacterial, antifungal, antiviral and anti-inflammatory.
-3. Turmeric is high in curcumin which is a very powerful anti-inflammatory.
-   Detoxifies heavy metals.
+3. [Turmeric](./Spices/Turmeric.md) is high in curcumin which is a very 
+   powerful anti-inflammatory. Detoxifies heavy metals.
 4. Beets protect the liver and help release bile salts.
 5. Mushrooms are high in glutathione.
 6. Avocados are anti-inflammatory and high in glutathione.
@@ -48,9 +48,14 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 6. Cruciferous vegetables
 7. Kefir contains both friendly bacteria and yeast
 8. Walnuts
-9. Chocolate chips (sugarless)
-10. Herbs: thyme, sage, oregano, [cayenne pepper](./Spices/CayennePepper.md),
-    turmeric, and rosemary
+9. Chocolate chips (sugarless)  
+10. Herbs   
+    * Thyme  
+    * Sage  
+    * Oregano  
+    * [Cayenne pepper](./Spices/CayennePepper.md)  
+    * [Turmeric](./Spices/Turmeric.md)  
+    * Rosemary
 
 ## [The 6 Best Ways to Heal a Fatty Liver](https://www.youtube.com/watch?v=i-sGhGT7ctA)
 
@@ -66,7 +71,7 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 
 ## [Supplements to Reverse Fatty Liver](https://www.youtube.com/watch?v=FS-EFkLNHRI)
 
-1. Turmeric (curcumin)
+1. [Turmeric](./Spices/Turmeric.md) (curcumin)
     * Lowers blood sugar
     * Helps with insulin sensitivity
     * Helps remedy metabolic dysfunction

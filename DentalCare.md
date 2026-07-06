@@ -47,15 +47,15 @@ Swish 1 teaspoon in your mouth for 20 minutes before rinsing.
 
 ### [Tartar Control Toothpaste](https://www.youtube.com/watch?v=TPjZvNA74ds)  
   
-| **Ingredient**                              | **Amount**            |
-|:--------------------------------------------|:----------------------|
-| Baking Soda                                 | 1/4 teaspoon          |
-| Hydrogen Peroxide 3% (food grade)           | 1/4 teaspoon          |
-| Manuka (from New Zealand) or Raw Honey      | 1/4 teaspoon          |
-| Water                                       | 1/2 cup               |
-| Turmeric                                    | pinch (1/16 teaspoon) |
-| Optional, but these are **anti-bacterial**  |                       |
-| Clove, Peppermint or Cinnamon essential oil | 3 drops               |
+| **Ingredient**                                                   | **Amount**            |
+|:-----------------------------------------------------------------|:----------------------|
+| Baking Soda                                                      | 1/4 teaspoon          |
+| Hydrogen Peroxide 3% (food grade)                                | 1/4 teaspoon          |
+| Manuka (from New Zealand) or Raw Honey                           | 1/4 teaspoon          |
+| Water                                                            | 1/2 cup               |
+| [Turmeric](./Spices/Turmeric.md)                                 | pinch (1/16 teaspoon) |
+| Optional, but these are **anti-bacterial**                       |                       |
+| [Clove](./Spices/Clove.md), Peppermint or Cinnamon essential oil | 3 drops               |
 
 Mix everything up and brush with soft bristle toothbrush, twice a day.
 Brush with mixture for one or two minutes before rinsing.
@@ -143,16 +143,16 @@ The ultra-fine 60 nm particles help re-mineralize enamel naturally.
   
 | **Ingredient**                                                     | **Amount**      |
 |:-------------------------------------------------------------------|:----------------|  
-| coconut oil (antimicrobial properties)                             | 3 tablespoons   |
-| nano hydroxyapatite powder (natural whitening & re-mineralization) | 2-3 tablespoons |
-| baking soda (gentle abrasive for stain removal)                    | 1 tablespoon    |
+| Coconut oil (antimicrobial properties)                             | 3 tablespoons   |
+| Nano hydroxyapatite powder (natural whitening & re-mineralization) | 2-3 tablespoons |
+| Baking soda (gentle abrasive for stain removal)                    | 1 tablespoon    |
 | **Natural Whitening Boosters**                                     |                 |
-| activated charcoal powder (stain absorption)                       | 1/2 teaspoon    |
-| bentonite clay (gentle polishing & detoxifying)                    | 1 teaspoon      |
-| turmeric powder (natural brightening, anti-inflammatory)           | 1/4 teaspoon    |
+| Activated charcoal powder (stain absorption)                       | 1/2 teaspoon    |
+| Bentonite clay (gentle polishing & detoxifying)                    | 1 teaspoon      |
+| Turmeric powder (natural brightening, anti-inflammatory)           | 1/4 teaspoon    |
 | **Flavor & Enhancement**                                           |                 |
-| peppermint or tea tree oil (freshening & antibacterial)            | 5-10 drops      |
-| xylitol (sweetness & cavity prevention)                            | 1-2 drops       |
+| peppermint or tea tree oil (freshening & antibacterial)            | 5 to 10 drops   |
+| xylitol (sweetness & cavity prevention)                            | 1 to 2 drops    |
 
 **Instructions**
 Mix dry ingredients first (hydroxyapatite, baking soda, clay, charcoal, turmeric).
@@ -163,4 +163,4 @@ Store in glass jar, use pea-sized amount.
 **Whitening Benefits**
 Activated charcoal absorbs surface stains from coffee, tea, wine.
 Bentonite clay gently polishes teeth and removes plaque buildup.
-Turmeric natural brightens teeth without harsh chemicals.
+[Turmeric](./Spices/Turmeric.md) natural brightens teeth without harsh chemicals.

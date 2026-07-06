@@ -4,7 +4,8 @@
 
 Listed in order from most effective to least effective
 
-1. Crushed garlic, turmeric, and [ginger](./Spices/Ginger.md) (golden paste)
+1. Crushed garlic, [turmeric](./Spices/Turmeric.md), and
+   [ginger](./Spices/Ginger.md) (golden paste)
 2. Turmeric with [black pepper](./Spices/BlackPepper.md) and [exta virgin olive oil](./Fats/ExtraVirginOliveOil.md)  
 3. Garlic with extra virgin olive oil
 4. Ginger and raw honey steeped in hot water

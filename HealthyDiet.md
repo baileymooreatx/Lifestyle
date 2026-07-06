@@ -66,17 +66,17 @@ dark, e.g. green, glass.
 
 ### [Morning](https://www.youtube.com/watch?v=dvx9lXwvm84&t=100s)
 
-| **Ingredient**                                          | **Volume**      |
-|:--------------------------------------------------------|:----------------|
-| Cranberry Juice                                         | 4 fluid oz      |
-| Water                                                   | 12 fluid oz     |
-| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon    |
-| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)  | 2 tablespoon    |
-| Lemon Juice                                             | Half of a Lemon |
-| Sea salt                                                | ½ teaspoon      |
-| **Optional spices**                                     |                 |
-| Turmeric and [Black Pepper](./Spices/BlackPepper.md)    | 1 teaspoon each |
-| [Ginger](./Spices/Ginger.md)                            | 1 teaspoon      |
+| **Ingredient**                                                                | **Volume**      |
+|:------------------------------------------------------------------------------|:----------------|
+| Cranberry Juice                                                               | 4 fluid oz      |
+| Water                                                                         | 12 fluid oz     |
+| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
+| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)                        | 2 tablespoon    |
+| Lemon Juice                                                                   | Half of a Lemon |
+| Sea salt                                                                      | ½ teaspoon      |
+| **Optional spices**                                                           |                 |
+| [Turmeric](./Spices/Turmeric.md)  and [Black Pepper](./Spices/BlackPepper.md) | 1 teaspoon each |
+| [Ginger](./Spices/Ginger.md)                                                  | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 

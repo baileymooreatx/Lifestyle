@@ -1,4 +1,28 @@
-# [Eat 30 Plants per Week](https://www.youtube.com/watch?v=BsljKKT6Y-k)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Eat 30 Plants per Week](#eat-30-plants-per-week)
+  - [Serving Suggestions](#serving-suggestions)
+  - [The American Gut Project Study](#the-american-gut-project-study)
+  - [Why Diversity Matters](#why-diversity-matters)
+  - [What Counts as a "Plant?"](#what-counts-as-a-plant)
+  - [Practical Application](#practical-application)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Eat 30 Plants per Week
+
+This is inspired by YouTube video 
+[30 Plants Per Week: The Key to Gut Health (and Why Most People Fail)](https://www.youtube.com/watch?v=BsljKKT6Y-k) 
+by [Dr. Will Bulsiewicz, The Gut Health MD](https://www.youtube.com/@theguthealthmd),  
+a triple board-certified gastroenterologist.  
+
+The recommendation to eat **30 different plants per week** is based on findings
+from the **American Gut Project** (and its UK counterpart, the **British Gut
+Project**), a large-scale citizen science study launched in 2018.
+
+## Serving Suggestions 
 
 | **Comestible**                                                                                           | **Benefits**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,3 +87,69 @@
 | Tomatoes                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [Turmeric](./Spices/Turmeric.md)                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 
 | Walnuts                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+## The American Gut Project Study
+
+The guideline stems from research led by **Tim Spector** (King’s College London)
+and scientists at the **University of California San Diego**. The study analyzed
+data from over **10,000 participants** across the US, UK, and Australia, who
+provided detailed dietary information and stool samples.
+
+Researchers discovered a strong correlation between plant diversity and gut
+health.
+
+* Participants who consumed **30 or more different plant types per week** had
+  significantly **more diverse gut microbiomes** compared to those who ate 10 or
+  fewer.
+* This diversity was observed regardless of whether participants followed
+  specific diets (e.g., vegan, vegetarian, or omnivore); the **variety** of
+  plants was more influential than the diet label itself.
+
+## Why Diversity Matters
+
+A diverse gut microbiome is linked to numerous health benefits because different
+plants provide unique types of fiber and polyphenols that feed specific
+beneficial bacteria. Key benefits associated with this diversity include:
+
+* **Stronger Immunity:** Approximately 70% of the immune system resides in the
+  gut.
+* **Disease Prevention:** Reduced risk of chronic conditions such as obesity,
+  type 2 diabetes, heart disease, and certain cancers.
+* **Mental Health:** Improved brain function and potential reduction in mental
+  health decline via the gut-brain axis.
+* **Metabolic Health:** Higher levels of short-chain fatty acids, which are
+  anti-inflammatory and protective against diabetes and obesity.
+
+## What Counts as a "Plant?"
+
+The recommendation focuses on **whole plant foods** rather than just fruits and
+vegetables. To reach the target of 30, the following categories count:
+
+1. **Fruits and Vegetables:** Different colors of the same vegetable (e.g., red
+   vs. green peppers) count as separate plants due to differing polyphenol
+   profiles.
+2. **Whole Grains:** Oats, brown rice, quinoa, barley, and whole-grain bread
+   (refined grains like white bread do not count).
+3. **Legumes:** Beans, lentils, chickpeas, and peas.
+4. **Nuts and Seeds:** Including nut butters and seeds like chia or hemp.
+5. **Herbs and Spices:** These are potent sources of polyphenols. Due to smaller
+   serving sizes, they typically count as **¼ of a point** each.
+6. **Other Plant-Derived Foods:** Coffee, tea, and dark chocolate (70% cocoa or
+   higher) also count toward the total.
+
+**Exclusions:** Refined products (white flour, white rice), fruit juices (due to
+lack of fiber), and highly processed foods do not count.
+
+## Practical Application
+
+The "30 plants" rule is designed to be an achievable goal rather than a strict
+threshold. Experts emphasize that:
+
+* **Quantity vs. Variety:** You do not need to eat large portions of each plant;
+  simply including a diverse range of ingredients throughout the week is
+  sufficient.
+* **Flexibility:** It is a guideline to encourage adding variety to your diet,
+  not a rigid rule where health benefits cease if you eat 29 plants. Even
+  increasing your intake from 10 to 20 plants yields significant benefits.
+* **Strategy:** Using frozen mixed vegetables, mixed nuts, and varying spices
+  are common strategies to boost the count without excessive cost or waste.

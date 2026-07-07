@@ -1,16 +1,11 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Eye Health](#eye-health)
-  - [Exercises](#exercises)
-  - [Supplements for Repair](#supplements-for-repair)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Eye Health  
 
-## [Exercises](https://www.youtube.com/watch?v=lBRgLSrM0gk)
+## Exercises
+
+From YouTube video 
+[How to Reverse Poor Eyesight Naturally! + Top 3 Eye Exercises To Improve Vision](https://www.youtube.com/watch?v=lBRgLSrM0gk) 
+by [Think Science](https://www.youtube.com/@ThinkScienceHD), a channel that 
+turns biology and human health into cinematic stories.  
 
 1. [Distance gazing](https://www.youtube.com/watch?v=lBRgLSrM0gk&t=366s)   
    Spend 30 to 60 minutes daily looking at far away objects. 
@@ -25,7 +20,12 @@
    closed eyes without pressing. Warmth increases blood flow to your 
    eyes. Darkness allows photoreceptors to reset.  
   
-## [Supplements for Repair](https://www.youtube.com/watch?v=vU8lA2gEiJg)  
+## Supplements for Repair
+
+From YouTube AI video 
+[Stop Eating Carrots! This Spice Actually Repairs Eyes](https://www.youtube.com/watch?v=vU8lA2gEiJg)
+by [Cureon](https://www.youtube.com/@curaxa), a channel all about diet, 
+vitamins, and nutrition to improve health and quality of life.
 
 Listed from most effective to least effective  
 
@@ -48,8 +48,8 @@ Listed from most effective to least effective
 4. **[Ceylon cinnamon](./Spices/Cinnamon.md) and raw honey**  
    Cinnamon stabilizes blood sugar.  
    Honey fights infection and reduces inflammation.  
-5. **Paprika with [black pepper](./Spices/BlackPepper.md) and [extra virgin 
-   olive oil](./Fats/ExtraVirginOliveOil.md)**  
+5. **Paprika with [black pepper](./Spices/BlackPepper.md) and 
+   [extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)**   
    Hungarian sweet paprika is a rich source of zeaxanthin.  
    Piperine in black pepper increases nutrient absorption by up to 2000%.  
    Zeaxanthin is fat soluble and very sensitive to heat. Do not cook it.  
@@ -59,7 +59,8 @@ Listed from most effective to least effective
    Taste like licorice. Estrogenic.  
    Drink one teaspoon of crushed fennel seeds steeped in hot water for eight 
    minutes thirty minutes before a meal. Consume daily.
-7. **[Ginger](./Spices/Ginger.md) and lemon (juice or zest)**  
+7. **[Ginger](./Spices/Ginger.md) and [lemon](./Fruits/Lemon.md) (juice or 
+   zest)**  
    Lemon improves absorption of the gingerols and shogaols in ginger.    
    Reduces retinal inflammation. Consume daily for 10 to 12 weeks.  
    Ginger thins blood.

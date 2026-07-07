@@ -127,5 +127,5 @@ Eating in the right order
 * Polyphenol rich foods
   * Berries
   * Pomegranate
-  * Dark chocolate (85% [cacao](./OtherFoods/Cacoa.md) or more)
+  * Dark chocolate (85% [cacao](OtherFoods/Cacao.md) or more)
 * Avocados  

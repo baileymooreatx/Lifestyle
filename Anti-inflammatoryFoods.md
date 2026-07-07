@@ -63,7 +63,7 @@ disease, diabetes, and cancer.
 * [Hemp seeds or hearts](./Seeds/HempHearts.md)
 * [Hibiscus tea](./Drinks/HibiscusTea.md)
 * Holy basil
-* Kava Kava
+* Kava kava
 * Lemon balm
 * Licorice root
 * [Matcha](./Drinks/Matcha.md)
@@ -85,7 +85,7 @@ disease, diabetes, and cancer.
 * Spearmint
 * St. John’s Wort
 * Thyme
-  * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
+* [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
 
 ## Mechanisms of Action
 

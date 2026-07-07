@@ -65,6 +65,7 @@ disease, diabetes, and cancer.
 * Holy basil
 * Kava kava
 * Lemon balm
+* [Lemons](./Fruits/Lemon.md)
 * Licorice root
 * [Matcha](./Drinks/Matcha.md)
 * [Olive oil (extra virgin)](./Fats/ExtraVirginOliveOil.md)

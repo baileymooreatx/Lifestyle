@@ -31,7 +31,8 @@
          * Berries: blueberries, strawberries, blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
          * Tart cherries  
-         * Citrus: [oranges](./Fruits/Orange.md), lemons, limes, and grapefruit  
+         * Citrus: [oranges](./Fruits/Orange.md), [lemons](./Fruits/Lemon.md),
+           limes, and grapefruit  
            Whole fruit, not juice  
          * Apples in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
@@ -68,11 +69,11 @@ dark, e.g. green, glass.
 
 | **Ingredient**                                                                | **Volume**      |
 |:------------------------------------------------------------------------------|:----------------|
-| Cranberry Juice                                                               | 4 fluid oz      |
+| Cranberry juice                                                               | 4 fluid oz      |
 | Water                                                                         | 12 fluid oz     |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
 | [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)                        | 2 tablespoon    |
-| Lemon Juice                                                                   | Half of a Lemon |
+| [Lemon](./Fruits/Lemon.md) juice                                              | Half of a Lemon |
 | Sea salt                                                                      | ½ teaspoon      |
 | **Optional spices**                                                           |                 |
 | [Turmeric](./Spices/Turmeric.md)  and [Black Pepper](./Spices/BlackPepper.md) | 1 teaspoon each |

@@ -19,22 +19,25 @@
   - [Immune and Oral Health](#immune-and-oral-health)
   - [Important Considerations for Consumption](#important-considerations-for-consumption)
   - [Preparations to Avoid or Use with Caution](#preparations-to-avoid-or-use-with-caution)
+  - [Storage](#storage)
+    - [Optimal Storage Protocol](#optimal-storage-protocol)
+    - [Freezing Discouraged](#freezing-discouraged)
   - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Cloves  
+# Cloves
 
 Cloves are nutrient-dense spice buds that offer significant nutritional value
 despite being consumed in small quantities. They are particularly renowned for
 their high concentration of **manganese**, **antioxidants**, and the bioactive
-compound **eugenol**.  
+compound **eugenol**.
 
-## Nutritional Profile  
+## Nutritional Profile
 
 A single teaspoon (approximately 2 grams) of ground cloves provides a
-concentrated source of essential micronutrients while remaining low in 
-calories.  
+concentrated source of essential micronutrients while remaining low in
+calories.
 
 | Nutrient          | Amount per 2g (1 tsp) | % Daily Value (DV) |
 |:------------------|:----------------------|:-------------------|
@@ -47,59 +50,59 @@ calories.
 | **Calcium**       | Trace                 | -                  |
 | **Magnesium**     | Trace                 | -                  |
 
-Per 100 grams, cloves are exceptionally rich in **manganese** (30.033 mg), 
+Per 100 grams, cloves are exceptionally rich in **manganese** (30.033 mg),
 **fiber** (34.2 g), **calcium** (646 mg), and **potassium** (1102 mg), though
-such large quantities are not typically consumed in a single sitting.  
+such large quantities are not typically consumed in a single sitting.
 
-## Exceptional Antioxidant Capacity  
+## Exceptional Antioxidant Capacity
 
 Cloves are among the highest-ranking spices in antioxidant capacity, primarily
 due to **eugenol**, a phenolic compound that acts as a natural antioxidant.
 Research suggests eugenol may be up to five times more effective at neutralizing
 free radicals than vitamin E. This helps reduce **oxidative stress**,
 potentially lowering the risk of chronic diseases such as heart disease, cancer,
-and diabetes.  
+and diabetes.
 
-## Lower Blood Pressure  
+## Lower Blood Pressure
 
 Cloves may help **lower blood pressure naturally**, primarily due to their high
 concentration of **eugenol**, though current evidence suggests they are most
-effective as a **complementary therapy** rather than a standalone cure.  
+effective as a **complementary therapy** rather than a standalone cure.
 
-### Mechanisms of Action  
+### Mechanisms of Action
 
 The potential blood pressure-lowering effects of cloves are attributed to
-several physiological mechanisms driven by eugenol.  
+several physiological mechanisms driven by eugenol.
 
 * **Vasodilation:** Eugenol acts as a natural calcium channel blocker,
   inhibiting calcium influx in arterial smooth muscle cells. This relaxes and
   widens blood vessels, reducing peripheral resistance and allowing blood to
-  flow more easily.  
+  flow more easily.
 * **Nitric Oxide Production:** Research indicates that eugenol enhances the
   production of nitric oxide, a signaling molecule that further promotes vessel
-  relaxation.  
+  relaxation.
 * **Antioxidant Protection:** By reducing oxidative stress and inflammation in
   the blood vessels, cloves help prevent endothelial damage, which is often a
-  precursor to hypertension.  
+  precursor to hypertension.
 
-### Scientific Evidence  
+### Scientific Evidence
 
 While traditional medicine has long used cloves for cardiovascular support,
-modern scientific findings present a nuanced picture.  
+modern scientific findings present a nuanced picture.
 
 * **Animal Studies:** Extensive research on hypertensive rats has consistently
   shown significant reductions in both systolic and diastolic blood pressure
-  following the administration of clove extract or eugenol.  
+  following the administration of clove extract or eugenol.
 * **Human Studies:** Evidence in humans is promising but limited. A small-scale
   study involving participants with mild hypertension observed a **modest but
   statistically significant decrease** in blood pressure after consuming 1 to 2
   grams of clove powder daily for four weeks. Another study noted reductions in
-  systolic pressure within two hours of consuming clove extract.  
+  systolic pressure within two hours of consuming clove extract.
 * **Limitations:** Large-scale, long-term human clinical trials are currently
   lacking. Consequently, health experts emphasize that cloves should support,
-  not replace, prescribed hypertension medications.  
+  not replace, prescribed hypertension medications.
 
-### Practical Usage and Safety  
+### Practical Usage and Safety
 
 To potentially leverage cloves for blood pressure management:
 
@@ -109,49 +112,51 @@ To potentially leverage cloves for blood pressure management:
 * **Precautions:** Because eugenol has blood-thinning properties, individuals
   taking **anticoagulants** or blood pressure medication should consult a
   healthcare provider before increasing clove intake to avoid hypotension
-  (dangerously low blood pressure) or bleeding risks.  
+  (dangerously low blood pressure) or bleeding risks.
 
-## Best Preparations for Hypertension  
+## Best Preparations for Hypertension
 
-Specific preparations of cloves are better suited for supporting healthy blood 
-pressure, with **whole cloves** and **clove tea** being the safest and most 
-recommended methods due to their controlled release of **eugenol**. The goal 
-in managing hypertension with cloves is to maximize the vasodilatory 
-benefits of eugenol while avoiding the toxicity risks associated with high 
-concentrations.  
+Specific preparations of cloves are better suited for supporting healthy blood
+pressure, with **whole cloves** and **clove tea** being the safest and most
+recommended methods due to their controlled release of **eugenol**. The goal
+in managing hypertension with cloves is to maximize the vasodilatory
+benefits of eugenol while avoiding the toxicity risks associated with high
+concentrations.
 
-### Chewing Whole Cloves (Most Effective)  
+### Chewing Whole Cloves (Most Effective)
 
-Chewing **1 or 2 whole cloves** on an empty stomach in the morning is widely 
-considered the most effective traditional method.  
+Chewing **1 or 2 whole cloves** on an empty stomach in the morning is widely
+considered the most effective traditional method.
 
-* **Mechanism:** This allows for a slow, gradual release of eugenol into the 
-  bloodstream through the mucous membranes and digestion, avoiding a sudden 
-  spike in concentration.  
-* **Benefit:** Provides a consistent, low dose that supports vascular 
+* **Mechanism:** This allows for a slow, gradual release of eugenol into the
+  bloodstream through the mucous membranes and digestion, avoiding a sudden
+  spike in concentration.
+* **Benefit:** Provides a consistent, low dose that supports vascular
   relaxation without overwhelming the liver.
 
-### Clove Tea (Gentlest Option)  
+### Clove Tea (Gentlest Option)
 
-Steeping **2 or 3 whole cloves** in hot water for 10 to 15 minutes creates a 
+Steeping **2 or 3 whole cloves** in hot water for 10 to 15 minutes creates a
 mild infusion.
-* **Mechanism:** Hot water extracts water-soluble antioxidants and a moderate 
+
+* **Mechanism:** Hot water extracts water-soluble antioxidants and a moderate
   amount of eugenol.
-* **Benefit:** Ideal for individuals with sensitive stomachs who may find 
-  chewing whole cloves too intense. It also promotes hydration, which is 
+* **Benefit:** Ideal for individuals with sensitive stomachs who may find
+  chewing whole cloves too intense. It also promotes hydration, which is
   beneficial for blood pressure management.
 * **Usage:** Limit to **1 to 2 cups daily**.
 
-### Culinary Incorporation (Safest Long-Term)  
+### Culinary Incorporation (Safest Long-Term)
 
-Adding **ground cloves** or whole buds to cooking (e.g., curries, oatmeal, 
-or smoothies).  
-* **Mechanism:** Integrates cloves into the diet as a functional food.  
-* **Benefit:** This is the safest method for long-term use, as the eugenol is 
-  diluted by other food components, virtually eliminating the risk of 
-  toxicity while still providing antioxidant support.  
+Adding **ground cloves** or whole buds to cooking (e.g., curries, oatmeal,
+or smoothies).
 
-### Summary of Recommendations  
+* **Mechanism:** Integrates cloves into the diet as a functional food.
+* **Benefit:** This is the safest method for long-term use, as the eugenol is
+  diluted by other food components, virtually eliminating the risk of
+  toxicity while still providing antioxidant support.
+
+### Summary of Recommendations
 
 | Preparation               | Dosage            | Safety Profile        | Best For                      |
 |:--------------------------|:------------------|:----------------------|:------------------------------|
@@ -160,12 +165,12 @@ or smoothies).
 | **Ground/Cooking**        | Pinch/recipe      | **Highest**           | Long-term dietary support     |
 | **Essential Oil**         | **Do Not Ingest** | **Dangerous**         | Aromatherapy only             |
 
-## Bone Health and Brain Function  
+## Bone Health and Brain Function
 
 The high **manganese** content is critical for maintaining brain function and
 forming strong bones. Manganese works alongside other minerals found in cloves,
 such as **calcium** and **phosphorus**, to support bone density and potentially
-reduce the risk of osteoporosis.  
+reduce the risk of osteoporosis.
 
 ## Digestive and Metabolic Support
 
@@ -209,6 +214,36 @@ Not all forms of cloves are safe for internal use.
   unpredictable blood thinning and hypoglycemia, especially if combined with
   prescription medications.
 
-## My Preferred Brand  
+## Storage
+
+To preserve the **nutrients** (specifically **eugenol**, the primary antioxidant
+and anti-inflammatory compound) in whole cloves, they should be stored in an
+**airtight, opaque container** in a **cool, dark, and dry pantry**.
+
+### Optimal Storage Protocol
+
+* **Container**: Use a small **glass jar with a rubber gasket** or a
+  high-quality metal tin. Avoid clear glass unless it is kept inside a dark
+  cupboard, as light degrades eugenol rapidly.
+* **Environment**: Maintain a stable temperature between **50 and 65°F 
+  (10 and 18°C)**.
+  Ensure the location is away from heat sources (stoves, ovens) and humidity (
+  sinks, dishwashers).
+* **Shelf Life**: When stored this way, whole cloves retain **89% of their
+  eugenol** and potency for **3 to 4 years**. In contrast, ground cloves lose 
+  over 50% of their potency within 12 months due to oxidation.
+
+### Freezing Discouraged 
+
+Freezing whole cloves is generally discouraged for nutrient preservation. 
+
+* **Condensation Risk**: Removing cloves from the freezer introduces **moisture
+  via condensation**, which is the primary enemy of dried spices. Moisture
+  promotes mold and accelerates the degradation of volatile oils.
+* **No Significant Benefit**: Since whole cloves naturally last 3 to 4 years 
+  in a pantry with near-total nutrient retention, freezing offers negligible
+  extension of shelf life while introducing the risk of moisture damage.
+
+## My Preferred Brand
 
 [True Organic Ceylon Whole Cloves](https://www.amazon.com/dp/B08BG5L2XG/)  

@@ -1,18 +1,17 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Saffron](#saffron)
   - [Nutritional Profile](#nutritional-profile)
   - [Key Bioactive Compounds](#key-bioactive-compounds)
-  - [Top Health Benefits](#top-health-benefits)
-    - [Mental Health and Cognitive Function](#mental-health-and-cognitive-function)
-    - [Antioxidant and Anti-Inflammatory Power](#antioxidant-and-anti-inflammatory-power)
-    - [Heart and Metabolic Health](#heart-and-metabolic-health)
-    - [Eye Health and Vision Preservation](#eye-health-and-vision-preservation)
-    - [Women's Health](#womens-health)
-    - [Weight Management and Digestion](#weight-management-and-digestion)
-  - [How to Use Saffron](#how-to-use-saffron)
+  - [Mental Health and Cognitive Function](#mental-health-and-cognitive-function)
+  - [Antioxidant and Anti-Inflammatory Power](#antioxidant-and-anti-inflammatory-power)
+  - [Heart and Metabolic Health](#heart-and-metabolic-health)
+  - [Eye Health and Vision Preservation](#eye-health-and-vision-preservation)
+  - [Women's Health](#womens-health)
+  - [Weight Management and Digestion](#weight-management-and-digestion)
+  - [Usage](#usage)
   - [Safety, Dosage, and Toxicity](#safety-dosage-and-toxicity)
   - [Storage](#storage)
     - [Prerequisites](#prerequisites)

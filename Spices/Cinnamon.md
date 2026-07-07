@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Ceylon Cinnamon](#ceylon-cinnamon)
   - [Nutritional Profile](#nutritional-profile)
@@ -17,7 +17,7 @@
   - [Cardiovascular Support](#cardiovascular-support)
   - [Ceylon vs. Cassia Cinnamon](#ceylon-vs-cassia-cinnamon)
   - [Safety and Dosage](#safety-and-dosage)
-  - [Coumarin](#coumarin)
+    - [Coumarin](#coumarin)
     - [Safety Threshold (TDI)](#safety-threshold-tdi)
     - [Practical Implications](#practical-implications)
   - [Storage](#storage)

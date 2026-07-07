@@ -24,5 +24,5 @@ Ideas about how to improve health and wellbeing
 * [Peppers are fruit, but bananas are berries]()    
   
 ## [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
-* [Recommended daily routine](Frameworks/DailyRoutine.md)  
-* [Weight loss protocol](Frameworks/WeightLossProtocol.md)  
+* [Recommended daily routine](Frameworks/DrEricBergDailyRoutine.md)  
+* [Weight loss protocol](Frameworks/DrEricBergWeightLossProtocol.md)  

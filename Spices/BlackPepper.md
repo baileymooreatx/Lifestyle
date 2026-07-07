@@ -7,10 +7,11 @@
   - [Key Bioactive Compounds](#key-bioactive-compounds)
   - [Enhanced Nutrient Absorption](#enhanced-nutrient-absorption)
   - [Digestive and Metabolic Support](#digestive-and-metabolic-support)
-  - [Optimal Storage Methods](#optimal-storage-methods)
+  - [Storage](#storage)
     - [Whole Peppercorns vs. Ground Pepper](#whole-peppercorns-vs-ground-pepper)
-  - [Critical Storage Factors](#critical-storage-factors)
-  - [What to Avoid](#what-to-avoid)
+    - [Critical Storage Factors](#critical-storage-factors)
+    - [Refrigeration Discouraged](#refrigeration-discouraged)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -82,7 +83,7 @@ slightly increase body temperature and metabolic rate. This process may aid in
 fat burning and weight management. The fiber content also contributes to
 digestive regularity and prolonged satiety.
 
-## Optimal Storage Methods
+## Storage  
 
 The **best way** to store black pepper depends on its form, but the universal
 rule is to keep it in an **airtight container** in a **cool, dark, and dry 
@@ -101,7 +102,7 @@ maintains good quality for only **1 to 2 years**. For the best flavor, it is
 highly recommended to buy whole peppercorns and grind them fresh as needed using
 a pepper mill.
 
-## Critical Storage Factors
+### Critical Storage Factors
 
 To maximize shelf life, you must protect black pepper from three main enemies:
 
@@ -115,7 +116,7 @@ To maximize shelf life, you must protect black pepper from three main enemies:
   mold growth. Always use a dry spoon or grinder, and never shake pepper over a
   steaming pot.
 
-## What to Avoid
+### Refrigeration Discouraged  
 
 **Do not refrigerate black pepper.** The humidity inside a refrigerator and the
 condensation that forms when taking the container in and out of the cold can
@@ -132,3 +133,8 @@ opening.
 | **Above Stove**       | **Very Poor**       | Heat and steam destroy potency and invite moisture.     |
 | **Refrigerator**      | **Not Recommended** | Humidity and condensation cause clumping/mold.          |
 | **Freezer**           | **Conditional**     | Only for bulk vacuum-sealed reserves; risk of moisture. |
+
+## My Preferred Brand  
+
+[True Organic Ceylon Black Peppercorns, Steam Sterilized](https://www.amazon.com/dp/B089J48L4X)  
+[True Organic Ceylong Black Pepper Ground, Fine Ground](https://www.amazon.com/dp/B088PJ849P)  

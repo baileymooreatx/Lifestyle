@@ -23,7 +23,8 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 2. Garlic is antibacterial, antifungal, antiviral and anti-inflammatory.
 3. [Turmeric](./Spices/Turmeric.md) is high in curcumin which is a very 
    powerful anti-inflammatory. Detoxifies heavy metals.
-4. Beets protect the liver and help release bile salts.
+4. [Beets](./Supplements/BeetrootPowder.md) protect the liver and help 
+   release bile salts.
 5. Mushrooms are high in glutathione.
 6. Avocados are anti-inflammatory and high in glutathione.
 7. Extra virgin olive oil is full of polyphenols and anti-inflammatory

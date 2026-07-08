@@ -24,7 +24,7 @@
       1. Vegetables  
          * Leafy greens: arugula, spinach, kale, chard, collards, lettuce    
          * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
-         * Beets, carrots, sweet potatoes, yams  
+         * [Beets](./Supplements/BeetrootPowder.md), carrots, sweet potatoes, yams  
          * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
            [onions](./Vegetables/Onion.md), leeks, and scallions  
       2. Fruits  

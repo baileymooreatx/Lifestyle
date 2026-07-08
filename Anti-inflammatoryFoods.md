@@ -36,7 +36,8 @@ disease, diabetes, and cancer.
 * Ashwagandha
 * Astragalus root
 * Avocado
-* Basil
+* Basil  
+* [Beets](./Supplements/BeetrootPowder.md)  
 * [Bell pepper](./Vegetables/BellPepper.md)
 * [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
 * [Black tea](./Drinks/BlackTea.md)  

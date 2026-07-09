@@ -41,7 +41,7 @@ Listed from most effective to least effective
 2. **[Saffron](./Spices/Saffron.md) threads steeped in warm water**  
    Crocin and crocetin repair damaged retinal cells.  
 3. **[Turmeric](./Spices/Turmeric.md) with [black pepper](./Spices/BlackPepper.md) 
-   and coconut oil**  
+   and [coconut oil](./Fats/CoconutOil.md)**  
    Curcumin in turmeric activates the Nrf2 pathway to increase glutathione production.  
    Curcumin is fat soluble, so it needs to be consumed with fat.  
    Fat and piperine in black pepper increase bioavailability.  

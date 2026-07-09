@@ -26,22 +26,22 @@ the topical antiseptic.
 
 ### [Toothpaste](https://www.youtube.com/watch?v=X9hOOqgbuNM)  
 
-| **Ingredient**                    | **Amount**   |
-|:----------------------------------|:-------------|
-| Coconut Oil                       | 1 teaspoon   |
-| Baking Soda                       | 1/2 Teaspoon |
-| Hydrogen Peroxide 3% (food grade) | 1/4 teaspoon |
-| Clove or Cinnamon essential oil   | 3 drops      |
+| **Ingredient**                      | **Amount**   |
+|:------------------------------------|:-------------|
+| [Coconut Oil](./Fats/CoconutOil.md) | 1 teaspoon   |
+| Baking Soda                         | 1/2 Teaspoon |
+| Hydrogen Peroxide 3% (food grade)   | 1/4 teaspoon |
+| Clove or Cinnamon essential oil     | 3 drops      |
 
 ### [Remove Tartar](https://www.youtube.com/watch?v=666NgzT3gl8)  
 
 See [coconut oil pulling dangers and benefits](https://www.drberg.com/blog/coconut-oil-pulling-dangers)  
 
-| Ingredient   | Imperial     | Metric (x5) |
-|:-------------|:-------------|:------------|
-| Coconut Oil  | 3 tablespoon | 222 ml      |
-| Tea Tree Oil | 4 drops      | 1 ml        |
-| Xylitol      | 1 teaspoon   | 24.64 ml    |
+| Ingredient                          | Imperial     | Metric (x5) |
+|:------------------------------------|:-------------|:------------|
+| [Coconut Oil](./Fats/CoconutOil.md) | 3 tablespoon | 222 ml      |
+| Tea Tree Oil                        | 4 drops      | 1 ml        |
+| Xylitol                             | 1 teaspoon   | 24.64 ml    |
  
 Swish 1 teaspoon in your mouth for 20 minutes before rinsing.
 
@@ -115,13 +115,13 @@ This mouthwash helps neutralize acids and balance oral pH for fresher breath.
 
 ### Basic Nano Hydroxyapatite Toothpaste
 
-| **Ingredient**                                  | **Amount**      |
-|:------------------------------------------------|:----------------|  
-| coconut oil (or carrier oil of choice)          | 3 tablespoons   |
-| nano hydroxyapatite powder                      | 2-3 tablespoons |  
-| baking soda                                     | 1 tablespoon    |
-| peppermint essential oil (optional, for flavor) | 5-10 drops      |
-| xylitol (sweetness & cavity prevention)         | 1-2 drops       |  
+| **Ingredient**                                                 | **Amount**      |
+|:---------------------------------------------------------------|:----------------|  
+| [Coconut oil](./Fats/CoconutOil.md) (or carrier oil of choice) | 3 tablespoons   |
+| Nano Hydroxyapatite Powder                                     | 2-3 tablespoons |  
+| Baking Soda                                                    | 1 tablespoon    |
+| Peppermint Essential Oil (optional, for flavor)                | 5-10 drops      |
+| Xylitol (sweetness & cavity prevention)                        | 1-2 drops       |  
 
 **Instructions**  
 Mix coconut oil and nano hydroxyapatite powder in a glass jar.  

@@ -18,7 +18,8 @@ Meals should be about four hours apart with **no snacking** in between.
 1. [Prepare for fasting](https://www.youtube.com/watch?v=fnIrkwke_M8), take the following steps
     1. Cut out carbs 7 days before fast. Go in as a fat burner not a sugar burner.
     2. Eat three meals per day with no snacking between meals.
-    3. Consume 2 tbsp each of avocado oil, coconut oil and butter for 7 days leading up to fast.
+    3. Consume 2 tbsp each of avocado oil, [coconut oil](./Fats/CoconutOil.md) 
+       and butter for 7 days leading up to fast.
 2. 12 hour fast should be baseline.  
    Do not eat three to five hours before sleeping.  
    Improves insulin signaling.  

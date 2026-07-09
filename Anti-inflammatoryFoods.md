@@ -49,7 +49,7 @@ disease, diabetes, and cancer.
 * [Chili pepper](./Vegetables/ChiliPepper.md)
 * Cilantro
 * [Cinnamon (Ceylon)](./Spices/Cinnamon.md)
-* Coconut oil  
+* [Coconut oil](./Fats/CoconutOil.md)  
 * [Coriander seeds](./Seeds/Coriander.md)  
 * [Cloves](./Spices/Clove.md)
 * [Cayenne pepper](./Spices/CayennePepper.md)

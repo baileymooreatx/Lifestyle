@@ -135,9 +135,9 @@ eliminated. To maximize the nutritional uptake of these beneficial compounds, it
 is essential to consume turmeric with **black pepper**, which contains
 **piperine**. Piperine has been shown to increase curcumin absorption by up to
 **2,000%**. Furthermore, because curcumin is fat-soluble, combining turmeric
-with
-healthy fats (such as coconut milk, olive oil, or full-fat dairy) significantly
-enhances its absorption compared to consuming it alone or with water.
+with healthy fats (such as coconut milk, olive oil, or full-fat dairy) 
+significantly enhances its absorption compared to consuming it alone or with 
+water.
 
 The primary limitation of turmeric for eye health is it cannot easily
 cross the **blood-ocular barrier** to reach eye tissues. Oral consumption of raw

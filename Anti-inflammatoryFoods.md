@@ -88,6 +88,7 @@ disease, diabetes, and cancer.
 * St. John’s Wort
 * Thyme
 * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
+* [Walnuts](./Nuts/Walnut.md)  
 
 ## Mechanisms of Action
 

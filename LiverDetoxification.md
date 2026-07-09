@@ -48,7 +48,7 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 5. Sea salt for trace minerals
 6. Cruciferous vegetables
 7. Kefir contains both friendly bacteria and yeast
-8. Walnuts
+8. [Walnuts](./Nuts/Walnut.md)  
 9. Chocolate chips (sugarless)  
 10. Herbs   
     * Thyme  

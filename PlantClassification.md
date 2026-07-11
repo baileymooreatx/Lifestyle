@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Edible Plant Classification](#edible-plant-classification)
+  - [Fruits](#fruits)
+  - [Vegetables](#vegetables)
+  - [Legumes](#legumes)
+  - [Herbs vs. Spices](#herbs-vs-spices)
+  - [Summary Comparison](#summary-comparison)
+  - [Botanical vs. Culinary Definitions](#botanical-vs-culinary-definitions)
+  - [Detailed Breakdown](#detailed-breakdown)
+    - [Fruits](#fruits-1)
+    - [Vegetables](#vegetables-1)
+    - [Legumes](#legumes-1)
+    - [Berries](#berries)
+      - [Culinary vs. Botanical Classification](#culinary-vs-botanical-classification)
+      - [Summary Table](#summary-table)
+  - [Key Overlaps and Exceptions](#key-overlaps-and-exceptions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Edible Plant Classification
 
 The botanical distinctions between plant categories rely on **botanical 

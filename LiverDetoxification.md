@@ -20,7 +20,8 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 
 1. [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)
    are high in sulforaphane.  
-2. Garlic is antibacterial, antifungal, antiviral and anti-inflammatory.
+2. [Garlic](./Vegetables/Garlic.md) is antibacterial, antifungal, antiviral and 
+   anti-inflammatory.
 3. [Turmeric](./Spices/Turmeric.md) is high in curcumin which is a very 
    powerful anti-inflammatory. Detoxifies heavy metals.
 4. [Beets](./Supplements/BeetrootPowder.md) protect the liver and help 
@@ -44,7 +45,7 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 1. Eggs are high in choline
 2. Meat for amino acids
 3. Onion
-4. Garlic
+4. [Garlic](./Vegetables/Garlic.md)
 5. Sea salt for trace minerals
 6. Cruciferous vegetables
 7. Kefir contains both friendly bacteria and yeast

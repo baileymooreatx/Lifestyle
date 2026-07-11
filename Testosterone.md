@@ -52,13 +52,13 @@ Pomegranate juice lowers **cortisol** (a stress hormone that inhibits
 testosterone) and boosts testosterone levels. It also improves blood flow and
 mood.
 
-### 6. Garlic and Onions
+### 6. [Garlic](./Vegetables/Garlic.md) and [Onions](./Vegetables/Onion.md)
 
 Both contain compounds like **allicin** and **diallyl disulfide** that reduce
 cortisol and stimulate testosterone-producing hormones. They also improve sperm
 quality.
 
-### 7. Avocados and Nuts
+### 7. Avocados and [Nuts](./Nuts.md)
 
 These provide **monounsaturated fats** and **vitamin B6**, which support hormone
 production and lower LDL cholesterol, creating a better environment for
@@ -83,6 +83,6 @@ Certain foods can lower testosterone levels:
 Diet alone isn't enough. Combine these foods with:
 
 - **Regular exercise** (especially strength training)
-- **Adequate sleep** (7-9 hours nightly)
+- **Adequate sleep** (7 to 9 hours nightly)
 - **Stress management**
 - **Maintaining a healthy weight**

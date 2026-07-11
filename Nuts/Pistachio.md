@@ -268,16 +268,17 @@ The storage location dictates the shelf life and nutrient retention:
   pistachios are completely dry before sealing. In humid climates, consider
   adding a food-safe desiccant packet to the container.
 * **Odor Isolation:** Pistachios are porous and will absorb strong odors from
-  foods like onions, garlic, or cheese. Always store them separately in sealed
-  vessels to maintain their natural flavor profile.
+  foods like [onions](../Vegetables/Onion.md), [garlic](../Vegetables/Garlic.md) 
+  cheese. Always store them separately in sealed vessels to maintain their 
+  natural flavor profile.
 
 ### Shelf Life Summary Table
 
 | Storage Method   | Container Type     | Estimated Shelf Life  | Best For              |
 |:-----------------|:-------------------|:----------------------|:----------------------|
-| **Pantry**       | Airtight Jar/Bag   | 2 weeks  to  3 months | Immediate consumption |
-| **Refrigerator** | Airtight Container | 6  to  12 months      | Regular snacking      |
-| **Freezer**      | Vacuum-Sealed Bag  | 1  to  2 years        | Bulk storage          |
+| **Pantry**       | Airtight Jar/Bag   | 2 weeks to 3 months   | Immediate consumption |
+| **Refrigerator** | Airtight Container | 6 to 12 months        | Regular snacking      |
+| **Freezer**      | Vacuum-Sealed Bag  | 1 to 2 years          | Bulk storage          |
 
 **Note on Shells:** Keeping pistachios **in their shells** provides a natural
 barrier against oxygen and light, extending their freshness compared to shelled

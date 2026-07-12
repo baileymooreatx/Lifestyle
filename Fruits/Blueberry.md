@@ -24,6 +24,7 @@
     - [Higher Antioxidant Content](#higher-antioxidant-content)
     - [Special Considerations for Children](#special-considerations-for-children)
     - [Is the Price Premium Worth It?](#is-the-price-premium-worth-it)
+  - [My Preferred Brands](#my-preferred-brands)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -295,3 +296,7 @@ frequently or by children.
   post-harvest sprays to maintain appearance during transport. However, **frozen
   organic** remains the gold standard for both low pesticides and high nutrient
   retention.
+
+## My Preferred Brands  
+[Good & Gather Frozen Wild Blueberries](https://www.target.com/p/frozen-wild-blueberries-40oz-good-38-gather-8482/-/A-54540667)    
+[Wyman's Fresh Frozen Wild Blueberries](https://www.target.com/p/wyman-s-fresh-frozen-wild-blueberries-3lb/-/A-52164684)  

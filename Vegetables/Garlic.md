@@ -3,7 +3,6 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Garlic](#garlic)
-  - [Nutritional Profile and Key Compounds](#nutritional-profile-and-key-compounds)
   - [Major Health Benefits](#major-health-benefits)
     - [Cardiovascular Support](#cardiovascular-support)
     - [Immune System Enhancement](#immune-system-enhancement)
@@ -19,6 +18,11 @@
     - [Diabetes and Blood Pressure Medications](#diabetes-and-blood-pressure-medications)
   - [Surgical Considerations](#surgical-considerations)
   - [Summary of Risks](#summary-of-risks)
+  - [Organic vs. Conventional](#organic-vs-conventional)
+    - [Production and Chemical Exposure](#production-and-chemical-exposure)
+    - [Nutritional Value and Flavor](#nutritional-value-and-flavor)
+    - [Cost, Availability, and Storage](#cost-availability-and-storage)
+    - [Environmental Impact](#environmental-impact)
   - [Storage](#storage)
     - [Whole Bulbs](#whole-bulbs)
     - [Peeled or Crushed Garlic](#peeled-or-crushed-garlic)
@@ -29,14 +33,12 @@
     - [Outdoor Planting Guide](#outdoor-planting-guide)
     - [Care and Harvest](#care-and-harvest)
     - [Indoor Planting Guide](#indoor-planting-guide)
-  - [Garlic Greens vs. Full Bulbs](#garlic-greens-vs-full-bulbs)
-  - [Essential Steps for Indoor Success](#essential-steps-for-indoor-success)
+    - [Garlic Greens vs. Full Bulbs](#garlic-greens-vs-full-bulbs)
+    - [Essential Steps for Indoor Success](#essential-steps-for-indoor-success)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Garlic
-
-## Nutritional Profile and Key Compounds
 
 Garlic is a nutrient-dense food that provides essential vitamins and minerals
 with very few calories. A single raw clove (approximately 3 grams) contains
@@ -231,11 +233,84 @@ before surgical procedures.
 | **Antihypertensives**         | Hypotension (low blood pressure) | **Moderate**      |
 | **Surgery**                   | Excessive bleeding               | **High**          |
 
+## Organic vs. Conventional
+
+Organic and conventionally grown garlic differ primarily in farming practices,
+pesticide exposure, and environmental impact, while offering similar core
+nutritional benefits. **Organic garlic** is cultivated without synthetic
+chemicals, resulting in significantly lower pesticide residues but a higher cost
+and shorter shelf life. **Conventional garlic** is more affordable and widely
+available, often treated to prevent sprouting, though it may contain trace
+synthetic residues that are generally considered safe after peeling.
+
+| Feature                  | Organic Garlic                              | Conventional Garlic                             |
+|:-------------------------|:--------------------------------------------|:------------------------------------------------|
+| **Pesticide Use**        | Prohibited (uses natural alternatives)      | Synthetic pesticides/fungicides permitted       |
+| **Residue Risk**         | Undetectable or trace levels (50–80% lower) | May contain trace residues (avg. 4.2 compounds) |
+| **Nutrition**            | Comparable; potentially higher antioxidants | Comparable; sometimes higher protein/fiber      |
+| **Flavor**               | Often described as more robust/complex      | Mild to standard; varies by variety             |
+| **Shelf Life**           | Shorter (sprouts sooner)                    | Longer (often treated with sprout inhibitors)   |
+| **Cost**                 | 20–50% higher                               | Lower; budget-friendly                          |
+| **Environmental Impact** | Promotes soil health & biodiversity         | Potential for soil degradation/runoff           |
+
+### Production and Chemical Exposure
+
+Organic garlic is grown in chemical-free soil using compost, crop rotation, and 
+natural pest control, adhering to strict standards like USDA Organic. This 
+eliminates synthetic inputs, reducing the risk of harmful residues.  
+
+Conversely, conventional garlic utilizes synthetic fertilizers and pesticides 
+to maximize yield and control pests. While regulatory bodies deem residue levels 
+on conventional garlic safe for consumption, peeling and washing are recommended 
+to minimize exposure. Studies indicate organic garlic has up to **80% lower
+pesticide residues** than conventional counterparts.
+
+### Nutritional Value and Flavor
+
+Nutritionally, both types are potent sources of antioxidants, vitamins, and
+sulfur compounds like allicin. Research presents mixed findings: some studies
+suggest organic garlic may have **higher antioxidant levels** due to plant
+stress responses in chemical-free environments, while others show conventional
+garlic having slightly higher protein or fiber content. Ultimately, the
+nutritional difference is often negligible for the average consumer.
+
+Flavor is subjective but frequently cited as a differentiator. Enthusiasts often
+describe organic garlic as having a **deeper, more complex flavor profile**,
+attributed to nutrient-rich soil and slower growth. Conventional garlic is
+reliable and flavorful but can taste milder or more standardized. Freshness and
+variety (e.g., hardneck vs. softneck) often influence taste more than farming
+methods alone.
+
+### Cost, Availability, and Storage
+
+**Cost and Accessibility**: Conventional garlic is the clear winner for
+budget-conscious shoppers, being widely available year-round at a lower price
+point. Organic garlic commands a **20–50% price premium** due to labor-intensive
+farming and certification costs, and it may be less available in certain
+regions.
+
+**Storage and Shelf Life**: Conventional garlic often has a distinct advantage
+in longevity. It is frequently treated with sprout inhibitors (like maleic
+hydrazide) or irradiation to delay spoilage, making it ideal for bulk storage.
+Organic garlic, lacking these chemical treatments, follows a natural aging
+process and tends to **sprout sooner**, requiring use within a few weeks for
+optimal quality.
+
+### Environmental Impact
+
+For eco-conscious consumers, organic garlic is the superior choice. Its
+production supports **sustainable farming practices**, enhances soil
+biodiversity, and prevents chemical runoff into water systems. Conventional
+farming, while efficient, can contribute to soil erosion and biodiversity loss
+if not managed with sustainable techniques. However, some conventional farmers
+are increasingly adopting integrated pest management to reduce their ecological
+footprint.
+
 ## Storage
 
 ### Whole Bulbs
 
-To preserve the highest levels of **allicin** and nutrients in fresh garlic, *
+To preserve the highest levels of **allicin** and nutrients in fresh garlic, 
 **whole, unpeeled bulbs** should be stored at **room temperature** rather than
 in the refrigerator. The ideal environment is **cool (60–65°F / 15–18°C), dark,
 dry, and well-ventilated**.
@@ -354,7 +429,7 @@ goals.
 * **Garlic greens** are easy and fast.
 * **Full bulbs** require patience and strong light.
 
-## Garlic Greens vs. Full Bulbs
+### Garlic Greens vs. Full Bulbs
 
 **Garlic Greens (Recommended for Beginners)**
 Growing garlic for its green shoots is highly successful indoors. You can
@@ -373,7 +448,7 @@ months** and requires:
   fridge) before planting to mimic winter, which triggers bulb formation.
   Without this, you may only get leaves.
 
-## Essential Steps for Indoor Success
+### Essential Steps for Indoor Success
 
 1. **Choose the Right Variety**: Select **softneck varieties** (e.g.,
    *Silverskin*, *California Early*) as they adapt better to warm indoor

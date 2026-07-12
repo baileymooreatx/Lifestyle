@@ -16,6 +16,7 @@
       - [Fruits](#fruits-1)
       - [Vegetables](#vegetables-1)
   - [🫧 Why these are “cleaner”](#%F0%9F%AB%A7-why-these-are-cleaner)
+  - [Environmental Impact of Buying Organic](#environmental-impact-of-buying-organic)
   - [Produce Sticker Codes](#produce-sticker-codes)
   - [Nontoxic Vegetable Wash](#nontoxic-vegetable-wash)
     - [Hydrogen Peroxide kills bacteria](#hydrogen-peroxide-kills-bacteria)
@@ -135,7 +136,23 @@ based on data from the **Environmental Working Group**.
 * Less residue detected in testing
 
 👉 Many are peeled before eating, which reduces exposure even more
-  
+
+## Environmental Impact of Buying Organic  
+
+Choosing organic supports broader ecological goals. Organic farming prohibits
+the use of synthetic fertilizers and most synthetic pesticides, which leads to
+several environmental advantages.
+
+* **Soil Health:** Organic practices promote biodiversity and maintain healthier
+  soil structures.
+* **Water Quality:** By avoiding chemical runoff, organic farming reduces water
+  pollution.
+* **Biodiversity:** The absence of harsh chemicals protects pollinators like
+  bees and other beneficial insects.
+
+In contrast, conventional farming is associated with soil degradation and
+potential harm to local ecosystems due to chemical leaching.
+
 ## [Produce Sticker Codes](https://en.wikipedia.org/wiki/Price_look-up_code)  
 
 [Price Look-Up (PLU) codes](https://plufinder.com/) are 4 or 5-digit numbers that identify 

@@ -1,6 +1,6 @@
 # Protein rich foods  
 
-* Almonds  
+* [Almonds](./Nuts/Almond.md)  
 * Black beans  
 * Brown rice protein  
 * [Chia seeds](./Seeds/Chia.md)  

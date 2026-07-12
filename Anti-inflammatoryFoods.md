@@ -33,6 +33,7 @@ disease, diabetes, and cancer.
 
 ## Alphabetical List  
 
+* [Almonds](./Nuts/Almond.md)  
 * Ashwagandha
 * Astragalus root
 * Avocado

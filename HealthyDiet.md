@@ -51,7 +51,7 @@
    2. Avocados and Avocado oil (cold pressed and tested)   
    3. [Coconut oil](./Fats/CoconutOil.md) is good for cooking at high temperature.  
    4. Grass fed butter or ghee, beef tallow  
-   5. Nuts: [Walnuts](./Nuts/Walnut.md), Almonds, Brazil nuts  
+   5. Nuts: [Walnuts](./Nuts/Walnut.md), [Almonds](./Nuts/Almond.md), Brazil nuts  
       Limit Brazil nuts are very high in Selenium
    6. Seeds
       * [Flaxseed](Seeds/Flaxseed.md)  

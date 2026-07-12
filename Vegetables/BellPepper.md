@@ -11,6 +11,10 @@
   - [Color Variations](#color-variations)
   - [Dietary Considerations](#dietary-considerations)
   - [Organic vs. Conventional](#organic-vs-conventional)
+    - [Pesticide Residue Concerns](#pesticide-residue-concerns)
+    - [Nutritional Differences](#nutritional-differences)
+    - [Taste and Quality](#taste-and-quality)
+    - [Making an Informed Choice](#making-an-informed-choice)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -105,5 +109,80 @@ note:
 
 ## Organic vs. Conventional  
 
-Buy organic if possible because they have thin, edible skins and are heavily 
-exposed to pesticide during growth.  
+The primary recommendation to buy organic bell peppers stems from their
+consistently high levels of **pesticide residue** when grown conventionally.
+Because they have thin, edible skins that absorb chemicals easily, they
+frequently appear on the 
+[Environmental Working Group's "Dirty Dozen" list](https://static.ewg.org/upload/pdf/EWG_SG-26_Guide-Print_C02.pdf), 
+making them a top priority for organic purchase to minimize chemical exposure.  
+
+### Pesticide Residue Concerns
+
+Conventional bell peppers are heavily treated with synthetic pesticides and
+herbicides to protect the crop from insects. Unlike produce with thick, 
+inedible peels (like avocados or pineapples), bell peppers are eaten whole, 
+meaning consumers ingest any residues present on the skin.
+
+Data from the Environmental Working Group indicates that nearly **90% of
+conventional sweet bell pepper samples** test positive for pesticide residues.
+These residues can include multiple types of chemicals, including oxamyl, a
+highly toxic carbamate. While regulatory bodies state that residue levels on
+conventional produce are within "safe" limits, the argument for organic focuses
+on reducing **cumulative chemical exposure**, particularly for vulnerable groups
+like pregnant women and young children. Washing conventional peppers helps
+remove surface residue but cannot eliminate chemicals that have been absorbed
+into the flesh.
+
+### Nutritional Differences
+
+Beyond pesticide avoidance, organic bell peppers may offer enhanced nutritional
+benefits, though the data is sometimes debated.
+
+* **Higher Antioxidant Levels:** Research, including a notable Polish study
+  published in the *Journal of the Science of Food and Agriculture*, found that
+  organic bell peppers contain **significantly higher levels of vitamin C,
+  carotenoids, and phenolic compounds** compared to conventional varieties.
+* **Soil Health:** Proponents suggest that organic farming practices, which
+  focus on building healthy soil without synthetic fertilizers, allow plants to
+  develop stronger natural defenses, resulting in higher antioxidant production.
+
+However, some experts note that while these differences exist, the most critical
+health factor is simply consuming a high volume of fruits and vegetables,
+regardless of farming method.
+
+### Taste and Quality
+
+Many consumers and chefs report that organic bell peppers possess a **superior,
+more robust flavor**. This difference is often attributed to two factors:
+
+1. **Growing Conditions:** Healthier soil may contribute to a more complex
+   flavor profile.
+2. **Ripeness and Handling:** Organic produce is often sourced from smaller,
+   local farms that harvest peppers closer to peak ripeness. Conventional
+   peppers are frequently picked early to withstand long-distance shipping and
+   extended shelf life, which can compromise texture and taste.
+
+That said, freshness and variety often play a larger role in flavor than the
+farming method alone.
+
+### Making an Informed Choice
+
+Deciding whether to buy organic bell peppers involves balancing health
+priorities, budget, and environmental values.
+
+* **Prioritize Organic:** If minimizing pesticide exposure is your top concern,
+  especially for children or during pregnancy, organic is the clear choice given
+  the high residue rates on conventional peppers.
+* **Budget Strategy:** If cost is a constraint, consider buying **frozen organic
+  bell peppers**, which are often cheaper than fresh and retain high nutritional
+  value. Alternatively, focus your organic budget on the 
+  "[Dirty Dozen](../Produce.md#dirty-dozen)" items, 
+  including bell peppers, and buy conventional for produce with thick skins.
+* **[Washing](../Produce.md#nontoxic-vegetable-wash):** 
+  If buying conventional, wash peppers thoroughly under running
+  water to reduce surface residues, acknowledging that this will not remove all
+  chemicals.
+
+Ultimately, while organic bell peppers offer distinct advantages in safety and
+potential nutrition, eating plenty of vegetables (organic or conventional) 
+remains the most important factor for a healthy diet.

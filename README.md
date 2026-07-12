@@ -15,7 +15,7 @@ Ideas about how to improve health and wellbeing
 * [Seed](./Seeds) nutrition, preparation, and storage  
 * [Sleep](Sleep.md) supplements  
 * Daily [supplements](./Supplements/Supplements.md)  
-* Brew a perfect cup of [Tea](Tea.md)  
+* Brew a perfect cup of [Tea](./Drinks/Tea.md)  
 * Great reasons to take a [walk](Walking.md) every day  
 * Weight Loss  
   * [Intermittent Fasting](Fasting.md)  

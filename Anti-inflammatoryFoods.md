@@ -41,6 +41,7 @@ disease, diabetes, and cancer.
 * [Bell pepper](./Vegetables/BellPepper.md)
 * [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
 * [Black tea](./Drinks/BlackTea.md)  
+* [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries
 * [Cacao](OtherFoods/Cacao.md)  
 * Calendula
 * Cat’s claw

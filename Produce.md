@@ -28,7 +28,7 @@ Buy organic, if possible.
 
 ### Fruits  
 🍎 Apples  
-🫐 Blueberries  
+🫐 [Blueberries](./Fruits/Blueberry.md)  
 🍒 Cherries  
 🍇 Grapes  
 🍑 Peaches  

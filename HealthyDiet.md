@@ -28,7 +28,8 @@
          * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
            [onions](./Vegetables/Onion.md), leeks, and scallions  
       2. Fruits  
-         * Berries: blueberries, strawberries, blackberries, raspberries  
+         * Berries: [blueberries](./Fruits/Blueberry.md), strawberries,
+           blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
          * Tart cherries  
          * Citrus: [oranges](./Fruits/Orange.md), [lemons](./Fruits/Lemon.md),

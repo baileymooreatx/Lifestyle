@@ -4,14 +4,17 @@
 
 - [Produce](#produce)
   - [Dirty Dozen](#dirty-dozen)
-    - [Fruits](#fruits)
-    - [Vegetables](#vegetables)
+    - [Sorted Alphabetically by Type](#sorted-alphabetically-by-type)
+      - [Fruits](#fruits)
+      - [Vegetables](#vegetables)
     - [Why these are higher risk](#why-these-are-higher-risk)
-    - [Wash these in a Baking soda soak (Sodium bicarbonate)](#wash-these-in-a-baking-soda-soak-sodium-bicarbonate)
+    - [Soak in Baking Soda](#soak-in-baking-soda)
       - [🥬 For leafy greens (spinach, kale)](#%F0%9F%A5%AC-for-leafy-greens-spinach-kale)
       - [🍓 For berries](#-for-berries)
   - [Clean Fifteen](#clean-fifteen)
-    - [Fruits & vegetables](#fruits--vegetables)
+    - [Sorted Alphabetically by Type](#sorted-alphabetically-by-type-1)
+      - [Fruits](#fruits-1)
+      - [Vegetables](#vegetables-1)
   - [🫧 Why these are “cleaner”](#%F0%9F%AB%A7-why-these-are-cleaner)
   - [Produce Sticker Codes](#produce-sticker-codes)
   - [Nontoxic Vegetable Wash](#nontoxic-vegetable-wash)
@@ -22,32 +25,53 @@
 
 # Produce
 
+This information is based on the Environmental Working Group's 2026 
+[Shopper's Guide to Pesticides in Produce](https://static.ewg.org/upload/pdf/EWG_SG-26_Guide-Print_C02.pdf).    
+
 ## Dirty Dozen  
 Produce that is most contaminated with pesticides.  
 Buy organic, if possible.  
 
-### Fruits  
+1. Spinach
+2. Kale, collard & mustard greens
+3. Strawberries  
+4. Grapes  
+5. Nectarines  
+6. Peaches  
+7. Cherries  
+8. Apples  
+9. Blackberries  
+10. Pears  
+11. Potatoes
+12. Blueberries, Green beans, and Bell & hot peppers
+
+### Sorted Alphabetically by Type
+
+#### Fruits  
 🍎 Apples  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blackberries  
 🫐 [Blueberries](./Fruits/Blueberry.md)  
 🍒 Cherries  
 🍇 Grapes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nectarines   
 🍑 Peaches  
 🍐Pears  
 🍓 Strawberries  
   
-### Vegetables
+#### Vegetables
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spinach  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kale, collard & mustard greens  
-🫑 Bell peppers & 🌶️ hot peppers  
+🫑 Bell peppers  
+🌶️ Hot peppers  
 🫛 Green beans  
-🍅 Tomatoes  
+🥔 Potatoes  
 
 ### Why these are higher risk
 * Thin or edible skins
 * More pesticide exposure during growth
 * Harder to wash completely (especially leafy greens)
 
-### Wash these in a Baking soda soak (Sodium bicarbonate)
+### Soak in Baking Soda  
 Fill a bowl with water
 Add 1 teaspoon baking soda per 2 cups water
 Soak produce for 10–15 minutes
@@ -56,35 +80,55 @@ Rinse thoroughly under running water
 👉 Research shows this helps break down some pesticide residues better than water alone
 
 #### 🥬 For leafy greens (spinach, kale)
-* Separate leaves
-* Soak and rinse multiple times
+* Separate leaves  
+* Soak and rinse multiple times  
 
 #### 🍓 For berries
-* Rinse gently under running water
-* Skip soaking too long (they get mushy)
+* Rinse gently under running water  
+* Skip soaking too long (they get mushy)  
 
 ## Clean Fifteen
 produce items that tend to have the **lowest pesticide residues**, 
 based on data from the **Environmental Working Group**.
 👉 These are generally safer to buy **conventional (non-organic)**:
 
-### Fruits & vegetables
+1. Pineapple  
+2. Sweet corn  
+3. Avocados  
+4. Papaya  
+5. Onions
+6. Sweet peas  
+7. Asparagus  
+8. Cabbage  
+9. Cauliflower  
+10. Watermelon  
+11. Mangoes  
+12. Bananas   
+13. Carrots  
+14. Mushrooms  
+15. Kiwi  
+
+### Sorted Alphabetically by Type
+
+#### Fruits  
+🍌 Bananas  
+🥝 Kiwi  
+🥭 Mangoes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Papaya  
+🍍 Pineapple  
+🍉 Watermelon  
+
+#### Vegetables
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asparagus  
 🥑 Avocados  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cabbage  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cauliflower  
 🥕 Carrots  
-🍈 Honeydew melon  
-🥝 Kiwi  
-🥭 Mangoes  
 🍄‍🟫 Mushrooms  
 🧅 Onions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Papaya  
-🍍 Pineapple  
 🌽 Sweet corn  
-🫛 Sweet peas (frozen)  
-🍠 Sweet potatoes  
-🍉 Watermelon  
-  
+🫛 Sweet peas  
+ 
 ## 🫧 Why these are “cleaner”
 * Thick skins (like avocados, pineapple)
 * Lower pesticide use
@@ -130,7 +174,7 @@ Be sure to include enough water so that the entire head of broccoli is
 completely submerged. For example, if you put 3 cups (710 mL) of water into the bowl, then 
 you would add 1 cup (240 mL) of white vinegar.
 
-Place the broccoli in the solution to soak for 15-20 minutes.  
+Place the broccoli in the solution to soak for 15 to 20 minutes.  
 Swirl the broccoli around the bowl a few times to loosen any larger debris, 
 and then let the vegetable sit undisturbed. While it’s soaking, you can 
 prepare other parts of your meal. 

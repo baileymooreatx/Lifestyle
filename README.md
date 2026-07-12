@@ -9,7 +9,7 @@ Ideas about how to improve health and wellbeing
 * Improve [liver health](LiverDetoxification.md)  
 * Peace of [mind](./Mind.md) with a splash of brain health  
 * [Move](./Move.md) your body at least once an hour  
-* Healthy [nut](Nuts.md) choices and nuts to avoid  
+* Healthy [nut](Nuts/Nuts.md) choices and nuts to avoid  
 * Which [produce to buy organic](Produce) instead of conventional  
 * High [protein](./ProteinRichFoods.md) foods not derived from animals  
 * [Seed](./Seeds) nutrition, preparation, and storage  

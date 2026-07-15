@@ -43,8 +43,9 @@ testosterone.
 
 ### 4. Spinach and Dark Leafy Greens
 
-High in **magnesium**, spinach helps increase free testosterone by preventing it
-from binding to proteins. Other greens like kale offer similar benefits.
+High in **magnesium**, [spinach](./Vegetables/Spinach.md) helps increase free 
+testosterone by preventing it from binding to proteins. Other greens like kale 
+offer similar benefits.
 
 ### 5. Pomegranate
 

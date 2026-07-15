@@ -22,7 +22,8 @@
    3. Avoid boxes and barcodes by eating lots of plants.  
       See [Eat 30 plants per week](Eat30Plants.md).  
       1. Vegetables  
-         * Leafy greens: arugula, spinach, kale, chard, collards, lettuce    
+         * Leafy greens: arugula, [spinach](./Vegetables/Spinach.md), kale, 
+           chard, collards, lettuce    
          * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
          * [Beets](./Supplements/BeetrootPowder.md), carrots, sweet potatoes, yams  
          * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 

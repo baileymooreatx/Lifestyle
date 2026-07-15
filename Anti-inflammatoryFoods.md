@@ -85,7 +85,7 @@ disease, diabetes, and cancer.
 * Sage
 * [Saffron](./Spices/Saffron.md)
 * [Sunflower seeds](./Seeds/Sunflower.md)
-* Spinach
+* [Spinach](./Vegetables/Spinach.md)  
 * Spearmint
 * St. John’s Wort
 * Thyme

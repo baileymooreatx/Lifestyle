@@ -46,9 +46,10 @@ definition of a fruit.
 
 * **Roots:** Carrots, beets, radishes  
 * **Stems:** Celery, asparagus, rhubarb  
-* **Leaves:** Spinach, lettuce, kale  
+* **Leaves:** [Spinach](./Vegetables/Spinach.md), lettuce, kale  
 * **Flowers:** Broccoli, cauliflower  
-* **Tubers/Bulbs:** Potatoes, onions, garlic  
+* **Tubers/Bulbs:** Potatoes, [onions](./Vegetables/Onion.md),
+  [garlic](./Vegetables/Garlic.md)  
 
 ## Legumes
 

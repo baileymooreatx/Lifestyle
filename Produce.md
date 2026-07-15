@@ -38,7 +38,7 @@ If budget is a limitation, focus on organic version of the Dirty Dozen.
 Produce that is most contaminated with pesticides.  
 Buy organic, if possible.  
 
-1. Spinach
+1. [Spinach](./Vegetables/Spinach.md)  
 2. Kale, collard & mustard greens
 3. Strawberries  
 4. Grapes  
@@ -65,7 +65,7 @@ Buy organic, if possible.
 🍓 Strawberries  
   
 #### Vegetables
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spinach  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Spinach](./Vegetables/Spinach.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kale, collard & mustard greens  
 🫑 Bell peppers  
 🌶️ Hot peppers  

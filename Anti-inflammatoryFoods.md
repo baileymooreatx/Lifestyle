@@ -63,6 +63,7 @@ disease, diabetes, and cancer.
 * [Ginger](./Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
 * Green tea
+* [Hazelnuts](./Nuts/Hazelnut.md)  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md)
 * [Hibiscus tea](./Drinks/HibiscusTea.md)
 * Holy basil

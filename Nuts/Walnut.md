@@ -7,7 +7,7 @@
   - [Heart Health and Cholesterol Management](#heart-health-and-cholesterol-management)
   - [Brain Function and Cognitive Protection](#brain-function-and-cognitive-protection)
   - [Gut Microbiome Support](#gut-microbiome-support)
-  - [Anti-Inflammatory and Antioxidant Power](#anti-inflammatory-and-antioxidant-power)
+  - [Anti-Inflammatory and Antioxidant](#anti-inflammatory-and-antioxidant)
   - [Specific Benefits by Demographic](#specific-benefits-by-demographic)
   - [Recommended Intake and Usage](#recommended-intake-and-usage)
   - [Storage](#storage)
@@ -74,7 +74,7 @@ those associated with reduced inflammation and improved metabolic health. A
 healthy gut microbiome is linked to better immune function and even mental
 health regulation.
 
-## Anti-Inflammatory and Antioxidant Power
+## Anti-Inflammatory and Antioxidant  
 
 Walnuts possess higher antioxidant activity than any other common nut. Their
 skins are rich in **polyphenols**, **melatonin**, and **vitamin E**, which

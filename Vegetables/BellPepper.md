@@ -27,7 +27,7 @@ bell
 peppers lack capsaicin, making them sweet and non-irritating while still
 providing robust nutritional value.
 
-## Key Nutrients
+## Nutritional Profile  
 
 Bell peppers are low in calories but rich in essential vitamins, minerals, and
 fiber. A single medium red bell pepper provides approximately **169% of the

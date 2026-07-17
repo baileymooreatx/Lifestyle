@@ -33,9 +33,10 @@ Botanically, a **fruit** is the mature ovary of a flowering plant, developed
 from a fertilized flower to protect and disperse seeds. Any edible structure
 containing seeds that grows from a flower is a fruit.
 
-* **Examples:** Apples, berries, and melons (culinary fruits); also tomatoes,
-  cucumbers, peppers, pumpkins, and eggplants (botanical fruits often treated as
-  vegetables).
+* **Examples:** Apples, berries, and melons (culinary fruits); also 
+  [tomatoes](./Vegetables/Tomato.md), cucumbers, 
+  [peppers](./Vegetables/ChiliPepper.md), pumpkins, and eggplants (botanical 
+  fruits often treated as vegetables).
 * **Key Trait:** Presence of seeds and origin from a flower.
 
 ## Vegetables  
@@ -164,7 +165,7 @@ a **single flower with one ovary**, where the entire outer wall ripens into a
 fleshy pericarp with seeds embedded inside.  
 
 * **True Botanical Berries:** Surprisingly, this category includes bananas,
-  grapes, tomatoes, kiwis, avocados, and blueberries.  
+  grapes, [tomatoes](./Vegetables/Tomato.md), kiwis, avocados, and blueberries.  
 * **Not True Berries:** Common culinary berries like strawberries, raspberries,
   and blackberries are **not** botanical berries. They are classified as
   **aggregate fruits** because they develop from a single flower with *multiple*
@@ -174,17 +175,17 @@ fleshy pericarp with seeds embedded inside.
 
 #### Summary Table
 
-| **Fruit**  | **Culinary Berry** | **Botanical Berry** | **Botanical Classification** |
-|:-----------|:------------------:|:-------------------:|:-----------------------------|
-| Avocado    |         No         |         Yes         | True Berry                   |
-| Banana     |         No         |         Yes         | True Berry                   |
-| Blueberry  |        Yes         |         Yes         | True Berry                   |
-| Grape      |         No         |         Yes         | True Berry                   |
-| Banana     |         No         |         Yes         | True Berry                   |
-| Tomato     |         No         |         Yes         | True Berry                   |
-| Strawberry |        Yes         |         No          | Aggregate Accessory Fruit    |
-| Raspberry  |        Yes         |         No          | Aggregate Fruit              |
-| Blackberry |        Yes         |         No          | Aggregate Fruit              |
+| **Fruit**                        | **Culinary Berry** | **Botanical Berry** | **Botanical Classification** |
+|:---------------------------------|:------------------:|:-------------------:|:-----------------------------|
+| Avocado                          |         No         |         Yes         | True Berry                   |
+| Banana                           |         No         |         Yes         | True Berry                   |
+| Blueberry                        |        Yes         |         Yes         | True Berry                   |
+| Grape                            |         No         |         Yes         | True Berry                   |
+| Banana                           |         No         |         Yes         | True Berry                   |
+| [Tomato](./Vegetables/Tomato.md) |         No         |         Yes         | True Berry                   |
+| Strawberry                       |        Yes         |         No          | Aggregate Accessory Fruit    |
+| Raspberry                        |        Yes         |         No          | Aggregate Fruit              |
+| Blackberry                       |        Yes         |         No          | Aggregate Fruit              |
 
 ## Key Overlaps and Exceptions
 

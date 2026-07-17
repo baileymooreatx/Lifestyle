@@ -90,6 +90,7 @@ disease, diabetes, and cancer.
 * Spearmint
 * St. John’s Wort
 * Thyme
+* [Tomatoes](./Vegetables/Tomato.md)  
 * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
 * [Walnuts](./Nuts/Walnut.md)  
 

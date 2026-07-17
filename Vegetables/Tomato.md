@@ -1,4 +1,27 @@
-## Tomatoes
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tomatoes](#tomatoes)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Powerful Antioxidants and Bioactive Compounds](#powerful-antioxidants-and-bioactive-compounds)
+  - [Anti-inflammatory](#anti-inflammatory)
+    - [Scientific Evidence of Anti-Inflammatory Effects](#scientific-evidence-of-anti-inflammatory-effects)
+    - [The "Nightshade" Myth](#the-nightshade-myth)
+  - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
+  - [Cancer Prevention](#cancer-prevention)
+  - [Skin Protection and Health](#skin-protection-and-health)
+  - [Blood Sugar and Diabetes Management](#blood-sugar-and-diabetes-management)
+  - [Bone and Eye Health](#bone-and-eye-health)
+  - [Consumption Tips for Maximum Benefit](#consumption-tips-for-maximum-benefit)
+  - [Storage](#storage)
+    - [Whole Tomatoes](#whole-tomatoes)
+    - [Cut Tomatoes](#cut-tomatoes)
+    - [Key Storage Tips](#key-storage-tips)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Tomatoes
 
 Tomatoes are a nutrient-dense fruit (botanically) often used as a vegetable,
 offering significant health benefits due to their rich profile of vitamins,

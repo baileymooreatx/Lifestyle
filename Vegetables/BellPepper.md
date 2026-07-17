@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Bell Peppers](#bell-peppers)
-  - [Key Nutrients](#key-nutrients)
+  - [Nutritional Profile](#nutritional-profile)
   - [Immune and Cellular Health](#immune-and-cellular-health)
   - [Eye Health](#eye-health)
   - [Cardiovascular and Metabolic Health](#cardiovascular-and-metabolic-health)

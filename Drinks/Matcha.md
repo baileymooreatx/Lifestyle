@@ -176,7 +176,7 @@ daily.
 * **Preparation:** Use water heated to **175°F (80°C)** to preserve the delicate
   catechins; boiling water can degrade EGCG.
 * **Dietary Context:** Matcha works best as part of an anti-inflammatory diet
-  (e.g., alongside [turmeric](../Spices/Turmeric.md), [ginger](../Spices/Ginger.md), 
+  (e.g., alongside [turmeric](../Spices/Turmeric.md), [ginger](../Vegetables/Ginger.md), 
   and omega-3s), complementing other natural remedies rather than replacing 
   medical treatment for acute conditions.
 

@@ -59,7 +59,7 @@ Listed from most effective to least effective
    Taste like licorice. Estrogenic.  
    Drink one teaspoon of crushed fennel seeds steeped in hot water for eight 
    minutes thirty minutes before a meal. Consume daily.
-7. **[Ginger](./Spices/Ginger.md) and [lemon](./Fruits/Lemon.md) (juice or 
+7. **[Ginger](Vegetables/Ginger.md) and [lemon](./Fruits/Lemon.md) (juice or 
    zest)**  
    Lemon improves absorption of the gingerols and shogaols in ginger.    
    Reduces retinal inflammation. Consume daily for 10 to 12 weeks.  

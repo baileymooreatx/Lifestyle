@@ -112,7 +112,7 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
 * Green tea
 * [Apple cider vinegar](OtherFoods/AppleCiderVinegar.md) - one tablespoon mixed with 10
   ounces of water
-* [Ginger](./Spices/Ginger.md) tea - steep ginger root slices in boiled water
+* [Ginger](Vegetables/Ginger.md) tea - steep ginger root slices in boiled water
   for 10 minutes
 * [Coffee](./Drinks/Coffee.md)
 * [Hibiscus tea](./Drinks/HibiscusTea.md)

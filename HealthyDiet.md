@@ -82,7 +82,7 @@ dark, e.g. green, glass.
 | Sea salt                                                                      | ½ teaspoon      |
 | **Optional spices**                                                           |                 |
 | [Turmeric](./Spices/Turmeric.md)  and [Black Pepper](./Spices/BlackPepper.md) | 1 teaspoon each |
-| [Ginger](./Spices/Ginger.md)                                                  | 1 teaspoon      |
+| [Ginger](Vegetables/Ginger.md)                                                  | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 

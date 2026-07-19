@@ -19,7 +19,7 @@
   - [Fresh vs. Frozen](#fresh-vs-frozen)
     - [Key Nutritional Differences](#key-nutritional-differences)
     - [Conclusion](#conclusion)
-  - [Buy Organic](#buy-organic)
+  - [Organic vs. Conventional](#organic-vs-conventional)
     - [Significant Reduction in Pesticide Exposure](#significant-reduction-in-pesticide-exposure)
     - [Higher Antioxidant Content](#higher-antioxidant-content)
     - [Special Considerations for Children](#special-considerations-for-children)
@@ -231,7 +231,7 @@ They provide a consistent, high-potency source of antioxidants year-round
 without the nutrient degradation associated with the supply chain of fresh
 produce.
 
-## Buy Organic
+## Organic vs. Conventional  
 
 There are **compelling reasons** to pay extra for organic blueberries, primarily
 driven by **pesticide exposure** rather than a massive difference in basic

@@ -4,17 +4,16 @@
 
 - [Blueberries](#blueberries)
   - [Key Nutrients](#key-nutrients)
-  - [Nutrition Facts](#nutrition-facts)
-  - [Top Health Benefits](#top-health-benefits)
-    - [Antioxidant and Anti-Inflammatory](#antioxidant-and-anti-inflammatory)
-      - [Mechanism of Action: Blocking the "Master Switch"](#mechanism-of-action-blocking-the-master-switch)
-      - [Clinical Evidence in Humans](#clinical-evidence-in-humans)
-      - [The "Wild" Advantage](#the-wild-advantage)
-    - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
-    - [Brain Function and Cognitive Health](#brain-function-and-cognitive-health)
-    - [Blood Sugar Control and Diabetes Prevention](#blood-sugar-control-and-diabetes-prevention)
-    - [DNA Protection and Cancer Prevention](#dna-protection-and-cancer-prevention)
-    - [Exercise Recovery and Muscle Health](#exercise-recovery-and-muscle-health)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Antioxidant and Anti-Inflammatory](#antioxidant-and-anti-inflammatory)
+    - [Mechanism of Action: Blocking the "Master Switch"](#mechanism-of-action-blocking-the-master-switch)
+    - [Clinical Evidence in Humans](#clinical-evidence-in-humans)
+    - [The "Wild" Advantage](#the-wild-advantage)
+  - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
+  - [Brain Function and Cognitive Health](#brain-function-and-cognitive-health)
+  - [Blood Sugar Control and Diabetes Prevention](#blood-sugar-control-and-diabetes-prevention)
+  - [DNA Protection and Cancer Prevention](#dna-protection-and-cancer-prevention)
+  - [Exercise Recovery and Muscle Health](#exercise-recovery-and-muscle-health)
   - [How to Add Them to Your Diet](#how-to-add-them-to-your-diet)
   - [Fresh vs. Frozen](#fresh-vs-frozen)
     - [Key Nutritional Differences](#key-nutritional-differences)
@@ -34,7 +33,8 @@ Blueberries are widely considered a "superfood" due to their exceptional
 nutrient density and high concentration of antioxidants, particularly
 **anthocyanins**, which give the fruit its distinct blue color. Regular
 consumption is linked to improved heart health, brain function, and blood sugar
-management.
+management. Research indicates that the phytochemicals in blueberries offer 
+specific protective effects against chronic diseases.
 
 ## Key Nutrients
 
@@ -49,10 +49,10 @@ crucial for immune function and collagen production).
 * **Antioxidants**: Blueberries contain one of the highest antioxidant levels
   among common fruits and vegetables, specifically flavonoids like anthocyanins,
   which combat oxidative stress and inflammation.
-* **Other Nutrients**: They contain traces of Vitamin E, B vitamins (like
+* **Other Nutrients**: They contain traces of vitamin E, B vitamins (like
   folate), potassium, and copper.
 
-## Nutrition Facts
+## Nutritional Profile
 
 One cup (approx. 148 grams) of raw blueberries contains:
 
@@ -70,18 +70,13 @@ One cup (approx. 148 grams) of raw blueberries contains:
 
 *Note: Percent Daily Values may vary based on specific dietary guidelines.*
 
-## Top Health Benefits
-
-Research indicates that the phytochemicals in blueberries offer specific
-protective effects against chronic diseases.
-
-### Antioxidant and Anti-Inflammatory
+## Antioxidant and Anti-Inflammatory
 
 **Blueberries are potent anti-inflammatory foods**. Their primary mechanism is
 the suppression of chronic inflammation through high concentrations of
 **anthocyanins**, which directly inhibit the body's master inflammatory switch.
 
-#### Mechanism of Action: Blocking the "Master Switch"
+### Mechanism of Action: Blocking the "Master Switch"
 
 The anti-inflammatory power of blueberries lies in their ability to interrupt
 the **NF-κB (nuclear factor-kappa B)** pathway.
@@ -97,7 +92,7 @@ the **NF-κB (nuclear factor-kappa B)** pathway.
   white blood cells from sticking to blood vessel walls, a key early step in
   arterial inflammation and atherosclerosis.
 
-#### Clinical Evidence in Humans
+### Clinical Evidence in Humans
 
 While cell studies show strong mechanisms, human trials confirm tangible
 benefits, particularly regarding heart health and metabolic syndrome.
@@ -116,7 +111,7 @@ benefits, particularly regarding heart health and metabolic syndrome.
   than juice or short-term supplementation) is necessary to see measurable 
   changes in blood markers.
 
-#### The "Wild" Advantage
+### The "Wild" Advantage
 
 Not all blueberries are equally anti-inflammatory.
 
@@ -128,7 +123,7 @@ Not all blueberries are equally anti-inflammatory.
   specifically to combat inflammation, **wild frozen blueberries** often provide
   a higher therapeutic dose per serving than fresh cultivated ones.
 
-### Heart Health and Blood Pressure
+## Heart Health and Blood Pressure
 
 The anthocyanins in blueberries are strongly correlated with a reduced risk of
 cardiovascular disease. Studies suggest that consuming blueberries can **lower
@@ -137,7 +132,7 @@ blood pressure** and reduce LDL ("bad") cholesterol oxidation. Regular intake
 heart attacks, particularly in women, by improving blood vessel function and
 reducing arterial stiffness.
 
-### Brain Function and Cognitive Health
+## Brain Function and Cognitive Health
 
 Blueberries may delay age-related cognitive decline and improve memory. The
 antioxidants accumulate in the brain and help improve communication between
@@ -145,7 +140,7 @@ brain cells, reduce inflammation, and protect against oxidative stress. Some
 studies indicate that daily consumption can improve cognitive performance in
 older adults and potentially defend against dementia.
 
-### Blood Sugar Control and Diabetes Prevention
+## Blood Sugar Control and Diabetes Prevention
 
 Despite containing natural sugars, blueberries have a **low glycemic index** due
 to their high fiber content. They can improve insulin sensitivity and help
@@ -153,14 +148,14 @@ manage blood sugar levels, reducing the risk of Type 2 diabetes. The bioactive
 compounds in blueberries appear to enhance glucose uptake in muscles,
 independent of insulin.
 
-### DNA Protection and Cancer Prevention
+## DNA Protection and Cancer Prevention
 
 The high concentration of antioxidants helps neutralize free radicals that can
 damage DNA, a key factor in the development of cancer and premature aging. By
 reducing oxidative stress and inflammation, blueberries may help prevent cells
 from becoming cancerous.
 
-### Exercise Recovery and Muscle Health
+## Exercise Recovery and Muscle Health
 
 Blueberries have been shown to reduce exercise-induced muscle damage and
 inflammation. Athletes consuming blueberries before and after intense exercise

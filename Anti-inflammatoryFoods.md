@@ -84,7 +84,8 @@ disease, diabetes, and cancer.
 * Rhodiola
 * Rosemary
 * Sage
-* [Saffron](./Spices/Saffron.md)
+* [Saffron](./Spices/Saffron.md)  
+* [Strawberries](./Fruits/Strawberry.md)  
 * [Sunflower seeds](./Seeds/Sunflower.md)
 * [Spinach](./Vegetables/Spinach.md)  
 * Spearmint

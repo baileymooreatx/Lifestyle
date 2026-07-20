@@ -19,9 +19,9 @@
   - [Medication Interactions](#medication-interactions)
     - [Blood Thinners (Warfarin/Coumadin)](#blood-thinners-warfarincoumadin)
     - [Blood Pressure Medications (ACE Inhibitors & ARBs)](#blood-pressure-medications-ace-inhibitors--arbs)
-    - [Angiotensin-Converting Enzyme (ACE) Inhibitors](#angiotensin-converting-enzyme-ace-inhibitors)
-    - [Angiotensin II Receptor Blockers (ARBs)](#angiotensin-ii-receptor-blockers-arbs)
-    - [Key Differences and Shared Risks](#key-differences-and-shared-risks)
+      - [Angiotensin-Converting Enzyme (ACE) Inhibitors](#angiotensin-converting-enzyme-ace-inhibitors)
+      - [Angiotensin II Receptor Blockers (ARBs)](#angiotensin-ii-receptor-blockers-arbs)
+      - [Key Differences and Shared Risks](#key-differences-and-shared-risks)
     - [MAOI Antidepressants](#maoi-antidepressants)
     - [Diabetes Medications (Specific Extracts Only)](#diabetes-medications-specific-extracts-only)
     - [Absorption Issues (High Fiber & Fat)](#absorption-issues-high-fiber--fat)
@@ -212,12 +212,12 @@ Individuals taking **ACE inhibitors** or **ARBs** face a risk of
 
 **ACE inhibitors** (Angiotensin-Converting Enzyme inhibitor) and **ARBs** (
 Angiotensin II Receptor Blockers) are two classes of prescription medications
-primarily used to treat **high blood pressure (hypertension)**, **heart failure
-**, and **kidney disease** (especially in diabetics). Both work by relaxing
-blood vessels to lower blood pressure, but they target different steps in the
-body's renin-angiotensin-aldosterone system (RAAS).
+primarily used to treat **high blood pressure (hypertension)**, **heart
+failure**, and **kidney disease** (especially in diabetics). Both work by
+relaxing blood vessels to lower blood pressure, but they target different 
+steps in the body's renin-angiotensin-aldosterone system (RAAS).
 
-### Angiotensin-Converting Enzyme (ACE) Inhibitors
+#### Angiotensin-Converting Enzyme (ACE) Inhibitors
 
 ACE inhibitors prevent the conversion of **angiotensin I** (inactive) into *
 *angiotensin II** (a potent hormone that constricts blood vessels). By blocking
@@ -235,7 +235,7 @@ aldosterone secretion.
   **persistent dry cough** (up to 20% of users) and carry a higher risk of 
   **angioedema** (swelling of the face/lips).
 
-### Angiotensin II Receptor Blockers (ARBs)  
+#### Angiotensin II Receptor Blockers (ARBs)  
 
 ARBs do not stop the production of angiotensin II. Instead, they **block
 angiotensin II from binding** to its receptors on blood vessels and the adrenal
@@ -253,12 +253,12 @@ achieving a similar result to ACE inhibitors but via a different mechanism.
   alternative for patients who cannot tolerate ACE inhibitors due to these
   specific side effects.
 
-### Key Differences and Shared Risks
+#### Key Differences and Shared Risks
 
 | Feature          | ACE Inhibitors                                                                           | ARBs                                                           |
 |:-----------------|:-----------------------------------------------------------------------------------------|:---------------------------------------------------------------|
 | **Mechanism**    | Blocks enzyme that *makes* Angiotensin II                                                | Blocks receptor *binding* of Angiotensin II                    |
-| **Suffix**       | **-pril**                                                                                | **-sartan**                                                    |
+| **Suffix**       | "-pril"                                                                                  | "-sartan"                                                      |
 | **Dry Cough**    | Common (due to bradykinin buildup)                                                       | Rare                                                           |
 | **Angioedema**   | Higher risk                                                                              | Lower risk                                                     |
 | **Shared Risks** | **Hyperkalemia** (high potassium), **Hypotension** (low BP), **Kidney function changes** | **Hyperkalemia**, **Hypotension**, **Kidney function changes** |

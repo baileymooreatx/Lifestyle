@@ -66,7 +66,8 @@ disease, diabetes, and cancer.
 * [Hazelnuts](./Nuts/Hazelnut.md)  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md)
 * [Hibiscus tea](./Drinks/HibiscusTea.md)
-* Holy basil
+* Holy basil  
+* [Horseradish](./Vegetables/Horseradish.md)  
 * Kava kava
 * Lemon balm
 * [Lemons](./Fruits/Lemon.md)

@@ -59,7 +59,7 @@ Both contain compounds like **allicin** and **diallyl disulfide** that reduce
 cortisol and stimulate testosterone-producing hormones. They also improve sperm
 quality.
 
-### 7. Avocados and [Nuts](Nuts/Nuts.md)
+### 7. [Avocados](./Vegetables/Avocado.md) and [Nuts](Nuts/Nuts.md)
 
 These provide **monounsaturated fats** and **vitamin B6**, which support hormone
 production and lower LDL cholesterol, creating a better environment for

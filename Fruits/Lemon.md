@@ -91,8 +91,9 @@ recommended.
    organic lemons into food or freezing whole lemons to blend later ensures you
    consume these critical compounds.
 2. **Combine with Healthy Fats:** Some flavonoids are fat-soluble. Consuming
-   lemon with a source of healthy fat (like olive oil or avocado) may improve
-   the absorption of these bioactive compounds.
+   lemon with a source of healthy fat (like olive oil or
+   [avocado](../Vegetables/Avocado.md)) may improve the absorption of these 
+   bioactive compounds.
 3. **Fresh vs. Processed:** Fresh lemon juice retains the highest level of
    active enzymes and vitamins. While "black lemon" (dried lemon) also shows
    strong anti-inflammatory properties due to concentrated polyphenols, fresh

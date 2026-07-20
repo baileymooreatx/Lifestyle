@@ -40,7 +40,7 @@ Buy organic, if possible.
 
 1. [Spinach](./Vegetables/Spinach.md)  
 2. Kale, collard & mustard greens
-3. Strawberries  
+3. [Strawberries](./Fruits/Strawberry.md)  
 4. Grapes  
 5. Nectarines  
 6. Peaches  
@@ -49,7 +49,9 @@ Buy organic, if possible.
 9. Blackberries  
 10. Pears  
 11. Potatoes
-12. Blueberries, Green beans, and Bell & hot peppers
+12. [Blueberries](./Fruits/Blueberry.md), Green beans, 
+    and [bell](./Vegetables/BellPepper.md) & 
+    [hot peppers](./Vegetables/ChiliPepper.md)  
 
 ### Sorted Alphabetically by Type
 
@@ -62,13 +64,13 @@ Buy organic, if possible.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nectarines   
 🍑 Peaches  
 🍐Pears  
-🍓 Strawberries  
+🍓 [Strawberries](./Fruits/Strawberry.md)  
   
 #### Vegetables
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Spinach](./Vegetables/Spinach.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kale, collard & mustard greens  
-🫑 Bell peppers  
-🌶️ Hot peppers  
+🫑 [Bell peppers](./Vegetables/BellPepper.md)  
+🌶️ [Hot peppers](./Vegetables/ChiliPepper.md)  
 🫛 Green beans  
 🥔 Potatoes  
 
@@ -82,11 +84,11 @@ These produce items tend to have the **lowest pesticide residues**,
 based on data from the **Environmental Working Group**.  
 👉 These are generally safer to buy **conventional (non-organic)**.
 
-1. Pineapple  
+1. [Pineapple](./Fruits/Pineapple.md)  
 2. Sweet corn  
-3. Avocados  
+3. [Avocados](Vegetables/Avocado.md)  
 4. Papaya  
-5. Onions
+5. [Onions](./Vegetables/Onion.md)
 6. Sweet peas  
 7. Asparagus  
 8. Cabbage  
@@ -105,17 +107,17 @@ based on data from the **Environmental Working Group**.
 🥝 Kiwi  
 🥭 Mangoes  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Papaya  
-🍍 Pineapple  
+🍍 [Pineapple](./Fruits/Pineapple.md)  
 🍉 Watermelon  
 
 #### Vegetables
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asparagus  
-🥑 Avocados  
+🥑 [Avocados](Vegetables/Avocado.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cabbage  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cauliflower  
 🥕 Carrots  
 🍄‍🟫 Mushrooms  
-🧅 Onions  
+🧅 [Onions](./Vegetables/Onion.md)  
 🌽 Sweet corn  
 🫛 Sweet peas  
  

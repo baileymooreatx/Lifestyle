@@ -165,9 +165,11 @@ a **single flower with one ovary**, where the entire outer wall ripens into a
 fleshy pericarp with seeds embedded inside.  
 
 * **True Botanical Berries:** Surprisingly, this category includes bananas,
-  grapes, [tomatoes](./Vegetables/Tomato.md), kiwis, avocados, and 
+  grapes, [tomatoes](./Vegetables/Tomato.md), kiwis, 
+  [avocados](./Vegetables/Avocado.md), and 
   [blueberries](./Fruits/Blueberry.md).  
-* **Not True Berries:** Common culinary berries like strawberries, raspberries,
+* **Not True Berries:** Common culinary berries like 
+  [strawberries](./Fruits/Strawberry.md), raspberries,
   and blackberries are **not** botanical berries. They are classified as
   **aggregate fruits** because they develop from a single flower with *multiple*
   ovaries. Additionally, the "seeds" on a [strawberry](./Fruits/Strawberry.md)  
@@ -178,7 +180,7 @@ fleshy pericarp with seeds embedded inside.
 
 | **Fruit**                            | **Culinary Berry** | **Botanical Berry** | **Botanical Classification** |
 |:-------------------------------------|:------------------:|:-------------------:|:-----------------------------|
-| Avocado                              |         No         |         Yes         | True Berry                   |
+| [Avocado](Vegetables/Avocado.md)     |         No         |         Yes         | True Berry                   |
 | Banana                               |         No         |         Yes         | True Berry                   |
 | [Blueberry](./Fruits/Blueberry.md)   |        Yes         |         Yes         | True Berry                   |
 | Grape                                |         No         |         Yes         | True Berry                   |

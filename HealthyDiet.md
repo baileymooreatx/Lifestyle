@@ -49,7 +49,7 @@
    1. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
       Ideally organic, not blended, and stored in dark glass to prevent oxidation  
       Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
-   2. Avocados and Avocado oil (cold pressed and tested)   
+   2. [Avocados](Vegetables/Avocado.md) and Avocado oil (cold pressed and tested)   
    3. [Coconut oil](./Fats/CoconutOil.md) is good for cooking at high temperature.  
    4. Grass fed butter or ghee, beef tallow  
    5. [Nuts](./Nuts/Nuts.md): 
@@ -134,4 +134,4 @@ Eating in the right order
   * Berries
   * Pomegranate
   * Dark chocolate (85% [cacao](OtherFoods/Cacao.md) or more)
-* Avocados  
+* [Avocados](Vegetables/Avocado.md)  

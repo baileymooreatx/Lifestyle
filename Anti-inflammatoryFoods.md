@@ -36,7 +36,7 @@ disease, diabetes, and cancer.
 * [Almonds](./Nuts/Almond.md)  
 * Ashwagandha
 * Astragalus root
-* Avocado
+* [Avocados](Vegetables/Avocado.md)
 * Basil  
 * [Beets](./Supplements/BeetrootPowder.md)  
 * [Bell pepper](./Vegetables/BellPepper.md)
@@ -191,7 +191,7 @@ tea, and turmeric.
 ### Monounsaturated Fats (MUFA)  
 
 Monounsaturated Fats reduce pro-inflammatory cytokines. Primary sources 
-include extra virgin olive oil and avocados.  
+include extra virgin olive oil and [avocados](Vegetables/Avocado.md).  
 
 ### Fiber  
 

@@ -34,7 +34,7 @@ A standard 1-ounce (28g) serving of raw, unsalted pumpkin seeds delivers a
 concentrated dose of nutrients:
 
 * **Calories:** Approximately 151–170 kcal
-* **Protein:** 7–9 grams (comparable to one large egg)
+* **Protein:** 7–9 grams (comparable to one large [egg](../OtherFoods/Egg.md))  
 * **Healthy Fats:** 14 grams (primarily unsaturated omega-3 and omega-6 fatty
   acids)
 * **Fiber:** 1.8–2.1 grams (higher if eaten with the shell)

@@ -94,8 +94,8 @@ The choice often depends on the desired texture in your recipe.
 **Ground Chia Seeds** act as a seamless binder and thickener. They are ideal
 for:
 
-* **Baking**: Used as an egg substitute (1 tbsp ground chia + 3 tbsp water = 1
-  egg).
+* **Baking**: Used as an [egg](../OtherFoods/Egg.md) substitute  
+  1 tbsp ground chia + 3 tbsp water = 1 egg
 * **Smoothies**: Adds thickness without the "speckled" texture or crunch.
 * **Sauces and Dressings**: Thickens without altering flavor or visual appeal.
 

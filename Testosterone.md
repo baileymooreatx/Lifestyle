@@ -31,9 +31,9 @@ zinc requirements.
 
 ### 2. Eggs
 
-Whole eggs provide **cholesterol**, a building block for testosterone, along
-with **vitamin D** and high-quality protein. Studies show daily egg consumption
-can increase testosterone levels.
+Whole [eggs](./OtherFoods/Egg.md) provide **cholesterol**, a building block for 
+testosterone, along with **vitamin D** and high-quality protein. Studies show 
+daily egg consumption can increase testosterone levels.
 
 ### 3. Fatty Fish (Salmon, Tuna, Mackerel)
 

@@ -33,8 +33,8 @@ Botanically, a **fruit** is the mature ovary of a flowering plant, developed
 from a fertilized flower to protect and disperse seeds. Any edible structure
 containing seeds that grows from a flower is a fruit.
 
-* **Examples:** Apples, berries, and melons (culinary fruits); also 
-  [tomatoes](./Vegetables/Tomato.md), cucumbers, 
+* **Examples:** [Apples](./Fruits/Apple.md), berries, and melons (culinary
+  fruits); also [tomatoes](./Vegetables/Tomato.md), cucumbers, 
   [peppers](./Vegetables/ChiliPepper.md), pumpkins, and eggplants (botanical 
   fruits often treated as vegetables).
 * **Key Trait:** Presence of seeds and origin from a flower.
@@ -111,7 +111,7 @@ differ by the **plant part** used and the **plant type**.
 | **Culinary Definition**   | Sweet or tart flesh used in desserts/snacks.    | Savory plant parts used in main dishes or sides.                          | High-protein seeds (beans, lentils) often grouped with proteins or vegetables. |
 | **Plant Part Eaten**      | The ovary/fruit flesh.                          | Roots, stems, leaves, bulbs, tubers, flowers.                             | The seed (pulse) or the immature pod.                                          |
 | **Nutritional Highlight** | High in natural sugars, vitamins, antioxidants. | High in fiber, vitamins, minerals; low calorie.                           | High in protein, complex carbs, fiber; low glycemic index.                     |
-| **Examples**              | Tomatoes, cucumbers, apples, berries.           | Carrots (root), Spinach (leaf), Celery (stem).                            | Beans, peas, lentils, peanuts, chickpeas.                                      |
+| **Examples**              | Tomatoes, cucumbers, apples, avocado.           | Carrots (root), Spinach (leaf), Celery (stem).                            | Beans, peas, lentils, peanuts, chickpeas.                                      |
 
 ## Detailed Breakdown  
 

@@ -45,7 +45,7 @@ Buy organic, if possible.
 5. Nectarines  
 6. Peaches  
 7. Cherries  
-8. Apples  
+8. [Apples](./Fruits/Apple.md)  
 9. Blackberries  
 10. Pears  
 11. Potatoes
@@ -56,14 +56,14 @@ Buy organic, if possible.
 ### Sorted Alphabetically by Type
 
 #### Fruits  
-🍎 Apples  
+🍎 [Apples](./Fruits/Apple.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blackberries  
 🫐 [Blueberries](./Fruits/Blueberry.md)  
 🍒 Cherries  
 🍇 Grapes  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nectarines   
 🍑 Peaches  
-🍐Pears  
+🍐 Pears  
 🍓 [Strawberries](./Fruits/Strawberry.md)  
   
 #### Vegetables

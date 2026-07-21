@@ -460,8 +460,8 @@ significantly outperforming standard plastic bag storage.
   that spinach stored at 39°F retains only **53% of its folate after 8 days**,
   while warmer temperatures (50°F+) accelerate loss dramatically.
 - **Location**: Use the **high-humidity crisper drawer** and keep spinach away
-  from ethylene-producing fruits (apples, bananas) which trigger rapid
-  chlorophyll degradation.
+  from ethylene-producing fruits ([apples](../Fruits/Apple.md), bananas) which
+  trigger rapid chlorophyll degradation.
 
 ### Nutrient Retention Comparison by Method
 

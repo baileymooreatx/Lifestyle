@@ -51,7 +51,7 @@ source of:
 Onions are one of the richest vegetable sources of **quercetin**, a flavonoid
 with strong anti-inflammatory, antiviral, and antioxidant properties. Research
 indicates that the absorption of quercetin from onions is **twice that from tea
-** and **more than three times that from apples**.
+** and **more than three times that from [apples](../Fruits/Apple.md)**.
 
 * **Red Onions**: Contain **anthocyanins** (which give them their deep color) in
   addition to quercetin, offering superior antioxidant capacity compared to
@@ -213,10 +213,10 @@ time to grow.
   Exposure to sunlight or bright artificial light signals the bulb to grow
   shoots toward the source.
 * **Ethylene Gas**: While onions themselves emit low levels of ethylene, storing
-  them near high ethylene-producing fruits (like apples, bananas, or citrus) can
-  accelerate aging and sprouting. Conversely, storing onions near **potatoes**
-  is detrimental because potatoes release significant moisture and gases that
-  trigger onion sprouting.
+  them near high ethylene-producing fruits (like [apples](../Fruits/Apple.md), 
+  bananas, or citrus) can accelerate aging and sprouting. Conversely, storing 
+  onions near **potatoes** is detrimental because potatoes release significant 
+  moisture and gases that trigger onion sprouting.
 * **Age**: Even in perfect conditions, onions have a finite dormancy period. As
   they age, their natural resistance to sprouting diminishes, and they will
   eventually begin to grow.

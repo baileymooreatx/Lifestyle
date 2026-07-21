@@ -36,7 +36,7 @@
          * Citrus: [oranges](./Fruits/Orange.md), [lemons](./Fruits/Lemon.md),
            limes, and grapefruit  
            Whole fruit, not juice  
-         * Apples in moderation, with the skin  
+         * [Apples](./Fruits/Apple.md) in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
 2. Prioritize protein: Eat one gram of protein per pound for your ideal weight.
    * Wild-caught, low-mercury fish: salmon, sardines, mackerel, anchovies

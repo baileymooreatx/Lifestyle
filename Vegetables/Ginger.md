@@ -8,6 +8,10 @@
   - [Blood Sugar and Heart Health Management](#blood-sugar-and-heart-health-management)
   - [Immune System and Antimicrobial Properties](#immune-system-and-antimicrobial-properties)
   - [Potential Cancer-Protective Effects](#potential-cancer-protective-effects)
+  - [Fresh vs. Powdered](#fresh-vs-powdered)
+    - [Potency and Concentration Differences](#potency-and-concentration-differences)
+    - [Substitution Ratios](#substitution-ratios)
+    - [Flavor Profile and Best Uses](#flavor-profile-and-best-uses)
   - [Safety and Considerations](#safety-and-considerations)
   - [Storage](#storage)
     - [Fresh Ginger Root](#fresh-ginger-root)
@@ -74,6 +78,61 @@ anti-cancer properties. Studies have observed reduced levels of pro-inflammatory
 signaling molecules in the colon among participants who consumed ginger,
 indicating a potential role in preventing colorectal cancer. However, larger
 clinical trials are needed to confirm these findings.
+
+## Fresh vs. Powdered
+
+Ground ginger is significantly more potent than fresh ginger by volume,
+typically **6 to 8 times stronger** due to the removal of water and the
+concentration of flavor compounds. While fresh ginger offers a bright, sharp
+heat, ground ginger delivers a warmer, earthier, and more intense spice profile
+that requires careful measurement to avoid overpowering a dish.
+
+### Potency and Concentration Differences
+
+The primary driver of the potency difference is water content. Fresh ginger
+consists of approximately **80% water**, whereas ground ginger contains only
+about **10%**. When ginger is dried and milled, the removal of this moisture
+concentrates the essential oils and active compounds, resulting in a much
+stronger product by weight and volume.
+
+Chemically, the drying process transforms the flavor profile. Fresh ginger is
+rich in **gingerol**, which provides a sharp, peppery bite. During dehydration,
+gingerol converts into **shogaol**, a compound that is not only more pungent but
+also possesses a deeper, warmer heat. This chemical shift means that ground
+ginger does not just taste "stronger"; it tastes fundamentally different, with a
+resonant, spicy heat that lacks the citrusy brightness of the fresh root.
+
+### Substitution Ratios
+
+Because of this intense concentration, you cannot substitute ground ginger for
+fresh ginger in a 1:1 ratio. Doing so will likely result in a bitter,
+overpowering dish. The standard culinary conversion accounts for this disparity:
+
+| Measurement           | Fresh Ginger (Grated) | Ground Ginger (Powder)  |
+|:----------------------|:----------------------|:------------------------|
+| **Standard Ratio**    | **1 tablespoon**      | **1/4 teaspoon**        |
+| **Alternative Ratio** | **1 teaspoon**        | **1/8 to 1/4 teaspoon** |
+| **Potency Factor**    | 1x                    | **4x to 8x**            |
+
+Most culinary authorities, including *The Spruce Eats* and *MasterClass*,
+recommend starting with **1/4 teaspoon of ground ginger for every 1 tablespoon
+of fresh ginger** called for in a recipe. However, because the potency of ground
+ginger can degrade over time (losing up to 30% of its aroma after 6 months), it
+is always advisable to start with less and taste as you go.
+
+### Flavor Profile and Best Uses
+
+The difference in potency dictates where each form excels in cooking. **Fresh
+ginger** is essential for dishes where its fibrous texture and bright, citrusy
+notes are desired, such as stir-fries, curries, marinades, and teas. Its lower
+potency allows it to be used in larger quantities without dominating the dish.
+
+In contrast, **ground ginger** is ideal for baking (like gingerbread and
+cookies), spice rubs, and smoothies where a uniform distribution of warm, earthy
+spice is needed without adding moisture. Its high potency means a small amount
+can permeate an entire batter or dry mix effectively. Attempting to use ground
+ginger in delicate raw applications, such as ceviche or fresh dressings, often
+results in a dusty, astringent aftertaste due to its concentrated nature.
 
 ## Safety and Considerations
 

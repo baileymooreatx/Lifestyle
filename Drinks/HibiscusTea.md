@@ -11,7 +11,7 @@
   - [Blood Sugar Regulation Effects](#blood-sugar-regulation-effects)
     - [Mechanism of Action](#mechanism-of-action)
     - [Clinical Evidence](#clinical-evidence)
-  - [Safety and Considerations](#safety-and-considerations)
+  - [Safety Considerations](#safety-considerations)
   - [My Preferred Brands](#my-preferred-brands)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -120,7 +120,7 @@ Recent studies provide strong support for these benefits:
   extract can lower serum insulin levels and improve overall glucose tolerance
   in models of metabolic syndrome.
 
-## Safety and Considerations
+## Safety Considerations  
 
 While nutritious, hibiscus tea carries specific risks for certain groups:
 

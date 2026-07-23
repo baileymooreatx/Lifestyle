@@ -20,8 +20,7 @@
   - [Potential for Blood Pressure Reduction](#potential-for-blood-pressure-reduction)
     - [What the Research Shows](#what-the-research-shows)
     - [Proposed Mechanisms](#proposed-mechanisms)
-    - [Critical Safety Warnings](#critical-safety-warnings)
-  - [Risks and Usage Guidelines](#risks-and-usage-guidelines)
+  - [Safety Considerations](#safety-considerations)
   - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -231,10 +230,11 @@ models.
   sensitivity, ACV may indirectly support healthier blood pressure levels over
   time.
 
-### Critical Safety Warnings
+## Safety Considerations
 
-If you have high blood pressure, consult your doctor before adding ACV to your
-routine due to significant interaction risks:
+To safely obtain these benefits, ACV must be consumed correctly due to its high
+acidity.  If you have high blood pressure, consult your doctor before adding 
+ACV to your routine due to significant interaction risks.
 
 * **Medication Interactions**: ACV can interact dangerously with **diuretics**
   (water pills) and **digoxin**. Since both ACV and these medications can lower
@@ -246,12 +246,6 @@ routine due to significant interaction risks:
 * **Dosage**: If approved by a healthcare provider, the typical studied dose is
   **1 to 2 tablespoons (15 to 30 ml) daily**, always diluted in water to prevent
   esophageal irritation and tooth enamel erosion.
-
-## Risks and Usage Guidelines
-
-To safely obtain these benefits, ACV must be consumed correctly due to its high
-acidity.
-
 * **Dilution is Essential**: Always dilute ACV in water (e.g., 1 to 2 tablespoons
   in a large glass of water) to prevent erosion of **tooth enamel** and
   irritation of the esophagus.

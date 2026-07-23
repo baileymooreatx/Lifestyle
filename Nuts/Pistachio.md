@@ -14,7 +14,7 @@
     - [Antioxidant Stability and Bioavailability](#antioxidant-stability-and-bioavailability)
     - [Fat Integrity and Acrylamide Risks](#fat-integrity-and-acrylamide-risks)
     - [Summary Comparison](#summary-comparison)
-  - [Potential Medication Interactions](#potential-medication-interactions)
+  - [Medication Interactions](#medication-interactions)
     - [Blood Pressure and Heart Medications](#blood-pressure-and-heart-medications)
     - [Blood Thinners (Warfarin/Coumadin)](#blood-thinners-warfarincoumadin)
     - [Diabetes Medications](#diabetes-medications)
@@ -165,7 +165,7 @@ vitamins, while roasted versions offer enhanced vitamin E and potentially better
 mineral absorption. Always prioritize **dry-roasted** over oil-roasted to avoid
 unnecessary calorie intake and fat degradation.
 
-## Potential Medication Interactions
+## Medication Interactions
 
 While pistachios are generally safe and do not have the severe, direct drug
 interactions seen with foods like grapefruit, they can interact with specific

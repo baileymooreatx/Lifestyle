@@ -227,7 +227,7 @@ Exceeding the recommended daily limit can lead to several adverse reactions:
 * **Photosensitivity:** Large amounts may increase skin sensitivity to sunlight,
   raising the risk of sunburn or rashes.
 
-### Specific Contraindications
+## Safety Considerations  
 
 Certain groups must restrict or avoid high intakes:
 

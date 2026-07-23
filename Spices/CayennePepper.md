@@ -14,7 +14,7 @@
     - [Dietary Application vs. Topical Use](#dietary-application-vs-topical-use)
   - [Usage and Safety Considerations](#usage-and-safety-considerations)
     - [Acute Gastrointestinal and Physical Symptoms](#acute-gastrointestinal-and-physical-symptoms)
-    - [Dangerous Medication Interactions](#dangerous-medication-interactions)
+    - [Medication Interactions](#medication-interactions)
     - [Long-Term Risks and Contraindications](#long-term-risks-and-contraindications)
     - [Safety Thresholds](#safety-thresholds)
   - [Storage](#storage)
@@ -181,7 +181,7 @@ the mucous membranes throughout the digestive tract.
   involving pre-existing heart conditions, this stress has been linked to heart
   attacks.
 
-### Dangerous Medication Interactions
+### Medication Interactions
 
 High cayenne intake significantly alters how the body processes certain
 medications, creating potentially life-threatening situations:

@@ -182,7 +182,7 @@ water, effectively preventing constipation. Furthermore, the mucilage (gel) acts
 as a prebiotic, fostering a healthy gut microbiome which is linked to reduced
 systemic inflammation.
 
-## Important Considerations
+## Safety Considerations  
 
 * **Hydration is Critical**: Because chia seeds absorb up to 27 times their
   weight in water, adequate fluid intake is necessary to prevent digestive

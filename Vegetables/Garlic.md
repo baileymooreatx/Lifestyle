@@ -162,7 +162,7 @@ nutrients, **raw or properly rested garlic** remains superior for maximizing
 allicin-specific effects like antimicrobial activity and acute cardiovascular
 support.
 
-## Major Drug Interactions
+## Medication Interactions  
 
 Garlic can interact significantly with several types of medications,
 particularly when consumed in concentrated supplement forms rather than typical

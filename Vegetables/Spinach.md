@@ -40,6 +40,11 @@
     - [Nutrient Profile Differences](#nutrient-profile-differences)
     - [Who Should Prioritize Organic?](#who-should-prioritize-organic)
     - [Practical Recommendation](#practical-recommendation)
+  - [Avoid Reheating](#avoid-reheating)
+    - [Health Risks Explained](#health-risks-explained)
+    - [The Role of Storage and Bacteria](#the-role-of-storage-and-bacteria)
+    - [Nutritional Degradation](#nutritional-degradation)
+    - [Safe Handling Guidelines](#safe-handling-guidelines)
   - [Storage](#storage)
     - [Preparation (Critical Step)](#preparation-critical-step)
     - [Refrigeration Method](#refrigeration-method)
@@ -433,6 +438,96 @@ If budget is a constraint, prioritize buying **organic for raw consumption**
 spinach for **cooked dishes**, thorough washing and cooking can reduce (though
 not eliminate) some surface residues, making it a safer, albeit less ideal,
 alternative.
+
+## Avoid Reheating
+
+The main reason spinach should not be reheated is the potential chemical
+conversion of naturally occurring nitrates into nitrites and carcinogenic
+nitrosamines. While a single instance of eating reheated spinach is unlikely
+to cause immediate harm, repeated consumption or improper handling can pose
+long-term health risks.  
+
+Spinach is naturally rich in nitrates, which are generally harmless and can even
+have health benefits in their original state. However, the application of
+heat, particularly high heat or repeated heating cycles, triggers a chemical
+breakdown. During this process, nitrates convert into **nitrites**, which can
+further react to form **N-nitrosamines**.
+
+These nitrosamines are classified as **probable human carcinogens** by the
+International Agency for Research on Cancer (IARC). The risk is cumulative; each
+time spinach is reheated, the potential concentration of these harmful compounds
+increases. This chemical transformation occurs regardless of the heating method,
+whether it is a microwave, oven, or stovetop, as the heat itself drives the
+reaction.
+
+### Health Risks Explained
+
+The formation of nitrites and nitrosamines presents specific physiological
+dangers:
+
+* **Carcinogenic Potential**: Long-term exposure to nitrosamines is linked to an
+  increased risk of various cancers and liver damage, including cirrhosis.
+* **Oxygen Transport Interference**: Nitrites can interfere with the blood's
+  ability to carry oxygen by converting hemoglobin into methemoglobin. This
+  condition, known as **"Blue Baby Syndrome,"** is particularly dangerous for
+  infants and young children, whose systems are more sensitive to these
+  compounds.
+* **Cumulative Toxicity**: While the body can handle small amounts of nitrites,
+  regular consumption of reheated spinach can lead to a buildup of these
+  compounds, increasing the likelihood of adverse health effects over time.
+
+### The Role of Storage and Bacteria
+
+The danger often begins before the reheating process starts. If cooked spinach
+is left at room temperature or cooled slowly, bacteria naturally present on the
+leaves multiply rapidly. These bacteria produce enzymes that accelerate the
+conversion of nitrates to nitrites.
+
+**Critical timeframes:**
+
+* A critical level of nitrites can develop after just a **few hours** at room
+  temperature.
+* Rapid cooling and refrigeration within **two hours** of cooking significantly
+  slow this bacterial activity.
+
+Improper storage creates a "ticking time bomb" where the nitrite levels rise
+significantly before the food is even reheated. Reheating then serves to
+finalize the conversion into nitrosamines, especially if high temperatures are
+used.
+
+### Nutritional Degradation
+
+Beyond the formation of harmful compounds, reheating spinach drastically reduces
+its nutritional value. Spinach is prized for its high content of **vitamin C**,
+folate, and other heat-sensitive nutrients.
+
+* **Vitamin C Loss**: This unstable vitamin begins to degrade as soon as the
+  spinach is cut and is rapidly destroyed by heat. Reheating can eliminate a
+  significant portion of the remaining vitamin C.
+* **Folate Reduction**: Essential for DNA synthesis, folate levels also drop
+  considerably upon reheating.
+* **Texture and Flavor**: The cellular structure of the leaves breaks down,
+  resulting in a soggy, unappetizing texture and a loss of fresh flavor, often
+  described as a "sad, wilted mess."
+
+### Safe Handling Guidelines
+
+To minimize risks while still enjoying spinach, consider the following safety
+protocols:
+
+1. **Consume Fresh**: The safest approach is to cook only the amount of spinach
+   you intend to eat immediately.
+2. **Proper Storage**: If you must save leftovers, cool them rapidly and
+   refrigerate them within two hours. Keep them at or below 4°C (40°F).
+3. **Limit Reheating**: If reheating is necessary, do so **only once**. Ensure
+   the food reaches a safe internal temperature of at least 70°C (160°F) to kill
+   bacteria, but avoid prolonged high-heat cooking.
+4. **Alternative Uses**: Use leftover cooked spinach in cold applications, such
+   as salads, wraps, or dips, to avoid the chemical changes associated with
+   reheating.
+5. **Consider Frozen**: Frozen spinach is often harvested and blanched
+   immediately, which can result in lower initial nitrate levels compared to
+   fresh spinach that has been stored for days.
 
 ## Storage
 

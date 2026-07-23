@@ -55,7 +55,7 @@
    5. [Nuts](./Nuts/Nuts.md): 
       * [Walnuts](./Nuts/Walnut.md)
       * [Almonds](./Nuts/Almond.md) 
-      * Brazil nuts  
+      * [Brazil nuts](./Nuts/BrazilNut.md)    
         Limit Brazil nuts because they are very high in Selenium
    6. Seeds
       * [Flaxseed](Seeds/Flaxseed.md)  

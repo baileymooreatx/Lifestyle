@@ -44,12 +44,12 @@ benefits due to their healthy fats, fiber, and antioxidants.
   sugar and blood pressure in people with metabolic syndrome. They are also rich
   in **lutein and zeaxanthin**, antioxidants crucial for maintaining eye health,
   which is often a concern for aging adults.  
-* Brazil Nuts are essential **in small quantities** due to their incredibly high
-  **selenium** content. Just one or two nuts provide the entire daily
-  requirement for selenium, a mineral vital for thyroid function and immune
-  response, both of which can decline with age. Selenium acts as a powerful
-  antioxidant, protecting cells from damage. However, moderation is critical, as
-  excessive selenium intake can be toxic.  
+* [Brazil Nuts](./BrazilNut.md) are essential **in small quantities** due to  
+  their incredibly high **selenium** content. Just one or two nuts provide the
+  entire daily requirement for selenium, a mineral vital for thyroid function
+  and immune response, both of which can decline with age. Selenium acts as a
+  powerful antioxidant, protecting cells from damage. However, moderation is 
+  critical, as excessive selenium intake can be toxic.  
 * [Hazelnuts](Hazelnut.md) are particularly effective at addressing specific
   markers of metabolic syndrome, such as high cholesterol and insulin
   resistance.  

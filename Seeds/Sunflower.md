@@ -87,7 +87,7 @@ development of immune cells and protecting them from oxidative stress. Selenium
 is also a key component in the production of thyroid hormones, which regulate
 metabolism.
 
-## Raw vs. Roasted: The Nutritional Difference
+## Raw vs. Roasted  
 
 While both forms are healthy, **raw sunflower seeds** generally offer a
 nutritional edge:

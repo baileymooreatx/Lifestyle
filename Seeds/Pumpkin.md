@@ -89,7 +89,7 @@ digestive enzymes.
 
 ### How to Do It Properly
 
-To maximize these benefits, follow this standard activation method:
+To maximize these benefits, follow this standard activation method.
 
 1. **Mix:** Combine raw pumpkin seeds with warm water, a splash of lemon
    juice or apple cider vinegar, and a pinch of salt.

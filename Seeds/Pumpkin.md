@@ -4,6 +4,10 @@
 
 - [Pumpkin Seeds](#pumpkin-seeds)
   - [Nutritional Profile](#nutritional-profile)
+    - [Fiber Content](#fiber-content)
+    - [Caloric and Macronutrient Density](#caloric-and-macronutrient-density)
+    - [Micronutrient Concentration](#micronutrient-concentration)
+    - [Digestive Considerations](#digestive-considerations)
   - [Activation](#activation)
     - [Neutralization of Phytic Acid](#neutralization-of-phytic-acid)
     - [Deactivation of Enzyme Inhibitors](#deactivation-of-enzyme-inhibitors)
@@ -49,10 +53,79 @@ Unlike many nuts, pumpkin seeds offer higher levels of magnesium and zinc with
 lower sugar content. They are also a source of vitamins E and B, and contain
 tryptophan, an amino acid precursor to serotonin.
 
+There are approximately **85** to **142** pumpkin seeds in a 28g (1 oz) serving,
+depending on whether the seeds are hulled (shelled) or whole with shells.
+
+* **Hulled seeds (Pepitas):** A 28g serving contains approximately **142**
+  hulled seeds. These are the green, shell-less kernels commonly found in bulk
+  bins.
+* **Whole seeds (with shells):** A 28g serving of whole, roasted pumpkin seeds
+  with shells contains approximately **85** seeds.
+
+The significant difference in count is due to the weight of the hard outer
+shell. For nutritional tracking, 28g is the standard recommended daily serving
+size, providing roughly 150–151 calories, 8.5g of protein, and significant
+amounts of magnesium and zinc.
+
+The primary nutritional difference between **shelled** (pepitas) and
+**unshelled** (whole) pumpkin seeds lies in **fiber density** versus **nutrient
+concentration**. Because the shell adds significant weight and bulk without
+adding protein or fat, removing it concentrates the calories and micronutrients
+in the remaining kernel.
+
+### Fiber Content
+
+The most distinct difference is dietary fiber. The hard outer shell is composed
+largely of insoluble fiber.
+
+* **Unshelled seeds:** A 1-ounce (28g) serving provides approximately **5.2
+  grams** of fiber (about 19% of the Daily Value). This makes them a superior
+  choice for digestive health and satiety.
+* **Shelled seeds:** Removing the shell drops the fiber content significantly to
+  about **1.8 grams** per ounce (roughly 7% of the Daily Value).
+
+### Caloric and Macronutrient Density
+
+Since the shell accounts for a portion of the total weight but contains
+negligible fat or protein, shelled seeds are more energy-dense per ounce.
+
+* **Calories:** Shelled seeds contain more calories per ounce (**~163 kcal**)
+  compared to unshelled seeds (**~126–130 kcal**).
+* **Protein:** Shelled seeds offer a higher protein concentration, providing
+  about **8.5 grams** per ounce, whereas unshelled seeds provide roughly **5–7
+  grams** per ounce.
+* **Fat:** The healthy fat content is also higher in shelled seeds (**~14g**)
+  compared to unshelled (**~5.5g**) because the edible kernel is where the oils
+  are stored.
+
+### Micronutrient Concentration
+
+While both forms are rich in minerals, the concentration per ounce is generally
+higher in shelled seeds because you are consuming more actual seed material and
+less inert shell weight.
+
+* **Magnesium & Iron:** Shelled seeds provide significantly more magnesium (**~
+  156 mg** vs. **~74 mg**) and iron (**~2.3 mg** vs. **~0.9 mg**) per ounce
+  compared to their unshelled counterparts.
+* **Zinc:** Unshelled seeds may appear to have slightly higher zinc counts in
+  some datasets due to the total weight, but shelled seeds generally offer a
+  more bioavailable concentration of minerals per edible gram.
+
+### Digestive Considerations
+
+The choice often depends on digestive tolerance. The high fiber in **unshelled
+seeds** can cause bloating, gas, or stomach pain in individuals not accustomed
+to high-fiber diets or those with conditions like IBS or Crohn's disease. *
+*Shelled seeds** are gentler on the digestive system while still providing
+robust nutritional benefits.
+
 ## Activation
 
 Soaking pumpkin seeds in water and an acid is a process known as **activation,**
 designed to neutralize anti-nutrients and significantly improve digestibility.
+Unshelled pumpkin seeds do not strictly *need* to be activated, but doing
+so can significantly improve their digestibility and nutrient absorption, just
+as it does for shelled seeds.
 
 The primary benefits of this specific combination include:
 

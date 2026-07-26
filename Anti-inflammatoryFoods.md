@@ -83,7 +83,8 @@ disease, diabetes, and cancer.
 * [Pecans](./Nuts/Pecan.md)
 * [Pineapple](./Fruits/Pineapple.md)
 * [Pumpkin seeds](./Seeds/Pumpkin.md)
-* Rhodiola
+* Rhodiola  
+* [Rooibos Tea](./Drinks/RooibosTea.md)
 * Rosemary
 * Sage
 * [Saffron](./Spices/Saffron.md)  

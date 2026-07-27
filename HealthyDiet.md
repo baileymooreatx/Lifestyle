@@ -121,7 +121,7 @@ Eating in the right order
   * Radicchio and other members of the chicory family (genus Cichorium) such 
     as Endive
 * [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)
-* Mushrooms (cooked)
+* [Mushrooms](./Vegetables/Mushroom.md) (cooked)
 * Fermented foods
   * Sauerkraut
   * Kimchi

@@ -54,12 +54,12 @@ Meals should be about four hours apart with **no snacking** in between.
 * [Calorie reduction](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=4575s) occasionally
 * [Exercise](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=630s) long duration, low intensity
 * [Pytonutrients](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=740s) that create a hormetic or stress response 
-  * Coffee
+  * [Coffee](./Drinks/Coffee.md)
   * Green tea
   * Berberine
   * Ashwaganda
-  * Ginger
-  * Some mushrooms  
+  * [Ginger](./Vegetables/Ginger.md)
+  * Some [mushrooms](./Vegetables/Mushroom.md)  
 
 ## [Indicators of Autophagy](https://www.youtube.com/watch?v=K3F3KRaJeLE)
 Autophagy onset occurs 17 to 24 hours after fast begins. 
@@ -67,7 +67,7 @@ Deeper cellular cleaning requires 48 to 72 hours.
 
 * Mental clarity from burning ketones instead of glucose  
 * Mild fatigue, but not wiped out  
-* Appetite comes and goes in 20 minute cycles
+* Appetite comes and goes in 20-minute cycles
 * Signs of ketosis
   * Fruity or metallic taste in your mouth  
   * Reduced Appetite  

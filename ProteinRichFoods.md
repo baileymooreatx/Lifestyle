@@ -8,7 +8,7 @@
 * Edamame  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md) 
 * Lentils  
-* Mushrooms  
+* [Mushrooms](./Vegetables/Mushroom.md)  
 * Oats  
 * Pea sprouts  
 * [Pumpkin seeds](./Seeds/Pumpkin.md)  

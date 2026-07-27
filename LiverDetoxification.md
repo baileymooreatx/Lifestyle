@@ -26,7 +26,7 @@ with [DocToc](https://github.com/thlorenz/doctoc)*
    powerful anti-inflammatory. Detoxifies heavy metals.
 4. [Beets](./Supplements/BeetrootPowder.md) protect the liver and help 
    release bile salts.
-5. Mushrooms are high in glutathione.
+5. [Mushrooms](./Vegetables/Mushroom.md) are high in glutathione.
 6. [Avocados](Vegetables/Avocado.md) are anti-inflammatory and high in 
    glutathione.
 7. Extra virgin olive oil is full of polyphenols and anti-inflammatory

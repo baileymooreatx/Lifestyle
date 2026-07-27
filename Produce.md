@@ -97,7 +97,7 @@ based on data from the **Environmental Working Group**.
 11. Mangoes  
 12. Bananas   
 13. Carrots  
-14. Mushrooms  
+14. [Mushrooms](./Vegetables/Mushroom.md)  
 15. Kiwi  
 
 ### Sorted Alphabetically by Type
@@ -116,7 +116,7 @@ based on data from the **Environmental Working Group**.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cabbage  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cauliflower  
 🥕 Carrots  
-🍄‍🟫 Mushrooms  
+🍄‍🟫 [Mushrooms](./Vegetables/Mushroom.md)  
 🧅 [Onions](./Vegetables/Onion.md)  
 🌽 Sweet corn  
 🫛 Sweet peas  

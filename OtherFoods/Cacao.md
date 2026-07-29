@@ -31,10 +31,10 @@
 
 # Cacao
 
-Cacao is a nutrient-dense superfood derived from the seeds of the Theobroma
-cacao tree. Unlike processed chocolate, raw cacao powder retains a high
-concentration of vitamins, minerals, and antioxidants because it is processed at
-low temperatures.
+Cacao is a nutrient-dense [superfood](../Superfood.md) derived from the seeds of 
+the Theobroma cacao tree. Unlike processed chocolate, raw cacao powder retains a 
+high concentration of vitamins, minerals, and antioxidants because it is 
+processed at low temperatures.
 
 ## Nutritional Profile
 

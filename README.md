@@ -21,6 +21,7 @@ Ideas about how to improve health and wellbeing
   * Avoid [processed meats](./Avoid/ProcessedMeats.md)  
   * Which [produce to buy organic](./Produce.md) instead of conventional  
   * [Seed](./Seeds) nutrition, preparation, and storage  
+  * What does "[superfood](./Superfood.md)" mean?
   * Daily [supplements](./Supplements/Supplements.md)  
   * Compare non-nutritive [sweeteners](./OtherFoods/Sweeteners.md)
   * Brew a perfect cup of [Tea](./Drinks/Tea.md)  

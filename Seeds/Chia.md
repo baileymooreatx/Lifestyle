@@ -22,8 +22,10 @@
 
 # Chia Seeds
 
-Chia seeds (Salvia hispanica) are a nutrient-dense superfood offering
-significant benefits for heart health, digestion, and blood sugar regulation.
+Chia seeds (Salvia hispanica) are a nutrient-dense [superfood](../Superfood.md)
+offering significant benefits for heart health, digestion, and blood sugar 
+regulation.  
+
 Just **2 tablespoons (28g)** provide approximately **138 calories**, **10g of
 fiber**, **5g of protein**, and **5g of omega-3 fatty acids** (ALA).
 

@@ -29,19 +29,19 @@
 
 # Blueberries
 
-Blueberries are widely considered a "superfood" due to their exceptional
-nutrient density and high concentration of antioxidants, particularly
-**anthocyanins**, which give the fruit its distinct blue color. Regular
-consumption is linked to improved heart health, brain function, and blood sugar
-management. Research indicates that the phytochemicals in blueberries offer 
-specific protective effects against chronic diseases.
+Blueberries are widely considered a [superfood](../Superfood.md) due to their 
+exceptional nutrient density and high concentration of antioxidants, 
+particularly **anthocyanins**, which give the fruit its distinct blue color. 
+Regular consumption is linked to improved heart health, brain function, and 
+blood sugar management. Research indicates that the phytochemicals in 
+blueberries offer specific protective effects against chronic diseases.
 
 ## Key Nutrients
 
 A single cup of blueberries delivers a potent mix of essential vitamins and
-minerals while remaining low in calories. They are an excellent source of *
-*vitamin K** (essential for bone health and blood clotting) and **vitamin C** (
-crucial for immune function and collagen production).
+minerals while remaining low in calories. They are an excellent source of
+**vitamin K** (essential for bone health and blood clotting) and **vitamin C**
+(crucial for immune function and collagen production).
 
 * **Manganese**: Supports metabolism, bone development, and brain function.
 * **Fiber**: One cup provides about 4 grams of dietary fiber, aiding digestion

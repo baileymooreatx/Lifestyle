@@ -21,11 +21,11 @@
 
 # Walnuts
 
-Walnuts are a nutrient-dense superfood, distinguished as the **only tree nut**
-containing significant amounts of **alpha-linolenic acid (ALA)**, a plant-based
-omega-3 fatty acid. A standard serving (1 ounce or ~7 whole nuts) provides a
-unique profile of healthy fats, protein, and antioxidants that support heart,
-brain, and gut health.
+Walnuts are a nutrient-dense [superfood](../HealthyDiet.md#a-note-on-superfoods), 
+distinguished as the **only tree nut** containing significant amounts of 
+**alpha-linolenic acid (ALA)**, a plant-based omega-3 fatty acid. A standard 
+serving (1 ounce or ~7 whole nuts) provides a unique profile of healthy fats, 
+protein, and antioxidants that support heart, brain, and gut health.
 
 ## Nutritional Profile
 

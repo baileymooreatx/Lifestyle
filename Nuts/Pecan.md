@@ -13,11 +13,12 @@
 
 # Pecans  
 
+Pecans are a nutrient-dense [superfood](../Superfood.md) native to North America,
+offering over **19 vitamins and minerals** in a single serving.  
+
 ## Nutritional Profile  
   
-Pecans are a **nutrient-dense superfood** native to North America, offering over
-**19 vitamins and minerals** in a single serving. A standard one-ounce serving 
-(approximately **19–20 halves**) provides:  
+A standard one-ounce serving (approximately **19–20 halves**) provides:  
   
 * **Calories:** ~196–200  
 * **Fat:** 20.4g (primarily heart-healthy monounsaturated and polyunsaturated

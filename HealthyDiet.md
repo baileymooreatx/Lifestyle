@@ -114,7 +114,7 @@ Eating in the right order
 4. Take a 15-minute walk after eating to raises GLUT-4, so muscles can absorb glucose without insulin.  
   
 ## Dr. Gundry's [Superfoods](https://www.youtube.com/watch?v=9VsHYodU1lw)  
-  
+
 * Leafy greens
   * Romaine
   * Arugula
@@ -135,3 +135,5 @@ Eating in the right order
   * Pomegranate
   * Dark chocolate (85% [cacao](OtherFoods/Cacao.md) or more)
 * [Avocados](Vegetables/Avocado.md)  
+
+See [Superfood](./Superfood.md).

@@ -13,11 +13,11 @@
 
 # Flaxseeds
 
-Flaxseeds are considered a **superfood** due to their dense concentration of
-three primary bioactive components: **alpha-linolenic acid (ALA)**, **dietary
-fiber**, and **lignans**. To maximize the absorption of these nutrients, experts
-recommend consuming them in **ground form** rather than whole, as whole seeds
-often pass through the digestive tract undigested.
+Flaxseeds are considered a [superfood](../Superfood.md) due to their dense 
+concentration of three primary bioactive components: **alpha-linolenic acid 
+(ALA)**, **dietary fiber**, and **lignans**. To maximize the absorption of these 
+nutrients, experts recommend consuming them in **ground form** rather than whole, 
+as whole seeds often pass through the digestive tract undigested.
 
 ## Heart Health and Omega-3 Fatty Acids
 

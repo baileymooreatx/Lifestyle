@@ -35,10 +35,11 @@
 
 Unlike traditional green tea where leaves are discarded, matcha involves
 ingesting the whole leaf, which has been shade-grown to boost chlorophyll and
-amino acid production. This process creates a **nutrient-dense superfood** that
-provides roughly **10 times the nutritional value** of regular steeped green
-tea. A single serving (about 1 gram or ½ teaspoon) delivers a concentrated dose
-of protein, amino acids, and essential micronutrients.
+amino acid production. This process creates a nutrient-dense 
+[superfood](../Superfood.md) that provides roughly **10 times the nutritional 
+value** of regular steeped green tea. A single serving (about 1 gram or ½ 
+teaspoon) delivers a concentrated dose of protein, amino acids, and essential 
+micronutrients.
 
 ## Key Nutrients
 

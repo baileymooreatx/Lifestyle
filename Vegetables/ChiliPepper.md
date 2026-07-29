@@ -19,10 +19,11 @@
 
 # Chili Peppers
 
-Chili peppers are nutrient-dense superfoods offering exceptional levels of
-vitamins, minerals, and bioactive compounds. Just 100 grams of fresh red chili
-peppers provides **240% of the daily recommended value of vitamin C**, making
-them one of the richest natural sources of this immune-boosting antioxidant.
+Chili peppers are nutrient-dense [superfoods](../Superfood.md) offering
+exceptional levels of vitamins, minerals, and bioactive compounds. Just 100 
+grams of fresh red chili peppers provides **240% of the daily recommended value 
+of vitamin C**, making them one of the richest natural sources of this 
+immune-boosting antioxidant.
 
 ## Key Nutritional Highlights
 

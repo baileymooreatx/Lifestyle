@@ -27,10 +27,11 @@
 
 # Pumpkin Seeds  
   
-Pumpkin seeds (also known as **pepitas**) are a nutrient-dense superfood packed
-with essential minerals, healthy fats, and antioxidants. A single ounce (28
-grams) provides significant daily values of magnesium, zinc, and protein,
-supporting heart health, immunity, and sleep regulation.  
+Pumpkin seeds (also known as **pepitas**) are a nutrient-dense 
+[superfood](../Superfood.md) packed with essential minerals, healthy fats, and 
+antioxidants. A single ounce (28 grams) provides significant daily values of 
+magnesium, zinc, and protein, supporting heart health, immunity, and sleep 
+regulation.  
 
 ## Nutritional Profile
 

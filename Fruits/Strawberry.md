@@ -1,8 +1,8 @@
 # Strawberries
 
-Strawberries are a nutrient-dense superfood low in calories but rich in
-essential vitamins, minerals, and powerful antioxidants. They offer significant
-benefits for heart health, immunity, and disease prevention.
+Strawberries are a nutrient-dense [superfood](../Superfood.md) low in calories 
+but rich in essential vitamins, minerals, and powerful antioxidants. They offer 
+significant benefits for heart health, immunity, and disease prevention.
 
 ## Key Nutrients
 

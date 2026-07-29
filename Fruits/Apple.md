@@ -29,9 +29,10 @@
 # Apples
 
 Apples are considered a **nutritional powerhouse** and often classified as a
-**superfood** due to their dense profile of fiber, vitamins, minerals, and
-protective plant compounds. Regular consumption is linked to reduced risks of
-chronic diseases, improved heart health, and better weight management.
+[superfood](../Superfood.md) due to their dense profile of fiber, vitamins, 
+minerals, and protective plant compounds. Regular consumption is linked to 
+reduced risks of chronic diseases, improved heart health, and better weight 
+management.
 
 ## Key Nutrients
 

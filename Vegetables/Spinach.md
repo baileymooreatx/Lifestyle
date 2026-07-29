@@ -56,10 +56,10 @@
 
 # Spinach
 
-Spinach is a **nutrient-dense superfood** that offers a wide array of health
-benefits due to its rich profile of vitamins, minerals, antioxidants, and fiber.
-Despite being extremely low in calories, it provides significant amounts of
-essential nutrients that support overall health.  
+Spinach is a nutrient-dense [superfood](../Superfood.md) that offers a wide 
+array of health benefits due to its rich profile of vitamins, minerals, 
+antioxidants, and fiber. Despite being extremely low in calories, it provides 
+significant amounts of essential nutrients that support overall health.  
 
 ## Nutritional Profile
 

@@ -14,11 +14,11 @@ Ideas about how to improve health and wellbeing
   * [Anti-inflammatory foods](./Anti-inflammatoryFoods.md) prevent disease  
   * [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
       microbiome  
-  * High [protein](./ProteinRichFoods.md) foods not derived from animals
+  * [High protein](./ProteinRichFoods.md) foods not derived from animals
   * Improve [liver health](./LiverDetoxification.md)  
   * Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
   * [Peppers are fruit, but bananas are berries](./PlantClassification.md)
-  * [Processed Meats](./Avoid/ProcessedMeats.md) should be avoided
+  * Avoid [processed meats](./Avoid/ProcessedMeats.md)  
   * Which [produce to buy organic](./Produce.md) instead of conventional  
   * [Seed](./Seeds) nutrition, preparation, and storage  
   * Daily [supplements](./Supplements/Supplements.md)  

@@ -104,8 +104,8 @@ While both forms are rich in minerals, the concentration per ounce is generally
 higher in shelled seeds because you are consuming more actual seed material and
 less inert shell weight.
 
-* **Magnesium & Iron:** Shelled seeds provide significantly more magnesium (**~
-  156 mg** vs. **~74 mg**) and iron (**~2.3 mg** vs. **~0.9 mg**) per ounce
+* **Magnesium & Iron:** Shelled seeds provide significantly more magnesium
+  (**~156 mg** vs. **~74 mg**) and iron (**~2.3 mg** vs. **~0.9 mg**) per ounce
   compared to their unshelled counterparts.
 * **Zinc:** Unshelled seeds may appear to have slightly higher zinc counts in
   some datasets due to the total weight, but shelled seeds generally offer a
@@ -115,8 +115,8 @@ less inert shell weight.
 
 The choice often depends on digestive tolerance. The high fiber in **unshelled
 seeds** can cause bloating, gas, or stomach pain in individuals not accustomed
-to high-fiber diets or those with conditions like IBS or Crohn's disease. *
-*Shelled seeds** are gentler on the digestive system while still providing
+to high-fiber diets or those with conditions like IBS or Crohn's disease. 
+**Shelled seeds** are gentler on the digestive system while still providing
 robust nutritional benefits.
 
 ## Activation

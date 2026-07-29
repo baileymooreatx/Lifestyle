@@ -92,7 +92,8 @@ disease, diabetes, and cancer.
 * [Sunflower seeds](./Seeds/Sunflower.md)
 * [Spinach](./Vegetables/Spinach.md)  
 * Spearmint
-* St. John’s Wort
+* St. John’s Wort  
+* [Sweet Potatoes](./Vegetables/SweetPotato.md)  
 * Thyme
 * [Tomatoes](./Vegetables/Tomato.md)  
 * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption

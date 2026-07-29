@@ -293,6 +293,7 @@ temperature halts enzymatic activity and oxidation, effectively locking in
 **flavanols**, **magnesium**, and **iron**. Properly frozen cacao retains
 **90 to 100%** of its nutritional profile compared to fresh stock.
 
-## My Preferred Brand
+## My Preferred Brands  
 
 [Terrasoul Superfoods Raw Organic Cacao Powder](https://www.amazon.com/dp/B07XM9P3NX/)  
+[Better Body Foods Organic Cacao Powder](https://www.amazon.com/dp/B01IPZUZW4)  

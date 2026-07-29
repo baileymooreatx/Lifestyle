@@ -3,24 +3,28 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Sweet Potatoes](#sweet-potatoes)
-    - [Nutritional Profile](#nutritional-profile)
-    - [Micronutrient Density](#micronutrient-density)
-    - [Beta-Carotene Conversion to Vitamin A](#beta-carotene-conversion-to-vitamin-a)
-    - [Orange vs. Purple: Antioxidant Comparison](#orange-vs-purple-antioxidant-comparison)
-    - [Eye Health and Vision Support](#eye-health-and-vision-support)
-    - [Heart Health and Cholesterol Management](#heart-health-and-cholesterol-management)
-    - [Blood Sugar Regulation](#blood-sugar-regulation)
-    - [Digestive and Gut Health](#digestive-and-gut-health)
-    - [Anti-Inflammatory and Anticancer Properties](#anti-inflammatory-and-anticancer-properties)
-    - [Skin Health](#skin-health)
-    - [Safety Considerations](#safety-considerations)
-    - [Preparation and Consumption Tips](#preparation-and-consumption-tips)
-    - [Storage](#storage)
-        - [Ideal Environment](#ideal-environment)
-        - [Whole Raw Potatoes](#whole-raw-potatoes)
-        - [Cut Raw Potatoes](#cut-raw-potatoes)
-        - [Cooked Sweet Potatoes](#cooked-sweet-potatoes)
-        - [The Curing Process](#the-curing-process)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Micronutrient Density](#micronutrient-density)
+  - [Beta-Carotene Conversion to Vitamin A](#beta-carotene-conversion-to-vitamin-a)
+  - [Orange vs. Purple: Antioxidant Comparison](#orange-vs-purple-antioxidant-comparison)
+  - [Eye Health and Vision Support](#eye-health-and-vision-support)
+  - [Heart Health and Cholesterol Management](#heart-health-and-cholesterol-management)
+  - [Blood Sugar Regulation](#blood-sugar-regulation)
+  - [Digestive and Gut Health](#digestive-and-gut-health)
+  - [Anti-Inflammatory and Anticancer Properties](#anti-inflammatory-and-anticancer-properties)
+  - [Skin Health](#skin-health)
+  - [Safety Considerations](#safety-considerations)
+  - [Preparation and Consumption Tips](#preparation-and-consumption-tips)
+  - [Organic vs. Conventional](#organic-vs-conventional)
+    - [Nutritional Comparison](#nutritional-comparison)
+    - [Environmental and Economic Factors](#environmental-and-economic-factors)
+    - [Recommendation](#recommendation)
+  - [Storage](#storage)
+    - [Ideal Environment](#ideal-environment)
+    - [Whole Raw Potatoes](#whole-raw-potatoes)
+    - [Cut Raw Potatoes](#cut-raw-potatoes)
+    - [Cooked Sweet Potatoes](#cooked-sweet-potatoes)
+    - [The Curing Process](#the-curing-process)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -202,6 +206,71 @@ of nutrients:
 **Optimization Tip**: To maximize vitamin A absorption from *any* cooked sweet
 potato, consume it with a source of **dietary fat** (e.g., olive oil, avocado),
 which can increase beta-carotene absorption by **63–79%**.
+
+## Organic vs. Conventional
+
+The most significant distinction between organic and conventional sweet potatoes
+lies in pesticide exposure, though the risk profile for sweet potatoes is
+generally low compared to other produce.
+
+* **Residue Levels**: According to USDA data, just under **60%** of conventional
+  sweet potato samples contain any detectable pesticide residues, significantly
+  lower than the **90–95%** found in white potatoes.
+* **Chemical Specifics**: Unlike white potatoes, conventional sweet potatoes are
+  rarely treated with **chlorpropham** (a sprout inhibitor banned in the EU);
+  less than **1%** of samples show detectable levels.
+* **EWG Ranking**: The Environmental Working Group (EWG) typically places sweet
+  potatoes near the **"Clean Fifteen"** list (low pesticide load), though some
+  recent 2025/2026 reports have flagged them for increased monitoring.
+  Regardless, their thick skin acts as a natural barrier, making conventional
+  options a safe choice for most consumers.
+* **Organic Advantage**: Certified organic sweet potatoes have **no detected
+  synthetic pesticide residues**, eliminating even the minimal risk associated
+  with conventional farming and avoiding cross-contamination issues common in
+  storage facilities.
+
+### Nutritional Comparison
+
+Research indicates that the farming method has a **negligible impact** on the
+core macronutrient and vitamin profile of the vegetable.
+
+* **Core Nutrients**: Both organic and conventional sweet potatoes provide
+  identical amounts of **beta-carotene (vitamin A)**, **fiber**, **potassium**,
+  and **vitamin C**. The variety (orange vs. purple) and growing conditions (
+  soil quality, climate) influence nutrient levels far more than organic status.
+* **Antioxidant Variance**: Some studies suggest organic sweet potatoes may
+  contain **slightly higher levels of antioxidants** (phenolics and
+  anthocyanins). This is attributed to the "stress response" in organic plants,
+  which produce more defensive compounds in the absence of synthetic pesticides.
+  However, this difference is often marginal and unlikely to impact overall
+  health significantly in the context of a balanced diet.
+* **Contaminants**: Organic potatoes avoid synthetic fungicides and herbicides
+  entirely, whereas conventional ones may carry trace amounts within regulatory
+  limits.
+
+### Environmental and Economic Factors
+
+| Feature               | Organic Sweet Potatoes                                                    | Conventional Sweet Potatoes                                                               |
+|:----------------------|:--------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| **Farming Practices** | No synthetic pesticides/fertilizers; promotes soil health & biodiversity. | Uses approved synthetic chemicals; higher risk of nitrogen runoff.                        |
+| **Cost**              | Typically **20–40% higher** ($2.99–$3.50/lb).                             | More affordable ($1.99–$2.50/lb).                                                         |
+| **Appearance**        | Often irregular shapes/sizes; natural variation.                          | Uniform shape and size due to standardized chemical inputs.                               |
+| **Skin Edibility**    | Skin is safe to eat without peeling (maximizes fiber/nutrients).          | Skin is safe after washing, but some prefer peeling to remove potential surface residues. |
+
+### Recommendation
+
+For most consumers, **conventional sweet potatoes** are a highly nutritious and
+safe option due to their low pesticide retention and thick protective skin.
+Washing and scrubbing them thoroughly is sufficient to minimize residue.
+
+Choosing **organic** is primarily beneficial for:
+
+* **Risk Aversion**: Individuals wishing to eliminate *all* synthetic pesticide
+  exposure, however small.
+* **Skin Consumption**: Those who frequently eat the skin (where residues
+  concentrate) and want to avoid peeling.
+* **Environmental Ethics**: Consumers prioritizing support for sustainable
+  farming practices that reduce chemical runoff and improve soil carbon.
 
 ## Storage
 

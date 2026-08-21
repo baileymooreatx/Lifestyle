@@ -1,4 +1,4 @@
-# Protein rich foods  
+# Protein Rich Plant Foods  
 
 * [Almonds](./Nuts/Almond.md)  
 * Black beans  

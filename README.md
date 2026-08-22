@@ -2,6 +2,7 @@
 
 Ideas about how to improve health and wellbeing  
 
+* Pros and cons of drinking [Alkaline Water](./OtherFoods/AlkalineWater.md)
 * Measure [blood pressure](./BloodPressure.md) correctly
 * [Dental care](./DentalCare.md) and natural recipes for tooth care
 * Peace of [mind](./Mind.md) with a splash of brain health
@@ -18,6 +19,7 @@ Ideas about how to improve health and wellbeing
   * Improve [liver health](./LiverDetoxification.md)  
   * Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
   * [Peppers are fruit, but bananas are berries](./PlantClassification.md)
+  * List of [potassium rich foods](PotassiumRichFoods.md)  
   * Avoid [processed meats](./Avoid/ProcessedMeats.md)  
   * Which [produce to buy organic](./Produce.md) instead of conventional  
   * [Seed](./Seeds) nutrition, preparation, and storage  

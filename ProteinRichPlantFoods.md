@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Protein Rich Plant Foods](#protein-rich-plant-foods)
+  - [Sources](#sources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Protein Rich Plant Foods  
 
 * [Almonds](./Nuts/Almond.md)  
@@ -7,7 +16,7 @@
 * Chickpeas (Garbanzo beans)  
 * Edamame  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md) 
-* Lentils  
+* [Lentils](./Pulses/Lentil.md)  
 * [Mushrooms](./Vegetables/Mushroom.md)  
 * Oats  
 * Pea sprouts  

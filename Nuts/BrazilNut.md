@@ -21,7 +21,7 @@
     - [Statins and Niacin](#statins-and-niacin)
     - [Sedatives](#sedatives)
   - [Storage](#storage)
-    - [Does Roasting Affect Nutrients?](#does-roasting-affect-nutrients)
+    - [Raw vs. Dry Roasted](#raw-vs-dry-roasted)
     - [Summary of Shelf Life](#summary-of-shelf-life)
   - [My Preferred Brand](#my-preferred-brand)
 

@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Heart Health](#heart-health)
+  - [Natural Remedies to Clean Arteries](#natural-remedies-to-clean-arteries)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Heart Health  
 
 ## [Natural Remedies to Clean Arteries](https://www.youtube.com/watch?v=6yt3wCpXqBQ&t=1s)  

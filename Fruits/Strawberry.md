@@ -1,3 +1,43 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Strawberries](#strawberries)
+  - [Key Nutrients](#key-nutrients)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Antioxidant and Anti-Inflammatory](#antioxidant-and-anti-inflammatory)
+  - [Clinical Evidence for Inflammation Reduction](#clinical-evidence-for-inflammation-reduction)
+  - [Key Anti-Inflammatory Compounds](#key-anti-inflammatory-compounds)
+  - [Mechanisms of Action](#mechanisms-of-action)
+  - [Practical Application for Maximum Benefit](#practical-application-for-maximum-benefit)
+  - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
+  - [Disease Prevention and Immunity](#disease-prevention-and-immunity)
+  - [Brain Function and Cognitive Health](#brain-function-and-cognitive-health)
+  - [Digestive and Gut Health](#digestive-and-gut-health)
+  - [Blood Sugar and Insulin Sensitivity Timing](#blood-sugar-and-insulin-sensitivity-timing)
+  - [Dietary Advantages](#dietary-advantages)
+  - [Fresh vs. Frozen](#fresh-vs-frozen)
+    - [Nutrient Retention Comparison](#nutrient-retention-comparison)
+    - [The "Freshness" Variable](#the-freshness-variable)
+    - [Practical Considerations](#practical-considerations)
+  - [Organic vs. Conventional](#organic-vs-conventional)
+    - [Nutritional Differences](#nutritional-differences)
+    - [Pesticide Exposure](#pesticide-exposure)
+    - [Price Difference](#price-difference)
+      - [Price Comparison (2025–2026)](#price-comparison-20252026)
+      - [Drivers of the Cost Difference](#drivers-of-the-cost-difference)
+    - [Summary](#summary)
+  - [Storage](#storage)
+    - [Fresh](#fresh)
+    - [Freezing for Long-Term Nutrient Lock](#freezing-for-long-term-nutrient-lock)
+    - [Nutrient Degradation Timeline](#nutrient-degradation-timeline)
+    - [Frozen Shelf Life](#frozen-shelf-life)
+    - [Quality Degradation Timeline](#quality-degradation-timeline)
+    - [Signs of Spoilage or Quality Loss](#signs-of-spoilage-or-quality-loss)
+    - [Storage Factors Affecting Shelf Life](#storage-factors-affecting-shelf-life)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Strawberries
 
 Strawberries are a nutrient-dense [superfood](../Superfood.md) low in calories 

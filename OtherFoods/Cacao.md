@@ -25,7 +25,7 @@
       - [Critical Precautions](#critical-precautions)
         - [Preventing Condensation](#preventing-condensation)
       - [Nutritional Integrity](#nutritional-integrity)
-  - [My Preferred Brand](#my-preferred-brand)
+  - [My Preferred Brands](#my-preferred-brands)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Alkaline Water](#alkaline-water)
+  - [Claimed Hydration and Athletic Benefits](#claimed-hydration-and-athletic-benefits)
+  - [Digestive Health and Acid Reflux](#digestive-health-and-acid-reflux)
+  - [Bone Health and Metabolic Markers](#bone-health-and-metabolic-markers)
+  - [Scientific Consensus and Limitations](#scientific-consensus-and-limitations)
+  - [Potential Risks of Drinking Alkaline Water](#potential-risks-of-drinking-alkaline-water)
+    - [Kidney Strain and Electrolyte Imbalance](#kidney-strain-and-electrolyte-imbalance)
+    - [Digestive Disruption and Nutrient Absorption](#digestive-disruption-and-nutrient-absorption)
+    - [Medication Interactions](#medication-interactions)
+    - [Lack of Long-Term Safety Data](#lack-of-long-term-safety-data)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Alkaline Water
 
 Alkaline water is defined by a higher pH level than regular drinking water.

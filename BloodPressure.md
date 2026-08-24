@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Blood Pressure](#blood-pressure)
+  - [The Two Numbers Explained](#the-two-numbers-explained)
+    - [Systolic Blood Pressure (The Top Number)](#systolic-blood-pressure-the-top-number)
+    - [Diastolic Blood Pressure (The Bottom Number)](#diastolic-blood-pressure-the-bottom-number)
+  - [Blood Pressure Categories](#blood-pressure-categories)
+  - [Which Number Is More Important?](#which-number-is-more-important)
+  - [Measure Blood Pressure Correctly](#measure-blood-pressure-correctly)
+    - [Preparation (30 Minutes Before)](#preparation-30-minutes-before)
+    - [Proper Positioning](#proper-positioning)
+    - [Taking the Measurement](#taking-the-measurement)
+    - [When and How Often to Measure](#when-and-how-often-to-measure)
+    - [Common Mistakes to Avoid](#common-mistakes-to-avoid)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Blood Pressure
 
 Blood pressure is measured as two numbers, written as **systolic over diastolic

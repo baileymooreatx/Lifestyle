@@ -6,7 +6,7 @@
   - [Highest Potassium Sources by Category](#highest-potassium-sources-by-category)
   - [Key Food Groups](#key-food-groups)
     - [Vegetables and Tubers](#vegetables-and-tubers)
-    - [Legumes and Beans](#legumes-and-beans)
+    - [Pulses](#pulses)
     - [Fruits](#fruits)
     - [Protein Sources](#protein-sources)
     - [Other Sources](#other-sources)
@@ -22,22 +22,22 @@ for potassium is **4,700 mg**.
 
 ## Highest Potassium Sources by Category
 
-| Food Item                       | Serving Size | Potassium (mg) | % Daily Value |
-|:--------------------------------|:-------------|:---------------|:--------------|
-| **Beet Greens** (cooked)        | 1 cup        | 1,309 mg       | 28%           |
-| **Potato** (baked, with skin)   | 1 medium     | 926–952 mg     | 20%           |
-| **Yam** (cooked)                | 1 cup        | 911 mg         | 19%           |
-| **Acorn Squash** (cooked)       | 1 cup        | 896 mg         | 19%           |
-| **Swiss Chard** (cooked)        | 1 cup        | 961 mg         | 20%           |
-| **Spinach** (cooked)            | 1 cup        | 840 mg         | 18%           |
-| **Dried Apricots**              | ½ cup        | 755 mg         | 16%           |
-| **Lentils** (cooked)            | 1 cup        | 731 mg         | 16%           |
-| **White Beans**                 | 1 cup        | 1,000+ mg      | ~21%          |
-| **Avocado**                     | 1 whole      | 975 mg         | 21%           |
-| **Salmon** (cooked)             | 3 oz         | 326 to 535 mg  | 7–11%         |
-| **Chicken Breast** (grilled)    | 3 oz         | 332 mg         | 7%            |
-| **Milk** (low-fat)              | 1 cup        | 366 mg         | 8%            |
-| **Banana** (medium)             | 1 fruit      | 422 mg         | 9%            |
+| Food Item                                  | Serving Size | Potassium (mg) | % Daily Value |
+|:-------------------------------------------|:-------------|:---------------|:--------------|
+| **Beet Greens** (cooked)                   | 1 cup        | 1,309 mg       | 28%           |
+| **Potato** (baked, with skin)              | 1 medium     | 926–952 mg     | 20%           |
+| **Yam** (cooked)                           | 1 cup        | 911 mg         | 19%           |
+| **Acorn Squash** (cooked)                  | 1 cup        | 896 mg         | 19%           |
+| **Swiss Chard** (cooked)                   | 1 cup        | 961 mg         | 20%           |
+| **Spinach** (cooked)                       | 1 cup        | 840 mg         | 18%           |
+| **Dried Apricots**                         | ½ cup        | 755 mg         | 16%           |
+| **[Lentils](./Pulses/Lentil.md)** (cooked) | 1 cup        | 731 mg         | 16%           |
+| **White Beans**                            | 1 cup        | 1,000+ mg      | ~21%          |
+| **Avocado**                                | 1 whole      | 975 mg         | 21%           |
+| **Salmon** (cooked)                        | 3 oz         | 326 to 535 mg  | 7–11%         |
+| **Chicken Breast** (grilled)               | 3 oz         | 332 mg         | 7%            |
+| **Milk** (low-fat)                         | 1 cup        | 366 mg         | 8%            |
+| **Banana** (medium)                        | 1 fruit      | 422 mg         | 9%            |
 
 ## Key Food Groups
 
@@ -49,12 +49,12 @@ when baked with the skin. Dark leafy greens like **spinach**, **Swiss chard**,
 and **beet greens** offer extremely high concentrations when cooked. Winter
 squashes, such as **acorn squash** and **pumpkin**, are also excellent choices.
 
-### Legumes and Beans  
+### Pulses    
 
-Beans and lentils are nutrient-dense powerhouses. **White beans**, **kidney
-beans**, **lima beans**, and **lentils** consistently rank at the top of
-potassium lists. A single cup of cooked lentils or white beans can provide over
-15% of the daily recommended value.
+Beans and [lentils](./Pulses/Lentil.md) are nutrient-dense powerhouses. **White 
+beans**, **kidney beans**, **lima beans**, and **lentils** consistently rank at 
+the top of potassium lists. A single cup of cooked lentils or white beans can 
+provide over 15% of the daily recommended value.
 
 ### Fruits  
 

@@ -65,9 +65,9 @@ categories.
 * **Botanical Definition:** Legumes are plants in the family **Fabaceae** (or
   Leguminosae). The term also refers to the specific type of fruit these plants
   produce: a **pod** (a dry fruit that splits along two seams) containing seeds.
-* **Culinary Usage:** While the pod is botanically a fruit, the seeds inside (
-  beans, peas, lentils, chickpeas) are often cooked and eaten as **vegetables**
-  or protein sources.
+* **Culinary Usage:** While the pod is botanically a fruit, the seeds inside
+  (beans, peas, [lentils](./Pulses/Lentil.md), chickpeas) are often cooked and 
+  eaten as **vegetables** or protein sources.
 * **Unique Trait:** Legumes have a symbiotic relationship with nitrogen-fixing
   bacteria in their root nodules, enriching the soil.
 

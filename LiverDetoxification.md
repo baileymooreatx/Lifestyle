@@ -1,16 +1,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated
-with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Liver detoxification](#liver-detoxification)
-    - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
-    - [Signs of Liver Damage](#signs-of-liver-damage)
-    - [The #1 Best Meal for Liver Detoxification](#the-1-best-meal-for-liver-detoxification)
-    - [The 6 Best Ways to Heal a Fatty Liver](#the-6-best-ways-to-heal-a-fatty-liver)
-    - [Supplements to Reverse Fatty Liver](#supplements-to-reverse-fatty-liver)
-    - [Beverages to Reverse Fatty Liver](#beverages-to-reverse-fatty-liver)
-    - [Dr. Berg's list of foods that are toxic to the liver](#dr-bergs-list-of-foods-that-are-toxic-to-the-liver)
+  - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
+  - [Signs of Liver Damage](#signs-of-liver-damage)
+  - [The #1 Best Meal for Liver Detoxification](#the-1-best-meal-for-liver-detoxification)
+  - [The 6 Best Ways to Heal a Fatty Liver](#the-6-best-ways-to-heal-a-fatty-liver)
+  - [Supplements to Reverse Fatty Liver](#supplements-to-reverse-fatty-liver)
+  - [Beverages to Reverse Fatty Liver](#beverages-to-reverse-fatty-liver)
+  - [Dr. Berg's list of foods that are toxic to the liver](#dr-bergs-list-of-foods-that-are-toxic-to-the-liver)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

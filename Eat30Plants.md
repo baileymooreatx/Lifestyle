@@ -133,7 +133,7 @@ vegetables. To reach the target of 30, the following categories count:
    profiles.
 2. **Whole Grains:** Oats, brown rice, quinoa, barley, and whole-grain bread
    (refined grains like white bread do not count).
-3. **Legumes:** Beans, lentils, chickpeas, and peas.
+3. **Pulses:** Beans, [lentils](./Pulses/Lentil.md), chickpeas, and peas.
 4. **Nuts and Seeds:** Including nut butters and seeds like chia or hemp.
 5. **Herbs and Spices:** These are potent sources of polyphenols. Due to smaller
    serving sizes, they typically count as **¼ of a point** each.

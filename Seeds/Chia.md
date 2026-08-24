@@ -16,7 +16,7 @@
     - [Heart Health & Blood Pressure](#heart-health--blood-pressure)
     - [Blood Sugar Control](#blood-sugar-control)
     - [Digestive Health](#digestive-health)
-  - [Important Considerations](#important-considerations)
+  - [Safety Considerations](#safety-considerations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

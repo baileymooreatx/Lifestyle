@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Supplements for Amazing Sleep](#supplements-for-amazing-sleep)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)  
 
 These supplements are recommended for people over fifty, who frequently have issues 

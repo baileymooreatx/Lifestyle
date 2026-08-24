@@ -12,7 +12,7 @@
   - [Impact of Heat on Allicin Levels](#impact-of-heat-on-allicin-levels)
   - [Maximizing Benefits in Cooked Garlic](#maximizing-benefits-in-cooked-garlic)
   - [Raw vs. Cooked: A Summary](#raw-vs-cooked-a-summary)
-  - [Major Drug Interactions](#major-drug-interactions)
+  - [Medication Interactions](#medication-interactions)
     - [Blood Thinners and Anticoagulants](#blood-thinners-and-anticoagulants)
     - [HIV Medications (Protease Inhibitors)](#hiv-medications-protease-inhibitors)
     - [Diabetes and Blood Pressure Medications](#diabetes-and-blood-pressure-medications)

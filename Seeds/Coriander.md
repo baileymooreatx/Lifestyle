@@ -22,7 +22,7 @@
     - [Practical Recommendation](#practical-recommendation)
     - [Recommended Daily Dosage](#recommended-daily-dosage)
     - [Potential Side Effects of Overconsumption](#potential-side-effects-of-overconsumption)
-    - [Specific Contraindications](#specific-contraindications)
+  - [Safety Considerations](#safety-considerations)
   - [Storage](#storage)
     - [Whole Seeds: The Gold Standard](#whole-seeds-the-gold-standard)
     - [Ground Coriander: High Vulnerability](#ground-coriander-high-vulnerability)

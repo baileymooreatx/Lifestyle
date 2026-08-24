@@ -127,7 +127,8 @@ protein, fiber, and resistant starch (RS1 and RS3).
 
 * **White Beans (Navy/Cannellini):** Consistently rank highest among beans, with
   **~7.4 grams per cooked cup**.  
-* **Lentils:** Provide approximately **5–6.8 grams per cooked cup**.  
+* **[Lentils](../Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
+  cooked cup**.  
 * **Black Beans & Chickpeas:** Offer roughly **3.5–5 grams per cooked cup**.  
 * **Fava Beans:** Notable for having one of the highest concentrations per 100g,
   ranging from **7 to 12 grams** depending on preparation.
@@ -164,13 +165,13 @@ cooling.
 
 ## Quick Comparison Table
 
-| Food Source                | Typical Serving | Approx. Resistant Starch | Key Type |
-|:---------------------------|:----------------|:-------------------------|:---------|
-| **Raw Potato Starch**      | 1 tbsp          | **7–8 g**                | RS2      |
-| **Green Banana Flour**     | 2 tbsp          | **8–9 g**                | RS2      |
-| **White Beans (Cooked)**   | 1 cup           | **7.4 g**                | RS1/RS3  |
-| **Green Banana**           | 1 medium        | **4.5–6 g**              | RS2      |
-| **Lentils (Cooked)**       | 1 cup           | **5–6.8 g**              | RS1/RS3  |
-| **Cooked & Cooled Potato** | 1 medium        | **3–4.5 g**              | RS3      |
-| **Uncooked Oats**          | 1/2 cup         | **3–4.5 g**              | RS2      |
-| **Cooked & Cooled Rice**   | 1 cup           | **1.5–4 g**              | RS3      |
+| Food Source                                 | Typical Serving | Approx. Resistant Starch | Key Type |
+|:--------------------------------------------|:----------------|:-------------------------|:---------|
+| **Raw Potato Starch**                       | 1 tbsp          | **7–8 g**                | RS2      |
+| **Green Banana Flour**                      | 2 tbsp          | **8–9 g**                | RS2      |
+| **White Beans (Cooked)**                    | 1 cup           | **7.4 g**                | RS1/RS3  |
+| **Green Banana**                            | 1 medium        | **4.5–6 g**              | RS2      |
+| **[Lentils](../Pulses/Lentil.md) (Cooked)** | 1 cup           | **5–6.8 g**              | RS1/RS3  |
+| **Cooked & Cooled Potato**                  | 1 medium        | **3–4.5 g**              | RS3      |
+| **Uncooked Oats**                           | 1/2 cup         | **3–4.5 g**              | RS2      |
+| **Cooked & Cooled Rice**                    | 1 cup           | **1.5–4 g**              | RS3      |

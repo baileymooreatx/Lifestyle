@@ -9,7 +9,7 @@
   - [Anti-Inflammatory and Antioxidant Protection](#anti-inflammatory-and-antioxidant-protection)
   - [Bone and Muscle Support](#bone-and-muscle-support)
   - [Immune and Thyroid Function](#immune-and-thyroid-function)
-  - [Raw vs. Roasted: The Nutritional Difference](#raw-vs-roasted-the-nutritional-difference)
+  - [Raw vs. Roasted](#raw-vs-roasted)
   - [Storage](#storage)
     - [Optimal Storage Conditions](#optimal-storage-conditions)
     - [Short-Term (Up to 3 Months)](#short-term-up-to-3-months)

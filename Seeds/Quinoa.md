@@ -22,7 +22,7 @@ diverse diets.
 ## Complete Protein Source
 
 One of quinoa's most distinct advantages is its status as a **complete 
-protein **. It contains all **nine essential amino acids** that the human body 
+protein**. It contains all nine essential amino acids that the human body 
 cannot produce on its own. This makes it an exceptional protein source for 
 vegetarians and vegans who may struggle to get adequate amino acids from other 
 plant-based foods.
@@ -34,21 +34,20 @@ to reduce overeating.
 
 ## Rich in Fiber and Digestive Health
 
-Quinoa is an excellent source of **dietary fiber**, offering about **5 grams per
+Quinoa is an excellent source of dietary fiber, offering about **5 grams per
 cooked cup**. This high fiber content promotes regular bowel movements, prevents
 constipation, and supports a healthy gut microbiome by acting as a prebiotic.
 
 A diet rich in fiber from sources like quinoa can significantly lower the risk
-of **colon cancer** and type 2 diabetes. Fiber slows the absorption of sugars,
+of colon cancer and type 2 diabetes. Fiber slows the absorption of sugars,
 which helps maintain stable blood glucose levels and supports long-term
 metabolic health.
 
 ## Heart Health and Blood Sugar Control
 
 Regular consumption of quinoa supports cardiovascular wellness through several
-mechanisms. It is rich in **magnesium**, **potassium**, and **fiber**, which
-collectively help regulate blood pressure and lower LDL ("bad") cholesterol
-levels.
+mechanisms. It is rich in magnesium, potassium, and fiber, which collectively
+help regulate blood pressure and lower LDL (bad) cholesterol levels.
 
 The seed has a **low glycemic index**, meaning it causes a slower, more
 controlled rise in blood sugar compared to refined grains. This property makes

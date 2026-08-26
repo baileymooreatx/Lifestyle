@@ -42,7 +42,7 @@ folate**, nutrients that work synergistically to regulate blood pressure and
 maintain a steady heartbeat.
 
 The high fiber content in lentils helps maintain healthy blood lipid levels by
-significantly reducing **LDL ("bad") cholesterol** and total cholesterol.
+significantly reducing **LDL (bad) cholesterol** and total cholesterol.
 Studies indicate that regular consumption can lower these markers without
 causing gastrointestinal distress. Additionally, lentils contain 
 **polyphenols**, powerful antioxidants that reduce inflammation and oxidative 
@@ -96,7 +96,8 @@ function.
 They also provide significant amounts of **thiamine (Vitamin B1)**,
 **Vitamin B6**, **phosphorus**, and **copper**. The presence of these minerals,
 alongside plant-based protein, makes lentils a comprehensive nutritional 
-tool for preventing deficiencies such as anemia and supporting overall metabolic health.
+tool for preventing deficiencies such as anemia and supporting overall metabolic 
+health.
 
 ## Potential Considerations
 

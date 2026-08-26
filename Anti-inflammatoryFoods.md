@@ -36,7 +36,7 @@ disease, diabetes, and cancer.
 * [Almonds](./Nuts/Almond.md)  
 * Ashwagandha
 * Astragalus root
-* [Avocados](Vegetables/Avocado.md)
+* [Avocados](./Vegetables/Avocado.md)
 * Basil  
 * [Beets](./Supplements/BeetrootPowder.md)  
 * [Bell pepper](./Vegetables/BellPepper.md)
@@ -44,7 +44,7 @@ disease, diabetes, and cancer.
 * [Black tea](./Drinks/BlackTea.md)  
 * [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
 * [Brazil Nuts](./Nuts/BrazilNut.md)  
-* [Cacao](OtherFoods/Cacao.md)  
+* [Cacao](./OtherFoods/Cacao.md)  
 * Calendula
 * Cat’s claw
 * Cardamon
@@ -59,9 +59,9 @@ disease, diabetes, and cancer.
 * Echinacea
 * Fenugreek  
 * [Fennel seeds](./Seeds/Fennel.md)  
-* [Flaxseed](Seeds/Flaxseed.md)
+* [Flaxseed](./Seeds/Flaxseed.md)
 * [Garlic](./Vegetables/Garlic.md)
-* [Ginger](Vegetables/Ginger.md) - pair with black pepper for enhanced absorption
+* [Ginger](./Vegetables/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
 * Green tea
 * [Hazelnuts](./Nuts/Hazelnut.md)  
@@ -73,6 +73,7 @@ disease, diabetes, and cancer.
 * Lemon balm
 * [Lemons](./Fruits/Lemon.md)
 * Licorice root
+* [Lentils](./Pulses/Lentil.md)  
 * [Matcha](./Drinks/Matcha.md)
 * [Olive oil (extra virgin)](./Fats/ExtraVirginOliveOil.md)
 * [Onion](./Vegetables/Onion.md)
@@ -148,7 +149,7 @@ risk and severity of several non-communicable diseases.
 
 Chronic inflammation contributes to the buildup of plaque in arteries
 (atherosclerosis). Anti-inflammatory foods improve endothelial function, lower
-LDL ("bad") cholesterol, and reduce blood pressure. The combination of **olive
+LDL (bad) cholesterol, and reduce blood pressure. The combination of **olive
 oil polyphenols**, **nuts**, and **fatty fish** specifically lowers triglyceride
 levels and prevents the oxidation of cholesterol, a critical step in heart
 disease development.
@@ -163,8 +164,8 @@ helps prevent the progression from pre-diabetes to type 2 diabetes.
 ### Cancer  
 
 Oxidative stress causes DNA damage that can lead to malignant transformations.
-Phytochemicals and antioxidants found in **cruciferous vegetables** (like
-broccoli) and **berries** protect DNA integrity and may inhibit the growth of
+Phytochemicals and antioxidants found in cruciferous vegetables (like
+broccoli) and berries protect DNA integrity and may inhibit the growth of
 cancer cells by modulating inflammatory pathways involved in tumor 
 progression.  
 

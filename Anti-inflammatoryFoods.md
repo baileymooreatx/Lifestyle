@@ -82,7 +82,8 @@ disease, diabetes, and cancer.
 * Passion flower
 * [Pecans](./Nuts/Pecan.md)
 * [Pineapple](./Fruits/Pineapple.md)
-* [Pumpkin seeds](./Seeds/Pumpkin.md)
+* [Pumpkin seeds](./Seeds/Pumpkin.md)  
+* [Quinoa](./Seeds/Quinoa.md)  
 * Rhodiola  
 * [Rooibos Tea](./Drinks/RooibosTea.md)
 * Rosemary

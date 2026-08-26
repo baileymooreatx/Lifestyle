@@ -61,8 +61,8 @@ single tablespoon typically provides:
 * **Other Minerals**: Contains smaller amounts of manganese, copper, and
   selenium.
 * **Vitamins**: Provides modest amounts of **Vitamin B6** (approx. 8% DV), which 
-  helps combat fatigue and supports brain function. It is also rich in 
-* **Antioxidants**: Rick in antioxidants like phenolic acids and flavonoids. 
+  helps combat fatigue and supports brain function.  
+* **Antioxidants**: Rich in antioxidants like phenolic acids and flavonoids. 
 
 ## Bone Health and Anemia Prevention
 
@@ -93,8 +93,8 @@ oxidative stress, which are key factors in preventing heart disease.
 
 ## Dietary Considerations
 
-While nutritionally superior to white sugar, blackstrap molasses has a *
-*moderate glycemic index of roughly 55**. It should be consumed in moderation,
+While nutritionally superior to white sugar, blackstrap molasses has a 
+**moderate glycemic index of roughly 55**. It should be consumed in moderation,
 particularly by individuals managing blood sugar levels, as it is still a
 concentrated source of sugar. Its strong, bittersweet flavor means it is often
 used in smaller quantities than other sweeteners in baking and cooking.

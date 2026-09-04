@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Plant-Based, Non-Nutritive Sweeteners](#plant-based-non-nutritive-sweeteners)
+- [Plant-Based Non-Nutritive Sweeteners](#plant-based-non-nutritive-sweeteners)
   - [Insulin and Glucose Response](#insulin-and-glucose-response)
     - [Stevia](#stevia)
     - [Monk Fruit Extract (MFE)](#monk-fruit-extract-mfe)
@@ -12,14 +12,14 @@
   - [Sugar Alcohols](#sugar-alcohols)
     - [Erythritol](#erythritol)
     - [Xylitol](#xylitol)
-  - [Sugar Alcohols vs. Plant-Based NNS](#sugar-alcohols-vs-plant-based-nns)
+  - [Sugar Alcohols vs. Plant-Based Non-Nutritive Sweeteners](#sugar-alcohols-vs-plant-based-non-nutritive-sweeteners)
     - [Key Distinction](#key-distinction)
   - [Considerations](#considerations)
   - [My Preferred Brands](#my-preferred-brands)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Plant-Based, Non-Nutritive Sweeteners
+# Plant-Based Non-Nutritive Sweeteners
 
 Plant-based, non-nutritive sweeteners (NNS) are derived from natural sources and
 provide sweetness with minimal to zero calories. The most commonly studied
@@ -127,7 +127,7 @@ processing and insulin response.
   life-threatening hypoglycemia and liver failure due to a massive insulin
   release in canines.
 
-## Sugar Alcohols vs. Plant-Based NNS
+## Sugar Alcohols vs. Plant-Based Non-Nutritive Sweeteners
 
 | Feature                 | **Erythritol**                       | **Xylitol**                                  | **Stevia/Monk Fruit** (Previous)    |
 |:------------------------|:-------------------------------------|:---------------------------------------------|:------------------------------------|

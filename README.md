@@ -15,6 +15,7 @@ Ideas about how to improve health and wellbeing
   * [Anti-inflammatory foods](./Anti-inflammatoryFoods.md) prevent disease  
   * [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
       microbiome  
+  * Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
   * [High protein](ProteinRichPlantFoods.md) foods not derived from animals
   * Improve [liver health](./LiverDetoxification.md)  
   * Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  

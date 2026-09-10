@@ -61,9 +61,6 @@ antiviral effects**.
 
 ## Safety Considerations
 
-* Avoid concentrated **clove oil**, which can cause liver damage. Consult a
-  doctor if you are on blood thinners, diabetes medication, or have upcoming
-  surgery (13:15 - 14:00).
 * **Medication Interactions:** Individuals taking **blood thinners** should
   consult their doctor because the active compound, eugenol, has anti-platelet
   activity. Additionally, those on **diabetes medications** should be cautious,

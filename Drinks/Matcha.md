@@ -67,6 +67,17 @@ linked to chronic diseases and aging. Because the leaves are shaded before
 harvest, the antioxidant potential is maximized, offering superior protection
 against oxidative stress compared to other teas.
 
+Adding lemon juice (or any citrus juice) to matcha significantly improves the
+bioavailability of its catechins, the primary antioxidant compounds in matcha.
+
+A **Purdue University study** published in *Molecular Nutrition and Food
+Research* found that without an acid source, **less than 20%** of catechins
+survive digestion. Adding lemon juice (vitamin C and citric acid) increased
+recovered catechin levels to roughly **56–95%** depending on the specific
+catechin, with EGCG (the most studied) recovering around **56–76%**. The
+mechanism: the acidic environment stabilizes catechins as they pass through the
+intestines, preventing degradation before absorption.  
+
 ## Brain & Mood Support
 
 Matcha uniquely combines **caffeine** with the amino acid **L-theanine**,
@@ -155,7 +166,7 @@ tea daily.
 ### Synergistic Compounds
 
 Matcha's anti-inflammatory power is amplified by the synergy between its unique
-compounds:
+compounds.
 
 * **L-Theanine:** This amino acid reduces stress-induced inflammation. Since
   chronic stress triggers inflammatory responses, L-theanine's ability to
@@ -180,6 +191,16 @@ daily.
   (e.g., alongside [turmeric](../Spices/Turmeric.md), [ginger](../Vegetables/Ginger.md), 
   and omega-3s), complementing other natural remedies rather than replacing 
   medical treatment for acute conditions.
+
+A few practical notes:
+
+- About **5 ml (1 teaspoon)** of fresh lemon juice per cup is sufficient.
+- Lemon, lime, orange, and grapefruit all work; lemon was the most effective in
+  the study.
+- Vitamin C alone (e.g., a 30 mg supplement) produces a similar effect.
+- The boost is specifically for **catechins/antioxidants**; it also modestly
+  helps **non-heme iron** absorption, which is relevant if you drink matcha with
+  plant-based meals.
 
 ## Skin & Bone Health
 

@@ -18,6 +18,8 @@ Ideas about how to improve health and wellbeing
   * Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
   * [High protein](ProteinRichPlantFoods.md) foods not derived from animals
   * Improve [liver health](./LiverDetoxification.md)  
+  * How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
+    insulin levels in the blood?  
   * Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
   * [Peppers are fruit, but bananas are berries](./PlantClassification.md)
   * List of [potassium rich foods](PotassiumRichFoods.md)  

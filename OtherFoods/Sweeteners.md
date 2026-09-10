@@ -23,19 +23,20 @@
 
 Plant-based, non-nutritive sweeteners (NNS) are derived from natural sources and
 provide sweetness with minimal to zero calories. The most commonly studied
-include **stevia**, **monk fruit extract**, **allulose**, and **yacón syrup**.
-These sweeteners are increasingly used as sugar alternatives, especially among
-individuals managing diabetes or seeking metabolic health benefits.
+include **[stevia](./Stevia.md)**, **monk fruit extract**, **allulose**, and 
+**yacón syrup**. These sweeteners are increasingly used as sugar alternatives, 
+especially among individuals managing diabetes or seeking metabolic health 
+benefits.
 
 ## Insulin and Glucose Response
 
 ### Stevia
 
-- **Source**: Extracted from the leaves of *Stevia rebaudiana*.
+- **Source**: Extracted from the leaves of *[Stevia](./Stevia.md) rebaudiana*.
 - **Insulin Response**: Most clinical studies show **no significant increase**
   in insulin or blood glucose levels after stevia consumption.
-- Some research suggests stevia may **enhance insulin sensitivity** and even *
-  *stimulate insulin production** in certain contexts, particularly in
+- Some research suggests stevia may **enhance insulin sensitivity** and even 
+  **stimulate insulin production** in certain contexts, particularly in
   individuals with type 2 diabetes.
 - A 2017 comparative study found that **Canderel Green Stevia®** did not
   significantly raise insulin levels compared to water in healthy adults.

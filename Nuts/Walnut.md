@@ -27,6 +27,9 @@ distinguished as the **only tree nut** containing significant amounts of
 serving (1 ounce or ~7 whole nuts) provides a unique profile of healthy fats, 
 protein, and antioxidants that support heart, brain, and gut health.
 
+Known as ancient "brain food," they have been cultivated for over 8,000 years 
+and are associated with intelligence.
+
 ## Nutritional Profile
 
 A single 1-ounce serving of walnuts delivers approximately **185 to 200 

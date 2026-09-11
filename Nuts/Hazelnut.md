@@ -39,7 +39,10 @@
 Hazelnuts are nutrient-dense powerhouses offering significant benefits for
 cardiovascular health, brain function, and disease prevention due to their high
 content of **healthy fats**, **antioxidants**, **fiber**, and essential
-**micronutrients**.
+**micronutrients**.  
+
+They are a staple ingredient in chocolate spreads like *Nutella*, with most 
+production centered in *Turkey*.
 
 ## Nutritional Profile
 

@@ -35,7 +35,10 @@ A single 1-ounce serving of pistachios (approximately 49 kernels) delivers a
 dense concentration of essential nutrients while remaining the lowest-calorie
 nut per serving. This portion provides roughly **159 calories**, **6 grams of
 protein**, **3 grams of fiber**, and **13 grams of fat**, primarily composed of
-heart-healthy monounsaturated and polyunsaturated fatty acids.
+heart-healthy monounsaturated and polyunsaturated fatty acids.  
+
+Pistachios are known for naturally splitting their shells when perfectly 
+ripe, often taking nearly a decade to produce a harvest.
 
 ### Macronutrient Breakdown
 

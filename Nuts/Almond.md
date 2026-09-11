@@ -35,7 +35,10 @@ Almonds, _Prunus dulcis_, are nutrient-dense seeds packed with healthy fats,
 fiber, protein, and essential micronutrients. A standard 1-ounce serving
 (approximately 28 grams or 23 almonds) provides roughly **161–165 calories** and
 delivers a significant portion of daily recommended values for several key
-nutrients.
+nutrients. 
+
+Botanically, an almond is a **seed** inside a fruit, related to
+peaches and cherries. most are produced in California.
 
 | Nutrient            | Amount per 1 oz       | Key Benefit                     |
 |:--------------------|:----------------------|:--------------------------------|

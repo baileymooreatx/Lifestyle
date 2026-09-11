@@ -29,14 +29,15 @@
 
 # Brazil Nuts
 
-## Key Nutrients
-
 Brazil nuts are nutrient-dense seeds best known for their exceptionally high
 **selenium** content. Just **one nut** typically provides more than the daily
 recommended intake of selenium (55 mcg), with a single ounce (about 6 nuts)
 delivering nearly **1,000% of the Daily Value**. Beyond selenium, they are rich
 in healthy fats, fiber, protein, and essential minerals like magnesium,
 phosphorus, copper, and zinc, as well as vitamins E and B-complex.
+
+They are harvested from wild trees in the *Amazon rainforest* because they rely 
+on specific bees for pollination, making commercial farming nearly impossible.
 
 ## Nutritional Profile
 

@@ -9,15 +9,15 @@
   - [The Germinal Center (GC) Reaction](#the-germinal-center-gc-reaction)
   - [B Cell Subsets](#b-cell-subsets)
   - [Memory B Cells & Plasma Cells](#memory-b-cells--plasma-cells)
-  - [How B Cells Connect to Prior Topics](#how-b-cells-connect-to-prior-topics)
+  - [How B Cells Are Connected](#how-b-cells-are-connected)
   - [Clinical Relevance at a Glance](#clinical-relevance-at-a-glance)
   - [Key Takeaway](#key-takeaway)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## B Cells
+# B Cells
 
-**B cells** (B lymphocytes) are the antibody-producing arm of adaptive immunity.
+B cells (B lymphocytes) are the antibody-producing arm of adaptive immunity.
 They originate and mature in the **bone marrow** — hence the "B" (initially
 attributed to the bursa of Fabricius in birds, but in mammals the bone marrow is
 the equivalent site). Unlike T cells, B cells can recognize **free, unprocessed
@@ -25,7 +25,7 @@ antigens** directly via their surface immunoglobulin (the BCR), making them the
 only lymphocytes capable of sensing soluble pathogens without help from another
 cell.
 
-### Development in the Bone Marrow
+## Development in the Bone Marrow
 
 B cell maturation is a stepwise process driven by successful receptor gene
 rearrangement:
@@ -47,9 +47,7 @@ rearrangement:
   other allele), **clonal deletion** (apoptosis), or **anergy**
 - Failure of this process → **autoantibody production** (allergies, lupus)
 
----
-
-### The B Cell Receptor (BCR)
+## The B Cell Receptor (BCR)
 
 | Component                                                | Role                                                                                                |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -61,9 +59,7 @@ TCR requires peptide presented on MHC. This is why B cells can respond to *
 *T-independent antigens** (bacterial polysaccharides, LPS) that T cells cannot
 see.
 
----
-
-### Activation: T-Dependent vs. T-Independent
+## Activation: T-Dependent vs. T-Independent
 
 **T-Dependent (TD) Activation** — the dominant pathway for protein antigens:
 
@@ -84,16 +80,15 @@ see.
 | **TI-1** | LPS (TLR4 ligand)                                                 | BCR crosslinking + TLR4 co-stimulation (polyclonal) | IgM, little memory                   |
 | **TI-2** | Bacterial capsular polysaccharides, pneumococcal C-polysaccharide | Extensive BCR crosslinking alone (no TLR needed)    | IgM, poor memory, no class switching |
 
-This is why **children <2 years** (whose germinal centers are immature) are
-vulnerable to encapsulated bacteria (*S. pneumoniae*, *H. influenzae*) — they
+This is why **children under 2 years** (whose germinal centers are immature) are
+vulnerable to encapsulated bacteria (*S. pneumoniae*, *H. influenzae*). They
 cannot mount a proper TD response to polysaccharide antigens.
 
----
+## The Germinal Center (GC) Reaction
 
-### The Germinal Center (GC) Reaction
-
-The GC is the "upgrade shop" of B cell biology — a specialized microanatomical
-structure within lymph node follicles where activated B cells undergo:
+The Germinal Center (GC) is the "upgrade shop" of B cell biology, a specialized 
+microanatomical structure within lymph node follicles where activated B cells 
+undergo:
 
 **1. Somatic Hypermutation (SHM)**
 
@@ -138,9 +133,7 @@ structure within lymph node follicles where activated B cells undergo:
 - **Memory B cells** → circulate in quiescent state → rapid secondary response
   upon re-exposure
 
----
-
-### B Cell Subsets
+## B Cell Subsets
 
 | Subset                             | Location                                  | Key Feature                                                                                                                                    |
 |------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,9 +143,7 @@ structure within lymph node follicles where activated B cells undergo:
 | **Follicular B cells**             | Lymph node follicles                      | T-dependent; GC entry; high-diversity antibodies                                                                                               |
 | **Tissue-resident memory B cells** | Mucosal tissues (gut, lung, skin)         | Localized rapid response; produce IgA/IgG at barrier surfaces                                                                                  |
 
----
-
-### Memory B Cells & Plasma Cells
+## Memory B Cells & Plasma Cells
 
 | Feature                 | Memory B Cells                                     | Long-Lived Plasma Cells                         |
 |-------------------------|----------------------------------------------------|-------------------------------------------------|
@@ -171,22 +162,18 @@ primary because:
 - Already class-switched (no need to wait for GC)
 - Larger precursor pool (clonal expansion already occurred)
 
----
+## How B Cells Are Connected  
 
-### How B Cells Connect to Prior Topics
+| Connection               | Mechanism                                                                                                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **TLRs → B cells**       | TLR7/8 (ssRNA), TLR9 (CpG DNA) on B cells provide co-stimulatory signals that enhance activation, class switching, and antibody production. TLR9 is a key **adjuvant target** in vaccines                                                                   |
+| **Microbiome → B cells** | Commensal antigens drive **sIgA** production in Peyer's patches → coats bacteria, prevents translocation. Dysbiosis → altered IgA repertoire → mucosal inflammation. Bifidobacterium and *Bacteroides* specifically promote IgA class switching             |
+| **Allergy**              | Th2 cytokines (IL-4, IL-13) drive B cells to **class-switch to IgE** → IgE coats mast cells → degranulation on re-exposure → anaphylaxis. The "hygiene hypothesis" predicts reduced microbial exposure → less Treg tone → Th2 skewing → IgE overproduction  |
+| **Autoimmunity**         | Failure of B cell negative selection + loss of Treg suppression → **autoreactive B cells** escape → produce autoantibodies (anti-CCP in RA, anti-dsDNA in SLE). B cells also act as APCs presenting autoantigens to T cells, amplifying the autoimmune loop |
+| **Cancer**               | Tumor microenvironment suppresses B cell function; however, **CAR-T** and **bispecific antibodies** are now being adapted for B cell targeting. B cell-derived antibodies (e.g., **rituximab** anti-CD20) are used in B cell lymphomas                      |
+| **Vaccines**             | mRNA vaccines (SARS-CoV-2) induce persistent GC reactions → affinity-matured plasma cells in bone marrow + memory B cells → durable, high-avidity antibody protection. This is the "Infinity Machine" (Chapter 12) in action                                |
 
-| Connection                        | Mechanism                                                                                                                                                                                                                                                   |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **TLRs → B cells**                | TLR7/8 (ssRNA), TLR9 (CpG DNA) on B cells provide co-stimulatory signals that enhance activation, class switching, and antibody production. TLR9 is a key **adjuvant target** in vaccines                                                                   |
-| **Microbiome → B cells**          | Commensal antigens drive **sIgA** production in Peyer's patches → coats bacteria, prevents translocation. Dysbiosis → altered IgA repertoire → mucosal inflammation. Bifidobacterium and *Bacteroides* specifically promote IgA class switching             |
-| **Allergy (Linda)**               | Th2 cytokines (IL-4, IL-13) drive B cells to **class-switch to IgE** → IgE coats mast cells → degranulation on re-exposure → anaphylaxis. The "hygiene hypothesis" predicts reduced microbial exposure → less Treg tone → Th2 skewing → IgE overproduction  |
-| **Autoimmunity (Merredith, Bob)** | Failure of B cell negative selection + loss of Treg suppression → **autoreactive B cells** escape → produce autoantibodies (anti-CCP in RA, anti-dsDNA in SLE). B cells also act as APCs presenting autoantigens to T cells, amplifying the autoimmune loop |
-| **Cancer (Jason)**                | Tumor microenvironment suppresses B cell function; however, **CAR-T** and **bispecific antibodies** are now being adapted for B cell targeting. B cell-derived antibodies (e.g., **rituximab** anti-CD20) are used in B cell lymphomas                      |
-| **Vaccines**                      | mRNA vaccines (SARS-CoV-2) induce persistent GC reactions → affinity-matured plasma cells in bone marrow + memory B cells → durable, high-avidity antibody protection. This is the "Infinity Machine" (Chapter 12) in action                                |
-
----
-
-### Clinical Relevance at a Glance
+## Clinical Relevance at a Glance
 
 | Condition                                   | B Cell Pathology                                                                     |
 |---------------------------------------------|--------------------------------------------------------------------------------------|
@@ -200,9 +187,7 @@ primary because:
 | **Gut-associated lymphoma (MALT)**          | Chronic antigen stimulation (e.g., *H. pylori*) → B cell lymphoma                    |
 | **Rituximab therapy**                       | Anti-CD20 monoclonal antibody → depletes B cells → used in RA, SLE, B cell lymphomas |
 
----
-
-### Key Takeaway
+## Key Takeaway
 
 B cells are the **antibody factory** of adaptive immunity. They uniquely bridge
 innate and adaptive worlds (via TLR co-stimulation and TI responses), generate

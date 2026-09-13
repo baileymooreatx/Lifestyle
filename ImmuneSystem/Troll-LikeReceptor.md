@@ -9,20 +9,24 @@
   - [Key Functional Outputs](#key-functional-outputs)
   - [Linking Innate to Adaptive Immunity](#linking-innate-to-adaptive-immunity)
   - [Clinical & Therapeutic Relevance](#clinical--therapeutic-relevance)
-  - [Relationship to NLRs](#relationship-to-nlrs)
+  - [Relationship to NOD-Like Receptors (NLRs)](#relationship-to-nod-like-receptors-nlrs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Toll-Like Receptors (TLRs)
+# Toll-Like Receptors (TLRs)
 
-Toll-Like Receptors (TLRs) are a family of **type I transmembrane pattern
-recognition receptors** that detect PAMPs and DAMPs at the **cell surface** or
-within **endosomes/lysosomes** — the membrane-level complement to the cytosolic
-NLRs. They were first identified in *Drosophila* as regulators of embryonic 
-polarity and later linked to antifungal immunity; the mammalian family was 
-characterized in the late 1990s (Medzhitov, Janeway, and others).
+Toll-Like Receptors (TLRs) are a family of **type I transmembrane [pattern
+recognition receptors](./PatternRecognitionReceptor.md)** that detect 
+pathogen-associated Molecular Patterns (PAMPs) and damage-associated Molecular 
+Patterns (DAMPs) at the **cell surface** or within **endosomes/lysosomes**. 
+They are the membrane-level complement to the cytosolic 
+[NOD-Like Receptors (NLRs)](./NOD-LikeReceptor.md). 
+  
+They were first identified in *Drosophila* (fruit flies) as regulators of 
+embryonic polarity and later linked to antifungal immunity; the mammalian family 
+was characterized in the late 1990s (Medzhitov, Janeway, and others).
 
-### Structure
+## Structure
 
 All TLRs share a three-part architecture:
 
@@ -36,11 +40,15 @@ TLRs typically function as **dimers** — either homodimers (TLR4, TLR3) or
 heterodimers (TLR2/1, TLR2/6, TLR2/10) — with each dimer having distinct ligand
 specificity.
 
-### Family Members & Ligands
+## Family Members & Ligands
+
+A ligand (from Latin ligare, "to bind") is any molecule that binds to a specific 
+partner molecule, usually a protein, to form a complex and trigger a biological 
+effect.  
 
 **10 in humans** (TLR1–TLR10); **12 in mice** (adds TLR11, TLR12, TLR13).
 
-| TLR   | Localization | Key PAMPs                                                  | Source                              |
+| TLR   | Localization | Key Pattern Recognition Receptors                          | Source                              |
 |-------|--------------|------------------------------------------------------------|-------------------------------------|
 | TLR1  | Cell surface | Triacyl lipoproteins (with TLR2)                           | Bacteria                            |
 | TLR2  | Cell surface | Diacyl lipoproteins, LTA, PGN, zymosan, mannan, tGPI-mucin | Bacteria, fungi, parasites, viruses |
@@ -53,11 +61,11 @@ specificity.
 | TLR9  | Endosome     | Unmethylated CpG DNA                                       | Bacteria, DNA viruses, parasites    |
 | TLR10 | Cell surface | PAM₃CSK₄ (synthetic); role still debated                   | —                                   |
 
-**DAMPs** (damage-associated molecular patterns) also activate TLRs — notably
+**Damage-associated molecular patterns (DAMPs)** also activate TLRs — notably
 TLR2 and TLR4 respond to heat-shock proteins, HMGB-1, histones, S100 proteins,
 and extracellular DNA/RNA, linking sterile inflammation to TLR signaling.
 
-### Two Signaling Pathways
+## Two Signaling Pathways
 
 **1. MyD88-dependent pathway** (all TLRs except TLR3; TLR4 uses it partially)
 
@@ -85,7 +93,7 @@ TRIF → RIP1 → RIP2 → TAK1 → NF-κB
 - TLR4 is unique in using **both** pathways (MyD88 at the surface, TRIF in
   endosomes)
 
-### Key Functional Outputs
+## Key Functional Outputs
 
 | Output                                              | Pathway       | Consequence                                       |
 |-----------------------------------------------------|---------------|---------------------------------------------------|
@@ -94,9 +102,9 @@ TRIF → RIP1 → RIP2 → TAK1 → NF-κB
 | **Co-stimulatory molecules** (CD80, CD86)           | Both          | Bridging to adaptive immunity (T cell activation) |
 | **Chemokines**                                      | Both          | Recruitment of additional immune cells            |
 
-### Linking Innate to Adaptive Immunity
+## Linking Innate to Adaptive Immunity
 
-TLRs are expressed on **dendritic cells**, **macrophages**, and **B cells** —
+TLRs are expressed on **dendritic cells**, **macrophages**, and **B cells**, 
 the key antigen-presenting cells. Upon TLR activation:
 
 1. APCs upregulate MHC and co-stimulatory molecules
@@ -108,7 +116,7 @@ the key antigen-presenting cells. Upon TLR activation:
 This is why TLRs are sometimes called the **"bridge"** between innate and
 adaptive immunity.
 
-### Clinical & Therapeutic Relevance
+## Clinical & Therapeutic Relevance
 
 - **Sepsis / endotoxemia:** TLR4–LPS axis is the primary driver; anti-TLR4
   strategies are under investigation
@@ -122,7 +130,8 @@ adaptive immunity.
   to Gram⁻ bacteria; MyD88 deficiency in humans → recurrent pyogenic infections
   with paradoxically low autoimmunity risk
 
-### Relationship to NLRs
+## Relationship to NOD-Like Receptors (NLRs)
+
 
 | Feature     | TLRs                                            | NLRs                                                           |
 |-------------|-------------------------------------------------|----------------------------------------------------------------|

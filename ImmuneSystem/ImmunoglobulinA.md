@@ -7,9 +7,9 @@
     - [Structure of sIgA](#structure-of-siga)
     - [The Transcytosis Pathway (pIgR-Mediated)](#the-transcytosis-pathway-pigr-mediated)
     - [Functions of sIgA](#functions-of-siga)
-    - [IgA Subclasses (Human)](#iga-subclasses-human)
-    - [Clinical Relevance](#clinical-relevance)
-    - [Connection to Prior Topics](#connection-to-prior-topics)
+  - [IgA Subclasses (Human)](#iga-subclasses-human)
+  - [Clinical Relevance](#clinical-relevance)
+  - [How IgA Is Connected](#how-iga-is-connected)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -102,8 +102,6 @@ lumen.
 - Mice lacking pIgR have no sIgA in secretions, show altered microbiota, and are
   susceptible to mucosal infections
 
----
-
 ### Functions of sIgA
 
 **1. Immune Exclusion** (the primary function)
@@ -148,9 +146,7 @@ lumen.
 - Protects against NEC (necrotizing enterocolitis) and enteric infections in the
   first months of life
 
----
-
-### IgA Subclasses (Human)
+## IgA Subclasses (Human)
 
 | Subclass | Feature                                                                                                                                                                           |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -160,9 +156,7 @@ lumen.
 Both bind FcαRI (the IgA receptor on neutrophils, monocytes, and epithelial
 cells) and pIgR.
 
----
-
-### Clinical Relevance
+## Clinical Relevance
 
 | Condition                                                                   | IgA/sIgA Pathology                                                                                                                   |
 |-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -173,21 +167,19 @@ cells) and pIgR.
 | **IBD**                                                                     | Altered sIgA repertoire; loss of commensal coating → dysbiosis amplification                                                         |
 | **Mucosal vaccines**                                                        | Designed to induce sIgA (oral/nasal delivery) for local protection — e.g., rotavirus vaccine, typhoid                                |
 
----
-
-### Connection to Prior Topics
+## How IgA Is Connected
 
 - **Microbiome:** sIgA is the molecular interface between the immune system and
-  the commensal microbiota — it "decorates" bacteria, shapes community
+  the commensal microbiota. It "decorates" bacteria, shapes community 
   composition, and feeds tolerogenic signals to DCs. Loss of sIgA (pIgR
   knockout, IgA deficiency) → dysbiosis → inflammation
 - **Tolerance paradox:** sIgA is how the immune system *tolerates* 10¹⁴
   commensals without mounting the same inflammatory response it would mount
-  against a pathogen — it neutralizes and excludes without activating complement
-  or recruiting inflammatory cells
+  against a pathogen. It neutralizes and excludes without activating complement
+  or recruiting inflammatory cells.
 - **B cells:** sIgA production requires the full T-dependent GC reaction (Tfh →
   CD40L + TGF-β/IL-2 → class-switch to IgA → dimerization with J chain → pIgR
-  transcytosis). This is why infants with immature GCs have low sIgA
-- **The book's themes:** Linda's allergies and Bob's arthritis both involve a
-  failure of mucosal/systemic tolerance — the same regulatory logic that sIgA
-  embodies at the gut barrier, but expressed (or broken) in other tissues
+  transcytosis). This is why infants with immature GCs have low sIgA.
+- Allergies and arthritis both involve a failure of mucosal/systemic 
+  tolerance, the same regulatory logic that sIgA embodies at the gut barrier, 
+  but expressed (or broken) in other tissues.

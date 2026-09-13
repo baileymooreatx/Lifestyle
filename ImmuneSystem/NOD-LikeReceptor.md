@@ -11,7 +11,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## NOD-Like Receptors (NLRs)
+# NOD-Like Receptors (NLRs)
 
 **NLRs** are a family of **cytosolic pattern recognition receptors** that detect
 microbial products, Pathogen-Associated Molecular Patterns (PAMPs), and host 
@@ -33,7 +33,7 @@ TP1 — the four founding proteins in which this nucleotide-binding/oligomerizat
 motif was first identified). So "NOD domain" and "NACHT domain" are used 
 interchangeably.
 
-### Structure
+## Structure
 
 All NLRs share a common three-part architecture:
 
@@ -43,7 +43,7 @@ All NLRs share a common three-part architecture:
   activation
 - **C-terminal leucine-rich repeats (LRRs)**: the ligand-sensing region
 
-### Subfamilies & Key Members
+## Subfamilies & Key Members
 
 | Subfamily               | Key Members               | Primary Function                                           |
 |-------------------------|---------------------------|------------------------------------------------------------|
@@ -53,7 +53,7 @@ All NLRs share a common three-part architecture:
 | **NLRB**                | NAIP                      | Senses bacterial type-III secretion; partners with NLRC4   |
 | **NLRX**                | NLRX1                     | Antiviral; mitochondrial localization; inhibits type I IFN |
 
-### Two Major Signaling Outputs
+## Two Major Signaling Outputs
 
 **1. NF-κB / MAPK pathway** (NOD1, NOD2, NLRC4)
 
@@ -78,7 +78,7 @@ All NLRs share a common three-part architecture:
 - This is the **"activation" signal** — it requires a second trigger (K⁺ efflux,
   ROS, ATP, lysosomal damage, etc.)
 
-### Why It Matters Clinically
+## Why It Matters Clinically
 
 - **NOD2** mutations → **Crohn's disease**, Blau syndrome
 - **NLRP3** mutations → **CAPS** spectrum (Familial Cold Autoinflammatory
@@ -89,11 +89,11 @@ All NLRs share a common three-part architecture:
   **obesity-related inflammation**, and **neurodegeneration** (Alzheimer's,
   Parkinson's)
 
-### Connection to the Microbiome
+## Connection to the Microbiome
 
 NOD1 and NOD2 are expressed heavily in **intestinal epithelial cells** and
-directly sense bacterial peptidoglycan from the gut lumen — making them a key
-molecular bridge between the microbiome and host immunity. A healthy microbiome
-provides a steady "low-grade" peptidoglycan signal that keeps NOD1/2 tone
-appropriate; dysbiosis (antibiotics, pathogenic overgrowth) disrupts this and
-can drive chronic intestinal inflammation.
+directly sense bacterial peptidoglycan from the [gut lumen](./GutLumen.md), 
+making them a key molecular bridge between the microbiome and host immunity. A 
+healthy microbiome provides a steady "low-grade" peptidoglycan signal that keeps 
+NOD1/2 tone appropriate; dysbiosis (antibiotics, pathogenic overgrowth) disrupts 
+this and can drive chronic intestinal inflammation.

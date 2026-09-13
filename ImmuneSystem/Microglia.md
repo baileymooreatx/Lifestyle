@@ -24,7 +24,6 @@ become the primary engine of **neuroinflammation**, making them both protectors
 and destroyers of the Central Nervous System (CNS), the same "elegant defense" 
 paradox that runs through the entire immune system.
 
-
 ## Origin
 
 Unlike other glial cells (astrocytes, oligodendrocytes) which derive from 
@@ -71,7 +70,8 @@ This transition (ramified → amoeboid) is the CNS analog of macrophage
 
 ## Pattern Recognition Receptor (PRR) Expression  
 
-Microglia express the same PRR families we discussed:
+Microglia express the same PRR families discussed in 
+[Pattern Recognition Receptor](./PatternRecognitionReceptor.md).  
 
 | Pattern Recognition Receptor                | Ligand                            | Output                                                  |
 |---------------------------------------------|-----------------------------------|---------------------------------------------------------|

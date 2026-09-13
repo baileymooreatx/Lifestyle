@@ -3,14 +3,14 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [The Microbiome's Role in Immunity](#the-microbiomes-role-in-immunity)
-- [1. Training the Immune System](#1-training-the-immune-system)
-- [2. Producing Key Metabolites](#2-producing-key-metabolites)
-- [3. Pathogen Defense](#3-pathogen-defense)
-- [4. Shaping Innate and Adaptive Immunity](#4-shaping-innate-and-adaptive-immunity)
+  - [1. Training the Immune System](#1-training-the-immune-system)
+  - [2. Producing Key Metabolites](#2-producing-key-metabolites)
+  - [3. Pathogen Defense](#3-pathogen-defense)
+  - [4. Shaping Innate and Adaptive Immunity](#4-shaping-innate-and-adaptive-immunity)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## The Microbiome's Role in Immunity
+# The Microbiome's Role in Immunity
 
 ## 1. Training the Immune System
 

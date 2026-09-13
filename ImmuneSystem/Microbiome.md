@@ -2,17 +2,44 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [The Microbiome's Role in Immunity](#the-microbiomes-role-in-immunity)
-  - [1. Training the Immune System](#1-training-the-immune-system)
-  - [2. Producing Key Metabolites](#2-producing-key-metabolites)
-  - [3. Pathogen Defense](#3-pathogen-defense)
-  - [4. Shaping Innate and Adaptive Immunity](#4-shaping-innate-and-adaptive-immunity)
+- [The Gut Microbiome](#the-gut-microbiome)
+  - [The Microbiome's Role in Immunity](#the-microbiomes-role-in-immunity)
+    - [Training the Immune System](#training-the-immune-system)
+    - [Producing Key Metabolites](#producing-key-metabolites)
+    - [Pathogen Defense](#pathogen-defense)
+    - [Shaping Innate and Adaptive Immunity](#shaping-innate-and-adaptive-immunity)
+    - [Systemic Effects](#systemic-effects)
+    - [Consequences of Dysbiosis](#consequences-of-dysbiosis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# The Microbiome's Role in Immunity
+# The Gut Microbiome
 
-## 1. Training the Immune System
+The **gut microbiome** is the collective community of microorganisms — roughly
+**100 trillion cells** (bacteria, archaea, viruses, fungi, and protozoa) — that
+colonize the human gastrointestinal tract, with the highest density (~10¹¹–10¹²
+cells/g) in the colon. It is dominated by two phyla, **Bacteroidota**
+(Bacteroidetes) and **Bacillota** (Firmicutes), which together account for ~90%
+of the [commensal bacterial](./CommensalBacteria.md) population, with ~300 to 
+1,000 species represented inside the [gut lumen](./GutLumen.md).  
+
+It functions as a **metabolic and immunological organ**: fermenting indigestible
+dietary fiber into **short-chain fatty acids** (butyrate, propionate, acetate),
+synthesizing vitamins (K, B₁₂, folate), maintaining the intestinal epithelial
+barrier, training the immune system by promoting [Tregs](./T-Cell.md) and 
+driving [sIgA](./ImmunoglobulinA.md) production, providing **colonization 
+resistance** against pathogens, and communicating with the brain via the vagus 
+nerve and circulating metabolites (the **gut–brain axis**).
+
+The microbiome is established at birth (vaginal delivery, breast milk) and
+shaped thereafter by diet, antibiotics, genetics, and environment. When its
+balance is disrupted — a state called **dysbiosis** — it is linked to IBD,
+obesity, type 2 diabetes, autoimmunity, allergy, and neuroinflammatory
+disorders.
+
+## The Microbiome's Role in Immunity
+
+### Training the Immune System
 
 The gut microbiome acts as an "educator" for the developing immune system,
 especially in early life. Germ-free mice show severely underdeveloped immune
@@ -22,7 +49,7 @@ microbial exposure is *necessary* for proper immune maturation.
 distinguish harmless microbes from true threats, a process called **immune
 tolerance**.
 
-## 2. Producing Key Metabolites
+### Producing Key Metabolites
 
 Gut microbes ferment dietary fiber into **short-chain fatty acids (SCFAs)** like
 butyrate, which:
@@ -35,7 +62,7 @@ butyrate, which:
 Tryptophan-derived **indoles** and **secondary bile acids** also modulate immune
 cell function.
 
-## 3. Pathogen Defense
+### Pathogen Defense
 
 The microbiome provides a frontline barrier through:
 
@@ -46,7 +73,7 @@ The microbiome provides a frontline barrier through:
 - **Mucus layer maintenance:** stimulating goblet cells to secrete protective
   mucus
 
-## 4. Shaping Innate and Adaptive Immunity
+### Shaping Innate and Adaptive Immunity
 
 - **Innate immunity:** Microbial molecular patterns (LPS, peptidoglycan) are
   recognized by [Toll-like receptors (TLRs)](./Troll-LikeReceptor.md) and
@@ -56,13 +83,15 @@ The microbiome provides a frontline barrier through:
   maturation, [IgA](./ImmunoglobulinA.md) secretion, and T helper cell
   polarization (Th1, Th2, Th17, Treg balance).
 
-**5. Systemic Effects**
+### Systemic Effects  
+
 Microbiome-derived metabolites don't stay in the gut — they enter circulation
 and influence immunity in the **liver, lungs, brain, and joints**. For example,
 SCFAs regulate [microglial cells](./Microglia.md) in the brain and can modulate 
 autoimmune responses in distant tissues. 
 
-**6. Consequences of Dysbiosis**
+### Consequences of Dysbiosis  
+
 When the microbial balance is disrupted by antibiotics, poor diet, stress, or
 environmental changes the result is:
 

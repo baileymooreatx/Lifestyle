@@ -18,8 +18,9 @@
 
 **T cells** (T lymphocytes) are the central orchestrators of **adaptive 
 immunity**. They originate in the **bone marrow** (like B cells) but mature in 
-the **thymus**, hence the "T." They cannot recognize free-floating antigens; 
-they require peptides to be **presented on MHC molecules** by another cell, 
+the **[thymus](https://my.clevelandclinic.org/health/body/23016-thymus)**, hence 
+the "T." They cannot recognize free-floating antigens; they require peptides to 
+be **presented on MHC molecules** by another cell, 
 making them inherently "cell-to-cell" communicators.
 
 ### Development in the Thymus
@@ -35,7 +36,7 @@ Thymic progenitors, from bone marrow, undergo a stepwise maturation.
 
 This selection process is the immune system's "fingerprint" system. It is what 
 prevents most T cells from attacking the body's own tissues. When it fails → 
-**autoimmunity** (rheumatoid arthritis, lupus, etc.).
+**[autoimmunity](./AutoImmunity.md)** (rheumatoid arthritis, lupus, etc.).
 
 ## The T Cell Receptor (TCR)
 

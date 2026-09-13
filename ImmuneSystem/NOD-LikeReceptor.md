@@ -13,13 +13,13 @@
 
 # NOD-Like Receptors (NLRs)
 
-**NLRs** are a family of **cytosolic pattern recognition receptors** that detect
-microbial products, Pathogen-Associated Molecular Patterns (PAMPs), and host 
-danger signals, Damage-Associated Molecular Patterns (DAMPs), *inside* the cell,
-complementing the membrane-bound [Toll-like receptors (TLRs)](Troll-LikeReceptor.md). 
-They are sometimes called **NACHT** (Nucleotide-binding domain, domain with 
-**A**mino-acid repeats, **C**ysteine-**H**is-**T**hreonine) and **LRR** 
-(Leucine-Rich Repeat) proteins.  
+**NLRs** are a family of **[cytosolic](./Cytosol.md) pattern recognition 
+receptors** that detect microbial products, pathogen-associated molecular 
+Patterns (PAMPs), and host danger signals, damage-associated molecular 
+patterns (DAMPs), **inside** the cell, complementing the membrane-bound 
+[Toll-like receptors (TLRs)](./Troll-LikeReceptor.md). They are sometimes called 
+**NACHT** (Nucleotide-binding domain, domain with **A**mino-acid repeats, 
+**C**ysteine-**H**is-**T**hreonine) and **LRR** (Leucine-Rich Repeat) proteins.  
 
 **NOD** stands for "Nucleotide-binding and Oligomerization Domain." It refers to 
 the central domain of NLR proteins that binds ATP/GTP and drives ATP-dependent 

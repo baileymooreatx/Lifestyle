@@ -19,7 +19,7 @@ Toll-Like Receptors (TLRs) are a family of **type I transmembrane [pattern
 recognition receptors](./PatternRecognitionReceptor.md)** that detect 
 pathogen-associated Molecular Patterns (PAMPs) and damage-associated Molecular 
 Patterns (DAMPs) at the **cell surface** or within **endosomes/lysosomes**. 
-They are the membrane-level complement to the cytosolic 
+They are the membrane-level complement to the [cytosolic](Cytosol.md) 
 [NOD-Like Receptors (NLRs)](./NOD-LikeReceptor.md). 
   
 They were first identified in *Drosophila* (fruit flies) as regulators of 
@@ -104,7 +104,7 @@ TRIF → RIP1 → RIP2 → TAK1 → NF-κB
 
 ## Linking Innate to Adaptive Immunity
 
-TLRs are expressed on **dendritic cells**, **macrophages**, and **B cells**, 
+TLRs are expressed on **dendritic cells**, **macrophages**, and **[B cells](./B-Cell.md)**, 
 the key antigen-presenting cells. Upon TLR activation:
 
 1. APCs upregulate MHC and co-stimulatory molecules

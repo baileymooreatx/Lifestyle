@@ -23,7 +23,7 @@ In the context of immunology, the lumen matters.
 - It is where **pathogen-associated molecular patterns (PAMPs)** (e.g., 
   peptidoglycan, LPS, flagellin) are first encountered by surface 
   [Troll-like Receptors (TLRs)](Troll-LikeReceptor.md) and, after translocation, 
-  by cytosolic [NOD-like Receptors (NLRs)](NOD-LikeReceptor.md).
+  by [cytosolic](./Cytosol.md) [NOD-like Receptors (NLRs)](NOD-LikeReceptor.md).
 - The **mucus layer** (~400 µm thick in the human colon) separates luminal
   bacteria from the epithelium, a critical physical barrier.
 - [sIgA](ImmunoglobulinA.md) is secreted *into* the lumen to coat 

@@ -14,15 +14,14 @@
 
 # Microglia
 
-**Microglia** are the **resident macrophages of the central nervous system**, 
-the brain's and spinal cord's primary innate immune cells. They account for
-~5–10% of all brain cells and are the *only* leukocytes that reside within the
-brain parenchyma behind the blood-brain barrier (BBB).  
+**Microglia** are the **resident macrophages of the central nervous system  
+(CNS)**, the brain's and spinal cord's primary innate immune cells. They account
+for ~5–10% of all brain cells and are the *only* leukocytes that reside within
+the brain parenchyma behind the blood-brain barrier (BBB).  
 
 In health, they patrol, prune synapses, and support neurons. In disease, they 
 become the primary engine of **neuroinflammation**, making them both protectors 
-and destroyers of the Central Nervous System (CNS), the same "elegant defense" 
-paradox that runs through the entire immune system.
+and destroyers of the central nervous system.
 
 ## Origin
 
@@ -31,7 +30,7 @@ Unlike other glial cells (astrocytes, oligodendrocytes) which derive from
 in the embryonic yolk sac**. They invade the developing brain around embryonic
 day 8.5 to 9.5 (mouse) or ~4.5 to 5.5 weeks gestation (human), before the 
 BBB is fully formed. Once established, they **self-renew locally** throughout 
-life and are *not* replenished by circulating monocytes under homeostatic 
+life and are **not** replenished by circulating monocytes under homeostatic 
 conditions — making them a truly distinct tissue-resident population.
 
 ## Two Morphological States
@@ -89,12 +88,12 @@ disease** (α-synuclein).
 
 ## Connection to the Microbiome
 
-Gut-derived **short chain fatty acids (SCFAs)**, especially butyrate, reach 
-the brain via:
+Gut-derived [short chain fatty acids (SCFAs)](./ShortChainFattyAcid.md), 
+especially butyrate, reach the brain via:
 
 - Circulating metabolites crossing the BBB
 - Vagal nerve signaling
-- Enteric nervous system → CNS
+- [Enteric nervous system](./EntericNervousSystem.md) → CNS
 
 In the brain, butyrate:
 

@@ -6,7 +6,7 @@
   - [Side-by-Side Comparison](#side-by-side-comparison)
   - [Structural Organization of the ENS](#structural-organization-of-the-ens)
   - [How ENS and CNS Communicate (the Brain–Gut Axis)](#how-ens-and-cns-communicate-the-braingut-axis)
-  - [Key Differences That Matter for Immunology (Connecting to Prior Topics)](#key-differences-that-matter-for-immunology-connecting-to-prior-topics)
+  - [Key Differences That Matter for Immunology](#key-differences-that-matter-for-immunology)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -72,12 +72,12 @@ function. This is the key distinction: the CNS cannot operate without its
 sensory inputs, but the ENS is a **closed-loop integrator** that the CNS merely
 modulates.
 
-## Key Differences That Matter for Immunology (Connecting to Prior Topics)
+## Key Differences That Matter for Immunology  
 
-| Feature                                    | Why It Matters                                                                                                                                                                                                                  |
-|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **No blood-ENS barrier**                   | Immune cells (T cells, macrophages, mast cells) in the lamina propria can directly synapse with enteric neurons. This is the neural arm of the **gut–immune axis**                                                              |
-| **Enteric neurons innervate immune cells** | ENS motor neurons release ACh, VIP, and substance P directly onto lymphocytes, mast cells, and ILCs in the LP — modulating their activity                                                                                       |
-| **Microbiome → ENS → CNS**                 | Commensal metabolites (SCFAs) and microbial PAMPs activate ENS sensory neurons → vagal afferents → NTS in brainstem → influence microglia, mood, and systemic immunity. This is the **neural arm of the microbiome–brain axis** |
-| **Stress → CNS → ENS → gut**               | Sympathetic activation during stress → ENS → altered motility, reduced mucus, increased permeability → dysbiosis → immune activation (the "stress impairs immunity" pathway from the book)                                      |
-| **Neurodegenerative disease**              | Parkinson's: α-synuclein may originate in the ENS (GI symptoms precede motor symptoms by 10–20 years) and propagate along vagal afferents to the brain. The ENS is a potential **early diagnostic window**                      |
+| Feature                                    | Why It Matters                                                                                                                                                                                                                                                                        |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **No blood-ENS barrier**                   | Immune cells ([T cells](./T-Cell.md), macrophages, mast cells) in the [lamina propria](./LaminaPropria.md) can directly synapse with enteric neurons. This is the neural arm of the **gut–immune axis**                                                                               |
+| **Enteric neurons innervate immune cells** | ENS motor neurons release ACh, VIP, and substance P directly onto lymphocytes, mast cells, and ILCs in the LP — modulating their activity                                                                                                                                             |
+| **Microbiome → ENS → CNS**                 | [Commensal](./CommensalBacteria.md) metabolites ([SCFAs](./ShortChainFattyAcid.md)) and microbial PAMPs activate ENS sensory neurons → vagal afferents → NTS in brainstem → influence microglia, mood, and systemic immunity. This is the **neural arm of the microbiome–brain axis** |
+| **Stress → CNS → ENS → gut**               | Sympathetic activation during stress → ENS → altered motility, reduced mucus, increased permeability → dysbiosis → immune activation (stress impairs immunity)                                                                                                                        |
+| **Neurodegenerative disease**              | Parkinson's: α-synuclein may originate in the ENS (GI symptoms precede motor symptoms by 10–20 years) and propagate along vagal afferents to the brain. The ENS is a potential **early diagnostic window**                                                                            |

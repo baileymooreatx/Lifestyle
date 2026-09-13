@@ -125,15 +125,16 @@ Strawberries combat inflammation through multiple biological pathways:
 
 * **Cytokine Suppression**: They directly downregulate the signaling proteins (
    cytokines) that trigger inflammation, effectively "turning down the volume"
-   on the immune system's overreaction.
+   on the immune system's overreaction.  
 * **NF-κB Inhibition**: Strawberry extracts inhibit the **NF-κB pathway**, a
-   master switch that controls the expression of many inflammatory genes.
-   Blocking this pathway prevents the cascade of inflammation before it starts.
-* **Gut Microbiome Modulation**: By promoting the growth of beneficial
-   bacteria (like *Faecalibacterium*) that produce anti-inflammatory short-chain
-   fatty acids (SCFAs), strawberries improve gut barrier function. This
-   prevents "leaky gut," a condition where toxins enter the bloodstream and
-   trigger systemic inflammation.
+  master switch that controls the expression of many inflammatory genes.
+  Blocking this pathway prevents the cascade of inflammation before it starts.  
+* **[Gut Microbiome](../ImmuneSystem/Microbiome.md) Modulation**: By promoting  
+  the growth of beneficial bacteria (like *Faecalibacterium*) that produce 
+  anti-inflammatory [short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md), 
+  strawberries improve gut barrier function. This prevents "leaky gut," a 
+  condition where toxins enter the bloodstream and trigger systemic 
+  inflammation.  
 * **Oxidative Stress Reduction**: Inflammation and oxidative stress are
    cyclical; one fuels the other. Strawberries' high antioxidant capacity
    neutralizes free radicals, breaking this cycle and reducing the stimulus for
@@ -228,17 +229,18 @@ strawberry-specific flavonoids:
 
 With approximately 3 grams of fiber per cup, strawberries promote healthy
 digestion and prevent constipation. Emerging research also indicates that
-strawberry consumption can positively impact the gut microbiome, increasing
-bacteria associated with lean body mass and longevity.
+strawberry consumption can positively impact the [gut microbiome](../ImmuneSystem/Microbiome.md), 
+increasing bacteria associated with lean body mass and longevity.
 
 Strawberries act as a prebiotic, actively reshaping the gut environment rather
 than just feeding existing bacteria. Clinical interventions in healthy elderly
 adults revealed:
 
 * **Increase in Beneficial Bacteria**: Significant increases in
-  *Faecalibacterium* and *Prevotella*, genera known for producing short-chain
-  fatty acids (SCFAs) like butyrate and propionate, which reduce inflammation
-  and support gut lining integrity.
+  *Faecalibacterium* and *Prevotella*, genera known for producing 
+  [short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md) like  
+  butyrate and propionate, which reduce inflammation and support gut lining 
+  integrity.  
 * **Decrease in Pathogens**: A reduction in potentially pathogenic bacteria and
   a lowered Firmicutes-to-Bacteroidetes ratio, a marker often associated with
   leaner body mass.

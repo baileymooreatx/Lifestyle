@@ -87,13 +87,13 @@ brakes" exploited by cancer (PD-1/PD-L1, Chapter 40 in the book) and targeted by
 
 ## How They Are Connected  
 
-| Connection               | Mechanism                                                                                                                                                                             |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **TLRs/NLRs → T cells**  | TLR/NLR activation on dendritic cells upregulates CD80/86 (Signal 2) and produces cytokines (Signal 3) that polarize naïve T cells                                                    |
-| **Microbiome → T cells** | Commensal SCFAs (butyrate) promote **Treg** differentiation; NOD2 signaling in Paneth cells maintains barrier integrity; dysbiosis → loss of Treg tone → autoimmunity                 |
-| **Autoimmunity**         | Failure of negative selection + loss of Treg suppression → autoreactive T cells escape and attack self-tissue (joints, skin, etc.)                                                    |
-| **Cancer immunotherapy** | Tumors express **PD-L1** → binds PD-1 on CD8⁺ T cells → T cell inactivation ("exhaustion"). Checkpoint inhibitors (nivolumab) block this interaction, reactivating CTLs against tumor |
-| **Allergy**              | Th2 skewing → IL-4/IL-13 → IgE class-switching → mast cell degranulation on re-exposure → anaphylaxis                                                                                 |
+| Connection                                  | Mechanism                                                                                                                                                                                                                   |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **TLRs/NLRs → T cells**                     | TLR/NLR activation on dendritic cells upregulates CD80/86 (Signal 2) and produces cytokines (Signal 3) that polarize naïve T cells                                                                                          |
+| **[Microbiome](./Microbiome.md) → T cells** | [Commensal](./CommensalBacteria.md) [SCFAs](./ShortChainFattyAcid.md) (butyrate) promote **Treg** differentiation; NOD2 signaling in Paneth cells maintains barrier integrity; dysbiosis → loss of Treg tone → autoimmunity |
+| **Autoimmunity**                            | Failure of negative selection + loss of Treg suppression → autoreactive T cells escape and attack self-tissue (joints, skin, etc.)                                                                                          |
+| **Cancer immunotherapy**                    | Tumors express **PD-L1** → binds PD-1 on CD8⁺ T cells → T cell inactivation ("exhaustion"). Checkpoint inhibitors (nivolumab) block this interaction, reactivating CTLs against tumor                                       |
+| **Allergy**                                 | Th2 skewing → IL-4/IL-13 → IgE class-switching → mast cell degranulation on re-exposure → anaphylaxis                                                                                                                       |
 
 ## T Cell Exhaustion & Senescence
 

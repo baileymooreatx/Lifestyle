@@ -51,11 +51,12 @@ tolerance**.
 
 ### Producing Key Metabolites
 
-Gut microbes ferment dietary fiber into **short-chain fatty acids (SCFAs)** like
-butyrate, which:
+Gut microbes ferment dietary fiber into 
+[short-chain fatty acids (SCFAs)](./ShortChainFattyAcid.md) like butyrate, 
+which: 
 
-- Promote differentiation of **regulatory T cells (Tregs)**, the immune
-  system's "brakes" that prevent autoimmunity
+- Promote differentiation of **regulatory [T cells (Tregs)](./T-Cell.md)**, the 
+  immune system's "brakes" that prevent autoimmunity
 - Strengthen the intestinal epithelial barrier (tight junctions)
 - Suppress pro-inflammatory cytokines (IL-6, TNF-α)
 
@@ -87,8 +88,8 @@ The microbiome provides a frontline barrier through:
 
 Microbiome-derived metabolites don't stay in the gut — they enter circulation
 and influence immunity in the **liver, lungs, brain, and joints**. For example,
-SCFAs regulate [microglial cells](./Microglia.md) in the brain and can modulate 
-autoimmune responses in distant tissues. 
+[SCFAs](./ShortChainFattyAcid.md) regulate [microglial cells](./Microglia.md) in 
+the brain and can modulate autoimmune responses in distant tissues. 
 
 ### Consequences of Dysbiosis  
 

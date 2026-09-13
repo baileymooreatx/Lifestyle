@@ -112,7 +112,7 @@ persists at a low level, damaging tissues and DNA over time.
 
 #### Antioxidant Activity  
 
-Foods rich in vitamins C and E, carotenoids, and   polyphenols neutralize 
+Foods rich in vitamins C and E, carotenoids, and polyphenols neutralize 
 **free radicals**. These unstable molecules cause oxidative stress, which 
 triggers inflammation and damages cell linings. By scavenging free radicals, 
 antioxidants prevent the cellular damage that initiates the inflammatory 
@@ -128,10 +128,11 @@ walls, a key step in atherosclerosis.
 
 #### Gut Microbiome Modulation  
 
-**Dietary fiber** increases the production of short-chain fatty acids (SCFAs) in 
-the colon. SCFAs strengthen the gut barrier, preventing toxins (like 
+**Dietary fiber** increases the production of 
+[short-chain fatty acids (SCFAs)](./ImmuneSystem/ShortChainFattyAcid.md) in the 
+colon. SCFAs strengthen the gut barrier, preventing toxins (like 
 lipopolysaccharides) from leaking into the bloodstream and triggering systemic 
-inflammation.  
+inflammation. See [Microbiome](./ImmuneSystem/Microbiome.md) for more detail. 
 
 #### Insulin Sensitivity  
 
@@ -164,10 +165,9 @@ helps prevent the progression from pre-diabetes to type 2 diabetes.
 ### Cancer  
 
 Oxidative stress causes DNA damage that can lead to malignant transformations.
-Phytochemicals and antioxidants found in cruciferous vegetables (like
-broccoli) and berries protect DNA integrity and may inhibit the growth of
-cancer cells by modulating inflammatory pathways involved in tumor 
-progression.  
+Phytochemicals and antioxidants found in cruciferous vegetables (e.g., broccoli) 
+and berries protect DNA integrity and may inhibit the growth of cancer cells by 
+modulating inflammatory pathways involved in tumor progression.  
 
 ### Neurodegenerative Conditions  
 

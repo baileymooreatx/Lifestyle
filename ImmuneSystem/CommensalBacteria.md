@@ -65,17 +65,19 @@ provide essential functions.
 ### Adaptive Immune Education
 
 - Commensal antigens drive **CD4⁺ Treg** differentiation (via IL-10, TGF-β, and
-  SCFA-dependent pathways) — the immune system's "tolerance" arm
+  [SCFA](./ShortChainFattyAcid.md)-dependent pathways) — the immune system's 
+  "tolerance" arm.
 - They also promote **Th17** cells (via IL-22) that maintain barrier integrity
   and antimicrobial peptide production
-- **B cells** in Peyer's patches undergo class-switching to produce **secretory
-  IgA (sIgA)**, which coats commensals and prevents their translocation into the
-  lamina propria — a form of immune "compartmentalization"
+- **B cells** in Peyer's patches undergo class-switching to produce secretory
+  [IgA](./ImmunoglobulinA.md) (sIgA), which coats commensals and prevents their
+  translocation into the lamina propria — a form of immune "compartmentalization"
 
 ### Metabolic Contributions
 
-- **SCFAs** (butyrate, propionate, acetate) from fiber fermentation → Treg
-  induction, epithelial barrier reinforcement, anti-inflammatory signaling
+- **[SCFAs](./ShortChainFattyAcid.md)** (butyrate, propionate, acetate) from 
+  fiber fermentation → Treg induction, epithelial barrier reinforcement, 
+  anti-inflammatory signaling
 - **Bile acid metabolism** (e.g., 7α-dehydroxylation by *Clostridium*
   clusters) → FXR receptor activation → mucosal barrier maintenance
 - **Vitamin synthesis** (K, B₁₂, folate)

@@ -94,16 +94,17 @@ metabolic rate.
 
 ### Gut Microbiome Health
 
-Coffee consumption significantly influences **gut microbiome health**, primarily
-by increasing microbial diversity and promoting the growth of specific
-beneficial bacteria. These effects are largely driven by **polyphenols** (such
-as chlorogenic acid) and **melanoidins** rather than caffeine, as both regular
-and decaffeinated coffee yield similar microbiome benefits.
+Coffee consumption significantly influences [gut microbiome](../ImmuneSystem/Microbiome.md) 
+health, primarily by increasing [microbial diversity](../ImmuneSystem/CommensalBacteria.md) 
+and promoting the growth of specific beneficial bacteria. These effects are 
+largely driven by **polyphenols** (such as chlorogenic acid) and **melanoidins** 
+rather than caffeine, as both regularand decaffeinated coffee yield similar 
+microbiome benefits.
 
 #### Key Microbiome Changes
 
 Regular coffee intake induces distinct and reproducible changes in gut bacterial
-composition:
+composition.
 
 * **Increased Diversity:** Moderate consumption (3–4 cups daily) is consistently
   linked to higher **gut microbial diversity**, a key marker of gut resilience
@@ -135,8 +136,9 @@ shapes the health benefits a person derives from coffee.
 
 ##### Strengthening the Gut Barrier
 
-Coffee consumption enhances the production of **short-chain fatty acids 
-(SCFAs)** such as butyrate, propionate, and acetate. SCFAs are critical for:
+Coffee consumption enhances the production of 
+[short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md) such 
+as butyrate, propionate, and acetate. SCFAs are critical for:
 
 * **Intestinal Barrier Integrity:** They nourish colon cells and tighten
   junctions between intestinal walls, reducing "leaky gut" and preventing the

@@ -3,23 +3,23 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Resistant starch](#resistant-starch)
-- [Improved Gut Health and Microbiome Balance](#improved-gut-health-and-microbiome-balance)
-- [Blood Sugar Control and Insulin Sensitivity](#blood-sugar-control-and-insulin-sensitivity)
-- [Weight Management and Satiety](#weight-management-and-satiety)
-- [Heart Health and Cholesterol Reduction](#heart-health-and-cholesterol-reduction)
-- [Colon Cancer Protection](#colon-cancer-protection)
-- [Types and Food Sources](#types-and-food-sources)
-- [Practical Considerations](#practical-considerations)
-- [Top Sources](#top-sources)
-  - [Concentrated Powders (Highest Density)](#concentrated-powders-highest-density)
-  - [Legumes and Beans (Best Whole Food Sources)](#legumes-and-beans-best-whole-food-sources)
-  - [The "Cooked and Cooled" Method (RS3)](#the-cooked-and-cooled-method-rs3)
-  - [Fruits and Grains](#fruits-and-grains)
-- [Quick Comparison Table](#quick-comparison-table)
+  - [Improved Gut Health and Microbiome Balance](#improved-gut-health-and-microbiome-balance)
+  - [Blood Sugar Control and Insulin Sensitivity](#blood-sugar-control-and-insulin-sensitivity)
+  - [Weight Management and Satiety](#weight-management-and-satiety)
+  - [Heart Health and Cholesterol Reduction](#heart-health-and-cholesterol-reduction)
+  - [Colon Cancer Protection](#colon-cancer-protection)
+  - [Types and Food Sources](#types-and-food-sources)
+  - [Practical Considerations](#practical-considerations)
+  - [Top Sources](#top-sources)
+    - [Concentrated Powders (Highest Density)](#concentrated-powders-highest-density)
+    - [Legumes and Beans (Best Whole Food Sources)](#legumes-and-beans-best-whole-food-sources)
+    - [The "Cooked and Cooled" Method (RS3)](#the-cooked-and-cooled-method-rs3)
+    - [Fruits and Grains](#fruits-and-grains)
+  - [Quick Comparison Table](#quick-comparison-table)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Resistant starch
+# Resistant starch
 
 Resistant starch is a type of carbohydrate that resists digestion in the small
 intestine and travels intact to the large intestine. There, it functions
@@ -32,11 +32,11 @@ and drive most of the associated health benefits.
 ## Improved Gut Health and Microbiome Balance
 
 Resistant starch acts as a premium fuel for beneficial bacteria in the gut,
-promoting a balanced microbiome. The production of butyrate helps maintain the
-gut's protective lining, reduces inflammation, and may aid in treating
-conditions like **inflammatory bowel disease (IBD)**, **Crohn’s disease**, and 
-**ulcerative colitis**. A healthy gut microbiome is also linked to improved
-immunity and mood regulation.  
+promoting a balanced [microbiome](../ImmuneSystem/Microbiome.md). The production
+of butyrate helps maintain the gut's protective lining, reduces inflammation, 
+and may aid in treating conditions like **inflammatory bowel disease (IBD)**, 
+**Crohn’s disease**, and **ulcerative colitis**. A healthy gut microbiome is 
+also linked to improved immunity and mood regulation.  
 
 ## Blood Sugar Control and Insulin Sensitivity
 

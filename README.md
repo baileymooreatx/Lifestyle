@@ -3,9 +3,10 @@
 Ideas about how to improve health and wellbeing  
 
 * Pros and cons of drinking [Alkaline Water](./OtherFoods/AlkalineWater.md)
-* Measure [blood pressure](./BloodPressure.md) correctly
-* [Dental care](./DentalCare.md) and natural recipes for tooth care
+* Measure [Blood Pressure](./BloodPressure.md) correctly
+* [Dental care](./DentalCare.md) and natural recipes for oral health
 * Peace of [mind](./Mind.md) with a splash of brain health
+* [The Microbiome's Role in Immunity](ImmuneSystem/Microbiome.md)  
 * [Move](./Move.md) your body at least once an hour
 * [Sleep](./Sleep.md) supplements
 * Great reasons to take a [walk](./Walking.md) every day
@@ -25,6 +26,7 @@ Ideas about how to improve health and wellbeing
   * List of [potassium rich foods](PotassiumRichFoods.md)  
   * Avoid [processed meats](./Avoid/ProcessedMeats.md)  
   * Which [produce to buy organic](./Produce.md) instead of conventional  
+  * My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
   * [Seed](./Seeds) nutrition, preparation, and storage  
   * What does "[superfood](./Superfood.md)" mean?
   * Daily [supplements](./Supplements/Supplements.md)  
@@ -37,7 +39,10 @@ Ideas about how to improve health and wellbeing
   * [Intermittent Fasting](./Fasting.md)  
   * [Keto diet](./HealthyDiet.md)
   
-## [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
+## Dr. Eric Berg, DC
+
+From the YouTube channel of 
+[Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
 
 * [Recommended daily routine](Frameworks/DrEricBergDailyRoutine.md)  
 * [Weight loss protocol](Frameworks/DrEricBergWeightLossProtocol.md)  

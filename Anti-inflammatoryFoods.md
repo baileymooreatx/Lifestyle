@@ -96,6 +96,7 @@ disease, diabetes, and cancer.
 * Spearmint
 * St. John’s Wort  
 * [Sweet Potatoes](./Vegetables/SweetPotato.md)  
+* [Tart Cherries](./Fruits/TartCherry.md)
 * Thyme
 * [Tomatoes](./Vegetables/Tomato.md)  
 * [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption

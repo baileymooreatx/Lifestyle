@@ -1,11 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Supplements for Amazing Sleep](#supplements-for-amazing-sleep)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # [Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)  
 
 These supplements are recommended for people over fifty, who frequently have issues 
@@ -56,3 +48,5 @@ with restful sleep.
    can improve serotonin, melatonin, and sleep quality. This natural, amino acid is a 
    serotonin precursor. Serotonin regulates mood, calmness, and melatonin.  
    Take 100 to 200 mg 30 minutes to one hour before bed.   
+
+[Montmorency Tart Cherries](./Fruits/TartCherry.md) also support sleep.

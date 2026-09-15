@@ -6,6 +6,7 @@
   - [Key Health Benefits and Mechanisms](#key-health-benefits-and-mechanisms)
   - [Preparation](#preparation)
   - [Safety Considerations](#safety-considerations)
+  - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -47,7 +48,9 @@ antiviral effects**.
 * **Digestion:** Reduces bloating and gas.
 * **Respiratory Health:** Helps with bronchitis, coughs, and mucus.
 * **Immune & Heart Health:** Supports circulation and overall immune
-  function.
+  function.  
+
+See [Cloves](../Spices/Clove.md) for more details.  
 
 ## Preparation
 

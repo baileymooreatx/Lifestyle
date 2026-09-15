@@ -5,6 +5,7 @@
 - [Cloves](#cloves)
   - [Nutritional Profile](#nutritional-profile)
   - [Exceptional Antioxidant Capacity](#exceptional-antioxidant-capacity)
+  - [Anti-Inflammatory](#anti-inflammatory)
   - [Lower Blood Pressure](#lower-blood-pressure)
     - [Mechanisms of Action](#mechanisms-of-action)
     - [Scientific Evidence](#scientific-evidence)
@@ -17,6 +18,7 @@
   - [Bone Health and Brain Function](#bone-health-and-brain-function)
   - [Digestive and Metabolic Support](#digestive-and-metabolic-support)
   - [Immune and Oral Health](#immune-and-oral-health)
+  - [Other Health Benefits](#other-health-benefits)
   - [Safety Considerations](#safety-considerations)
   - [Preparations to Avoid or Use with Caution](#preparations-to-avoid-or-use-with-caution)
   - [Storage](#storage)
@@ -61,7 +63,13 @@ due to **eugenol**, a phenolic compound that acts as a natural antioxidant.
 Research suggests eugenol may be up to five times more effective at neutralizing
 free radicals than vitamin E. This helps reduce **oxidative stress**,
 potentially lowering the risk of chronic diseases such as heart disease, cancer,
-and diabetes.
+and diabetes. Cloves help to slow aging and protect tissues.
+
+## Anti-Inflammatory
+
+Clove compounds influence the *NF-kappa B* pathway to reduce inflammation.
+Regular consumption can help manage joint pain and stiffness, promoting better
+mobility.
 
 ## Lower Blood Pressure
 
@@ -136,7 +144,9 @@ considered the most effective traditional method.
 
 ### Clove Tea (Gentlest Option)
 
-See [Clove Water](../Drinks/CloveWater.md).  
+Steeping **2 or 3 whole cloves** in hot water for 10 to 15 minutes creates a
+mild infusion. See [Clove Water](../Drinks/CloveWater.md) for the full
+strength version.
 
 * **Mechanism:** Hot water extracts water-soluble antioxidants and a moderate
   amount of eugenol.
@@ -181,10 +191,28 @@ glucose uptake from the blood.
 ## Immune and Oral Health
 
 Rich in **vitamin C** and antimicrobial compounds, cloves support the immune
-system by helping the body fight bacterial and viral infections. The presence of
-**eugenol** also provides natural analgesic (pain-relieving) and antiseptic
-properties, making cloves effective for maintaining oral hygiene and relieving
-toothaches.
+system by helping the body fight bacterial and viral infections. They stimulate
+white blood cell production, strengthening the body's natural defense against
+infections. The presence of **eugenol** also provides natural analgesic
+(pain-relieving) and antiseptic properties, making cloves effective for
+maintaining oral hygiene and relieving toothaches or gum pain.
+
+## Other Health Benefits
+
+* **Anti-Cancer Potential:** Eugenol may help neutralize free radicals and
+  promote the self-destruction of abnormal cells.
+* **Liver Protection:** Cloves support liver detoxification and help reduce
+  inflammation and oxidative stress.
+* **Skin Health:** Antioxidants in cloves aid in collagen production,
+  contributing to firmer, more youthful skin.
+* **Metabolic Control:** Cloves help balance blood sugar levels and improve
+  insulin sensitivity.
+* **Digestive Health:** They protect the stomach lining and reduce the risk of
+  gastric ulcers.
+* **Heart Health:** Cloves improve circulation and help maintain healthy
+  cholesterol levels.
+* **Sleep:** Cloves modulate *GABA* receptors, which can assist in calming the
+  mind for better sleep.
 
 ## Safety Considerations
 
@@ -203,12 +231,12 @@ While nutritious, cloves are potent and should be consumed in moderation.
 
 Not all forms of cloves are safe for internal use.
 
-* **❌ Clove Essential Oil (Internal Use):** **Never ingest undiluted clove
+* **Clove Essential Oil (Internal Use):** **Never ingest undiluted clove
   oil.** It contains 70 to 90% eugenol. Ingesting even small amounts (10–30 mL)
   can cause acute liver failure, seizures, and fluid in the lungs. While it has
   potent vasodilatory effects, the margin between a therapeutic dose and a
   toxic dose is too narrow for safe self-administration.
-* **⚠️ High-Dose Supplements:** Capsules containing concentrated clove extract
+* **High-Dose Supplements:** Capsules containing concentrated clove extract
   should only be taken under medical supervision. They can lead to
   unpredictable blood thinning and hypoglycemia, especially if combined with
   prescription medications.

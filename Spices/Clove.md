@@ -136,8 +136,7 @@ considered the most effective traditional method.
 
 ### Clove Tea (Gentlest Option)
 
-Steeping **2 or 3 whole cloves** in hot water for 10 to 15 minutes creates a
-mild infusion.
+See [Clove Water](../Drinks/CloveWater.md).  
 
 * **Mechanism:** Hot water extracts water-soluble antioxidants and a moderate
   amount of eugenol.

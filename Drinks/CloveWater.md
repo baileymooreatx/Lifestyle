@@ -71,3 +71,7 @@ antiviral effects**.
 * **Avoid Clove Oil:** Ben Azadi emphasizes that one should **never drink
   concentrated clove oil**, as it is highly potent and can cause significant
   liver damage. The protocol is strictly for using whole clove buds in water.
+
+## My Preferred Brand  
+
+[True Organic Ceylon Organic Whole Cloves (16 Ounces)](https://www.amazon.com/dp/B08BG5L2XG)  

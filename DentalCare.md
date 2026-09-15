@@ -199,7 +199,7 @@ established biofilm in hard-to-reach areas.
 
 The Dr. Ellie's Complete Mouth Care System is suboptimal. The routine has the
 right instincts but several structural problems that are actually working
-against the each other.
+against each other.
 
 #### The Big Issues
 

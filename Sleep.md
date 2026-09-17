@@ -1,4 +1,79 @@
-# [Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)  
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Sleep](#sleep)
+  - [Deep Sleep](#deep-sleep)
+    - [Consistency & Light](#consistency--light)
+    - [Morning Sunlight](#morning-sunlight)
+    - [Exercise](#exercise)
+    - [Substances to Limit](#substances-to-limit)
+    - [Environment](#environment)
+    - [Stress & Wind-down](#stress--wind-down)
+    - [Other](#other)
+  - [Supplements](#supplements)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Sleep
+
+## Deep Sleep
+
+White noise and melatonin supplements generally help you *fall asleep*, but 
+do not reliably increase the *amount* of deep sleep. The most impactful, 
+evidence-based levers for increasing deep (slow-wave) sleep follow.  
+
+### Consistency & Light
+
+Go to bed and wake at the **same time every day**, including weekends. This 
+anchors your circadian rhythm, which is the single biggest driver of slow-wave
+sleep.  
+
+### Morning Sunlight  
+
+Get **bright sunlight exposure in the morning** and dim lights in the evening.  
+
+### Exercise
+
+- Aim for **150 min/week of moderate aerobic activity** plus 2–3 strength
+  sessions. Moderate-to-vigorous exercise performed earlier in the day is the
+  most reliably proven way to increase slow-wave sleep duration.
+- Finish intense workouts at least **3 hours before bed**; late high-intensity
+  work can raise cortisol and delay deep sleep onset.
+
+### Substances to Limit
+
+- **Caffeine**: avoid for at least 6 hours before bed (it can last 12+ hours in
+  the body).
+- **Alcohol**: even small doses reduce deep sleep; avoid within 3–4 hours of
+  bedtime.
+
+### Environment
+
+- Keep the bedroom **cool (60–67 °F / 16–19 °C), dark, and quiet**. A warm bath
+  or shower before bed helps by triggering a subsequent drop in core body
+  temperature.
+- Cut **screen time at least 1 hour before bed**; blue light suppresses
+  melatonin.
+
+### Stress & Wind-down
+
+Chronic stress elevates nighttime cortisol, which directly competes with 
+melatonin. A 5 to 10 minute wind-down (slow breathing at 4–6 breaths/min, 
+gentle stretching, journaling, reading) helps lower arousal.
+
+### Other
+
+- Avoid large meals within 2–3 hours of bed.
+- Limit or eliminate long daytime naps.
+- If poor deep sleep persists despite good habits, get screened for **sleep
+  apnea or other sleep disorders**, which can fragment and suppress slow-wave
+  sleep.
+
+## Supplements
+
+From YouTube video
+[Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)
 
 These supplements are recommended for people over fifty, who frequently have issues 
 with restful sleep.  

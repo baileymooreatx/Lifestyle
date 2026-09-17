@@ -83,7 +83,8 @@ differ by the **plant part** used and the **plant type**.
   grown in temperate climates.
 * **Usage:** Can be used fresh or dried; generally have a milder flavor and are
   added late in cooking.
-* **Examples:** Basil, parsley, cilantro (leaves), thyme, rosemary, mint.
+* **Examples:** Basil, [parsley](./Herbs/Parsley.md), cilantro (leaves), 
+  thyme, rosemary, mint.
 * *Note:* Some plants provide both; e.g., cilantro leaves are an herb, while the
   seeds (coriander) are a spice.
 
@@ -100,13 +101,13 @@ differ by the **plant part** used and the **plant type**.
 
 ## Summary Comparison
 
-| Category      | Botanical Origin      | Primary Plant Part            | Typical State | Examples                  |
-|:--------------|:----------------------|:------------------------------|:--------------|:--------------------------|
-| **Fruit**     | Mature Ovary          | Seed-bearing structure        | Fresh/Cooked  | Apple, Tomato, Cucumber   |
-| **Vegetable** | Various               | Roots, Stems, Leaves, Flowers | Fresh/Cooked  | Carrot, Spinach, Broccoli |
-| **Legume**    | Fabaceae Family       | Pod (fruit) & Seeds           | Cooked/Dried  | Beans, Peas, Lentils      |
-| **Herb**      | Herbaceous Plants     | Leaves                        | Fresh/Dried   | Basil, Mint, Parsley      |
-| **Spice**     | Various (often Woody) | Seeds, Bark, Roots, Buds      | Dried         | Cinnamon, Ginger, Cumin   |
+| Category      | Botanical Origin      | Primary Plant Part            | Typical State | Examples                                                              |
+|:--------------|:----------------------|:------------------------------|:--------------|:----------------------------------------------------------------------|
+| **Fruit**     | Mature Ovary          | Seed-bearing structure        | Fresh/Cooked  | [Apple](./Fruits/Apple.md), [Tomato](./Fruits/Tomato.md), Cucumber    |
+| **Vegetable** | Various               | Roots, Stems, Leaves, Flowers | Fresh/Cooked  | Carrot, [Spinach](./Vegetables/Spinach.md), Broccoli                  |
+| **Legume**    | Fabaceae Family       | Pod (fruit) & Seeds           | Cooked/Dried  | Beans, Peas, [Lentils](./Pulses/Lentil.md)                            |
+| **Herb**      | Herbaceous Plants     | Leaves                        | Fresh/Dried   | Basil, Mint, [Parsley](./Herbs/Parsley.md)                            |
+| **Spice**     | Various (often Woody) | Seeds, Bark, Roots, Buds      | Dried         | [Cinnamon](./Spices/Cinnamon.md), [Ginger](./Spices/Ginger.md), Cumin |
 
 ## Botanical vs. Culinary Definitions  
 

@@ -30,7 +30,7 @@ from other legumes that are eaten fresh or used for oil extraction.
 The United Nations Food and Agriculture Organization (FAO) recognizes 11 primary
 types of pulses, including:
 
-* **Dry Beans:** Kidney beans, pinto beans, navy beans, black beans.
+* **Dry Beans:** Kidney beans, pinto beans, navy beans, [black beans](./BlackBean.md).
 * **Dry Peas:** Green peas, split peas.
 * **[Chickpeas](./Chickpea.md):** Also known as garbanzo beans.
 * **[Lentils](./Lentil.md):** Red, green, brown, and black varieties.

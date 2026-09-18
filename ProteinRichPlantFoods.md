@@ -10,7 +10,7 @@
 # Protein Rich Plant Foods  
 
 * [Almonds](./Nuts/Almond.md)  
-* Black beans  
+* [Black beans](./Pulses/BlackBean.md)  
 * Brown rice protein  
 * [Chia seeds](./Seeds/Chia.md)  
 * [Chickpeas](./Pulses/Chickpea.md) (Garbanzo beans)  

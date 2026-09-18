@@ -130,8 +130,8 @@ protein, fiber, and resistant starch (RS1 and RS3).
   **~7.4 grams per cooked cup**.  
 * **[Lentils](../Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
   cooked cup**.  
-* **Black Beans & [Chickpeas](../Pulses/Chickpea.md):** Offer roughly **3.5 to 
-  5 grams per cooked cup**.  
+* **[Black Beans](../Pulses/BlackBean.md) & [Chickpeas](../Pulses/Chickpea.md):** 
+  Offer roughly **3.5 to 5 grams per cooked cup**.  
 * **Fava Beans:** Notable for having one of the highest concentrations per 100g,
   ranging from **7 to 12 grams** depending on preparation.
 

@@ -40,6 +40,7 @@ disease, diabetes, and cancer.
 * Basil  
 * [Beets](./Supplements/BeetrootPowder.md)  
 * [Bell pepper](./Vegetables/BellPepper.md)
+* [Black beans](./Pulses/BlackBean.md)  
 * [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
 * [Black tea](./Drinks/BlackTea.md)  
 * [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  

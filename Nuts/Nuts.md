@@ -95,16 +95,13 @@ potentially healthy snack into a metabolic risk.
 
 ### Cashews  
 
-Cashews are lower in fiber and beneficial fats compared to almonds or walnuts
-and are relatively higher in carbohydrates. More critically, they contain 
-**oxalates**, which can interfere with calcium absorption and contribute to the 
-formation of kidney stones, a risk that increases with age.  
+[Cashews](./Cashew.md) are lower in fiber and beneficial fats compared to 
+almonds or walnuts and are relatively higher in carbohydrates. More critically, 
+they contain **oxalates**, which can interfere with calcium absorption and 
+contribute to the formation of kidney stones, a risk that increases with age.  
 
 While not strictly forbidden, they should not be the primary nut choice for
 those concerned with bone density or kidney health. 
-
-The cashew grows outside a "cashew apple" and contains toxic oils similar to
-poison ivy in its shell, requiring careful processing. 
 
 ### Macadamia Nuts  
 

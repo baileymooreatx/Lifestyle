@@ -62,13 +62,13 @@ provides a concentrated source of energy and nutrients:
 
 ## Anti-Inflammatory and Antioxidant
 
-Hazelnuts contain a unique profile of healthy
-fats and potent antioxidants that actively reduce inflammatory markers in the
-body, particularly **high-sensitivity C-reactive protein (hs-CRP)**.
+Hazelnuts contain a unique profile of healthy fats and potent antioxidants that 
+actively reduce inflammatory markers in the body, particularly 
+**high-sensitivity C-reactive protein (hs-CRP)**.
 
 ### Key Anti-Inflammatory Compounds
 
-The anti-inflammatory power of hazelnuts stems from three primary components:
+The anti-inflammatory power of hazelnuts stems from three primary components.
 
 * **Proanthocyanidins:** Hazelnuts have the **highest concentration** of these
   flavonoids among all tree nuts. Found primarily in the **skin**, they are

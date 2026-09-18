@@ -66,8 +66,8 @@ categories.
   Leguminosae). The term also refers to the specific type of fruit these plants
   produce: a **pod** (a dry fruit that splits along two seams) containing seeds.
 * **Culinary Usage:** While the pod is botanically a fruit, the seeds inside
-  (beans, peas, [lentils](./Pulses/Lentil.md), chickpeas) are often cooked and 
-  eaten as **vegetables** or protein sources.
+  (beans, peas, [lentils](./Pulses/Lentil.md), [chickpeas](./Pulses/Chickpea.md)) 
+  are often cooked and eaten as **vegetables** or protein sources.
 * **Unique Trait:** Legumes have a symbiotic relationship with nitrogen-fixing
   bacteria in their root nodules, enriching the soil.
 
@@ -111,13 +111,13 @@ differ by the **plant part** used and the **plant type**.
 
 ## Botanical vs. Culinary Definitions  
 
-| Feature                   | **Fruit**                                       | **Vegetable**                                                             | **Legume**                                                                     |
-|:--------------------------|:------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------|
-| **Botanical Definition**  | Mature ovary of a flower containing seeds.      | Any edible plant part *except* the fruit (roots, stems, leaves, flowers). | Plants in the Fabaceae family; specifically the seed or seed pod.              |
-| **Culinary Definition**   | Sweet or tart flesh used in desserts/snacks.    | Savory plant parts used in main dishes or sides.                          | High-protein seeds (beans, lentils) often grouped with proteins or vegetables. |
-| **Plant Part Eaten**      | The ovary/fruit flesh.                          | Roots, stems, leaves, bulbs, tubers, flowers.                             | The seed (pulse) or the immature pod.                                          |
-| **Nutritional Highlight** | High in natural sugars, vitamins, antioxidants. | High in fiber, vitamins, minerals; low calorie.                           | High in protein, complex carbs, fiber; low glycemic index.                     |
-| **Examples**              | Tomatoes, cucumbers, apples, avocado.           | Carrots (root), Spinach (leaf), Celery (stem).                            | Beans, peas, lentils, peanuts, chickpeas.                                      |
+| Feature                   | **Fruit**                                       | **Vegetable**                                                             | **Legume**                                                                              |
+|:--------------------------|:------------------------------------------------|:--------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|
+| **Botanical Definition**  | Mature ovary of a flower containing seeds.      | Any edible plant part *except* the fruit (roots, stems, leaves, flowers). | Plants in the Fabaceae family; specifically the seed or seed pod.                       |
+| **Culinary Definition**   | Sweet or tart flesh used in desserts/snacks.    | Savory plant parts used in main dishes or sides.                          | High-protein seeds (beans, lentils) often grouped with proteins or vegetables.          |
+| **Plant Part Eaten**      | The ovary/fruit flesh.                          | Roots, stems, leaves, bulbs, tubers, flowers.                             | The seed (pulse) or the immature pod.                                                   |
+| **Nutritional Highlight** | High in natural sugars, vitamins, antioxidants. | High in fiber, vitamins, minerals; low calorie.                           | High in protein, complex carbs, fiber; low glycemic index.                              |
+| **Examples**              | Tomatoes, cucumbers, apples, avocado.           | Carrots (root), Spinach (leaf), Celery (stem).                            | Beans, peas, [lentils](./Pulses/Lentil.md), peanuts, [chickpeas](./Pulses/Chickpea.md). |
 
 ## Detailed Breakdown  
 

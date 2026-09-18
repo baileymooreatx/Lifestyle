@@ -3,8 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Lentils](#lentils)
-  - [Key Nutritional Highlights](#key-nutritional-highlights)
-  - [Heart Health Benefits](#heart-health-benefits)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Heart Health](#heart-health)
   - [Blood Sugar and Diabetes Management](#blood-sugar-and-diabetes-management)
   - [Weight Management and Satiety](#weight-management-and-satiety)
   - [Digestive and Gut Health](#digestive-and-gut-health)
@@ -20,11 +20,34 @@ protein, fiber, and essential micronutrients while being low in fat and
 calories. They are particularly valued for their ability to support heart
 health, stabilize blood sugar, and provide a robust plant-based protein source.
 
-## Key Nutritional Highlights
+## Nutritional Profile  
 
-One cup (approximately 198 grams) of cooked lentils provides a concentrated
-source of essential macronutrients and micronutrients. They are **naturally
-gluten-free**, low in sodium, and contain no saturated fat or cholesterol.
+Tri-color lentils are a blend of green, brown, and red (or sometimes black) lentils, so their nutritional profile is essentially the same as standard cooked lentils. Here's the profile for **1 cup (198 g) of cooked, boiled tri-color lentils**:
+
+| **Nutrient**  | **Amount** | **% Daily Value** |
+|---------------|------------|------------------:|
+| Calories      | 230        |               11% |
+| Protein       | 17.9 g     |               36% |
+| Total Fat     | 0.8 g      |                1% |
+| Carbohydrates | 39.8 g     |               14% |
+| Dietary Fiber | 15.6 g     |               56% |
+| Sugars        | 3.6 g      |                7% |
+| Folate        | 358 µg     |               90% |
+| Iron          | 6.5 mg     |               36% |
+| Copper        | 0.5 mg     |               55% |
+| Manganese     | 1.0 mg     |               43% |
+| Thiamin (B1)  | 0.3 mg     |               28% |
+| Vitamin B6    | 0.4 mg     |               27% |
+| Magnesium     | 71 mg      |               17% |
+| Potassium     | 731 mg     |               16% |
+| Zinc          | 3.0 mg     |               23% |
+
+**Notable characteristics:**
+- Very low in fat and cholesterol-free
+- Exceptionally high in fiber (56% DV per serving)
+- One of the best plant-based sources of folate (90% DV) and iron
+- Low glycemic index (~32), making them suitable for blood sugar management
+- No soaking required before cooking — they cook in about 15–20 minutes
 
 A standard serving delivers approximately **17.9 grams of protein**, which
 exceeds the protein content of two large eggs, making them an excellent meat
@@ -34,7 +57,9 @@ intake for adults. In terms of micronutrients, a single cup meets roughly **90%
 of the daily value for folate**, a critical B vitamin for DNA synthesis and red
 blood cell formation.
 
-## Heart Health Benefits
+Here are the key **health benefits** of lentils.
+
+## Heart Health  
 
 Lentils are strongly associated with a reduced risk of cardiovascular disease
 through multiple mechanisms. They are rich in **potassium, magnesium, and

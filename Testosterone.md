@@ -68,22 +68,23 @@ testosterone synthesis.
 ### 8. Red Meat and Beans
 
 Red meat offers **zinc** and saturated fats needed for hormone production, while
-beans (kidney, black, chickpeas) provide plant-based zinc and magnesium.
+beans (kidney, black, [chickpeas](./Pulses/Chickpea.md)) provide plant-based 
+zinc and magnesium.
 
 ## Foods to Avoid
 
 Certain foods can lower testosterone levels:
 
-- **Deep-fried foods** and **trans fats**
-- **Excessive alcohol**
-- **Processed meats**
-- **High-sugar diets**
+- Deep-fried foods and trans fats
+- Excessive alcohol
+- Processed meats
+- High-sugar diets
 
 ## Lifestyle Factors
 
 Diet alone isn't enough. Combine these foods with:
 
-- **Regular exercise** (especially strength training)
-- **Adequate sleep** (7 to 9 hours nightly)
-- **Stress management**
-- **Maintaining a healthy weight**
+- Regular exercise (especially strength training)
+- Adequate sleep (7 to 9 hours nightly)
+- Stress management
+- Maintaining a healthy weight

@@ -13,7 +13,7 @@
 * Black beans  
 * Brown rice protein  
 * [Chia seeds](./Seeds/Chia.md)  
-* Chickpeas (Garbanzo beans)  
+* [Chickpeas](./Pulses/Chickpea.md) (Garbanzo beans)  
 * Edamame  
 * [Hemp seeds or hearts](./Seeds/HempHearts.md) 
 * [Lentils](./Pulses/Lentil.md)  
@@ -21,7 +21,7 @@
 * Oats  
 * Pea sprouts  
 * [Pumpkin seeds](./Seeds/Pumpkin.md)  
-* Quinoa  
+* [Quinoa](./Seeds/Quinoa.md)  
 * Seaweed  
 * Spirulina  
 * [Sunflower seeds](./Seeds/Sunflower.md)  

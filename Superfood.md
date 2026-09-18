@@ -42,7 +42,8 @@ While lists vary, common foods labeled as superfoods include:
 * **Nuts and Seeds**: [Chia seeds](./Seeds/Chia.md),
   [flaxseeds](./Seeds/Flaxseed.md), [hemp seeds](./Seeds/HempHearts.md), and
   [walnuts](./Nuts/Walnut.md).
-* **Pulses and Grains**: Quinoa, [lentils](./Pulses/Lentil.md), and chickpeas.
+* **Pulses and Grains**: [Quinoa](./Seeds/Quinoa.md), 
+  [lentils](./Pulses/Lentil.md), and [chickpeas](./Pulses/Chickpea.md).
 
 ## Scientific Perspective
 

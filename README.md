@@ -9,7 +9,23 @@ Ideas about how to improve health and wellbeing
 * [The Microbiome's Role in Immunity](ImmuneSystem/Microbiome.md)  
 * [Move](./Move.md) your body at least once an hour
 * [Sleep](./Sleep.md) supplements
-* Great reasons to take a [walk](./Walking.md) every day
+* [Summaries of Books](./BookSummaries) about health and wellness
+* Great reasons to take a [walk](./Walking.md) every day  
+
+## Books  
+
+Summaries of books about health and wellness  
+
+* _[An Elegant Defense](./BookSummaries/AnElegantDefense.md) The Extraordinary 
+  New Science of the Immune System: A Tale in Four Lives_  
+  by Matt Richtel  
+* _[Lies I Taught in Medical School](./BookSummaries/LiesITaughtInMedicalSchool.md)
+  How Conventional Medicine Is Making You Sicker and What You Can Do to Save Your
+  Own Life_  
+  by Robert Lufkin, MD  
+* _[Why We Get Sick](./BookSummaries/WhyWeGetSick.md) The Hidden Epidemic at the 
+  Root of Most Chronic Disease - and How to Fight It_  
+  by Benjamin Bikman PhD  
 
 ## Food  
 

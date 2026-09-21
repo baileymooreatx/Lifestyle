@@ -11,6 +11,7 @@
   - [Weight Management](#weight-management)
   - [Cancer Risk](#cancer-risk)
   - [Other Notable Benefits](#other-notable-benefits)
+  - [Caveats](#caveats)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -131,7 +132,10 @@ fiber content.
 - **Polyphenols and flavonoids** provide antioxidant protection against
   oxidative stress and cellular damage
 
-The main caveat: as with other legumes, the iron is non-heme, so pairing black
-beans with a vitamin C source (lemon juice, tomatoes, peppers) significantly
-improves absorption. Canned black beans can be high in sodium (~300+ mg per half
-cup), so draining and rinsing helps.
+## Caveats  
+
+- As with other legumes, the iron is non-heme, so pairing black beans with a 
+  vitamin C source (lemon juice, tomatoes, peppers) significantly improves 
+  absorption. 
+- Canned black beans can be high in sodium (~300+ mg per half cup), so draining 
+  and rinsing helps.

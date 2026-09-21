@@ -58,7 +58,7 @@ Meals should be about four hours apart with **no snacking** in between.
   * Green tea
   * Berberine
   * Ashwaganda
-  * [Ginger](./Vegetables/Ginger.md)
+  * [Ginger](Spices/Ginger.md)
   * Some [mushrooms](./Vegetables/Mushroom.md)  
 
 ## [Indicators of Autophagy](https://www.youtube.com/watch?v=K3F3KRaJeLE)

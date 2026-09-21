@@ -62,7 +62,7 @@ disease, diabetes, and cancer.
 * [Fennel seeds](./Seeds/Fennel.md)  
 * [Flaxseed](./Seeds/Flaxseed.md)
 * [Garlic](./Vegetables/Garlic.md)
-* [Ginger](./Vegetables/Ginger.md) - pair with black pepper for enhanced absorption
+* [Ginger](Spices/Ginger.md) - pair with black pepper for enhanced absorption
 * Ginseng
 * Green tea
 * [Hazelnuts](./Nuts/Hazelnut.md)  

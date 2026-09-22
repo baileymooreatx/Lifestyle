@@ -229,7 +229,7 @@ You do not need large amounts of fat to see benefits; moderation is key.
     - **Avocado**: Provides healthy fats and fiber, excellent in raw salads.
     - **Nuts and Seeds**: Walnuts, almonds, or sesame seeds add texture and
       healthy fats.
-    - **[Egg](../OtherFoods/Egg.md) Yolks**: The natural fat in eggs makes them
+    - **[Egg](../Protein/Egg.md) Yolks**: The natural fat in eggs makes them
       an excellent vehicle for spinach absorption (e.g., in omelets or quiches).
 
 ### Practical Application

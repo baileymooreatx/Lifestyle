@@ -40,7 +40,7 @@
          * Grapes in moderation, dark or red preferred for resveratrol  
 2. Prioritize protein: Eat one gram of protein per pound for your ideal weight.
    * Wild-caught, low-mercury fish: salmon, sardines, mackerel, anchovies
-   * [Eggs](./OtherFoods/Egg.md): Pasture raised or organic when possible  
+   * [Eggs](Protein/Egg.md): Pasture raised or organic when possible  
    * Grass fed beef, bison, venison, lamb
    * Chicken and turkey (check labels for additives and chlorine)  
      Pasture raised when possible
@@ -133,7 +133,7 @@ Eating in the right order
 * Polyphenol rich foods
   * Berries
   * Pomegranate
-  * Dark chocolate (85% [cacao](OtherFoods/Cacao.md) or more)
+  * Dark chocolate (85% [cacao](Protein/Cacao.md) or more)
 * [Avocados](Vegetables/Avocado.md)  
 
 See [Superfood](./Superfood.md).

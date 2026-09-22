@@ -42,7 +42,7 @@
 
 ## [The #1 Best Meal for Liver Detoxification](https://www.youtube.com/watch?v=-vtMP3laIBc)
 
-1. [Eggs](./OtherFoods/Egg.md) are high in choline
+1. [Eggs](Protein/Egg.md) are high in choline
 2. Meat for amino acids
 3. Onion
 4. [Garlic](./Vegetables/Garlic.md)
@@ -94,7 +94,7 @@
       [AST](https://en.wikipedia.org/wiki/Aspartate_transaminase), and
       [GGT](https://en.wikipedia.org/wiki/Gamma-glutamyltransferase) levels  
 4. Choline
-    * [Eggs](./OtherFoods/Egg.md)
+    * [Eggs](Protein/Egg.md)
     * Meat
     * Dairy
     * Seafood

@@ -45,7 +45,7 @@ disease, diabetes, and cancer.
 * [Black tea](./Drinks/BlackTea.md)  
 * [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
 * [Brazil Nuts](./Nuts/BrazilNut.md)  
-* [Cacao](./OtherFoods/Cacao.md)  
+* [Cacao](Protein/Cacao.md)  
 * Calendula
 * Cat’s claw
 * Cardamon

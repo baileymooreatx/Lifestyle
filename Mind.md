@@ -20,8 +20,9 @@
 * [The Energy Bus](./Frameworks/EnergyBus.md) by Jon Gordon provides rules to 
   overcome adversity and negativity through the power of positive energy.
 
-## Fundamental Human Needs
-[Tony Robins on Diary of a CEO](https://www.youtube.com/watch?v=I_w81rptxkc&t=3192s)
+## Fundamental Human Needs  
+
+Provided by [Tony Robins on Diary of a CEO](https://www.youtube.com/watch?v=I_w81rptxkc&t=3192s)
 
 1. Certainty
 2. Uncertainty
@@ -34,10 +35,10 @@
 
 Provided by Ben Azadi of YouTube channel [@KetoKamp](https://www.youtube.com/@KetoKamp/)
   
-I am so happy and grateful, now that I am at my perfect weight.  
-I am looking good and feeling great.  
-The perfect health I seek is now seeking me.  
-I remove any blockages between us.  
+* I am so happy and grateful, now that I am at my perfect weight.  
+* I am looking good and feeling great.  
+* The perfect health I seek is now seeking me.  
+* I remove any blockages between us.  
 
 ## Affirmations for Prosperity
 
@@ -66,7 +67,7 @@ Provided by YouTube channel [Sleep Escape](https://www.youtube.com/watch?v=CPIi0
 * I am proud to be me.
 * I am confident in my own decisions.
 * I am capable of handling anything that comes my way.
-* I am worthy of a healthy, wealthy and meaningful life.
+* I am worthy of a healthy, wealthy, and meaningful life.
 * I trust my own judgment.
 * I am at peace with my past.
 * I am excited for my future.
@@ -79,14 +80,14 @@ Provided by YouTube channel [Sleep Escape](https://www.youtube.com/watch?v=CPIi0
 * I am moving through life with quiet confidence.
 * I am enough exactly as I am.
 * I am worthy of love without having to earn it.
-* I am deserving of kindness, especially for myself.
+* I am deserving of kindness, especially from myself.
 * I am valuable.
 * I am allowed to make mistakes and still be worthy.
 * I am not defined by my worst moments.
 * I deserve good things and good relationships.
 * I treat myself with kindness, compassion, and care.
 * I am whole.
-* I am always learning even when it doesn't feel like it.
+* I am always learning, even when it doesn't feel like it.
 * I am always changing for the better.
 * I am becoming the best version of myself one day at a time.
 * I enjoy growing even when it's uncomfortable.
@@ -114,7 +115,10 @@ Provided by YouTube channel [Sleep Escape](https://www.youtube.com/watch?v=CPIi0
 * I am confident. 
 * I am worthy.
 
-## [11 Bad Habits That Damage Your Brain](https://www.youtube.com/watch?v=8kB4DY8cWYk)  
+## 11 Bad Habits That Damage Your Brain
+
+Provided by Dr. Eric Berg's YouTube video 
+[11 Bad Habits That Damage Your Brain](https://www.youtube.com/watch?v=8kB4DY8cWYk)  
 
 1. Chronic exposure to bad news
 2. Toxic personalities
@@ -128,7 +132,10 @@ Provided by YouTube channel [Sleep Escape](https://www.youtube.com/watch?v=CPIi0
 10. Anything that decreases gut microbes
 11. Consuming grain-fed animal products  
 
-## [Increase neurogenesis](https://www.youtube.com/watch?v=lSwHXE9LohA)  
+## Increase Neurogenesis
+
+Provided by  Dr. Eric Berg's YouTube video 
+[5X Your BRAIN CELLS](https://www.youtube.com/watch?v=lSwHXE9LohA)  
 
 * Aerobic [Exercise](https://www.youtube.com/watch?v=lSwHXE9LohA&t=205s) - walking  
 * [Fasting](https://www.youtube.com/watch?v=lSwHXE9LohA&t=250s)  

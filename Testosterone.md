@@ -31,7 +31,7 @@ zinc requirements.
 
 ### 2. Eggs
 
-Whole [eggs](./OtherFoods/Egg.md) provide **cholesterol**, a building block for 
+Whole [eggs](Protein/Egg.md) provide **cholesterol**, a building block for 
 testosterone, along with **vitamin D** and high-quality protein. Studies show 
 daily egg consumption can increase testosterone levels.
 

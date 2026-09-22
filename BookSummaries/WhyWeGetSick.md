@@ -253,8 +253,8 @@ A practical integration chapter.
 - **Tracking:** Fasting insulin < 6 is ideal; 7–17 warrants action. Insulin peak
   timing (30 min = good, 120 min = definite IR).
 - **Food rules:** Keep glycemic load < 15 when possible; avoid "sweet"
-  condiments; be "starch smart"; don't drink your carbs; use stevia, erythritol,
-  or monk fruit as sweeteners.
+  condiments; be "starch smart"; don't drink your carbs; use 
+  [stevia](../OtherFoods/Stevia.md), erythritol, or monk fruit as sweeteners.
 - **Supplements/nutrients:** Cysteine (from methionine) may help prevent IR;
   vitamin D deficiency worsens IR; dairy may reduce IR risk.
 - **Meal suggestions** for breakfast, lunch, and dinner following the low-carb,
@@ -453,7 +453,8 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Mayonnaise (full fat)
 - Salad dressings without sugar
-- Noncaloric sweeteners (erythritol, stevia, monk fruit, xylitol)
+- Noncaloric sweeteners (erythritol, [stevia](../OtherFoods/Stevia.md), monk 
+  fruit, xylitol)
 
 ### Limit to 2 or Fewer Servings a Day
 

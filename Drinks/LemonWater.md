@@ -62,10 +62,11 @@ mistakes and offers a corrected protocol for liver health.
    damage to tooth enamel and prevents the stomach from recovering.
 4. **Sweetening the Water (12:31 - 14:07):** Artificial sweeteners can
    disrupt the gut microbiome and trigger inflammatory pathways linked to
-   **non-alcoholic fatty liver disease** Pure powdered stevia extract is fine.
-5. **Drinking with Coffee:** Combining acidic lemon water with coffee—a diuretic
-   that spikes cortisol—subjects the liver and adrenals to unnecessary metabolic
-   stress.
+   **non-alcoholic fatty liver disease (NAFLD)** Pure powdered 
+  [stevia](../OtherFoods/Stevia.md) extract is fine.
+5. **Drinking with Coffee:** Combining acidic lemon water with coffee, a 
+   diuretic that spikes cortisol, subjects the liver and adrenals to 
+   unnecessary metabolic stress.
 
 ### Recommended Protocol  
 

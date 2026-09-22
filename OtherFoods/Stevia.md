@@ -1,8 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Stevia](#stevia)
+  - [Caveats](#caveats)
+  - [Insulin](#insulin)
+  - [Gut Microbiome](#gut-microbiome)
+  - [Preferred Brand](#preferred-brand)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Stevia
 
 High-purity stevia is considered safe for most people. The FDA has granted
-it "Generally Recognized as Safe" (GRAS) status, and global health authorities (
-EFSA, JECFA, WHO) have reviewed decades of studies finding no evidence of
+it "Generally Recognized as Safe" (GRAS) status, and global health authorities
+(EFSA, JECFA, WHO) have reviewed decades of studies finding no evidence of
 toxicity, cancer risk, or organ damage at normal intake levels (acceptable daily
 intake: 4 mg/kg body weight).  
 
@@ -22,6 +34,30 @@ stevia itself but from the other ingredients mixed into commercial products.
   only the highly purified extract is approved.
 - **Blood pressure & interactions:** Stevia can lower blood pressure and may
   interact with blood pressure or blood sugar medications.
+
+## Insulin  
+
+**Pure stevia extract does not significantly raise insulin levels.** A 2024
+meta-analysis of 26 studies (1,439 participants) found no significant effect on
+insulin concentration or HbA1c.
+
+That said, the picture is nuanced:
+
+- **Mild, glucose-dependent stimulation:** Steviol glycosides can enhance the
+  activity of ion channels in pancreatic β-cells, modestly boosting insulin
+  release *only when blood sugar is already elevated* from a meal. They do not
+  trigger insulin release on their own.
+- **Lower post-meal insulin vs. sugar:** In one well-cited trial, participants
+  who consumed stevia preloads had *lower* post-meal insulin levels than those
+  who consumed sucrose or aspartame.
+- **No "cephalic phase" spike:** Unlike some other sweeteners, the sweet taste
+  of stevia has not been shown to trigger an anticipatory insulin release before
+  food arrives.
+- **No hypoglycemia risk** in healthy individuals.
+
+**Caveat:** Many commercial stevia products contain fillers like maltodextrin or
+dextrose (GI 95–100), which *can* raise both glucose and insulin. Check the
+ingredient label for pure steviol glycosides or rebaudioside A.
 
 ## Gut Microbiome
 

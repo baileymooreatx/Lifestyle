@@ -3,9 +3,9 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Eggs](#eggs)
-  - [Key Vitamins and Minerals](#key-vitamins-and-minerals)
-  - [Nutrient Distribution: Yolk vs. White](#nutrient-distribution-yolk-vs-white)
   - [Nutritional Profile](#nutritional-profile)
+    - [Key Vitamins and Minerals](#key-vitamins-and-minerals)
+    - [Nutrient Distribution: Yolk vs. White](#nutrient-distribution-yolk-vs-white)
   - [Cooking Method](#cooking-method)
     - [Protein Bioavailability](#protein-bioavailability)
     - [Vitamin and Antioxidant Retention](#vitamin-and-antioxidant-retention)
@@ -36,7 +36,50 @@ combination of high-quality protein, essential vitamins, minerals, and healthy
 fats in a low-calorie package. They are one of the few foods that contain almost
 every nutrient the human body needs.
 
-## Key Vitamins and Minerals
+## Nutritional Profile
+
+1 Large Grade A Egg (~50 g, whole)
+
+| Nutrient              | Amount   | % Daily Value * |
+|-----------------------|----------|-----------------|
+| Calories              | 72 kcal  | —               |
+| Protein               | 6.3 g    | 13%             |
+| Total Fat             | 4.8 g    | 6%              |
+| Saturated Fat         | 1.6 g    | 8%              |
+| Monounsaturated Fat   | 1.8 g    | —               |
+| Polyunsaturated Fat   | 1.0 g    | —               |
+| Cholesterol           | 186 mg   | 62%             |
+| Sodium                | 71 mg    | 3%              |
+| Potassium             | 69 mg    | 1%              |
+| Total Carbohydrate    | 0.4 g    | 0%              |
+| Dietary Fiber         | 0 g      | 0%              |
+| Sugars                | 0.2 g    | —               |
+| Choline               | 147 mg   | 27% AI          |
+| Vitamin A (RAE)       | 80 µg    | 9%              |
+| Vitamin D             | 1.0 µg   | 5%              |
+| Vitamin E             | 0.53 mg  | 4%              |
+| Thiamin (B1)          | 0.02 mg  | 2%              |
+| Riboflavin (B2)       | 0.23 mg  | 18%             |
+| Niacin (B3)           | 0.04 mg  | 0.2%            |
+| Pantothenic acid (B5) | 0.70 mg  | 14%             |
+| Vitamin B6            | 0.01 mg  | 7%              |
+| Folate (B9)           | 24 µg    | 6%              |
+| Vitamin B12           | 0.45 µg  | 19%             |
+| Calcium               | 28 mg    | 3%              |
+| Iron                  | 0.9 mg   | 11%             |
+| Phosphorus            | 99 mg    | 14%             |
+| Selenium              | 15.4 µg  | 28%             |
+| Zinc                  | 0.6 mg   | 6%              |
+| Magnesium             | 6 mg     | 1%              |
+| Copper                | 0.05 mg  | 4%              |
+| Manganese             | 0.001 mg | 1%              |
+
+\* Percent Daily Values are based on a 2,000-calorie diet (choline % is against
+the Adequate Intake). Values reflect the USDA FoodData Central entry for a raw,
+fresh large whole egg; cooked eggs (boiled, fried, scrambled) differ only
+slightly unless added fat is used.
+
+### Key Vitamins and Minerals
 
 Eggs are rich in micronutrients, with the yolk containing the vast majority of
 vitamins and minerals.
@@ -56,7 +99,7 @@ vitamins and minerals.
 * **Other Nutrients:** Eggs also provide significant amounts of **vitamin
   A**, **selenium** (a powerful antioxidant), iodine, phosphorus, and zinc.
 
-## Nutrient Distribution: Yolk vs. White
+### Nutrient Distribution: Yolk vs. White
 
 The nutritional value is split distinctly between the two parts of the egg.
 
@@ -66,26 +109,6 @@ The nutritional value is split distinctly between the two parts of the egg.
 * **Egg Yolk:** Contains all the fat, cholesterol, and nearly all the vitamins
   and minerals, along with 2.7 grams of protein. It accounts for about 55 of the
   egg's 72 calories.
-
-## Nutritional Profile
-
-A single **large chicken egg** (approximately 50 grams) provides a dense
-nutritional profile with about **72 calories**. It is composed primarily of
-high-quality protein and healthy fats, with negligible carbohydrates.
-
-The macronutrient distribution in one large egg supports muscle maintenance and
-sustained energy.
-
-* **Protein:** Contains **6.3 grams** of complete protein, providing all nine
-  essential amino acids required by the human body. Approximately 3.6 grams are
-  found in the white, while 2.7 grams are in the yolk.
-* **Fat:** Provides **4.8 grams** of total fat, almost exclusively located in
-  the yolk. This includes 1.6 grams of saturated fat, 1.8 grams of
-  monounsaturated fat, and 1.0 gram of polyunsaturated fat.
-* **Carbohydrates:** Eggs are very low in carbs, containing only **0.4 grams**
-  per egg, with less than 0.2 grams of sugar and no fiber.
-* **Cholesterol:** One large egg contains **186 mg** of dietary cholesterol,
-  which is found entirely in the yolk.
 
 ## Cooking Method
 

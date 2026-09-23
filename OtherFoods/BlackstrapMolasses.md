@@ -46,10 +46,10 @@ than refined sugar, though it remains high in carbohydrates.
 Blackstrap molasses is particularly valued for its high mineral content. A
 single tablespoon typically provides:
 
-* **Iron**: **3.6 mg** (approx. **20%** of the Daily Value). This is non-heme
-  iron, making it a valuable supplement for plant-based diets, especially when
-  paired with vitamin C to enhance absorption. Iron is crucial for oxygen
-  transport and preventing anemia.  
+* **Iron**: **3.6 mg** (approx. **20%** of the Daily Value). This is
+  [non-heme iron](../Pulses/NonHemeIron.md), making it a valuable supplement for
+  plant-based diets, especially when paired with vitamin C to enhance absorption.
+  Iron is crucial for oxygen transport and preventing anemia.  
 * **Calcium**: Ranges from **10 mg to 200 mg** depending on the source data,
   with some brands providing up to **15%** of the Daily Value. It is often cited
   as a significant non-dairy calcium source. Calcium supports bone density.  

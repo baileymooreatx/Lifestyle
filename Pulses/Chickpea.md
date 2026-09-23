@@ -11,6 +11,7 @@
   - [Bone & Connective Tissue](#bone--connective-tissue)
   - [Folate & Cell Division](#folate--cell-division)
   - [Other Notable Benefits](#other-notable-benefits)
+  - [Caveats](#caveats)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -104,7 +105,10 @@ synthesis, cell division, and neural tube development during pregnancy.
 - **Polyphenols and bioactive peptides** provide antioxidant and
   anti-inflammatory activity
 
-The main caveat: as with other legumes, the iron is non-heme, so pairing
-chickpeas with a vitamin C source (lemon juice, tomatoes, peppers) significantly
-improves absorption. Canned chickpeas can be high in sodium (~300+ mg per half
+## Caveats
+
+- As with other legumes, the iron is [non-heme](./NonHemeIron.md), so pairing
+  chickpeas with a vitamin C source (lemon juice, tomatoes, peppers)
+  significantly improves absorption.
+- Canned chickpeas can be high in sodium (~300+ mg per half
 cup), so draining and rinsing helps.

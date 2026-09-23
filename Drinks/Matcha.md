@@ -199,8 +199,8 @@ A few practical notes:
   the study.
 - Vitamin C alone (e.g., a 30 mg supplement) produces a similar effect.
 - The boost is specifically for **catechins/antioxidants**; it also modestly
-  helps **non-heme iron** absorption, which is relevant if you drink matcha with
-  plant-based meals.
+  helps [non-heme iron](../Pulses/NonHemeIron.md), which is relevant if you
+  drink matcha with plant-based meals.
 
 ## Skin & Bone Health
 

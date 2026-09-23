@@ -143,11 +143,12 @@ therapy" as a dietary treatment for patients prone to kidney stones.
 ## Enhanced Iron Absorption
 
 Consuming lemons alongside iron-rich foods significantly boosts the body's
-ability to absorb **non-heme iron**, the type of iron found in plant sources.
-Vitamin C converts non-heme iron into a form that is easier for the body to
-utilize. This is particularly beneficial for vegetarians and vegans, as it helps
-prevent iron-deficiency anemia, a condition characterized by fatigue and
-weakness due to insufficient oxygen transport in the blood.
+ability to absorb [non-heme iron](../Pulses/NonHemeIron.md), the type of iron
+found in plant sources. Vitamin C converts non-heme iron into a form that is 
+easier for the body to utilize. This is particularly beneficial for vegetarians 
+and vegans, as it helps prevent iron-deficiency anemia, a condition 
+characterized by fatigue and weakness due to insufficient oxygen transport in 
+the blood.
 
 ## Digestive Health and Weight Management
 

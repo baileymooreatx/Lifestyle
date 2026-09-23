@@ -10,6 +10,7 @@
   - [Weight Management](#weight-management)
   - [Folate & Pregnancy](#folate--pregnancy)
   - [Other Notable Benefits](#other-notable-benefits)
+  - [Caveat](#caveat)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -90,5 +91,8 @@ preventing neural tube defects in developing fetuses.
 - **Polyphenols and flavonoids** provide antioxidant protection against cell
   damage
 
-The main caveat: the iron is non-heme, so pairing black-eyed peas with a vitamin
-C source (like lemon juice or tomatoes) significantly improves absorption.
+## Caveat  
+
+- As with other legumes, the iron is [non-heme](./NonHemeIron.md), so pairing
+  black-eyed peas with a vitamin C source (lemon juice, tomatoes, peppers)
+  significantly improves absorption.

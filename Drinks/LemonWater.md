@@ -29,7 +29,7 @@ mistakes and offers a corrected protocol for liver health.
   concentrated juice.
 * **Digestion & Nutrient Absorption:** Citric acid lowers stomach pH, which can
   stimulate hydrochloric acid and improve **iron absorption**, particularly for
-  vegetarians eating non-heme iron.
+  vegetarians eating [non-heme iron](../Pulses/NonHemeIron.md).
 * **Liver & Gallbladder Health:** The acidity triggers the release of
   *cholecystokinin* (CCK), promoting gallbladder contraction and bile flow,
   which aids in fat digestion and helps the liver excrete toxins.

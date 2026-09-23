@@ -134,8 +134,8 @@ fiber content.
 
 ## Caveats  
 
-- As with other legumes, the iron is non-heme, so pairing black beans with a 
-  vitamin C source (lemon juice, tomatoes, peppers) significantly improves 
-  absorption. 
+- As with other legumes, the iron is [non-heme](./NonHemeIron.md), so pairing
+  black beans with a vitamin C source (lemon juice, tomatoes, peppers)
+  significantly improves absorption. 
 - Canned black beans can be high in sodium (~300+ mg per half cup), so draining 
   and rinsing helps.

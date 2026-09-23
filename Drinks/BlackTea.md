@@ -112,11 +112,11 @@ key factors.
 
 While highly beneficial, black tea contains compounds that require moderation
 for certain individuals. The **tannins** in black tea can inhibit the absorption
-of **non-heme iron** (found in plant-based foods), which is a critical
-consideration for those with anemia or following a vegan diet; it is advisable
-to drink tea between meals rather than with them. Additionally, while the
-caffeine content is lower than coffee, excessive consumption (more than 4 to 5 
-cups daily) may lead to anxiety, insomnia, or headaches in sensitive individuals. 
-To maximize benefits and minimize risks, experts recommend choosing **organic 
-black tea** to avoid potential pesticide residues and heavy metals found in some
-conventional crops.  
+of [non-heme iron](../Pulses/NonHemeIron.md) (found in plant-based foods), which
+is a critical consideration for those with anemia or following a vegan diet; it
+is advisable to drink tea between meals rather than with them. Additionally, 
+while the caffeine content is lower than coffee, excessive consumption (more
+than 4 to 5 cups daily) may lead to anxiety, insomnia, or headaches in sensitive
+individuals. To maximize benefits and minimize risks, experts recommend choosing
+**organic black tea** to avoid potential pesticide residues and heavy metals
+found in some conventional crops.  

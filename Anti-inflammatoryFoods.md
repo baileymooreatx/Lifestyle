@@ -71,6 +71,7 @@ disease, diabetes, and cancer.
 * Holy basil  
 * [Horseradish](./Vegetables/Horseradish.md)  
 * Kava kava
+* [Kidney beans](./Pulses/KidneyBean.md)  
 * Lemon balm
 * [Lemons](./Fruits/Lemon.md)
 * Licorice root
@@ -80,7 +81,7 @@ disease, diabetes, and cancer.
 * [Onion](./Vegetables/Onion.md)
 * [Oranges](./Fruits/Orange.md)
 * Oregano
-* Parsley
+* [Parsley](./Herbs/Parsley.md)
 * Passion flower
 * [Pecans](./Nuts/Pecan.md)
 * [Pineapple](./Fruits/Pineapple.md)

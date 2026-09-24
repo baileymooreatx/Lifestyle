@@ -18,8 +18,11 @@
   - [Ceylon vs. Cassia Cinnamon](#ceylon-vs-cassia-cinnamon)
   - [Safety and Dosage](#safety-and-dosage)
     - [Coumarin](#coumarin)
-    - [Safety Threshold (TDI)](#safety-threshold-tdi)
-    - [Practical Implications](#practical-implications)
+      - [Safety Threshold (TDI)](#safety-threshold-tdi)
+      - [Practical Implications](#practical-implications)
+  - [Heavy Metals](#heavy-metals)
+    - [What Testing Has Found](#what-testing-has-found)
+    - [Key Takeaways](#key-takeaways)
   - [Storage](#storage)
     - [Optimal Storage Protocol](#optimal-storage-protocol)
     - [Refrigeration Discouraged](#refrigeration-discouraged)
@@ -204,7 +207,7 @@ damage (hepatotoxicity) in high concentrations. The distinction between Ceylon
 and Cassia cinnamon is defined by the massive difference in their coumarin
 content:
 
-### Safety Threshold (TDI)
+#### Safety Threshold (TDI)
 
 Regulatory bodies like the European Food Safety Authority (EFSA) and the German
 Federal Institute for Risk Assessment (BfR) have established a Tolerable Daily
@@ -215,7 +218,7 @@ Intake (TDI) of 0.1 mg per kg of body weight.
 * For a 60 kg (132 lb) adult: The safe limit is roughly 6 mg of coumarin per
   day.
 
-### Practical Implications
+#### Practical Implications
 
 Occasional Use: Sprinkling Cassia cinnamon on food a few times a week is
 generally considered safe for healthy adults, as the body can process small,
@@ -225,6 +228,54 @@ control), Ceylon cinnamon is the only safe option. Regularly consuming Cassia at
 therapeutic doses (2–5 grams/day) can lead to chronic coumarin exposure,
 potentially causing liver stress or enzyme elevation.
 
+## Heavy Metals
+
+Heavy metal in cinnamon is a well-documented issue, not a myth. Ceylon 
+cinnamon, like any agricultural crop, **can absorb lead and cadmium**
+from soil, water, and industrial runoff. No food is 100% free of heavy metals,
+but cinnamon is a particularly notable case because:
+
+- It's a **drying crop** (high water loss concentrates metals)
+- It's often **ground**, which can add contamination from metal grinding
+  equipment
+- It's consumed in small amounts daily, so even low ppm levels add up over time
+
+### What Testing Has Found
+
+Independent labs (Consumer Reports, ConsumerLab, Lead Safe Mama, Mamavation)
+have tested numerous organic Ceylon cinnamon brands. Representative results:
+
+| **Brand**            | **Lead (ppb)** | **Cadmium (ppb)** |
+|:---------------------|:---------------|:------------------|
+| Simply Organic       | 0.44           | 141               |
+| Diaspora Spice Co.   | 223            | 138               |
+| True Organic         | 509            | 108               |
+| Frontier Co-op       | 552            | 106               |
+| Anthony's            | 1,259          | 245               |
+| One Farm             | 4,257          | 104               |
+| Terrasoul Superfoods | 985            | 161               |
+
+For context:
+
+- **FDA action level** for lead in food: **2,000 ppb (2 ppm)**
+- **California Prop 65** "no significant risk" level for lead: **~5 ppb** daily
+  exposure
+- **Cadmium** is a known carcinogen with no established "safe" threshold
+
+### Key Takeaways
+
+- **"Organic" does not protect you.** USDA Organic certification does **not**
+  require heavy metal testing. Consumer Reports explicitly warns against relying
+  on the organic label for this purpose.
+- **Ceylon vs. Cassia is not a clear safety win.** Some data (including Red
+  Ape's own testing) shows Ceylon can actually test *higher* in lead than
+  cassia. Ceylon's main advantage over cassia is **lower coumarin**, not lower
+  heavy metals.
+- **Brand matters far more than variety.** The range within "organic Ceylon" is
+  enormous — from <1 ppb to >4,000 ppb lead.
+- **The FDA has issued recalls** for specific brands exceeding 3 ppm lead (as of
+  late 2025).  
+  
 ## Storage  
 
 To preserve the **nutrients** (specifically **cinnamaldehyde** and antioxidants) in ground Ceylon cinnamon, store it in an **airtight, opaque container** in a **cool, dark, and dry pantry**.

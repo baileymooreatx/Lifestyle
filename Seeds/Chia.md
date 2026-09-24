@@ -3,6 +3,7 @@
 **Table of Contents**  *generated
 
 - [Chia Seeds](#chia-seeds)
+  - [Nutritional Profile](#nutritional-profile)
   - [Grinding vs. Soaking](#grinding-vs-soaking)
     - [Nutrient Absorption Comparison](#nutrient-absorption-comparison)
     - [Digestive Health & Safety](#digestive-health--safety)
@@ -28,6 +29,29 @@ regulation.
 
 Just **2 tablespoons (28g)** provide approximately **138 calories**, **10g of
 fiber**, **5g of protein**, and **5g of omega-3 fatty acids** (ALA).
+
+## Nutritional Profile  
+
+Here is the nutritional profile for **one tablespoon (approximately 12 grams) of
+dry chia seeds**.
+
+| **Nutrient**        | **Amount**  | **% Daily Value (DV)** |
+|:--------------------|:------------|-----------------------:|
+| Calories            | 58–60 kcal  |                     3% |
+| Total Fat           | 4 g         |                     5% |
+| — Omega-3 (ALA)     | ~2.1 g      |                  130%+ |
+| Total Carbohydrates | 5 g         |                     2% |
+| — Dietary Fiber     | 4 g         |                 14–16% |
+| — Net Carbs         | 1 g         |                    <1% |
+| Protein             | 2 g         |                     4% |
+| Calcium             | 76 mg       |                   6–8% |
+| Iron                | 1 mg        |                  6–12% |
+| Magnesium           | 40 mg       |                    10% |
+| Phosphorus          | 103 mg      |                    15% |
+| Manganese           | 0.3 mg      |                 13–15% |
+
+Percentages are based on a 2,000-calorie diet and can vary slightly by
+brand and source.
 
 ## Grinding vs. Soaking  
 

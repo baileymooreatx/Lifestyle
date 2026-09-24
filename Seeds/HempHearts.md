@@ -3,6 +3,7 @@
 **Table of Contents**  *generated
 
 - [Hemp Hearts](#hemp-hearts)
+  - [Nutritional Profile](#nutritional-profile)
   - [Complete Protein Profile](#complete-protein-profile)
   - [Essential Fatty Acids](#essential-fatty-acids)
   - [Key Vitamins and Minerals](#key-vitamins-and-minerals)
@@ -29,6 +30,33 @@ meaning **they will not produce a psychoactive effect**. They are characterized
 by a **soft texture** and a **mild, nutty flavor**, making them easier to digest
 and more versatile in cooking than whole hemp seeds.
 
+## Nutritional Profile
+
+Here is the nutritional profile for **one tablespoon (approximately 12 grams) of
+hemp hearts**.
+
+| **Nutrient**        | **Amount** | **% Daily Value (DV)** |
+|:--------------------|:-----------|-----------------------:|
+| Calories            | 55 kcal    |                     3% |
+| Total Fat           | 4.8 g      |                     6% |
+| — *Omega-3 (ALA)*   | ~1 g       |                    60% |
+| Total Carbohydrates | 1 g        |                     0% |
+| — *Dietary Fiber*   | 0.3 g      |                     1% |
+| — *Net Carbs*       | 0.7 g      |                    <1% |
+| Protein             | 3.2 g      |                     6% |
+| Calcium             | 7 mg       |                     1% |
+| Iron                | 1.2 mg     |                     7% |
+| Magnesium           | 70 mg      |                    17% |
+| Phosphorus          | 165 mg     |                    13% |
+| Zinc                | 1 mg       |                    13% |
+
+Percentages are based on a 2,000-calorie diet and can vary slightly by brand and
+source.
+
+> **Note:** Hemp hearts are notably higher in protein and lower in fiber than
+> chia or flaxseeds. Their omega fatty acid profile is roughly 3:1 (omega-6 to
+> omega-3), compared to the more omega-3-dominant ratio in chia and flax.
+
 ## Complete Protein Profile
 
 Hemp hearts are a **complete plant-based protein**, containing all **nine
@@ -49,7 +77,7 @@ One of the most distinct nutritional features of hemp hearts is their **ideal 3:
 1 ratio of omega-6 to omega-3 fatty acids**. This balance is crucial for
 reducing inflammation and supporting cardiovascular health.
 
-A single serving contains nearly **15 grams of fat**, predominantly
+A single serving contains nearly **5 grams of fat**, predominantly
 polyunsaturated fats, including:
 
 * **Alpha-linolenic acid (ALA)**: An essential omega-3 fatty acid linked to

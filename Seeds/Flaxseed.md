@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Flaxseeds](#flaxseeds)
+  - [Nutritional Profile](#nutritional-profile)
   - [Heart Health and Omega-3 Fatty Acids](#heart-health-and-omega-3-fatty-acids)
   - [Digestive Health and Fiber Content](#digestive-health-and-fiber-content)
   - [Cancer Prevention and Antioxidant Properties](#cancer-prevention-and-antioxidant-properties)
@@ -19,6 +20,28 @@ concentration of three primary bioactive components: **alpha-linolenic acid
 nutrients, experts recommend consuming them in **ground form** rather than whole, 
 as whole seeds often pass through the digestive tract undigested.
 
+## Nutritional Profile  
+
+Here is the nutritional profile for **one tablespoon (approximately 12 grams) of
+whole flaxseeds**.
+
+| **Nutrient**        | **Amount** | **% Daily Value (DV)** |
+|:--------------------|:-----------|-----------------------:|
+| Calories            | 55 kcal    |                     3% |
+| Total Fat           | 4.3 g      |                     6% |
+| — Omega-3 (ALA)     | ~2.3 g     |                  130%+ |
+| Total Carbohydrates | 3 g        |                     1% |
+| — Dietary Fiber     | 2.8 g      |                 10–14% |
+| — Net Carbs         | 0.2 g      |                    <1% |
+| Protein             | 1.9 g      |                     4% |
+| Calcium             | 26 mg      |                     2% |
+| Iron                | 0.6 mg     |                   3–6% |
+| Magnesium           | 39 mg      |                  9–10% |
+| Phosphorus          | 64 mg      |                     9% |
+| Manganese           | 0.3 mg     |                    13% |
+
+Percentages are based on a 2,000-calorie diet and can vary slightly by brand and source.
+
 ## Heart Health and Omega-3 Fatty Acids
 
 Flaxseeds are one of the richest plant-based sources of **omega-3 fatty acids**,
@@ -26,8 +49,8 @@ specifically ALA. Regular consumption has been linked to significant
 cardiovascular improvements:
 
 * **Cholesterol Management**: Studies indicate that flaxseed can lower total
-  cholesterol and LDL ("bad") cholesterol while potentially increasing HDL ("
-  good") cholesterol.
+  cholesterol and LDL ("bad") cholesterol while potentially increasing HDL
+  ("good") cholesterol.
 * **Blood Pressure Reduction**: Clinical trials have shown that consuming ground
   flaxseed daily can significantly reduce both systolic and diastolic blood
   pressure, particularly in individuals with hypertension.
@@ -76,7 +99,6 @@ supports:
   * **phosphorus** 
   * **copper** 
   * **manganese**  
-
 
 ## Recommended Intake and Usage
 

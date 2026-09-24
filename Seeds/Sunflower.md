@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Sunflower Seeds (Raw)](#sunflower-seeds-raw)
-  - [Key Nutritional Profile](#key-nutritional-profile)
+  - [Nutritional Profile](#nutritional-profile)
   - [Essential Vitamins and Minerals](#essential-vitamins-and-minerals)
   - [Heart and Metabolic Health](#heart-and-metabolic-health)
   - [Anti-Inflammatory and Antioxidant Protection](#anti-inflammatory-and-antioxidant-protection)
@@ -26,20 +26,36 @@ benefits due to their rich profile of healthy fats, protein, fiber, vitamins,
 and minerals. Because they are unroasted and unprocessed, they retain higher
 levels of heat-sensitive antioxidants compared to their roasted counterparts.
 
-## Key Nutritional Profile
+## Nutritional Profile
 
-A one-ounce (28g) serving of raw sunflower seeds provides a concentrated source
-of essential nutrients.
+Here is the nutritional profile for **one tablespoon (approximately 12 grams) of
+raw sunflower seeds**.
 
-* **Healthy Fats:** Approximately 14 grams of fat, predominantly
-  polyunsaturated (including omega-6 fatty acids) and monounsaturated fats,
-  which support heart health and cognitive function.
-* **Protein:** About 6 grams of plant-based protein, making them an excellent
-  option for muscle repair and vegetarian or vegan diets.
-* **Fiber:** Roughly 2.4 to 3 grams of dietary fiber, which aids digestion,
-  promotes satiety, and helps regulate blood sugar and cholesterol levels.
-* **Low Carbohydrate:** With only about 6 grams of carbs per serving, they are
-  suitable for low-carb and ketogenic diets.
+| **Nutrient**        | **Amount** | **% Daily Value (DV)** |
+|:--------------------|:-----------|-----------------------:|
+| Calories            | 52 kcal    |                     3% |
+| Total Fat           | 4.5 g      |                     6% |
+| — Omega-3 (ALA)     | ~0.01 g    |                    <1% |
+| Total Carbohydrates | 2 g        |                     1% |
+| — Dietary Fiber     | 0.9 g      |                     3% |
+| — Net Carbs         | 1.1 g      |                    <1% |
+| Protein             | 2 g        |                     4% |
+| Calcium             | 8 mg       |                     1% |
+| Iron                | 0.5 mg     |                     3% |
+| Magnesium           | 32 mg      |                     8% |
+| Phosphorus          | 100 mg     |                     8% |
+| Manganese           | 0.2 mg     |                     9% |
+| Copper              | 0.2 mg     |                    22% |
+| Selenium            | 5 μg       |                     9% |
+| Vitamin E           | 3.2 mg     |                    21% |
+
+Percentages are based on a 2,000-calorie diet and can vary slightly by brand
+and source.
+
+> **Note:** Sunflower seeds are the standout source of **Vitamin E** among
+> common seeds — a single tablespoon delivers over 20% of the daily value. Like
+> pumpkin seeds, they are very low in omega-3 (ALA) and high in omega-6, so they
+> complement rather than replace chia or flax in a seed mix.
 
 ## Essential Vitamins and Minerals
 

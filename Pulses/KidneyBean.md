@@ -21,29 +21,29 @@
 Here's the USDA-specific profile for **red kidney beans** (cooked, boiled,
 without salt), 1 cup (177 g).
 
-| **Nutrient**       | **Amount** | % Daily Value \* |
-|--------------------|------------|------------------|
-| Calories           | 225 kcal   | 11%              |
-| Total Fat          | 0.89 g     | 1%               |
-| Saturated Fat      | 0.13 g     | 1%               |
-| Trans Fat          | 0 g        | —                |
-| Cholesterol        | 0 mg       | 0%               |
-| Sodium             | 3.5 mg     | 0%               |
-| Total Carbohydrate | 40.4 g     | 15%              |
-| **Dietary Fiber**  | **13.1 g** | **47%**          |
-| Total Sugars       | 0.57 g     | 1%               |
-| Protein            | 15.3 g     | 31%              |
-| Thiamin (B1)       | 0.28 mg    | 24%              |
-| Riboflavin (B2)    | 0.1 mg     | 8%               |
-| Niacin (B3)        | 1 mg       | 6%               |
-| Folate             | ~230 mcg   | 58%              |
-| Vitamin C          | 2.1 mg     | 2%               |
-| Vitamin D          | 0 mcg      | 0%               |
-| Iron               | 5.2 mg     | 29%              |
-| Calcium            | 49.6 mg    | 4%               |
-| Potassium          | 713 mg     | 15%              |
-| Phosphorus         | 251 mg     | 20%              |
-| Magnesium          | 80 mg      | 19%              |
+| **Nutrient**       | **Amount** | **% Daily Value** |
+|:-------------------|:-----------|------------------:|
+| Calories           | 225 kcal   |               11% |
+| Total Fat          | 0.89 g     |                1% |
+| Saturated Fat      | 0.13 g     |                1% |
+| Trans Fat          | 0 g        |                 — |
+| Cholesterol        | 0 mg       |                0% |
+| Sodium             | 3.5 mg     |                0% |
+| Total Carbohydrate | 40.4 g     |               15% |
+| Dietary Fiber      | 13.1 g     |               47% |
+| Total Sugars       | 0.57 g     |                1% |
+| Protein            | 15.3 g     |               31% |
+| Thiamin (B1)       | 0.28 mg    |               24% |
+| Riboflavin (B2)    | 0.1 mg     |                8% |
+| Niacin (B3)        | 1 mg       |                6% |
+| Folate             | ~230 mcg   |               58% |
+| Vitamin C          | 2.1 mg     |                2% |
+| Vitamin D          | 0 mcg      |                0% |
+| Iron               | 5.2 mg     |               29% |
+| Calcium            | 49.6 mg    |                4% |
+| Potassium          | 713 mg     |               15% |
+| Phosphorus         | 251 mg     |               20% |
+| Magnesium          | 80 mg      |               19% |
 
 \* % Daily Values based on a 2,000-calorie diet.
 

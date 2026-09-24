@@ -35,27 +35,31 @@ regulation.
 
 ## Nutritional Profile
 
-A standard 1-ounce (28g) serving of raw, unsalted pumpkin seeds delivers a
-concentrated dose of nutrients:
+Here is the nutritional profile for **one tablespoon (approximately 12 grams) of
+shelled pumpkin seeds**.
 
-* **Calories:** Approximately 151–170 kcal
-* **Protein:** 7–9 grams (comparable to one large [egg](../Protein/Egg.md))  
-* **Healthy Fats:** 14 grams (primarily unsaturated omega-3 and omega-6 fatty
-  acids)
-* **Fiber:** 1.8–2.1 grams (higher if eaten with the shell)
-* **Magnesium:** ~150 mg (37% of Daily Value), crucial for blood pressure
-  regulation and over 300 bodily reactions.
-* **Zinc:** ~2–2.5 mg (20% of Daily Value), vital for immune function and
-  prostate health.
-* **Iron:** ~2.3 mg (14% of Daily Value).
-* **Other Minerals:** Rich in potassium, phosphorus, copper, and selenium.
+| **Nutrient**        | **Amount** | **% Daily Value (DV)** |
+|:--------------------|:-----------|-----------------------:|
+| Calories            | 55 kcal    |                     3% |
+| Total Fat           | 4.9 g      |                     6% |
+| — Omega-3 (ALA)     | ~0.02 g    |                    <1% |
+| Total Carbohydrates | 1 g        |                     0% |
+| — Dietary Fiber     | 0.6 g      |                     2% |
+| — Net Carbs         | 0.4 g      |                    <1% |
+| Protein             | 3 g        |                     6% |
+| Calcium             | 4 mg       |                     0% |
+| Iron                | 0.9 mg     |                     5% |
+| Magnesium           | 55 mg      |                    13% |
+| Phosphorus          | 100 mg     |                    13% |
+| Zinc                | 0.8 mg     |                    10% |
 
-Unlike many nuts, pumpkin seeds offer higher levels of magnesium and zinc with
-lower sugar content. They are also a source of vitamins E and B, and contain
-tryptophan, an amino acid precursor to serotonin.
+Percentages are based on a 2,000-calorie diet and can vary slightly by brand and
+source.
 
-There are approximately **85** to **142** pumpkin seeds in a 28g (1 oz) serving,
-depending on whether the seeds are hulled (shelled) or whole with shells.
+> **Note:** Pumpkin seeds are extremely low in omega-3 (ALA) — their omega-6 to
+> omega-3 ratio is roughly 178:1, making them a poor source of omega-3s compared
+> to chia or flax. They do, however, stand out for their **zinc** and 
+> **magnesium ** content.
 
 * **Hulled seeds (Pepitas):** A 28g serving contains approximately **142**
   hulled seeds. These are the green, shell-less kernels commonly found in bulk
@@ -72,7 +76,7 @@ The primary nutritional difference between **shelled** (pepitas) and
 **unshelled** (whole) pumpkin seeds lies in **fiber density** versus **nutrient
 concentration**. Because the shell adds significant weight and bulk without
 adding protein or fat, removing it concentrates the calories and micronutrients
-in the remaining kernel.
+in the remaining kernel.  
 
 ### Fiber Content
 

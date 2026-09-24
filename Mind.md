@@ -8,7 +8,7 @@
   - [Affirmations to Change Self-image](#affirmations-to-change-self-image)
   - [Affirmations for Prosperity](#affirmations-for-prosperity)
   - [11 Bad Habits That Damage Your Brain](#11-bad-habits-that-damage-your-brain)
-  - [Increase neurogenesis](#increase-neurogenesis)
+  - [Increase Neurogenesis](#increase-neurogenesis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

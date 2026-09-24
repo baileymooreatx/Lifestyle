@@ -45,7 +45,7 @@ without salt), 1 cup (177 g).
 | Phosphorus         | 251 mg     |               20% |
 | Magnesium          | 80 mg      |               19% |
 
-\* % Daily Values based on a 2,000-calorie diet.
+Percent Daily Values are based on a 2,000-calorie diet.
 
 Building on the nutrient table from before, here's what those numbers actually
 do for your body:

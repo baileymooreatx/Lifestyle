@@ -3,7 +3,6 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Brazil Nuts](#brazil-nuts)
-  - [Key Nutrients](#key-nutrients)
   - [Nutritional Profile](#nutritional-profile)
     - [Fatty Acid Composition](#fatty-acid-composition)
   - [Thyroid and Immune Support](#thyroid-and-immune-support)

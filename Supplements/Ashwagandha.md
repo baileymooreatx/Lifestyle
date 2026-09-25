@@ -45,7 +45,7 @@ and mild stomach upset.
 
 ## Nutritional Profile
 
-Ashwagandha Root Powder
+Here is the nutritional profile for Ashwagandha Root Powder.
 
 | Nutrient          | Per 100 g | Per 1 g (1,000 mg) |
 |-------------------|-----------|--------------------|

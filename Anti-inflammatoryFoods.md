@@ -37,7 +37,7 @@ disease, diabetes, and cancer.
 * [Ashwagandha](./Supplements/Ashwagandha.md)
 * Astragalus root
 * [Avocados](./Vegetables/Avocado.md)
-* Basil  
+* [Basil](./Herbs/Basil.md)  
 * [Beets](./Supplements/BeetrootPowder.md)  
 * [Bell pepper](./Vegetables/BellPepper.md)
 * [Black beans](./Pulses/BlackBean.md)  

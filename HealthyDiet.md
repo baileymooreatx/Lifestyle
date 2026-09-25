@@ -77,7 +77,7 @@ dark, e.g. green, glass.
 | Cranberry juice                                                               | 4 fluid oz      |
 | Water                                                                         | 12 fluid oz     |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
-| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)                        | 2 tablespoon    |
+| [Apple Cider Vinegar](Fermented/AppleCiderVinegar.md)                        | 2 tablespoon    |
 | [Lemon](./Fruits/Lemon.md) juice                                              | Half of a Lemon |
 | Sea salt                                                                      | ½ teaspoon      |
 | **Optional spices**                                                           |                 |
@@ -93,7 +93,7 @@ Drink 1 hour before bed, blended for best results.
 | Water                                                   | 8 fluid oz   |
 | [Ceylon Cinnamon](./Spices/Cinnamon.md)                 | ½ teaspoon   |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
-| [Apple Cider Vinegar](OtherFoods/AppleCiderVinegar.md)  | 1 tablespoon |
+| [Apple Cider Vinegar](Fermented/AppleCiderVinegar.md)  | 1 tablespoon |
 | Sea salt                                                | ½ teaspoon   |
 | **Optional Fiber**                                      |              |
 | [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |
@@ -125,11 +125,11 @@ Eating in the right order
 * Fermented foods
   * Sauerkraut
   * Kimchi
-  * [Yogurt](./Yogurt.md)  
+  * [Yogurt](Fermented/Yogurt.md)  
   * Kiefer
   * [Black tea](./Drinks/BlackTea.md)  
   * [Coffee](./Drinks/Coffee.md)  
-  * [Apple cider vinegar](./OtherFoods/AppleCiderVinegar.md)  
+  * [Apple cider vinegar](Fermented/AppleCiderVinegar.md)  
 * Polyphenol rich foods
   * Berries
   * Pomegranate

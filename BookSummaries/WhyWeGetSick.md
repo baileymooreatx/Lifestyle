@@ -388,9 +388,9 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Avocado oil
 - Ghee
-- Coconut oil
+- [Coconut oil](../Fats/CoconutOil.md)
 - Lard or rendered animal fat
-- Extra-virgin olive oil
+- [Extra-virgin olive oil](../Fats/ExtraVirginOliveOil.md)
 - MCT oil
 - Fish oil
 
@@ -407,7 +407,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - All meats (beef, lamb, and game) — choose grass-fed if you can
 - All poultry (chicken, turkey, and others) — choose pastured if you can
-- Eggs — choose pastured and eat the yolks
+- [Eggs](../Protein/Egg.md) — choose pastured and eat the yolks
 - Fish and seafood — choose wild-caught and avoid farmed fish
 - Tofu and tempeh — if you are vegetarian or vegan
 
@@ -415,27 +415,30 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Artichoke hearts
 - Asparagus
-- Avocados
+- [Avocados](../Vegetables/Avocado.md)
 - Bamboo shoots
 - Bok choy
 - Celery
 - Cucumber
-- Green leafy vegetables (arugula, chard, lettuce, spinach, etc.)
+- Green leafy vegetables (arugula, chard, lettuce,
+  [spinach](../Vegetables/Spinach.md), etc.)
 - Jicama
 - Leeks
-- Lemons
+- [Lemons](../Fruits/Lemon.md)
 - Limes
-- Mushrooms
+- [Mushrooms](../Vegetables/Mushroom.md)  
 - Olives
-- Onions
-- Peppers (bell peppers, jalapeños, etc.)
+- [Onions](../Vegetables/Onion.md)
+- [Peppers](../Vegetables/ChiliPepper.md)
+  ([bell peppers](../Vegetables/BellPepper.md), jalapeños, etc.)
 - Radishes
 - Watermelon
-- All herbs and spices (basil, cilantro, parsley, rosemary, thyme, etc.)
+- All herbs and spices ([basil](../Herbs/Basil.md), cilantro,
+  [parsley](../Herbs/Parsley.md), rosemary, thyme, etc.)
 
 #### Fermented Foods
 
-- Apple cider vinegar
+- [Apple cider vinegar](../Fermented/AppleCiderVinegar.md)
 - Kimchi
 - Pickles
 - Sauerkraut
@@ -443,9 +446,9 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 #### Beverages
 
-- Coffee — black or with cream
+- [Coffee](../Drinks/Coffee.md) — black or with cream
 - Kombucha
-- Tea
+- [Tea](../Drinks/Tea.md)
 - Unsweetened nut and seed milks (almond, coconut)
 - Sparkling water — add lemon, lime, or apple cider vinegar
 
@@ -453,25 +456,24 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Mayonnaise (full fat)
 - Salad dressings without sugar
-- Noncaloric sweeteners (erythritol, [stevia](../OtherFoods/Stevia.md), monk 
-  fruit, xylitol)
+- Noncaloric sweeteners (erythritol, [stevia](../OtherFoods/Stevia.md), monk fruit, xylitol)
 
 ### Limit to 2 or Fewer Servings a Day
 
 #### Nuts, Seeds & Legumes
 
-- Almonds
+- [Almonds](../Nuts/Almond.md)
 - Almond flour and coconut flour
-- Flaxseeds
-- Hazelnuts
+- [Flaxseeds](../Seeds/Flaxseed.md)
+- [Hazelnuts](../Nuts/Hazelnut.md)
 - Macadamia nuts
 - Nut butters
 - Peanuts
-- Pecans
+- [Pecans](../Nuts/Pecan.md)
 - Pine nuts
-- Pumpkin seeds
-- Sunflower seeds
-- Walnuts
+- [Pumpkin seeds](../Seeds/Pumpkin.md)
+- [Sunflower seeds](../Seeds/Sunflower.md)
+- [Walnuts](../Nuts/Walnut.md)
 
 #### Protein
 
@@ -483,7 +485,9 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Barley pearls
 - Bean sprouts
-- Berries (blackberries, blueberries, cranberries, raspberries, strawberries)
+- Berries (blackberries, [blueberries](../Fruits/Blueberry.md),
+  [cranberries](../Fruits/Cranberry.md), raspberries, 
+  [strawberries](../Fruits/Strawberry.md))
 - Broccoli
 - Brussels sprouts
 - Cabbage
@@ -532,7 +536,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 #### Vegetables, Fruits & Grains
 
-- Apples
+- [Apples](../Fruits/Apple.md)
 - Apricots
 - Bananas
 - Cherries
@@ -543,7 +547,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 - Jam, jelly, and preserves
 - Mango
 - Melons
-- Oranges
+- [Oranges](../Fruits/Orange.md)
 - Peaches
 - Pears
 - Plantains

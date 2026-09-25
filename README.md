@@ -60,7 +60,7 @@ Summaries of books about health and wellness
   * Daily [supplements](./Supplements/Supplements.md)  
   * Compare non-nutritive [sweeteners](./OtherFoods/Sweeteners.md)
   * Brew a perfect cup of [Tea](./Drinks/Tea.md)  
-  * Homemade [yogurt](Yogurt.md) for special strains of gut friendly bacteria  
+  * Homemade [yogurt](Fermented/Yogurt.md) for special strains of gut friendly bacteria  
 
 ## Weight Loss  
 

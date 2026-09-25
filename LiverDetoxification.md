@@ -110,7 +110,7 @@
 ## [Beverages to Reverse Fatty Liver](https://www.youtube.com/watch?v=zZAvjULZOSY)
 
 * Green tea
-* [Apple cider vinegar](OtherFoods/AppleCiderVinegar.md) - one tablespoon mixed with 10
+* [Apple cider vinegar](Fermented/AppleCiderVinegar.md) - one tablespoon mixed with 10
   ounces of water
 * [Ginger](Spices/Ginger.md) tea - steep ginger root slices in boiled water
   for 10 minutes

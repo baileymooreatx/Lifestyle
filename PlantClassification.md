@@ -83,8 +83,8 @@ differ by the **plant part** used and the **plant type**.
   grown in temperate climates.
 * **Usage:** Can be used fresh or dried; generally have a milder flavor and are
   added late in cooking.
-* **Examples:** Basil, [parsley](./Herbs/Parsley.md), cilantro (leaves), 
-  thyme, rosemary, mint.
+* **Examples:** [Basil](Herbs/Basil.md), [parsley](./Herbs/Parsley.md), cilantro 
+  (leaves), thyme, rosemary, mint.
 * *Note:* Some plants provide both; e.g., cilantro leaves are an herb, while the
   seeds (coriander) are a spice.
 

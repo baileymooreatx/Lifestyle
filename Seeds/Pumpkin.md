@@ -13,6 +13,9 @@
     - [Deactivation of Enzyme Inhibitors](#deactivation-of-enzyme-inhibitors)
     - [Improved Texture and Nutrient Absorption](#improved-texture-and-nutrient-absorption)
     - [How to Do It Properly](#how-to-do-it-properly)
+  - [Sprouted vs. Raw Shelled](#sprouted-vs-raw-shelled)
+    - [What's actually happening](#whats-actually-happening)
+    - [Practical bottom line](#practical-bottom-line)
   - [Key Health Benefits](#key-health-benefits)
     - [Heart Health and Blood Pressure](#heart-health-and-blood-pressure)
     - [Prostate and Men’s Health](#prostate-and-mens-health)
@@ -178,6 +181,48 @@ To maximize these benefits, follow this standard activation method.
 4. **Consume or Dry:** You can eat them immediately while soft (great for
    smoothies) or dehydrate/roast them at low temperatures to restore
    crunchiness.
+
+## Sprouted vs. Raw Shelled
+
+The **raw macronutrient content is very similar** between the two — the real
+difference is in **bioavailability and anti-nutrients**. Here's a summary:
+
+| **Factor**                  | **Raw (Shelled)**                           | **Sprouted**                                                           |
+|:----------------------------|:--------------------------------------------|:-----------------------------------------------------------------------|
+| **Calories (per oz)**       | ~150–160                                    | ~160                                                                   |
+| **Protein**                 | ~7 g                                        | ~7.5–8 g                                                               |
+| **Fat**                     | ~14 g                                       | ~13–14 g                                                               |
+| **Carbs**                   | ~2–3 g                                      | ~3–4 g                                                                 |
+| **Fiber**                   | ~1 g                                        | ~2–3 g                                                                 |
+| **Phytic acid**             | ~950 mg/100 g                               | ~600 mg/100 g (up to 90% reduction in some studies)                    |
+| **Mineral bioavailability** | Lower (phytic acid chelates Zn, Mg, Fe, Ca) | Significantly higher — one source cites ~3× more bioavailable zinc     |
+| **Protein digestibility**   | Baseline                                    | Increased (germination breaks down protein fractions)                  |
+| **Enzymes**                 | Inactive (dormant seed)                     | Active amylolytic, lipolytic, proteolytic enzymes present              |
+| **Vitamin C**               | Negligible                                  | Slightly increased during germination                                  |
+| **Fat-soluble vitamins**    | Full content                                | May be marginally reduced (seed uses some fat as fuel for germination) |
+
+### What's actually happening
+
+During sprouting, the seed activates its own enzymes to convert stored starch
+and fat into energy for the emerging plant. This:
+
+- **Breaks down phytic acid** (the "mineral thief" that binds zinc, iron,
+  magnesium, and calcium in the gut)
+- **Increases protein digestibility** by shifting protein fractions toward more
+  digestible forms
+- **Activates digestive enzymes** (amylase, lipase, protease) that you get along
+  with the seed
+- **Consumes some starch and fat** as fuel, slightly reducing total carbs and
+  fat
+
+### Practical bottom line
+
+The *amount* of each nutrient on the label barely changes. The *absorbability*
+is what improves — particularly for **zinc, magnesium, and iron**. If you're
+already eating a balanced diet with adequate mineral intake from varied sources,
+the difference is modest. If you're relying heavily on seeds for those
+minerals (e.g., a vegan or mineral-restricted diet), sprouting makes a
+meaningful difference.
 
 ## Key Health Benefits
 

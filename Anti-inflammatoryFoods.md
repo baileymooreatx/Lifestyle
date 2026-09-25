@@ -34,7 +34,7 @@ disease, diabetes, and cancer.
 ## Alphabetical List  
 
 * [Almonds](./Nuts/Almond.md)  
-* Ashwagandha
+* [Ashwagandha](./Supplements/Ashwagandha.md)
 * Astragalus root
 * [Avocados](./Vegetables/Avocado.md)
 * Basil  
@@ -45,7 +45,7 @@ disease, diabetes, and cancer.
 * [Black tea](./Drinks/BlackTea.md)  
 * [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
 * [Brazil Nuts](./Nuts/BrazilNut.md)  
-* [Cacao](Protein/Cacao.md)  
+* [Cacao](./OtherFoods/Cacao.md)  
 * Calendula
 * Cat’s claw
 * Cardamon

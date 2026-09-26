@@ -95,10 +95,31 @@ with restful sleep.
    needs to drop by about one degree. This amino acid also improves sleep 
    architecture, specifically restoring deep sleep. Tastes like sugar.   
    Add 3 g of glycine powder to a beverage 30 minutes to an hour before bed.  
+   **Advatages**:  
+    - **Faster sleep onset** – Studies show it reduces the time to fall asleep 
+      (by ~7 minutes on average) by lowering core body temperature through
+      increased blood flow to the extremities.
+    - **Improved sleep quality and efficiency** – More time spent actually
+      asleep, fewer nighttime awakenings, and a quicker transition into **deep
+      (slow-wave) sleep** and REM sleep.
+    - **Calms the nervous system** – As an inhibitory neurotransmitter, glycine
+      quiets overactive brain signaling, which is helpful for a "wired but
+      tired" feeling at bedtime.
+    - **Supports serotonin** – Elevates serotonin without raising dopamine,
+      helping normalize circadian rhythms and sleep-wake cycles.
+    - **Reduced next-day fatigue** – People report less daytime sleepiness,
+      better mood, and improved cognitive performance the following day.
+    - **Non-sedative and non-habit-forming** – Unlike prescription sleep aids,
+      it doesn't cause morning grogginess or dependency; it supports the body's
+      natural sleep processes rather than forcing unconsciousness.
+    - Particularly useful for people who **sleep hot**, have mild insomnia
+      tendencies, or want a gentle, low-risk option to support more restorative
+      sleep.
 2. [L-theanine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=203s) 
    is ideal for racing thoughts and “tired but wired” insomnia. It increases alpha 
    waves and lowers blood pressure slightly.  
-   Take a 200 mg capsule an hour before bed. Dosage can be increased upto 400 mg.  
+   Take a 200 mg capsule an hour before bed. Dosage can be increased up to 
+   400 mg.  
 3. [Magnolia bark](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=287s) 
    helps lower nighttime cortisol and prevent 3 a.m. wake-ups. Magnolia bark contains 
    honokiol and magnolol. These target GABA receptors like benzodiazepines, but it is
@@ -106,7 +127,7 @@ with restful sleep.
    Do not buy powder. Take 200 to 400 mg one hour before bed.  
 4. [Valerian root and hops](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=405s)  
    can improve sleep pressure and relaxation. Valerian calms the central nervous system 
-   and inhibits the breakdown of GABA. Hops has a synergistic effecct. This may work by 
+   and inhibits the breakdown of GABA. Hops has a synergistic effect. This may work by 
    mimicking adenosine.  
    Take a combination dose of 300 to 500 mg of valerian extract paired with 
    100 to 200 mg of hops extract an hour before sleep. Valerian can cause bizarre dreams.  

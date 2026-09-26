@@ -4,13 +4,19 @@
 
 - [Blackstrap Molasses](#blackstrap-molasses)
   - [Nutrition Profile for One Tablespoon](#nutrition-profile-for-one-tablespoon)
-    - [Macronutrients](#macronutrients)
-    - [Key Micronutrients](#key-micronutrients)
+    - [Unsulfured Keynotes](#unsulfured-keynotes)
+    - [Micronutrients](#micronutrients)
+  - [Sulfured vs. Unsulfured](#sulfured-vs-unsulfured)
+    - [Sulfured](#sulfured)
+    - [Unsulfured](#unsulfured)
+    - [Practical differences](#practical-differences)
   - [Bone Health and Anemia Prevention](#bone-health-and-anemia-prevention)
   - [Blood Sugar Regulation](#blood-sugar-regulation)
   - [Digestive and Heart Health](#digestive-and-heart-health)
   - [Dietary Considerations](#dietary-considerations)
   - [Usage](#usage)
+    - [Recommended Dosage](#recommended-dosage)
+    - [Pair with Vitamin C](#pair-with-vitamin-c)
   - [Precautions](#precautions)
   - [Storage](#storage)
     - [Refrigeration Guidelines](#refrigeration-guidelines)
@@ -28,20 +34,44 @@ provides significant amounts of **iron**, **calcium**, **magnesium**, and
 
 ## Nutrition Profile for One Tablespoon
 
-One tablespoon (approximately 20 or 21 grams) of blackstrap molasses is a
-nutrient-dense sweetener that provides significantly more vitamins and minerals
+One tablespoon (approximately 20 or 21 grams) of **unsulfured** blackstrap
+molasses is a nutrient-dense sweetener that provides significantly more vitamins
+and minerals
 than refined sugar, though it remains high in carbohydrates.
 
-### Macronutrients
+| **Nutrient**        | **Amount per 1 tbsp (~20 g)** | **% Daily Value** |
+|:--------------------|:------------------------------|------------------:|
+| Calories            | 60 kcal                       |                 — |
+| Total Fat           | 0 g                           |                0% |
+| Sodium              | 15 mg                         |               <1% |
+| Total Carbohydrates | 14 g                          |                5% |
+| — Sugars            | 11 g                          |               11% |
+| Protein             | 1 g                           |                2% |
+| Iron                | 3.6 mg                        |               20% |
+| Calcium             | 200 mg                        |               15% |
+| Magnesium           | 40 mg                         |               12% |
+| Potassium           | 400 mg                        |                9% |
+| Manganese           | 0.3 mg                        |               13% |
+| Vitamin B6          | 0.2 mg                        |               12% |
+| Copper              | 0.1 mg                        |               11% |
+| Selenium            | 3.5 µg                        |                7% |
 
-* **Calories**: Approximately **47 to 60 calories**, depending on the specific
-  brand and density.
-* **Carbohydrates**: Roughly **11 to 15 grams**, almost entirely composed of
-  sugars (sucrose, glucose, and fructose).
-* **Protein & Fat**: Contains negligible amounts (0g fat, ~0 to 1g protein).
-* **Fiber**: 0 grams.
+Data from Plantation, Golden Barrel, and USDA-based sources. The main
+differences from sulfured molasses: iron trends higher (no SO₂ binding),
+calcium is slightly higher, and potassium ranges wider by brand.
 
-### Key Micronutrients
+### Unsulfured Keynotes
+
+- **Iron** is the headline mineral — 3.6–4.8 mg depending on brand (Brer Rabbit
+  lists 4.8 mg / 25% DV; Plantation and Golden Barrel list ~3–3.6 mg / 20%).
+- **No sulfur dioxide** — the absence of SO₂ means iron is not partially bound,
+  which is why unsulfured brands tend to show the higher end of the iron range.
+- **Potassium** varies the most between brands (300–600 mg per tbsp), so treat
+  that column as the widest range.
+- **Copper** (0.1 mg) is an addition worth noting for unsulfured, as it's
+  consistently reported but was omitted from the generic table.
+
+### Micronutrients
 
 Blackstrap molasses is particularly valued for its high mineral content. A
 single tablespoon typically provides:
@@ -63,6 +93,60 @@ single tablespoon typically provides:
 * **Vitamins**: Provides modest amounts of **Vitamin B6** (approx. 8% DV), which 
   helps combat fatigue and supports brain function.  
 * **Antioxidants**: Rich in antioxidants like phenolic acids and flavonoids. 
+
+## Sulfured vs. Unsulfured
+
+The distinction comes down to **when the sugarcane is harvested** and **whether
+sulfur dioxide is added during processing**.
+
+### Sulfured
+
+- Made from **young, unripe ("green") sugarcane** that hasn't had time to fully
+  mature in the field.
+- **Sulfur dioxide (SO₂)** is bubbled through the cane juice during processing.
+  It serves two purposes:
+  1. **Preservative** — kills wild yeasts, molds, and bacteria to prevent
+     spoilage during storage and processing.
+  2. **Bleaching agent** — lightens the color of the syrup and helps the juice
+     process more cleanly.
+- The result is a **lighter-colored, milder-tasting** molasses with a sharper,
+  sometimes "chemical" flavor.
+- Because the cane was harvested early, the juice has **lower natural sugar
+  content**, which is part of why the preservative was needed in the first
+  place.
+
+### Unsulfured
+
+- Made from **mature, fully ripened sugarcane** that has been allowed to mature
+  naturally in the field.
+- **No sulfur dioxide** is added at any stage. The higher natural sugar content
+  of ripe cane acts as its own preservative.
+- The result is a **darker, richer, sweeter** molasses with a cleaner, more
+  natural flavor.
+- This is the type most commonly found in US grocery stores today, and the type
+  typically recommended for baking and for its nutrient content.
+
+### Practical differences
+
+| **Aspect**        | **Sulfured**                                | **Unsulphured**               |
+|-------------------|---------------------------------------------|-------------------------------|
+| Cane maturity     | Young / green                               | Fully ripe                    |
+| Sulfur dioxide    | Added                                       | Not added                     |
+| Color             | Lighter                                     | Darker                        |
+| Flavor            | Milder, sometimes chemical                  | Richer, sweeter, more natural |
+| Sugar content     | Lower                                       | Higher                        |
+| Availability (US) | Rare, mostly legacy                         | Most common                   |
+| Allergy concern   | Some people (esp. asthma) react to sulfites | None                          |
+
+**Key nuance:** "Sulfured" and "unsulfured" are **orthogonal** to the
+light/dark/blackstrap grading. Any grade (first, second, or third boil) can
+technically be produced either way. In practice, most blackstrap molasses sold
+today in the US is unsulfured, and sulfured varieties have largely been phased
+out by major brands.
+
+The FDA classifies sulfur dioxide as "generally recognized as safe" (GRAS) as a
+food preservative, so sulfured molasses is not dangerous — but people with
+sulfite sensitivity or asthma should check labels.
 
 ## Bone Health and Anemia Prevention
 
@@ -101,10 +185,24 @@ used in smaller quantities than other sweeteners in baking and cooking.
 
 ## Usage  
 
-**Recommended Dosage**
+### Recommended Dosage
+
 A common recommendation for adults is **one tablespoon per day**, while children
 may take one teaspoon. It can be used as a sugar substitute in baking, coffee,
 oatmeal, or marinades, offering a robust, bittersweet flavor.
+
+### Pair with Vitamin C
+
+Vitamin C (ascorbic acid) significantly enhances iron absorption. It works by
+**converting ferric (Fe³⁺) iron to the more absorbable ferrous (Fe²⁺) form** and
+preventing the formation of insoluble iron compounds in the gut. See
+[Non-heme Iron](../Pulses/NonHemeIron.md).
+
+An in vitro study (Pushpanjali & Pushparani, 2014) found that adding 100–200 μg
+of vitamin C to blackstrap molasses measurably increased iron uptake. A separate
+animal study (Sahar, 2013) reported that molasses combined with ascorbic acid
+raised iron levels in rats **comparably to ferrous sulfate and ascorbic
+acid**, a standard iron supplement.
 
 ## Precautions  
 

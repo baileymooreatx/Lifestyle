@@ -45,6 +45,7 @@ disease, diabetes, and cancer.
 * [Black tea](./Drinks/BlackTea.md)  
 * [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
 * [Brazil Nuts](./Nuts/BrazilNut.md)  
+* [Broccoli](./Vegetables/Broccoli.md)  
 * [Cacao](./OtherFoods/Cacao.md)  
 * Calendula
 * Cat’s claw
@@ -168,9 +169,10 @@ helps prevent the progression from pre-diabetes to type 2 diabetes.
 ### Cancer  
 
 Oxidative stress causes DNA damage that can lead to malignant transformations.
-Phytochemicals and antioxidants found in cruciferous vegetables (e.g., broccoli) 
-and berries protect DNA integrity and may inhibit the growth of cancer cells by 
-modulating inflammatory pathways involved in tumor progression.  
+Phytochemicals and antioxidants found in cruciferous vegetables (e.g., 
+[broccoli](./Vegetables/Broccoli.md)) and berries protect DNA integrity and may 
+inhibit the growth of cancer cells by modulating inflammatory pathways involved 
+in tumor progression.  
 
 ### Neurodegenerative Conditions  
 

@@ -53,7 +53,7 @@ definition of a fruit.
 * **Roots:** Carrots, beets, radishes  
 * **Stems:** Celery, asparagus, rhubarb  
 * **Leaves:** [Spinach](./Vegetables/Spinach.md), lettuce, kale  
-* **Flowers:** Broccoli, cauliflower  
+* **Flowers:** [Broccoli](./Vegetables/Broccoli.md), cauliflower  
 * **Tubers/Bulbs:** Potatoes, [onions](./Vegetables/Onion.md),
   [garlic](./Vegetables/Garlic.md)  
 
@@ -101,13 +101,13 @@ differ by the **plant part** used and the **plant type**.
 
 ## Summary Comparison
 
-| Category      | Botanical Origin      | Primary Plant Part            | Typical State | Examples                                                              |
-|:--------------|:----------------------|:------------------------------|:--------------|:----------------------------------------------------------------------|
-| **Fruit**     | Mature Ovary          | Seed-bearing structure        | Fresh/Cooked  | [Apple](./Fruits/Apple.md), [Tomato](./Fruits/Tomato.md), Cucumber    |
-| **Vegetable** | Various               | Roots, Stems, Leaves, Flowers | Fresh/Cooked  | Carrot, [Spinach](./Vegetables/Spinach.md), Broccoli                  |
-| **Legume**    | Fabaceae Family       | Pod (fruit) & Seeds           | Cooked/Dried  | Beans, Peas, [Lentils](./Pulses/Lentil.md)                            |
-| **Herb**      | Herbaceous Plants     | Leaves                        | Fresh/Dried   | Basil, Mint, [Parsley](./Herbs/Parsley.md)                            |
-| **Spice**     | Various (often Woody) | Seeds, Bark, Roots, Buds      | Dried         | [Cinnamon](./Spices/Cinnamon.md), [Ginger](./Spices/Ginger.md), Cumin |
+| Category      | Botanical Origin      | Primary Plant Part            | Typical State | Examples                                                                         |
+|:--------------|:----------------------|:------------------------------|:--------------|:---------------------------------------------------------------------------------|
+| **Fruit**     | Mature Ovary          | Seed-bearing structure        | Fresh/Cooked  | [Apple](./Fruits/Apple.md), [Tomato](./Fruits/Tomato.md), Cucumber               |
+| **Vegetable** | Various               | Roots, Stems, Leaves, Flowers | Fresh/Cooked  | Carrot, [Spinach](./Vegetables/Spinach.md), [Broccoli](./Vegetables/Broccoli.md) |
+| **Legume**    | Fabaceae Family       | Pod (fruit) & Seeds           | Cooked/Dried  | Beans, Peas, [Lentils](./Pulses/Lentil.md)                                       |
+| **Herb**      | Herbaceous Plants     | Leaves                        | Fresh/Dried   | Basil, Mint, [Parsley](./Herbs/Parsley.md)                                       |
+| **Spice**     | Various (often Woody) | Seeds, Bark, Roots, Buds      | Dried         | [Cinnamon](./Spices/Cinnamon.md), [Ginger](./Spices/Ginger.md), Cumin            |
 
 ## Botanical vs. Culinary Definitions  
 
@@ -136,10 +136,10 @@ or okra.
 The term **vegetable** has no strict botanical definition; it is a culinary
 category encompassing any edible part of a plant that is not a fruit or seed.
 This includes roots (carrots, beets), stems (celery, asparagus), leaves
-(lettuce, spinach), tubers (potatoes), and flowers (broccoli, cauliflower).
-Because "vegetable" is a broad cultural term, it often serves as an umbrella
-category that can include legumes in dietary guidelines, even though legumes are
-botanically distinct.  
+(lettuce, spinach), tubers (potatoes), and flowers 
+([broccoli](./Vegetables/Broccoli.md), cauliflower). Because "vegetable" is a 
+broad cultural term, it often serves as an umbrella category that can include 
+legumes in dietary guidelines, even though legumes are botanically distinct.  
 
 ### Legumes  
 

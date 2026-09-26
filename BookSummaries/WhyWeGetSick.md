@@ -488,7 +488,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 - Berries (blackberries, [blueberries](../Fruits/Blueberry.md),
   [cranberries](../Fruits/Cranberry.md), raspberries, 
   [strawberries](../Fruits/Strawberry.md))
-- Broccoli
+- [Broccoli](../Vegetables/Broccoli.md)
 - Brussels sprouts
 - Cabbage
 - Cauliflower

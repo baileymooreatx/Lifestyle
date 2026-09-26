@@ -1,9 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Stone Root](#stone-root)
+  - [Dosage and Duration](#dosage-and-duration)
+  - [Beaks](#beaks)
+  - [Stone Root Tea](#stone-root-tea)
+  - [Caveats](#caveats)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Stone Root
 
-**Collinsonia root** (*Collinsonia canadensis*, "stone root") is a traditional
+Collinsonia root (*Collinsonia canadensis*, "stone root") is a traditional
 **venotonic** — it strengthens and tones the walls of veins and improves venous
-return, reducing the pooling and engorgement that cause varicose veins. The key
-proposed mechanisms are:
+return, reducing the pooling and engorgement that cause varicose veins.  
+
+The key proposed mechanisms are:  
 
 - **Rosmarinic acid** (phenolic acid): protects venous endothelium from
   oxidative damage, inhibits complement-mediated inflammation, and reduces
@@ -18,12 +31,6 @@ proposed mechanisms are:
 
 Together these actions reduce venous congestion, decrease pressure in engorged
 veins, and help restore proper tone to weakened vessel walls.
-
-**Caveat:** The evidence base is almost entirely traditional and anecdotal. No
-controlled clinical trials have confirmed efficacy; modern research on
-collinsonia's venous effects is essentially absent. It is considered a
-"noticeable effect" herb in Western herbalism but remains **unsubstantiated by
-rigorous science**.
 
 ## Dosage and Duration
 
@@ -72,3 +79,25 @@ As noted before, no controlled trials have established an evidence-based dose.
 These are traditional/practitioner ranges only. If you're considering use, a 
 qualified herbalist or healthcare provider can help tailor the dose to your 
 situation.
+
+## Stone Root Tea  
+
+Stone root (*Collinsonia canadensis*) tea is made as a **decoction**.  
+
+1. Place **1–2 teaspoons** of dried, cut stone root per cup of water in a
+   saucepan. Lightly grinding the root first helps extraction.  
+2. Bring to a boil, then reduce to a simmer, cover, and cook 10–15 minutes.  
+3. Strain and serve. Add honey or lemon if the pungent, spicy flavor is too
+   strong.  
+
+Typical dosing is 1 cup, 2–3 times per day.  
+
+## Caveats
+
+- The evidence base is almost entirely traditional and anecdotal. No controlled
+  clinical trials have confirmed efficacy; modern research on collinsonia's
+  venous effects is essentially absent. It is considered a "noticeable effect"
+  herb in Western herbalism but remains **unsubstantiated by rigorous
+  science**.
+- The fresh above-ground leaves are **emetic** and should not be used; **only**
+  the dried root/rhizome is traditionally taken internally.  

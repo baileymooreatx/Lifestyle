@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Blackstrap Molasses](#blackstrap-molasses)
-  - [Nutrition Profile for One Tablespoon](#nutrition-profile-for-one-tablespoon)
+  - [Nutrition Profile](#nutrition-profile)
     - [Unsulfured Keynotes](#unsulfured-keynotes)
     - [Micronutrients](#micronutrients)
   - [Sulfured vs. Unsulfured](#sulfured-vs-unsulfured)
@@ -19,6 +19,8 @@
     - [Pair with Vitamin C](#pair-with-vitamin-c)
   - [Precautions](#precautions)
   - [Storage](#storage)
+    - [Cool, Dark, and Dry Environment](#cool-dark-and-dry-environment)
+    - [Airtight Sealing](#airtight-sealing)
     - [Refrigeration Guidelines](#refrigeration-guidelines)
     - [Maximizing Shelf Life and Potency](#maximizing-shelf-life-and-potency)
 
@@ -32,12 +34,11 @@ minerals. Unlike refined sugar, which offers empty calories, blackstrap molasses
 provides significant amounts of **iron**, **calcium**, **magnesium**, and 
 **potassium**.
 
-## Nutrition Profile for One Tablespoon
+## Nutrition Profile  
 
 One tablespoon (approximately 20 or 21 grams) of **unsulfured** blackstrap
 molasses is a nutrient-dense sweetener that provides significantly more vitamins
-and minerals
-than refined sugar, though it remains high in carbohydrates.
+and minerals than refined sugar, though it remains high in carbohydrates.
 
 | **Nutrient**        | **Amount per 1 tbsp (~20 g)** | **% Daily Value** |
 |:--------------------|:------------------------------|------------------:|
@@ -62,8 +63,9 @@ calcium is slightly higher, and potassium ranges wider by brand.
 
 ### Unsulfured Keynotes
 
-- **Iron** is the headline mineral — 3.6–4.8 mg depending on brand (Brer Rabbit
-  lists 4.8 mg / 25% DV; Plantation and Golden Barrel list ~3–3.6 mg / 20%).
+- **Iron** is the headline mineral, ranging from 3.6 to 4.8 mg depending on 
+  brand. Brer Rabbit lists 4.8 mg / 25% DV; Plantation and Golden Barrel 
+  list ~3 to 3.6 mg / 20%.
 - **No sulfur dioxide** — the absence of SO₂ means iron is not partially bound,
   which is why unsulfured brands tend to show the higher end of the iron range.
 - **Potassium** varies the most between brands (300–600 mg per tbsp), so treat
@@ -76,23 +78,24 @@ calcium is slightly higher, and potassium ranges wider by brand.
 Blackstrap molasses is particularly valued for its high mineral content. A
 single tablespoon typically provides:
 
-* **Iron**: **3.6 mg** (approx. **20%** of the Daily Value). This is
+- **Iron**: **3.6 mg** (approx. **20%** of the Daily Value). This is
   [non-heme iron](../Pulses/NonHemeIron.md), making it a valuable supplement for
   plant-based diets, especially when paired with vitamin C to enhance absorption.
   Iron is crucial for oxygen transport and preventing anemia.  
-* **Calcium**: Ranges from **10 mg to 200 mg** depending on the source data,
+- **Calcium**: Ranges from **10 mg to 200 mg** depending on the source data,
   with some brands providing up to **15%** of the Daily Value. It is often cited
   as a significant non-dairy calcium source. Calcium supports bone density.  
-* **Potassium**: Approximately **300 to 600 mg** (6 to 13% DV), supporting heart
+- **Potassium**: Approximately **300 to 600 mg** (6 to 13% DV), supporting heart
   health and blood pressure regulation.
-* **Magnesium**: Around **40 to 48 mg** (10% DV), essential for bone health.
+- **Magnesium**: Around **40 to 48 mg** (10% DV), essential for bone health.
   It aids in over 300 enzymatic reactions including muscle function and energy
   creation.
-* **Other Minerals**: Contains smaller amounts of manganese, copper, and
+- **Other Minerals**: Contains smaller amounts of manganese, copper, and
   selenium.
-* **Vitamins**: Provides modest amounts of **Vitamin B6** (approx. 8% DV), which 
+- **Vitamins**: Provides modest amounts of **Vitamin B6** (approx. 8% DV), 
+  which 
   helps combat fatigue and supports brain function.  
-* **Antioxidants**: Rich in antioxidants like phenolic acids and flavonoids. 
+- **Antioxidants**: Rich in antioxidants like phenolic acids and flavonoids. 
 
 ## Sulfured vs. Unsulfured
 
@@ -221,14 +224,17 @@ To preserve the nutrients and quality of **blackstrap molasses**, proper storage
 is essential. While it is shelf-stable, exposure to heat, light, and moisture
 can degrade its vitamins and minerals over time.
 
-**Cool, Dark, and Dry Environment**
-The best place to store molasses is in a **cool, dark pantry** or cupboard,
-ideally between **50 to 70°F (10 to 21°C)**. Heat and direct sunlight can accelerate
-the degradation of sensitive nutrients like **Vitamin B6** and antioxidants.
-Humidity is also a major enemy; because molasses is hygroscopic (absorbs
-moisture), storing it in a damp area can lead to mold growth and spoilage.
+### Cool, Dark, and Dry Environment  
 
-**Airtight Sealing**
+The best place to store molasses is in a **cool, dark pantry** or cupboard,
+ideally between **50 to 70°F (10 to 21°C)**. Heat and direct sunlight can 
+accelerate the degradation of sensitive nutrients like **Vitamin B6** and 
+antioxidants. Humidity is also a major enemy; because molasses is hygroscopic 
+(absorbs moisture), storing it in a damp area can lead to mold growth and 
+spoilage.
+
+### Airtight Sealing  
+
 Always keep the container **tightly sealed** when not in use. Exposure to air
 causes oxidation, which diminishes flavor and nutrient potency. Ensure the lid
 is clean and free of residue before closing to prevent mold formation at the
@@ -243,7 +249,7 @@ sugar content, which acts as a natural preservative. However, storing opened
 molasses in the **refrigerator** can significantly extend its shelf life and
 preserve nutrient density, especially in warm or humid climates.
 
-**Trade-offs of Cold Storage**
+**Trade-offs of Cold Storage**  
 While refrigeration slows degradation, it causes the syrup to thicken
 considerably, making it difficult to pour. If you choose to refrigerate, allow
 the bottle to sit at room temperature for a short period before use or gently
@@ -259,9 +265,9 @@ water or food particles can trigger fermentation or mold growth.
 
 **Shelf Life Expectations**
 
-* **Unopened:** Can last **2 to 5 years** (or even up to 10 years) while
+- **Unopened:** Can last **2 to 5 years** (or even up to 10 years) while
   retaining most nutrients if stored properly.
-* **Opened:** Best used within **1 year** for peak nutrient content, though it
+- **Opened:** Best used within **1 year** for peak nutrient content, though it
   remains safe for up to **2 years** if sealed tightly and kept in optimal
   conditions.
 

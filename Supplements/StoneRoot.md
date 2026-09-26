@@ -22,8 +22,8 @@ The key proposed mechanisms are:
   oxidative damage, inhibits complement-mediated inflammation, and reduces
   leukocyte adhesion to vein walls.
 - **Flavonoids**: stabilize collagen cross-linking in the vascular basement
-  membrane, improving venous wall integrity and reducing permeability/edema (
-  similar to diosmin/hesperidin).
+  membrane, improving venous wall integrity and reducing permeability/edema
+  (similar to diosmin/hesperidin).
 - **Tannins**: astringent action that tightens and tones vascular tissue.
 - **Volatile oils** (carvacrol, thymol): anti-inflammatory and mild spasmolytic
   effects on venous smooth muscle.
@@ -37,13 +37,13 @@ veins, and help restore proper tone to weakened vessel walls.
 There's no standardized dose, but traditional and practitioner-recommended
 ranges vary by form.
 
-| Form                                       | Typical Dose                     |
-|--------------------------------------------|----------------------------------|
-| **Fresh root tincture** (1:2, 60% alcohol) | **2–5 mL, 3× daily**             |
-| **Dried root tincture** (1:5)              | 1–3 mL (20–30 drops), 3–4× daily |
-| **Capsule / tablet** (dried root powder)   | 500–1,000 mg, 2–3× daily         |
-| **Decoction** (fresh or semi-dried root)   | 2–4 g per cup, 3× daily          |
-| **Powdered root**                          | 1–3 g in divided doses           |
+| Form                                       | Typical Dose                          |
+|--------------------------------------------|---------------------------------------|
+| **Fresh root tincture** (1:2, 60% alcohol) | **2–5 mL, 3× daily**                  |
+| **Dried root tincture** (1:5)              | 1–3 mL (20–30 drops), 3–4 times daily |
+| **Capsule / tablet** (dried root powder)   | 500–1,000 mg, 2–3 times daily         |
+| **Decoction** (fresh or semi-dried root)   | 2–4 g per cup, 3 times daily          |
+| **Powdered root**                          | 1–3 g in divided doses                |
 
 A few specific commercial examples for reference:
 

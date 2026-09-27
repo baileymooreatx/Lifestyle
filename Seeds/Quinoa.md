@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Quinoa](#quinoa)
+  - [Nutritional Profile](#nutritional-profile)
   - [Complete Protein Source](#complete-protein-source)
   - [Rich in Fiber and Digestive Health](#rich-in-fiber-and-digestive-health)
   - [Heart Health and Blood Sugar Control](#heart-health-and-blood-sugar-control)
@@ -18,6 +19,38 @@ Quinoa is a nutrient-dense **pseudocereal** originating from the Andean region
 of South America. Unlike many plant foods, it provides a **complete protein**
 profile and is naturally **gluten-free**, making it a versatile staple for
 diverse diets.
+
+## Nutritional Profile
+
+Per 1 cup cooked (185 g) of tricolor quinoa
+
+| **Nutrient**           | **Amount** | **% DV** |
+|:-----------------------|:-----------|---------:|
+| Calories               | 222        |          |
+| **Total Fat**          | 3.6 g      |       5% |
+| Saturated Fat          | 0.4 g      |       2% |
+| **Total Carbohydrate** | 39 g       |      14% |
+| Dietary Fiber          | 5.2 g      |      19% |
+| Sugars                 | 1.6 g      |          |
+| **Protein**            | 8.1 g      |      16% |
+| Manganese              | 1.2 mg     |      52% |
+| Copper                 | 0.4 mg     |      44% |
+| Magnesium              | 118 mg     |      28% |
+| Phosphorus             | 281 mg     |      22% |
+| Zinc                   | 2.0 mg     |      18% |
+| Iron                   | 2.8 mg     |      15% |
+| Selenium               | 5.2 µg     |       9% |
+| Potassium              | 318 mg     |       7% |
+| Calcium                | 31 mg      |       2% |
+| Sodium                 | 13 mg      |       1% |
+| Folate (B9)            | 78 µg      |      19% |
+| Thiamin (B1)           | 0.2 mg     |      16% |
+| Riboflavin (B2)        | 0.2 mg     |      15% |
+| Vitamin B6             | 0.2 mg     |      12% |
+| Vitamin E              | 1.2 mg     |       8% |
+| Niacin (B3)            | 0.76 mg    |       5% |
+
+**Macro split (by calories):** ~68% carbs · ~16% protein · ~16% fat
 
 ## Complete Protein Source
 

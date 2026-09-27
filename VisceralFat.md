@@ -1,4 +1,4 @@
-# Reduce Visceral Fat
+# Visceral Fat
 
 Visceral fat is a layer of fat stored deep within the abdominal cavity,
 wrapping around internal organs like the liver, pancreas, and intestines. Unlike
@@ -45,7 +45,7 @@ exercise, and the **last gained**.
 - Magnesium at night and 
 - Berberine and myo-inositol with breakfast and dinner
 
-## Diet
+## Dietary Changes to Reduction  
 
 ### Protein
 

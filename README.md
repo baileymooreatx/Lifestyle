@@ -42,36 +42,37 @@ Summaries of books about health and wellness
 
 ## Food  
 
-  - [Anti-inflammatory foods](./Anti-inflammatoryFoods.md) prevent disease  
-  - [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
-      microbiome  
-  - Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
-  - [High protein](ProteinRichPlantFoods.md) foods not derived from animals
-  - Improve [liver health](./LiverDetoxification.md)  
-  - How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
-    insulin levels in the blood?  
-  - Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
-  - [Peppers are fruit, but bananas are berries](./PlantClassification.md)
-  - List of [potassium rich foods](PotassiumRichFoods.md)  
-  - Avoid [processed meats](./Avoid/ProcessedMeats.md)  
-  - Which [produce to buy organic](./Produce.md) instead of conventional  
-  - My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
-  - [Seed](./Seeds) nutrition, preparation, and storage  
-  - What does "[superfood](./Superfood.md)" mean?
-  - Compare non-nutritive [sweeteners](./OtherFoods/Sweeteners.md)
-  - Brew a perfect cup of [Tea](./Drinks/Tea.md)  
-  - Homemade [yogurt](Fermented/Yogurt.md) for special strains of gut friendly bacteria  
+- [Anti-inflammatory foods](./Anti-inflammatoryFoods.md) prevent disease  
+- [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
+  microbiome  
+- Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
+- [High protein](ProteinRichPlantFoods.md) foods not derived from animals
+- Improve [liver health](./LiverDetoxification.md)  
+- How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
+  insulin levels in the blood?
+- Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
+- [Peppers are fruit, but bananas are berries](./PlantClassification.md)
+- List of [potassium rich foods](PotassiumRichFoods.md)  
+- Avoid [processed meats](./Avoid/ProcessedMeats.md)  
+- Which [produce to buy organic](./Produce.md) instead of conventional  
+- My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
+- [Seed](./Seeds) nutrition, preparation, and storage  
+- What does "[superfood](./Superfood.md)" mean?
+- Compare non-nutritive [sweeteners](./OtherFoods/Sweeteners.md)
+- Brew a perfect cup of [Tea](./Drinks/Tea.md)  
+- Homemade [yogurt](Fermented/Yogurt.md) for special strains of gut friendly bacteria  
 
 ## Weight Loss  
 
-  - [Intermittent Fasting](./Fasting.md)  
-  - [Keto diet](./HealthyDiet.md)
-  - Reduce [Visceral Fat](VisceralFatReduction.md)  
+- [Insulin resistance](./InsulinResistance.md)
+- [Intermittent Fasting](./Fasting.md)  
+- [Keto diet](./HealthyDiet.md)
+- Reduce [Visceral Fat](VisceralFat.md)  
   
 ## Dr. Eric Berg, DC
 
 From the YouTube channel of 
 [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  
 
-* [Recommended daily routine](Frameworks/DrEricBergDailyRoutine.md)  
-* [Weight loss protocol](Frameworks/DrEricBergWeightLossProtocol.md)  
+- [Recommended daily routine](Frameworks/DrEricBergDailyRoutine.md)  
+- [Weight loss protocol](Frameworks/DrEricBergWeightLossProtocol.md)  

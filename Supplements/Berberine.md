@@ -19,7 +19,7 @@
 
 Berberine is the most evidence-backed "metabolic" supplement for someone with
 [insulin resistance](../InsulinResistance.md) and 
-[visceral fat](../VisceralFatReduction.md). Its mechanism overlaps heavily with
+[visceral fat](../VisceralFat.md). Its mechanism overlaps heavily with
 metformin, the evidence is stronger than almost any other supplement in this
 space, and it's cheap. The main caveats are GI tolerance and drug interactions.
 If you're not on any CYP3A4/CYP2D6 substrates, it's one of the lower-risk

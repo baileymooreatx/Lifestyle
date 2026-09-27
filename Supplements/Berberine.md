@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Berberine](#berberine)
+  - [What It Is](#what-it-is)
+  - [How It Works](#how-it-works)
+  - [Clinical Evidence](#clinical-evidence)
+  - [Dosage](#dosage)
+  - [Side Effects](#side-effects)
+  - [Drug Interactions](#drug-interactions)
+  - [Who Should Avoid It](#who-should-avoid-it)
+  - [Practical notes](#practical-notes)
+  - [Cycling](#cycling)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Berberine
 
 Berberine is the most evidence-backed "metabolic" supplement for someone with

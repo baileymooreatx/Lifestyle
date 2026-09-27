@@ -98,7 +98,7 @@
     * Meat
     * Dairy
     * Seafood
-5. Berberine
+5. [Berberine](./Supplements/Berberine.md)
 6. Coenzyme Q10 (Co-Q10) decreases AST, GGT, and high-sensitivity C-reactive
    protein (hs-CRP)
 7. Vitamin E at 800 IU daily increases rate of improvement from non-alcoholic

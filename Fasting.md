@@ -47,7 +47,7 @@ Meals should be about four hours apart with **no snacking** in between.
 ## [Promote Autophagy](https://www.youtube.com/watch?v=vx6RkgoxzgQ)  
 
 * [Fasting 18+ Hours](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=310s)
-* [Low sugar and low carb diet](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=415s)
+* [Low sugar and low-carb diet](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=415s)
 * [Moderate protien Diet](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=430s)
 * [Dry fast](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=480s) no food or water
 * Intermittent dry fasting
@@ -56,7 +56,7 @@ Meals should be about four hours apart with **no snacking** in between.
 * [Pytonutrients](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=740s) that create a hormetic or stress response 
   * [Coffee](./Drinks/Coffee.md)
   * Green tea
-  * Berberine
+  * [Berberine](./Supplements/Berberine.md)
   * Ashwaganda
   * [Ginger](Spices/Ginger.md)
   * Some [mushrooms](./Vegetables/Mushroom.md)  

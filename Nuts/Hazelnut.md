@@ -168,7 +168,9 @@ stabilize blood sugar levels.
   improve **insulin sensitivity** and reduce fasting insulin levels. In a
   12-week study involving 50 adults with metabolic syndrome, a daily intake of
   just 7.5 grams of hazelnuts (as part of a mixed nut diet) led to significant
-  decreases in fasting insulin and HOMA-IR (a marker of insulin resistance).
+  decreases in fasting insulin and 
+  [HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir) 
+  (a marker of insulin resistance).
   Their high fiber content also helps stabilize post-meal blood glucose spikes.
 * **Vitamin E and Magnesium Boost:** Older adults are often deficient in
   **vitamin E** and **magnesium**, two nutrients critical for metabolic health.

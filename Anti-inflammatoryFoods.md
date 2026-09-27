@@ -163,8 +163,9 @@ disease development.
 
 Inflammation interferes with insulin signaling. Diets high in **whole grains**,
 **legumes**, and **fiber** regulate postprandial blood glucose (spikes after 
-meals) and reduce inflammatory markers associated with insulin resistance. This 
-helps prevent the progression from pre-diabetes to type 2 diabetes.  
+meals) and reduce inflammatory markers associated with 
+[insulin resistance](./InsulinResistance.md). This helps prevent the progression 
+from pre-diabetes to type 2 diabetes.  
 
 ### Cancer  
 

@@ -11,7 +11,7 @@ releases free fatty acids, inflammatory cytokines (like IL-6 and TNF-α), and
 other signaling molecules directly into the **portal vein** that feeds the
 liver. This is why even a small amount of excess visceral fat can drive:
 
-- **Insulin resistance** → type 2 diabetes
+- **[Insulin resistance](./InsulinResistance.md)** → type 2 diabetes
 - **Systemic inflammation** → cardiovascular disease, stroke
 - **Dyslipidemia** → elevated triglycerides, low HDL
 - **Fatty liver disease**

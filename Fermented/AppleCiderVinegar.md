@@ -102,10 +102,10 @@ hyperglycemia** (high blood sugar after eating):
 Beyond immediate meal effects, regular consumption improves how the body handles
 insulin over time:
 
-* **Insulin Resistance**: In individuals with insulin resistance or type 2
-  diabetes, ACV has been shown to improve whole-body insulin sensitivity by
-  **19% to 34%** during high-carb meals. This means cells become more efficient
-  at absorbing glucose from the bloodstream.
+* **[Insulin Resistance](../InsulinResistance.md)**: In individuals with insulin
+  resistance or type 2 diabetes, ACV has been shown to improve whole-body
+  insulin sensitivity by **19% to 34%** during high-carb meals. This means 
+  cells become more efficient   at absorbing glucose from the bloodstream.
 * **Fasting Glucose**: Long-term use (e.g., taking ACV before bed daily for
   several weeks) may modestly lower **fasting blood glucose** levels (by
   approximately 4 to 6%) in people with type 2 diabetes, likely by reducing the

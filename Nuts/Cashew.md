@@ -18,7 +18,7 @@ is a nutrient-dense snack. Portion control is the main consideration.
 - **Antioxidants**: Contain polyphenols, carotenoids, and selenium that help
   neutralize free radicals and reduce oxidative stress.
 - **Low in sugar**: Friendly for blood sugar management, including for those
-  with type 2 diabetes or insulin resistance.
+  with type 2 diabetes or [insulin resistance](../InsulinResistance.md).
 - **Satiety**: The combination of protein, fat, and fiber helps keep you full,
   supporting weight management when portioned.
 

@@ -24,48 +24,10 @@ meaningful drug interactions, and it works on the *actual insulin signaling
 pathway* rather than a downstream proxy. Paired with berberine (AMPK) and
 magnesium (receptor kinase cofactor), insulin sensitivity is covered from
 three complementary angles. 2022 head-to-head data showing ~2 times the
-Homeostatic Model Assessment of Insulin Resistance (HOMA-IR) improvement over
-metformin makes it arguably the highest evidence-per-dollar supplement for
-insulin resistance specifically.
-
-## Homeostatic Model Assessment of Insulin Resistance
-
-It's a calculated score (not a separate blood test) derived from two fasting lab
-values.
-
-> HOMA-IR = (Fasting Insulin [µIU/mL] × Fasting Glucose [mg/dL]) ÷ 405
-
-**Example:** Fasting insulin 12 µIU/mL, fasting glucose 95 mg/dL → (12 × 95) ÷
-405 = **2.8**
-
-**Interpretation:**
-
-| Score   | Meaning                                                     |
-|---------|-------------------------------------------------------------|
-| < 1.0   | High insulin sensitivity (optimal)                          |
-| 1.0–1.9 | Normal / favorable                                          |
-| 2.0–2.9 | Early insulin resistance                                    |
-| 3.0–4.9 | Elevated insulin resistance (higher cardiometabolic risk)   |
-| ≥ 5.0   | Marked insulin resistance (metabolic syndrome / T2DM range) |
-
-
-### Why It Matters  
-
-It detects insulin resistance **years before** fasting glucose or HbA1c cross 
-into the prediabetes/diabetes range. The 405 divisor was calibrated so that a 
-perfectly insulin-sensitive person (insulin ~5 µIU/mL, glucose ~90 mg/dL) scores 
-approximately 1.0.
-
-### How to Get It  
-
-Ask your doctor to order a **fasting insulin** alongside your routine fasting 
-glucose (many standard metabolic panels don't include insulin). Both must come 
-from the same 8 to 12 hour fasting draw. Once you have both numbers, the 
-calculation is trivial, or your lab may compute it for you.
-
-Tracking HOMA-IR before and after an intervention using (diet + supplements + 
-exercise) is the single best way to confirm that 
-insulin sensitivity is actually improving, independent of weight loss.
+Homeostatic Model Assessment of [Insulin Resistance](../InsulinResistance.md) 
+([HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir)) 
+improvement over metformin makes it arguably the highest evidence-per-dollar 
+supplement for insulin resistance specifically.
 
 ## What Berberine Is
 

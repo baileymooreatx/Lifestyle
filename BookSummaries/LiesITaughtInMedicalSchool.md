@@ -60,8 +60,8 @@ dismantling a foundational assumption of medical education:
   condition best treated with drugs.
 - **Cancer** has metabolic origins (the Warburg effect) that challenge the
   somatic mutation theory.
-- **Alzheimer's** is linked to brain insulin resistance ("type 3 diabetes"), not
-  solely beta-amyloid plaques.
+- **Alzheimer's** is linked to brain [insulin resistance](../InsulinResistance.md)
+  ("type 3 diabetes"), not solely beta-amyloid plaques.
 - **Mental health disorders** correlate with insulin resistance and gut-brain
   axis dysfunction.
 - **Aging** is not inevitable wear-and-tear but a regulated process influenced
@@ -163,7 +163,8 @@ in disease. Key points:
   carbohydrate toxicity and intolerance,"** not simply a genetic or age-related
   condition.
 - **Fructose and insulin resistance**: Sugar (especially fructose) drives
-  insulin resistance, fatty liver, and the progression to type 2 diabetes.
+  [insulin resistance](../InsulinResistance.md), fatty liver, and the
+  progression to type 2 diabetes.  
 - **Conventional treatment is counterproductive**: Treating diabetes with
   insulin medications actually worsens insulin resistance over time, creating a
   vicious cycle.
@@ -192,8 +193,8 @@ Key details:
   lipogenesis). This is the primary driver of fat accumulation in the liver.
 - **Progression stages**: From simple steatosis → steatohepatitis (NASH) →
   fibrosis → cirrhosis → liver cancer. Each stage carries increasing risk.
-- **Fat in the liver drives inflammation, insulin resistance, and progressive
-  liver damage.**
+- **Fat in the liver drives inflammation, [insulin resistance](../InsulinResistance.md),
+  and progressive liver damage.**
 - **Reversal is possible**: Research shows that dietary changes, specifically
   eliminating fructose and refined sugars, can reduce liver fat and reverse
   early-stage NAFLD without invasive procedures. The "no treatment" claim is, in
@@ -226,7 +227,7 @@ a symptom of broader metabolic dysfunction rather than a standalone condition.
 - Reduce sugar
 - Lose weight
 - Exercise
-- Manage insulin resistance
+- Manage [insulin resistance](../InsulinResistance.md)  
 
 ## Chapter 7: The Cardiovascular Disease Lie — "Statins Are a Good Choice to Prevent Heart Disease"
 
@@ -287,9 +288,9 @@ Alzheimer's research.
   significant beta-amyloid plaques in their brains **without** cognitive
   impairment, undermining the idea that plaques are the primary cause.
 - **"Type 3 Diabetes"**: Emerging evidence strongly links Alzheimer's to
-  metabolic dysfunction, particularly insulin resistance in the brain.
-  Approximately **70% of people with type 2 diabetes** go on to develop
-  Alzheimer's or another form of dementia.
+  metabolic dysfunction, particularly [insulin resistance](../InsulinResistance.md)
+  in the brain. Approximately **70% of people with type 2 diabetes** go on 
+  to develop Alzheimer's or another form of dementia.
 - **Multifactorial causes**: Beyond metabolism, contributing factors include
   chronic inflammation and infections, head trauma (TBI increases Alzheimer's
   risk), poor air quality and environmental toxins (nitrous oxide, carbon
@@ -310,10 +311,10 @@ disorders.
 - **Rising mental health crisis**: Depression, anxiety, bipolar disorder, and
   schizophrenia have all increased significantly in prevalence in recent
   decades.
-- **Insulin resistance and depression**: Studies show strong correlations
-  between insulin resistance and depression and anxiety. The brain is an organ
-  exquisitely sensitive to insulin resistance, inflammation, and nutritional
-  status.
+- **[Insulin resistance](../InsulinResistance.md) and depression**: Studies show  
+  strong correlations between insulin resistance and depression and anxiety. The
+  brain is an organ exquisitely sensitive to insulin resistance, inflammation,
+  and nutritional status.
 - **Schizophrenia and glucose regulation**: Schizophrenia is linked to disrupted
   glucose metabolism and insulin resistance.
 - **Gut-brain axis**: The microbiome plays a critical role in mental health, and

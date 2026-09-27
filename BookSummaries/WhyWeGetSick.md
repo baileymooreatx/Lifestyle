@@ -69,12 +69,12 @@ by Benjamin Bikman PhD
 ## Synopsis
 
 *Why We Get Sick* by Benjamin Bikman, PhD, is built around a single central
-claim: **insulin resistance is the hidden, unifying root cause of most chronic
-diseases** — not just diabetes, but heart disease, Alzheimer's, cancer,
-polycystic ovary syndrome (PCOS), kidney failure, and more. Bikman argues that
-over half of U.S. adults (and possibly up to 88%) are already insulin resistant
-without knowing it, because conventional medicine focuses on blood glucose
-rather than insulin levels.
+claim: **[insulin resistance](../InsulinResistance.md) is the hidden, unifying
+root cause of most chronic diseases** — not just diabetes, but heart disease,
+Alzheimer's, cancer, polycystic ovary syndrome (PCOS), kidney failure, and 
+more. Bikman argues that over half of U.S. adults (and possibly up to 88%) are 
+already insulin resistant without knowing it, because conventional medicine 
+focuses on blood glucose rather than insulin levels.
 
 The book is organized into three parts:
 

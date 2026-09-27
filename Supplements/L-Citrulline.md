@@ -89,8 +89,8 @@ for mild to moderate **erectile dysfunction (ED)**.
 Emerging research highlights broader systemic benefits beyond circulation:
 
 * **Metabolic Health:** Supplementation may improve glucose homeostasis, reduce
-  insulin resistance, and lower inflammatory markers (such as TNF-α) in
-  individuals with type 2 diabetes or obesity.
+  [insulin resistance](../InsulinResistance.md), and lower inflammatory markers
+  (such as TNF-α) in individuals with type 2 diabetes or obesity.
 * **Immune Function:** L-citrulline plays a role in T-cell metabolism and may
   help modulate immune responses, potentially reducing chronic low-grade
   inflammation associated with aging ("inflamm-aging").

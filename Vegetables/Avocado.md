@@ -110,9 +110,10 @@ to a meal can reduce the overall glycemic response by **20% to 40%**.
 
 Regular consumption is linked to better insulin function. The monounsaturated
 fats (specifically oleic acid) and antioxidants in avocados help reduce
-inflammation and oxidative stress, which are key drivers of insulin resistance.
-Studies suggest that diets rich in these healthy fats can lower fasting blood
-glucose and improve the body's ability to utilize insulin effectively.
+inflammation and oxidative stress, which are key drivers of 
+[insulin resistance](../InsulinResistance.md). Studies suggest that diets rich 
+in these healthy fats can lower fasting blood glucose and improve the body's 
+ability to utilize insulin effectively.
 
 #### Enhancing Satiety
 

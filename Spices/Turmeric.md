@@ -124,8 +124,8 @@ indicating efficacy comparable to antidepressants like Prozac.
 Turmeric’s antioxidants may help balance **cholesterol levels** and blood
 pressure, reducing risk factors for cardiovascular disease. Research indicates
 that curcumin supplementation can significantly reduce fasting blood glucose and
-insulin resistance, showing potential in **diabetes prevention** and
-management.
+[insulin resistance](../InsulinResistance.md), showing potential in **diabetes 
+prevention** and management.
 
 ## Absorption and Bioavailability Challenges
 

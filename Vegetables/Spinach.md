@@ -137,7 +137,7 @@ constipation, and acts as a prebiotic to support beneficial gut bacteria.
 
 Fiber and compounds like **alpha-lipoic acid** improve insulin sensitivity and
 help stabilize blood glucose levels, making spinach beneficial for people with
-diabetes or insulin resistance.
+diabetes or [insulin resistance](../InsulinResistance.md).  
 
 ## Supports Weight Management
 

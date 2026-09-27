@@ -18,7 +18,8 @@
 # Berberine
 
 Berberine is the most evidence-backed "metabolic" supplement for someone with
-insulin resistance and visceral fat. Its mechanism overlaps heavily with
+[insulin resistance](../InsulinResistance.md) and 
+[visceral fat](../VisceralFatReduction.md). Its mechanism overlaps heavily with
 metformin, the evidence is stronger than almost any other supplement in this
 space, and it's cheap. The main caveats are GI tolerance and drug interactions.
 If you're not on any CYP3A4/CYP2D6 substrates, it's one of the lower-risk
@@ -45,8 +46,10 @@ form is **berberine HCl**.
 
 ## Clinical Evidence
 
-- **Insulin sensitivity:** Meta-analyses show ~30–45% HOMA-IR reduction; fasting
-  glucose drops of 15–30 mg/dL in prediabetic and T2DM populations
+- **Insulin sensitivity:** Meta-analyses show ~30–45%
+  [HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir) 
+  reduction; fasting glucose drops of 15–30 mg/dL in prediabetic and T2DM 
+  populations
 - **HbA1c:** ~0.5–0.8% reduction — comparable to metformin in head-to-head
   trials
 - **Lipids:** ~12% total cholesterol reduction, ~23% triglyceride reduction (
@@ -100,8 +103,10 @@ blood levels of:
 ## Practical notes
 
 - Oral bioavailability is low (~5–7%) — taking with food improves absorption
-- Effects are most pronounced in people with existing metabolic dysregulation (
-  elevated HOMA-IR, HbA1c > 5.7%, hs-CRP > 2 mg/L)
+- Effects are most pronounced in people with existing metabolic dysregulation
+  (elevated 
+  [HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir), 
+  HbA1c > 5.7%, hs-CRP > 2 mg/L)
 - It's an **adjunct**, not a replacement for caloric deficit, protein intake,
   and resistance training
 - In the US it's sold as a dietary supplement (not FDA-approved as a drug); in
@@ -147,8 +152,8 @@ diagnosed condition), the **8-weeks-on / 4-weeks-off** cycle is the safest
 default. During the off period:
 
 - Take a **probiotic** (to support microbiome recovery)
-- Rely on the diet, exercise, magnesium, and myo-inositol for insulin 
-  sensitivity
+- Rely on the diet, exercise, magnesium, and [myo-inositol](./Myo-Inositol.md)  
+  for insulin sensitivity
 - Reassess with a **fasting glucose / HbA1c / lipid panel** before restarting
 
 If your markers have normalized, and you're feeling good, you may not need to

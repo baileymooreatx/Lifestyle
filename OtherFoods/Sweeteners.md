@@ -41,8 +41,8 @@ benefits.
 - A 2017 comparative study found that **Canderel Green Stevia®** did not
   significantly raise insulin levels compared to water in healthy adults.
 - However, a 2022 microbiome study indicated that stevia might **alter gut
-  microbiota**, potentially leading to **insulin resistance** in some
-  individuals over time.
+  microbiota**, potentially leading to [insulin resistance](../InsulinResistance.md)
+  in some individuals over time.
 
 ### Monk Fruit Extract (MFE)
 
@@ -152,7 +152,8 @@ a middle ground between sugar and zero-calorie sweeteners.
 - **Individual Variability**: Responses to sweeteners can vary based on gut
   microbiome composition and metabolic health.
 - **Long-Term Effects**: While short-term studies are promising, long-term
-  impacts on insulin resistance and metabolic health require further research.
+  impacts on [insulin resistance](../InsulinResistance.md) and metabolic health
+  require further research.
 - **Regulatory Status**: All listed sweeteners have **GRAS (Generally Recognized
   As Safe)** status from the FDA.
 

@@ -71,7 +71,7 @@ A standard serving of strawberries (approximately 1 cup or 8 medium berries,
 They contain no sodium, fat, or cholesterol, making them an ideal snack for
 weight management. Their low glycemic impact makes them suitable for managing
 blood sugar levels, especially when consumed before meals to reduce inflammation
-and insulin resistance.
+and [insulin resistance](../InsulinResistance.md).  
 
 ## Antioxidant and Anti-Inflammatory
 
@@ -99,9 +99,10 @@ in humans:
   circulating CRP levels by an average of **0.63 mg/L**.
 * **Postprandial (Meal-Induced) Inflammation**: Consuming strawberries with or
   before a high-carbohydrate/fat meal significantly attenuates the spike in
-  inflammatory markers (IL-6 and CRP) that typically occurs after eating. This "
-  blunting" effect helps prevent the acute inflammatory stress that contributes
-  to insulin resistance and endothelial damage over time.
+  inflammatory markers (IL-6 and CRP) that typically occurs after eating. This
+  "blunting" effect helps prevent the acute inflammatory stress that contributes
+  to [insulin resistance](../InsulinResistance.md) and endothelial damage over 
+  time.
 
 ## Key Anti-Inflammatory Compounds
 

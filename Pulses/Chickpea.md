@@ -57,8 +57,10 @@ In a randomized crossover trial of 47 adults, eating chickpeas daily for at
 least five weeks lowered **total cholesterol by 3.9%** and **LDL by 4.6%**
 compared to a wheat-supplemented diet. A separate 12-week study of 45 adults
 found that incorporating chickpeas into the diet reduced total cholesterol,
-fasting insulin, and HOMA-IR (a marker of insulin resistance). Their
-potassium (~477 mg/cup) and very low sodium also support healthy blood pressure.
+fasting insulin, and
+[HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir) 
+(a marker of [insulin resistance](../InsulinResistance.md)). Their potassium 
+(~477 mg/cup) and very low sodium also support healthy blood pressure.
 
 ## Blood Sugar & Diabetes
 

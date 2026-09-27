@@ -67,8 +67,8 @@ bacteria and fungi, which can support immune health and oral hygiene.
 Ceylon cinnamon has shown significant promise in managing blood sugar levels.
 Studies indicate it can improve **insulin sensitivity** and reduce fasting
 glucose levels, making it a valuable dietary addition for individuals with type
-2 diabetes or insulin resistance. Its active compounds mimic insulin activity,
-aiding in glucose metabolism.
+2 diabetes or [insulin resistance](../InsulinResistance.md). Its active
+compounds mimic insulin activity, aiding in glucose metabolism.
 
 ## Weight Loss
 

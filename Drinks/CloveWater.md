@@ -5,6 +5,7 @@
 - [Clove Water](#clove-water)
   - [Key Health Benefits and Mechanisms](#key-health-benefits-and-mechanisms)
   - [Preparation](#preparation)
+  - [Crushing Whole Cloves](#crushing-whole-cloves)
   - [Safety Considerations](#safety-considerations)
   - [My Preferred Brand](#my-preferred-brand)
 
@@ -54,13 +55,36 @@ See [Cloves](../Spices/Clove.md) for more details.
 
 ## Preparation
 
-1. Use **4 to 5 whole cloves** (always whole to prevent oxidation).
+1. Use **4 to 5 whole cloves** (always whole to prevent oxidation). Crushing 
+   the cloves just before using them releases eugenol oils.
 2. Bring **one cup of water** to a boil, then simmer with a lid on for 5
    minutes.
 3. Let it steep for 10 minutes (keep the lid on at all times to prevent the
    volatile eugenol from evaporating).
 4. Consume roughly **30 minutes before bed**. You can add a little raw honey if
    the taste is too bitter.
+
+## Crushing Whole Cloves
+
+Use a **granite or basalt** mortar and pestle, which has a rough, abrasive
+interior that grips and shatters the woody cloves under downward pressure. A 
+heavy stone pestle (not ceramic) makes a big difference in force too.
+
+Here are other options that work well for just 2 or 3 cloves.
+
+- **Rolling pin and parchment paper:** Place the cloves between two sheets of
+  parchment on a cutting board and crush/roll with firm pressure. Rotate the
+  paper every ~30 seconds for even texture.
+- **Flat of a chef's knife:** For a tiny quantity like 2–3 cloves, the flat side
+  of a heavy knife pressed and rocked on a cutting board will break them up
+  adequately for tea infusion.
+- **Manual hand-crank coffee/spice grinder:** These are cheap, small, and handle
+  2 or 3 cloves easily without the heat or cleanup of an electric model. They're
+  designed for exactly this scale.
+
+For hot tea specifically, you don't need a fine powder — a coarse crush is
+enough to release the eugenol oils, so the rolling-pin or knife methods are
+perfectly adequate.
 
 ## Safety Considerations
 

@@ -14,6 +14,9 @@
       - [For Ultra-pasteurized Half-and-half](#for-ultra-pasteurized-half-and-half)
     - [Inulin Powder](#inulin-powder)
     - [Increased  Lactose](#increased--lactose)
+  - [New Starter Culture?](#new-starter-culture)
+    - [Contamination](#contamination)
+    - [Reset](#reset)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -167,3 +170,38 @@ regardless of remaining sugar.
 Community consensus (r/ReuteriYogurt) is explicit: "you do NOT want to add any
 additional sugar into your milk… the bacteria is limited by the pH, not by the
 sugar content."
+
+## New Starter Culture?
+
+Cutting Edge Cultures (the maker of both the LR and LG Superfood starters)
+frames it simply: "You can keep reculturing for as long as your batch comes out
+thick and pleasantly tangy." For *L. gasseri* specifically, Nourish Me Organics
+suggests a slightly more conservative **6 or 7 generations** before quality 
+tends to dip, likely because *L. gasseri* is a slower grower and more sensitive 
+to the nitrogen demands of milk.
+
+For a single-strain culture, the generational method can theoretically
+continue indefinitely. Bob Niland (Dr. Davis's blog associate) states this
+directly: "Theoretically, the generational method works indefinitely—for a
+single-strain yogurt, and if contamination is avoided. Dr. Davis might have made
+100 generations this way." Dr. Davis himself reports being "on my 60th or so
+batch and have never reinoculated yet all the benefits are maintained."  
+
+### Contamination  
+
+The only real risk is **contamination**, an unwanted organism hitching a ride
+and establishing itself in your chain. There's no inherent "expiration" on a
+single strain propagating through its own descendants.
+
+### Reset  
+
+Practical signals that it's time to reset:
+
+- The batch comes out noticeably less tangy or thinner than your norm
+- Excess whey separation that wasn't there before
+- Off-flavors or off-smells
+
+You don't need a fixed generation count. Run each strain's chain as long as the 
+output stays consistent, and reset from a fresh capsule or sachet when you 
+notice decline. The frozen-starter backup is still wise as insurance against 
+a bad batch, but it's a safety net, not a schedule.

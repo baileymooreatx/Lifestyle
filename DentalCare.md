@@ -11,7 +11,7 @@
     - [Tartar Control Toothpaste](#tartar-control-toothpaste)
     - [Teeth Whitening Paste](#teeth-whitening-paste)
   - [Mouthwash Options](#mouthwash-options)
-  - [Warning](#warning)
+    - [Warning](#warning)
     - [Cetylpyridinium Chloride (CPC)](#cetylpyridinium-chloride-cpc)
     - [Essential Oils](#essential-oils)
     - [Quick Comparison](#quick-comparison)
@@ -128,7 +128,7 @@ These are the two main **OTC antiseptic mouthwashes** with real clinical
 evidence — both safe for long-term daily use (unlike chlorhexidine), and both
 meaningfully better than water.
 
-## Warning  
+### Warning  
 
 Mouthwash may raise your blood pressure.  
 

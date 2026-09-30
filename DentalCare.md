@@ -11,6 +11,7 @@
     - [Tartar Control Toothpaste](#tartar-control-toothpaste)
     - [Teeth Whitening Paste](#teeth-whitening-paste)
   - [Mouthwash Options](#mouthwash-options)
+  - [Warning](#warning)
     - [Cetylpyridinium Chloride (CPC)](#cetylpyridinium-chloride-cpc)
     - [Essential Oils](#essential-oils)
     - [Quick Comparison](#quick-comparison)
@@ -126,6 +127,31 @@ From this YouTube video about
 These are the two main **OTC antiseptic mouthwashes** with real clinical
 evidence — both safe for long-term daily use (unlike chlorhexidine), and both
 meaningfully better than water.
+
+## Warning  
+
+Mouthwash may raise your blood pressure.  
+
+Antiseptic mouthwash kills the **nitrate-reducing bacteria** on the tongue
+(mainly *Veillonella*, *Actinomyces*, *Haemophilus*, and *Neisseria*) that are
+essential to the **enterosalivary nitrate–nitrite–NO pathway**. Here's the
+chain:
+
+1. Dietary nitrates (from leafy greens, beets, etc.) are actively taken up by
+   salivary glands and secreted into saliva.
+2. Those oral bacteria reduce salivary **nitrate → nitrite**.
+3. The nitrite-rich saliva is swallowed, and in the acidic stomach, nitrite is
+   further reduced to **nitric oxide (NO)**, which then enters the bloodstream
+   as a potent vasodilator.
+
+When mouthwash eradicates the nitrate-reducing bacteria, step 2 fails — less
+nitrite is produced, less NO is generated downstream, and systemic NO
+bioavailability drops. Studies show **0.12% chlorhexidine** can destroy up to 
+**94%** of these bacteria and reduce nitrate reduction by **~85%**, raising
+systolic blood pressure by 2–3.5 mmHg within days. The effect of a single rinse
+can persist for up to **12 hours**. Other antiseptic ingredients —
+cetylpyridinium chloride, hydrogen peroxide, povidone-iodine, and essential
+oils — have shown similar, though sometimes weaker, effects.
 
 ### Cetylpyridinium Chloride (CPC)
 

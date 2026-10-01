@@ -152,7 +152,7 @@ diagnosed condition), the **8-weeks-on / 4-weeks-off** cycle is the safest
 default. During the off period:
 
 - Take a **probiotic** (to support microbiome recovery)
-- Rely on the diet, exercise, magnesium, and [myo-inositol](./Myo-Inositol.md)  
+- Rely on the diet, exercise, magnesium, and [myo-inositol](Inositol.md)  
   for insulin sensitivity
 - Reassess with a **fasting glucose / HbA1c / lipid panel** before restarting
 

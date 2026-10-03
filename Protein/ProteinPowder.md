@@ -2,25 +2,23 @@
 
 Grind these in small batches until fine powder, then mix:
 
-| Ingredient              | Amount |
-|:------------------------|:-------|
-| Hemp hearts             | ½ cup  |
-| Chia seeds              | ½ cup  |
-| Pumpkin seeds (toasted) | ½ cup  |
-| Sunflower seeds         | ¼ cup  |
-| Flax seeds              | ¼ cup  |
-
-- Optional: 2–3 tbsp cacao, 1 tsp cinnamon, or a sweetener (stevia, monk fruit)
+| **Ingredient**          | **Amount** |
+|:------------------------|:-----------|
+| Chia seeds              | ½ cup      |
+| Hemp hearts             | ½ cup      |
+| Pumpkin seeds (toasted) | ½ cup      |
+| Flax seeds              | ¼ cup      |
+| Sunflower seeds         | ¼ cup      |
 
 **Key tips:**
 
 - Use a **spice/coffee grinder** for the finest texture; a blender works but
-  stop at 10–15 sec pulses to avoid turning seeds into butter.
+  use 10 to 15 sec pulses to avoid turning seeds into butter.
 - Keep the grinder bowl **dry** — moisture makes chia gel into paste.
 - Store in an **airtight container in the fridge** up to 1 month (or freezer for
   up to 6 months).
-- Use ~4 tbsp (one scoop) per serving; it yields roughly **15–21 g protein** per
-  serving depending on the blend.
+- Use ~4 tbsp (one scoop) per serving; it yields roughly **15 to 21 g of
+  protein** per serving depending on the blend.
 
 ## Toast Pumpkin Seeds
 

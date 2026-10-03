@@ -46,7 +46,7 @@ Summaries of books about health and wellness
 - [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
   microbiome  
 - Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
-- [High protein](ProteinRichPlantFoods.md) foods not derived from animals
+- [High protein](Protein/ProteinRichPlantFoods.md) foods not derived from animals
 - Improve [liver health](./LiverDetoxification.md)  
 - How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
   insulin levels in the blood?

@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Sleep](#sleep)
+  - [Supplements](#supplements)
   - [Deep Sleep](#deep-sleep)
     - [Consistency & Light](#consistency--light)
     - [Morning Sunlight](#morning-sunlight)
@@ -11,11 +12,113 @@
     - [Environment](#environment)
     - [Stress & Wind-down](#stress--wind-down)
     - [Other](#other)
-  - [Supplements](#supplements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Sleep
+
+During normal sleep, **metabolic rate drops by roughly 15–35%**, reaching its
+lowest point during deep (slow-wave) sleep, which allows the body to conserve
+energy for cellular repair and tissue recovery. Sleep also tightly coordinates 
+**glucose and hormone regulation**: cerebral glucose use falls 30–40% in
+slow-wave sleep, growth hormone peaks early in the night, and cortisol rises
+toward the second half, together shaping insulin sensitivity across the 24-hour
+cycle.
+
+Chronic sleep loss disrupts this balance. It **reduces insulin sensitivity by
+~25%** after just one poor night, raises the appetite-stimulating hormone
+ghrelin, and lowers the satiety hormone leptin, driving increased hunger and
+caloric intake. Over time, these shifts promote 
+[insulin resistance](./InsulinResistance.md), [visceral fat](./VisceralFat.md)
+accumulation, and elevated risk of **type 2 diabetes** and obesity. In short,
+adequate, quality sleep is **essential** for maintaining stable blood sugar,
+efficient energy use, and healthy appetite signaling.
+
+## Supplements
+
+From YouTube video
+[Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)
+
+These supplements are recommended for people over fifty, who frequently have
+issues with restful sleep.
+
+| Supplement        | Sleep issue                          | Dosage and timing                                                   |
+|:------------------|:-------------------------------------|:--------------------------------------------------------------------|
+| Glycine           | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
+| L-theanin         | Restless overactive mind             | 200 mg capsule an hour before bed                                   |
+| Magnolia Bark     | Waking before morning                | 200 upto 400 mg one hour before bed                                 |
+| Valerian and Hops | Difficulty falling asleep            | 300 to 500 mg of valerian extract<br> 100 to 200 mg of hops extract |
+| Jujube            | Night sweats and agitation           | Follow the label instructions and take 30 to 60 minutes before bed  |
+| Folate            | Restless leg syndrome                | 0.5 mg in the morning or at lunch                                   |
+| 5-HTP             | Insomnia or irregular sleep schedule | 100 to 200 mg 30 minutes to one hour before bed                     |
+
+1. [Glycine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=77s)
+   production decreases with age. Glycine triggers peripheral vasodialation,
+   cooling the core of the body. To fall asleep and stay asleep, body
+   temperature
+   needs to drop by about one degree. This amino acid also improves sleep
+   architecture, specifically restoring deep sleep. Tastes like sugar.   
+   Add 3 g of glycine powder to a beverage 30 minutes to an hour before bed.  
+   **Advatages**:
+   - **Faster sleep onset** – Studies show it reduces the time to fall asleep
+     (by ~7 minutes on average) by lowering core body temperature through
+     increased blood flow to the extremities.
+   - **Improved sleep quality and efficiency** – More time spent actually
+     asleep, fewer nighttime awakenings, and a quicker transition into **deep
+     (slow-wave) sleep** and REM sleep.
+   - **Calms the nervous system** – As an inhibitory neurotransmitter, glycine
+     quiets overactive brain signaling, which is helpful for a "wired but
+     tired" feeling at bedtime.
+   - **Supports serotonin** – Elevates serotonin without raising dopamine,
+     helping normalize circadian rhythms and sleep-wake cycles.
+   - **Reduced next-day fatigue** – People report less daytime sleepiness,
+     better mood, and improved cognitive performance the following day.
+   - **Non-sedative and non-habit-forming** – Unlike prescription sleep aids,
+     it doesn't cause morning grogginess or dependency; it supports the body's
+     natural sleep processes rather than forcing unconsciousness.
+   - Particularly useful for people who **sleep hot**, have mild insomnia
+     tendencies, or want a gentle, low-risk option to support more restorative
+     sleep.
+2. [L-theanine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=203s)
+   is ideal for racing thoughts and “tired but wired” insomnia. It increases
+   alpha
+   waves and lowers blood pressure slightly.  
+   Take a 200 mg capsule an hour before bed. Dosage can be increased up to
+   400 mg.
+3. [Magnolia bark](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=287s)
+   helps lower nighttime cortisol and prevent 3 a.m. wake-ups. Magnolia bark
+   contains
+   honokiol and magnolol. These target GABA receptors like benzodiazepines, but
+   it is
+   much milder and non-addictive. This reduces cortisol spike that occurs around
+   3 A.M.
+   Do not buy powder. Take 200 to 400 mg one hour before bed.
+4. [Valerian root and hops](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=405s)  
+   can improve sleep pressure and relaxation. Valerian calms the central nervous
+   system
+   and inhibits the breakdown of GABA. Hops has a synergistic effect. This may
+   work by
+   mimicking adenosine.  
+   Take a combination dose of 300 to 500 mg of valerian extract paired with
+   100 to 200 mg of hops extract an hour before sleep. Valerian can cause
+   bizarre dreams.
+5. [Jujube](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=506s)
+   is helpful for menopausal sleep problems and burnout-related insomnia.  
+   Look for a strong seed extract, or it may also be in a formula called
+   Suan Zao Ren Tang.  
+   Follow the label instructions and take 30 to 60 minutes before bed.
+6. [Folate (L-methylfolate)](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=577s),
+   vitamin B9, supports melatonin production and reduces restless legs. Do not
+   take
+   synthetic folate. Look for L-methylfolate or 5-MTHF, the bioactive forms.    
+   Take 0.5 mg in the morning or at lunch.
+7. [5-HTP](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=647s)
+   can improve serotonin, melatonin, and sleep quality. This natural, amino acid
+   is a
+   serotonin precursor. Serotonin regulates mood, calmness, and melatonin.  
+   Take 100 to 200 mg 30 minutes to one hour before bed.
+
+[Montmorency Tart Cherries](./Fruits/TartCherry.md) also support sleep.
 
 ## Deep Sleep
 
@@ -69,80 +172,3 @@ gentle stretching, journaling, reading) helps lower arousal.
 - If poor deep sleep persists despite good habits, get screened for **sleep
   apnea or other sleep disorders**, which can fragment and suppress slow-wave
   sleep.
-
-## Supplements
-
-From YouTube video
-[Supplements for Amazing Sleep](https://www.youtube.com/watch?v=aGH6eMNXF20)
-
-These supplements are recommended for people over fifty, who frequently have issues 
-with restful sleep.  
-
-| Supplement        | Sleep issue                          | Dosage and timing                                                   |
-|:------------------|:-------------------------------------|:--------------------------------------------------------------------|
-| Glycine           | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
-| L-theanin         | Restless overactive mind             | 200 mg capsule an hour before bed                                   |
-| Magnolia Bark     | Waking before morning                | 200 upto 400 mg one hour before bed                                 |
-| Valerian and Hops | Difficulty falling asleep            | 300 to 500 mg of valerian extract<br> 100 to 200 mg of hops extract |
-| Jujube            | Night sweats and agitation           | Follow the label instructions and take 30 to 60 minutes before bed  |
-| Folate            | Restless leg syndrome                | 0.5 mg in the morning or at lunch                                   |
-| 5-HTP             | Insomnia or irregular sleep schedule | 100 to 200 mg 30 minutes to one hour before bed                     |
-  
-  
-1. [Glycine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=77s) 
-   production decreases with age. Glycine triggers peripheral vasodialation, 
-   cooling the core of the body. To fall asleep and stay asleep, body temperature 
-   needs to drop by about one degree. This amino acid also improves sleep 
-   architecture, specifically restoring deep sleep. Tastes like sugar.   
-   Add 3 g of glycine powder to a beverage 30 minutes to an hour before bed.  
-   **Advatages**:  
-    - **Faster sleep onset** – Studies show it reduces the time to fall asleep 
-      (by ~7 minutes on average) by lowering core body temperature through
-      increased blood flow to the extremities.
-    - **Improved sleep quality and efficiency** – More time spent actually
-      asleep, fewer nighttime awakenings, and a quicker transition into **deep
-      (slow-wave) sleep** and REM sleep.
-    - **Calms the nervous system** – As an inhibitory neurotransmitter, glycine
-      quiets overactive brain signaling, which is helpful for a "wired but
-      tired" feeling at bedtime.
-    - **Supports serotonin** – Elevates serotonin without raising dopamine,
-      helping normalize circadian rhythms and sleep-wake cycles.
-    - **Reduced next-day fatigue** – People report less daytime sleepiness,
-      better mood, and improved cognitive performance the following day.
-    - **Non-sedative and non-habit-forming** – Unlike prescription sleep aids,
-      it doesn't cause morning grogginess or dependency; it supports the body's
-      natural sleep processes rather than forcing unconsciousness.
-    - Particularly useful for people who **sleep hot**, have mild insomnia
-      tendencies, or want a gentle, low-risk option to support more restorative
-      sleep.
-2. [L-theanine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=203s) 
-   is ideal for racing thoughts and “tired but wired” insomnia. It increases alpha 
-   waves and lowers blood pressure slightly.  
-   Take a 200 mg capsule an hour before bed. Dosage can be increased up to 
-   400 mg.  
-3. [Magnolia bark](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=287s) 
-   helps lower nighttime cortisol and prevent 3 a.m. wake-ups. Magnolia bark contains 
-   honokiol and magnolol. These target GABA receptors like benzodiazepines, but it is
-   much milder and non-addictive. This reduces cortisol spike that occurs around 3 A.M. 
-   Do not buy powder. Take 200 to 400 mg one hour before bed.  
-4. [Valerian root and hops](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=405s)  
-   can improve sleep pressure and relaxation. Valerian calms the central nervous system 
-   and inhibits the breakdown of GABA. Hops has a synergistic effect. This may work by 
-   mimicking adenosine.  
-   Take a combination dose of 300 to 500 mg of valerian extract paired with 
-   100 to 200 mg of hops extract an hour before sleep. Valerian can cause bizarre dreams.  
-5. [Jujube](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=506s) 
-   is helpful for menopausal sleep problems and burnout-related insomnia.  
-   Look for a strong seed extract, or it may also be in a formula called 
-   Suan Zao Ren Tang.  
-   Follow the label instructions and take 30 to 60 minutes before bed.  
-6. [Folate (L-methylfolate)](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=577s), 
-   vitamin B9, supports melatonin production and reduces restless legs. Do not take
-   synthetic folate. Look for L-methylfolate or 5-MTHF, the bioactive forms.    
-   Take 0.5 mg in the morning or at lunch.  
-7. [5-HTP](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=647s) 
-   can improve serotonin, melatonin, and sleep quality. This natural, amino acid is a 
-   serotonin precursor. Serotonin regulates mood, calmness, and melatonin.  
-   Take 100 to 200 mg 30 minutes to one hour before bed.   
-
-[Montmorency Tart Cherries](./Fruits/TartCherry.md) also support sleep.

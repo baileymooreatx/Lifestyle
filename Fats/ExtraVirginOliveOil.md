@@ -8,6 +8,7 @@
   - [Anti-Inflammatory and Antioxidant Properties](#anti-inflammatory-and-antioxidant-properties)
   - [Disease Prevention](#disease-prevention)
   - [Other Health Benefits](#other-health-benefits)
+  - [Olive Oil on an Empty Stomach in the Morning?](#olive-oil-on-an-empty-stomach-in-the-morning)
   - [Usage and Storage](#usage-and-storage)
 - [My Preferred Brand](#my-preferred-brand)
 
@@ -98,6 +99,41 @@ Research suggests EVOO may help prevent or manage several serious conditions.
   depression.
 * **Nutrient Absorption**: The healthy fats in EVOO enhance the absorption of
   fat-soluble vitamins (A, D, E, and K) from other foods.
+
+## Olive Oil on an Empty Stomach in the Morning?
+
+There is no strong evidence that a tablespoon of extra virgin olive oil taken
+on an empty stomach in the morning meaningfully "boosts" or "kickstarts"
+metabolism beyond what it would do taken with a meal.
+
+What the research does support:
+
+- **General EVOO benefits** (cardiovascular health, improved insulin
+  sensitivity, anti-inflammatory effects) are real, but they come from regular
+  daily consumption as part of a Mediterranean-style diet — not from the timing.
+- **Bile stimulation**: Any dietary fat, including olive oil, prompts bile
+  release, which aids fat digestion. This happens whether you take it fasted or
+  with food.
+- **Modest blood-sugar effect**: A small crossover study found that 10 g of EVOO
+  taken with a meal lowered post-meal glucose rise, likely via GLP-1 and other
+  incretin hormones — but this was with a meal, not on an empty stomach.
+- **Satiety**: The monounsaturated fats and oleoyl ethanolamide (a derivative of
+  oleic acid) may mildly increase fullness, but the evidence for a meaningful
+  effect on total daily calorie intake is limited.
+
+What the evidence does **not** support:
+
+- A unique "metabolism-boosting" effect of taking it fasted vs. with food.
+- Any "detox" or fat-burning effect.
+- That empty-stomach timing improves polyphenol absorption in a clinically
+  meaningful way.
+
+A tablespoon of EVOO (~120 cal, ~14 g fat) is a healthy addition to your diet at 
+any time of day, but the specific "morning empty-stomach ritual" is largely a 
+social-media trend without a distinct metabolic advantage over simply including 
+olive oil in your regular meals. The most important factor for weight and 
+metabolic health is your overall caloric balance and diet quality, not the 
+timing of that tablespoon.
 
 ## Usage and Storage
 

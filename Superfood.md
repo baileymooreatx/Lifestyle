@@ -38,7 +38,7 @@ While lists vary, common foods labeled as superfoods include:
 * **Berries**: [Blueberries](./Fruits/Blueberry.md),
   [strawberries](./Fruits/Strawberry.md), goji berries, and acai berries.
 * **Leafy Greens**: Kale, [spinach](./Vegetables/Spinach.md), and Swiss chard.
-* **Fatty Fish**: Salmon and sardines (rich in Omega-3s).
+* **Fatty Fish**: [Salmon](./Protein/Salmon.md) and sardines (rich in Omega-3s).
 * **Nuts and Seeds**: [Chia seeds](./Seeds/Chia.md),
   [flaxseeds](./Seeds/Flaxseed.md), [hemp seeds](./Seeds/HempHearts.md), and
   [walnuts](./Nuts/Walnut.md).

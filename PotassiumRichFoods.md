@@ -34,7 +34,7 @@ for potassium is **4,700 mg**.
 | **[Lentils](./Pulses/Lentil.md)** (cooked) | 1 cup        | 731 mg         | 16%           |
 | **White Beans**                            | 1 cup        | 1,000+ mg      | ~21%          |
 | **Avocado**                                | 1 whole      | 975 mg         | 21%           |
-| **Salmon** (cooked)                        | 3 oz         | 326 to 535 mg  | 7–11%         |
+| **[Salmon](./Protein/Salmon.md)** (cooked) | 3 oz         | 326 to 535 mg  | 7–11%         |
 | **Chicken Breast** (grilled)               | 3 oz         | 332 mg         | 7%            |
 | **Milk** (low-fat)                         | 1 cup        | 366 mg         | 8%            |
 | **Banana** (medium)                        | 1 fruit      | 422 mg         | 9%            |
@@ -67,15 +67,16 @@ contributors.
 ### Protein Sources  
 
 Animal proteins contribute meaningfully to potassium intake. **Fish**
-(particularly salmon, tuna, and halibut), **chicken**, **beef**, and
-**pork** contain moderate to high levels. Dairy products like **milk** and 
-**yogurt** are also reliable sources. For plant-based protein, **soybeans** and 
-**tofu** are excellent options.
+(particularly [salmon](./Protein/Salmon.md), tuna, and halibut), **chicken**, 
+**beef**, and **pork** contain moderate to high levels. Dairy products like 
+**milk** and **[yogurt](./Fermented/Yogurt.md)** are also reliable sources. For 
+plant-based protein, **soybeans** and **tofu** are excellent options.
 
 ### Other Sources  
 
 Certain beverages and additives are rich in potassium. **Orange juice**, 
-**tomato juice**, **coconut water**, and even **coffee** contribute to daily
-intake. **Salt substitutes** often use potassium chloride instead of sodium
-chloride, making them very high in potassium, which is important for individuals
-monitoring sodium intake but potentially dangerous for those with kidney issues.
+**tomato juice**, **coconut water**, and even **[coffee](./Drinks/Coffee.md)** 
+contribute to daily intake. **Salt substitutes** often use potassium chloride 
+instead of sodium chloride, making them very high in potassium, which is 
+important for individuals monitoring sodium intake but potentially dangerous for 
+those with kidney issues.

@@ -35,11 +35,11 @@ Whole [eggs](Protein/Egg.md) provide **cholesterol**, a building block for
 testosterone, along with **vitamin D** and high-quality protein. Studies show 
 daily egg consumption can increase testosterone levels.
 
-### 3. Fatty Fish (Salmon, Tuna, Mackerel)
+### 3. Fatty Fish  
 
-Rich in **omega-3 fatty acids** and **vitamin D**, fatty fish support hormone
-synthesis and reduce inflammation. Vitamin D deficiency is linked to low
-testosterone.
+Rich in **omega-3 fatty acids** and **vitamin D**, fatty fish (e.g., 
+[salmon](./Protein/Salmon.md), tuna, mackerel) support hormone synthesis and 
+reduce inflammation. Vitamin D deficiency is linked to low testosterone.
 
 ### 4. Spinach and Dark Leafy Greens
 

@@ -79,19 +79,20 @@ target in grams.
 
 ### Eat More  
 
-- **Fatty fish** (salmon, mackerel, sardines) — omega-3s are linked to reduced
-  waist circumference
-- **Oats and whole grains** (oats, quinoa, brown rice) — soluble fiber (
-  beta-glucan) is tied to lower visceral fat
+- **Fatty fish** ([salmon](./Protein/Salmon.md), mackerel, sardines) — omega-3s are 
+  linked to reduced waist circumference
+- **Oats and whole grains** (oats, quinoa, brown rice) — soluble fiber
+  (beta-glucan) is tied to lower visceral fat
 - **Berries** — high in fiber and anthocyanins
 - **Nuts** (especially walnuts) — a key component of the "green Mediterranean
   diet," the most effective pattern studied for visceral fat loss
-- **Beans and legumes** — protein + fiber combo for satiety
+- **Beans and legumes** — protein and fiber combo for satiety
 - **Lean proteins** (chicken, shrimp, tofu, Greek yogurt, eggs) — higher protein
   intake is associated with greater visceral fat loss
 - **Cruciferous vegetables** (broccoli, Brussels sprouts, cauliflower) — contain
   sulforaphane
-- **Healthy fats** — olive oil, avocado, seeds
+- **Healthy fats** — [olive oil](./Fats/ExtraVirginOliveOil.md), 
+  [avocado](./Vegetables/Avocado.md), [seeds](./Seeds)
 
 ### Avoid  
 

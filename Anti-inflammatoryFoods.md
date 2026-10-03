@@ -191,7 +191,8 @@ isolated compounds. The most effective dietary patterns, such as the
 ### ω-3 Fatty Acids  
 
 Omega-3 fatty acids directly suppress inflammatory gene expression. They are 
-found in salmon, mackerel, sardines, walnuts, and flaxseeds.   
+found in [salmon](./Protein/Salmon.md), mackerel, sardines, 
+[walnuts](./Nuts/Walnut.md), and [flaxseeds](./Seeds/Flaxseed.md).   
 
 ### Polyphenols & Flavonoids
 

@@ -52,8 +52,8 @@ reduce visceral fat:
    satiety and weight management.
 2. **Shellfish:** Including shrimp, scallops, and oysters, these offer a very
   high protein-to-calorie ratio.
-3. **Wild Caught Salmon and Sardines:** These provide protein along with
-  beneficial anti-inflammatory omega-3 fats.
+3. **Wild Caught [Salmon](./Salmon.md) and Sardines:** These provide protein along 
+   with beneficial anti-inflammatory omega-3 fats.
 4. **Grass-fed Beef:** This source is noted for having a high density of leucine,
   an amino acid essential for muscle protein synthesis.
 5. **Plain Greek Yogurt or Cottage Cheese:** Dairy proteins digest slowly, which

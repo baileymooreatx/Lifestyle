@@ -29,17 +29,18 @@
          * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
            [onions](./Vegetables/Onion.md), leeks, and scallions  
       *  Fruits  
-         * Berries: [blueberries](./Fruits/Blueberry.md), strawberries,
+         * Berries: [blueberries](./Fruits/Blueberry.md), [strawberries](./Fruits/Strawberry.md),
            blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
-         * Tart cherries  
+         * [Tart cherries](./Fruits/TartCherry.md)  
          * Citrus: [oranges](./Fruits/Orange.md), [lemons](./Fruits/Lemon.md),
            limes, and grapefruit  
-           Whole fruit, not juice  
+           **Whole fruit, not juice**  
          * [Apples](./Fruits/Apple.md) in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
 2. Prioritize protein: Eat one gram of protein per pound for your ideal weight.
-   * Wild-caught, low-mercury fish: salmon, sardines, mackerel, anchovies
+   * Wild-caught, low-mercury fish: [salmon](./Protein/Salmon.md), sardines, 
+     mackerel, anchovies
    * [Eggs](Protein/Egg.md): Pasture raised or organic when possible  
    * Grass fed beef, bison, venison, lamb
    * Chicken and turkey (check labels for additives and chlorine)  
@@ -77,23 +78,23 @@ dark, e.g. green, glass.
 | Cranberry juice                                                               | 4 fluid oz      |
 | Water                                                                         | 12 fluid oz     |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
-| [Apple Cider Vinegar](Fermented/AppleCiderVinegar.md)                        | 2 tablespoon    |
+| [Apple Cider Vinegar](./Fermented/AppleCiderVinegar.md)                       | 2 tablespoon    |
 | [Lemon](./Fruits/Lemon.md) juice                                              | Half of a Lemon |
 | Sea salt                                                                      | ½ teaspoon      |
 | **Optional spices**                                                           |                 |
 | [Turmeric](./Spices/Turmeric.md)  and [Black Pepper](./Spices/BlackPepper.md) | 1 teaspoon each |
-| [Ginger](Spices/Ginger.md)                                                | 1 teaspoon      |
+| [Ginger](./Spices/Ginger.md)                                                  | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 
 Drink 1 hour before bed, blended for best results.
 
-| **Ingredient**                                          | **Volume**   |
+| **Ingredient**                                          | **Amount**   |
 |:--------------------------------------------------------|:-------------|
 | Water                                                   | 8 fluid oz   |
 | [Ceylon Cinnamon](./Spices/Cinnamon.md)                 | ½ teaspoon   |
 | [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
-| [Apple Cider Vinegar](Fermented/AppleCiderVinegar.md)  | 1 tablespoon |
+| [Apple Cider Vinegar](./Fermented/AppleCiderVinegar.md) | 1 tablespoon |
 | Sea salt                                                | ½ teaspoon   |
 | **Optional Fiber**                                      |              |
 | [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |

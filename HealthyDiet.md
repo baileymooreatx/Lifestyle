@@ -4,10 +4,10 @@
 
 - [Healthy Diet](#healthy-diet)
   - [Manage macronutrients to lower insulin and reduce inflammation](#manage-macronutrients-to-lower-insulin-and-reduce-inflammation)
-  - [Increase fiber and nutrient availability](#increase-fiber-and-nutrient-availability)
+    - [Additional Recommendations](#additional-recommendations)
+  - [Health Potions](#health-potions)
     - [Morning](#morning)
     - [Night](#night)
-  - [Eat in the right order to prevent insulin spikes](#eat-in-the-right-order-to-prevent-insulin-spikes)
   - [Dr. Gundry's Superfoods](#dr-gundrys-superfoods)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -16,19 +16,19 @@
 
 ## Manage macronutrients to lower insulin and reduce inflammation  
 
-1. Control carbohydrates
+1. **Control carbohydrates**
    1. No ultra processed foods  
    2. Minimize sugar  
    3. Avoid boxes and barcodes by eating lots of plants.  
       See [Eat 30 plants per week](Eat30Plants.md).  
-      *  Vegetables  
+      *  **Vegetables**  
          * Leafy greens: arugula, [spinach](./Vegetables/Spinach.md), kale, 
            chard, collards, lettuce    
          * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
          * [Beets](./Supplements/BeetrootPowder.md), carrots, sweet potatoes, yams  
          * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
            [onions](./Vegetables/Onion.md), leeks, and scallions  
-      *  Fruits  
+      *  **Fruits**  
          * Berries: [blueberries](./Fruits/Blueberry.md), [strawberries](./Fruits/Strawberry.md),
            blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
@@ -38,7 +38,8 @@
            **Whole fruit, not juice**  
          * [Apples](./Fruits/Apple.md) in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
-2. Prioritize protein: Eat one gram of protein per pound for your ideal weight.
+2. **Prioritize [protein](./Protein/Protein.md)** 
+   Eat one gram of protein per pound for your ideal weight.
    * Wild-caught, low-mercury fish: [salmon](./Protein/Salmon.md), sardines, 
      mackerel, anchovies
    * [Eggs](Protein/Egg.md): Pasture raised or organic when possible  
@@ -46,7 +47,7 @@
    * Chicken and turkey (check labels for additives and chlorine)  
      Pasture raised when possible
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
-   Prefer healthy oils  
+   **Prefer healthy oils**
    1. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
       Ideally organic, not blended, and stored in dark glass to prevent oxidation  
       Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
@@ -64,12 +65,46 @@
       * [Hemp](./Seeds/HempHearts.md) 
       * [Pumpkin](./Seeds/Pumpkin.md) 
       * [Sunflower](./Seeds/Sunflower.md) (raw preferred)
-4. Prefer fewer ingredients
-5. When you cook it yourself, you control the ingredients  
+4. Prefer **fewer ingredients**  
+   When you cook it yourself, you control the ingredients.  
+5. **Stop Snacking**  
+   Avoid grazing throughout the day to keep insulin levels low, aiming for three
+   distinct meals daily.
+6. Eat in the right order to prevent insulin spikes.
+   Drink apple cider vinegar and water before 20 minutes before each meal. 
+   Consider adding inulin to increase fiber.   
+   1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
+      Eat salad or vegetables first.
+   2. [Protein and Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)  
+      Protein releases GLP-1 to slow digestion and decrease insulin release.  
+      Fat increases satiety.
+   3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
+      Blood sugar increases slowly when carbs come last, avoiding a flood of insulin to lower glucose.
+7. **Walk After Meals**
+   Use skeletal muscle as a "metabolic engine" by lifting weights 2 or 3 times a
+   week (with adequate protein intake). A 10-minute walk immediately after meals
+   helps lower blood sugar by raising GLUT-4, so muscles can absorb glucose
+   without insulin.
+8. **Master Meal Timing**  
+   Stop eating at least three hours before bedtime to allow for optimal
+   nocturnal fat burning and recovery.
+9. **24-Hour Water Fast**  
+   Once a week, perform a 24-hour water-only fast to trigger autophagy (cell
+   cleanup) and increase human growth hormone levels.
 
-## Increase fiber and nutrient availability
-Note: Extra virgin olive oil should be early harvest and cold pressed in 
-dark, e.g. green, glass.
+Achieve Metabolic Flexibility. By mastering the previous habits, the body 
+becomes capable of efficiently switching between burning sugar and fat.
+
+### Additional Recommendations
+
+[Ben Azadi](https://www.youtube.com/watch?v=_DXmxRAlDuY) advocates for specific 
+supplementation, specifically [creatine](./Supplements/Creatine.md) and 
+**magnesium glycinate**, to support muscle recovery and sleep, which are vital 
+for metabolic repair.
+
+## Health Potions  
+
+Increase fiber and nutrient availability.  
 
 ### [Morning](https://www.youtube.com/watch?v=dvx9lXwvm84&t=100s)
 
@@ -100,20 +135,6 @@ Drink 1 hour before bed, blended for best results.
 | [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |
 | [Flaxseeds](./Seeds/Flaxseed.md)                        | 1 tablespoon |
 
-## Eat in the right order to prevent insulin spikes  
-
-Drink apple cider vinegar and water before the meal. Consider adding inulin.  
-Eating in the right order  
- 
-1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
-   Eat salad or vegetables first.  
-2. [Protein and Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)  
-   Protein releases GLP-1 to slow digestion and decrease insulin release.  
-   Fat increases satiety.  
-3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
-   Blood sugar increases slowly when carbs come last, avoiding a flood of insulin to lower glucose.  
-4. Take a 15-minute walk after eating to raises GLUT-4, so muscles can absorb glucose without insulin.  
-  
 ## Dr. Gundry's [Superfoods](https://www.youtube.com/watch?v=9VsHYodU1lw)  
 
 * Leafy greens

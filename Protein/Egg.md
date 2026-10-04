@@ -40,39 +40,39 @@ every nutrient the human body needs.
 
 1 Large Grade A Egg (~50 g, whole)
 
-| **Nutrient**           | **Amount**  |  **% Daily Value** |
-|:-----------------------|:------------|-------------------:|
-| Calories               | 72 kcal     |                  — |
-| Protein                | 6.3 g       |                13% |
-| Total Fat              | 4.8 g       |                 6% |
-| Saturated Fat          | 1.6 g       |                 8% |
-| Monounsaturated Fat    | 1.8 g       |                  — |
-| Polyunsaturated Fat    | 1.0 g       |                  — |
-| Cholesterol            | 186 mg      |                62% |
-| Sodium                 | 71 mg       |                 3% |
-| Potassium              | 69 mg       |                 1% |
-| Total Carbohydrate     | 0.4 g       |                 0% |
-| Dietary Fiber          | 0 g         |                 0% |
-| Sugars                 | 0.2 g       |                  — |
-| Choline                | 147 mg      |             27% AI |
-| Vitamin A (RAE)        | 80 µg       |                 9% |
-| Vitamin D              | 1.0 µg      |                 5% |
-| Vitamin E              | 0.53 mg     |                 4% |
-| Thiamin (B1)           | 0.02 mg     |                 2% |
-| Riboflavin (B2)        | 0.23 mg     |                18% |
-| Niacin (B3)            | 0.04 mg     |               0.2% |
-| Pantothenic acid (B5)  | 0.70 mg     |                14% |
-| Vitamin B6             | 0.01 mg     |                 7% |
-| Folate (B9)            | 24 µg       |                 6% |
-| Vitamin B12            | 0.45 µg     |                19% |
-| Calcium                | 28 mg       |                 3% |
-| Iron                   | 0.9 mg      |                11% |
-| Phosphorus             | 99 mg       |                14% |
-| Selenium               | 15.4 µg     |                28% |
-| Zinc                   | 0.6 mg      |                 6% |
-| Magnesium              | 6 mg        |                 1% |
-| Copper                 | 0.05 mg     |                 4% |
-| Manganese              | 0.001 mg    |                 1% |
+| **Nutrient**                         | **Amount**  |  **% Daily Value** |
+|:-------------------------------------|:------------|-------------------:|
+| Calories                             | 72 kcal     |                  — |
+| Protein                              | 6.3 g       |                13% |
+| Total Fat                            | 4.8 g       |                 6% |
+| Saturated Fat                        | 1.6 g       |                 8% |
+| Monounsaturated Fat                  | 1.8 g       |                  — |
+| Polyunsaturated Fat                  | 1.0 g       |                  — |
+| Cholesterol                          | 186 mg      |                62% |
+| Sodium                               | 71 mg       |                 3% |
+| Potassium                            | 69 mg       |                 1% |
+| Total Carbohydrate                   | 0.4 g       |                 0% |
+| Dietary Fiber                        | 0 g         |                 0% |
+| Sugars                               | 0.2 g       |                  — |
+| [Choline](../Supplements/Choline.md) | 147 mg      |             27% AI |
+| Vitamin A (RAE)                      | 80 µg       |                 9% |
+| Vitamin D                            | 1.0 µg      |                 5% |
+| Vitamin E                            | 0.53 mg     |                 4% |
+| Thiamin (B1)                         | 0.02 mg     |                 2% |
+| Riboflavin (B2)                      | 0.23 mg     |                18% |
+| Niacin (B3)                          | 0.04 mg     |               0.2% |
+| Pantothenic acid (B5)                | 0.70 mg     |                14% |
+| Vitamin B6                           | 0.01 mg     |                 7% |
+| Folate (B9)                          | 24 µg       |                 6% |
+| Vitamin B12                          | 0.45 µg     |                19% |
+| Calcium                              | 28 mg       |                 3% |
+| Iron                                 | 0.9 mg      |                11% |
+| Phosphorus                           | 99 mg       |                14% |
+| Selenium                             | 15.4 µg     |                28% |
+| Zinc                                 | 0.6 mg      |                 6% |
+| Magnesium                            | 6 mg        |                 1% |
+| Copper                               | 0.05 mg     |                 4% |
+| Manganese                            | 0.001 mg    |                 1% |
 
 Percent Daily Values are based on a 2,000-calorie diet (choline % is against
 the Adequate Intake). Values reflect the USDA FoodData Central entry for a raw,
@@ -84,9 +84,9 @@ slightly unless added fat is used.
 Eggs are rich in micronutrients, with the yolk containing the vast majority of
 vitamins and minerals.
 
-* **Choline:** A single egg provides roughly **147 mg** (about 27% of the daily
-  adequate intake), which is crucial for brain health and cell membrane
-  function.
+* **[Choline](../Supplements/Choline.md):** A single egg provides roughly **147
+  mg** (about 27% of the daily adequate intake), which is crucial for brain 
+  health and cell membrane function.
 * **B Vitamins:** Eggs are packed with B vitamins, particularly **vitamin B12**,
   riboflavin (B2), and folate. One egg offers about **0.45 mcg**
   (19% of the Daily Value) of vitamin B12 which is essential for nerve
@@ -211,8 +211,8 @@ research has shifted this perspective.
 * **Heart Disease Risk:** For the majority of healthy people, moderate egg
   consumption (up to seven eggs per week) does not increase the risk of heart
   disease. The nutrient profile, including omega-3 fatty acids (in enriched
-  eggs) and choline, may actually support heart health by lowering triglycerides
-  and reducing inflammation.
+  eggs) and [choline](../Supplements/Choline.md), may actually support heart 
+  health by lowering triglycerides and reducing inflammation.
 * **Preparation Matters:** The health impact can depend on preparation; boiling
   or poaching is healthier than frying in saturated fats or serving with
   processed meats like bacon.

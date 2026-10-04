@@ -51,14 +51,14 @@ A list of my daily supplements
 | Manganese (as manganese glycinate)                                                              |               2 mg |           87% |
 | Chromium (as chromium picolinate)                                                               |             120 μg |          343% |
 | Molybdenum (as molybdenum amino acid chelate)                                                   |              40 μg |           89% |
-| Inositol                                                                                        |              10 mg |               |
+| [Inositol](./Inositol.md)                                                                       |              10 mg |               |
 | Lutein                                                                                          |               1 mg |               |
 | Zeaxanthin                                                                                      |              40 μg |               |
 
 110 mg of Proprietary Women's Support Blend
 * Chasteberry Extract (Vitex agnus castus) (fruit)
 * Cranberry Extract (Vaccinium macrocarpon) (fruit)
-* Ashwagandha Extract (Withania somnifera) (root)
+* [Ashwagandha](./Ashwagandha.md) Extract (Withania somnifera) (root)
 * Pomegranate Extract (Punica granatum) (fruit)
 * Dong Quai (Angelica sinensis) (root)
 * Hydrolyzed Collagen Peptides
@@ -66,16 +66,16 @@ A list of my daily supplements
 ## B-100 Details  
 This supplement is no longer necessary after changing multivitamins.  
 
-| Nutrient                                     |             Amount per Serving | % Daily Value |
-|:---------------------------------------------|-------------------------------:|--------------:|
-| Thiamin (from Thiamin HCl) (Vitamin B-1)     |                         100 mg |         8333% |
-| Riboflavin (Vitamin B-2)                     |                         100 mg |         7692% |
-| Niacin (Vitamin B-3) (as Niacinamide)        |                         100 mg |          625% |
-| Vitamin B-6 (from Pyridoxine HCl)            |                         100 mg |         5882% |
-| Folate                                       | 680 μg DFE (400 μg folic acid) |          170% |
-| Vitamin B-12 (as Cyanocobalamin)             |                         100 μg |         4167% |
-| Biotin                                       |                         100 μg |          333% |
-| Pantothenic Acid (from Calcium Pantothenate) |                         100 mg |         2000% |
-| Choline (from Choline Bitartrate)            |                          10 mg |            2% |
-| Inositol                                     |                          10 mg |               |
-| PABA (Para-Aminobenzoic Acid)                |                          10 mg |               |
+| Nutrient                                          |             Amount per Serving | % Daily Value |
+|:--------------------------------------------------|-------------------------------:|--------------:|
+| Thiamin (from Thiamin HCl) (Vitamin B-1)          |                         100 mg |         8333% |
+| Riboflavin (Vitamin B-2)                          |                         100 mg |         7692% |
+| Niacin (Vitamin B-3) (as Niacinamide)             |                         100 mg |          625% |
+| Vitamin B-6 (from Pyridoxine HCl)                 |                         100 mg |         5882% |
+| Folate                                            | 680 μg DFE (400 μg folic acid) |          170% |
+| Vitamin B-12 (as Cyanocobalamin)                  |                         100 μg |         4167% |
+| Biotin                                            |                         100 μg |          333% |
+| Pantothenic Acid (from Calcium Pantothenate)      |                         100 mg |         2000% |
+| [Choline](./Choline.md) (from Choline Bitartrate) |                          10 mg |            2% |
+| [Inositol](./Inositol.md)                         |                          10 mg |               |
+| PABA (Para-Aminobenzoic Acid)                     |                          10 mg |               |

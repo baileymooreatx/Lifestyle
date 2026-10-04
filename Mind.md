@@ -149,7 +149,7 @@ Provided by  Dr. Eric Berg's YouTube video
 * [Probiotics](https://www.youtube.com/watch?v=lSwHXE9LohA&t=590s)
 * [Sunlight](https://www.youtube.com/watch?v=lSwHXE9LohA&t=675s) - infrared  
 * Plant-based [phytonutrients](https://www.youtube.com/watch?v=lSwHXE9LohA&t=708s)
-* [Choline](https://www.youtube.com/watch?v=lSwHXE9LohA&t=720s&pp=0gcJCTAAlc8ueATH)
+* [Choline](./Supplements/Choline.md)
 * [Grass-fed animal products](https://www.youtube.com/watch?v=lSwHXE9LohA&t=748s)
 * [Sufficient sleep](https://www.youtube.com/watch?v=lSwHXE9LohA&t=770s)
 * Small to moderate amounts of [coffee](https://www.youtube.com/watch?v=lSwHXE9LohA&t=784s&pp=0gcJCTAAlc8ueATH)

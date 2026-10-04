@@ -10,7 +10,7 @@
 
 # Horseradish
 
-Horseradish is a **root vegetable**. It is the hardy, perennial root of the
+Horseradish is a root vegetable. It is the hardy, perennial root of the
 *Armoracia rusticana* plant, which belongs to the *Brassicaceae* family (also
 known as the mustard or cabbage family). This makes it closely related to other
 root vegetables and cruciferous vegetables like radishes, mustard, wasabi,
@@ -22,28 +22,30 @@ culinarily, it is classified as a vegetable root.
 
 Here's the nutrient profile for **1 teaspoon (5 g) of prepared horseradish**.
 
-| **Nutrient**       | **Amount** | **% Daily Value** |
-|:-------------------|:-----------|------------------:|
-| Calories           | 2          |                0% |
-| Total Fat          | 0.03 g     |                0% |
-| Saturated Fat      | 0 g        |                0% |
-| Cholesterol        | 0 mg       |                0% |
-| Sodium             | 21 mg      |                1% |
-| Total Carbohydrate | 0.56 g     |                0% |
-| Dietary Fiber      | 0.17 g     |                1% |
-| Total Sugars       | 0.40 g     |                1% |
-| Protein            | 0.06 g     |                0% |
-| Vitamin C          | 1.2 mg     |                1% |
-| Vitamin D          | 0 mcg      |                0% |
-| Calcium            | 2.8 mg     |                0% |
-| Iron               | 0.02 mg    |                0% |
-| Magnesium          | 1.35 mg    |                0% |
-| Phosphorus         | 1.55 mg    |                0% |
-| Potassium          | 12.3 mg    |                0% |
-| Zinc               | 0.04 mg    |                0% |
-| Choline            | 0.33 mg    |                0% |
+| **Nutrient**                         | **Amount** | **% Daily Value** |
+|:-------------------------------------|:-----------|------------------:|
+| Calories                             | 2          |                0% |
+| Total Fat                            | 0.03 g     |                0% |
+| Saturated Fat                        | 0 g        |                0% |
+| Cholesterol                          | 0 mg       |                0% |
+| Sodium                               | 21 mg      |                1% |
+| Total Carbohydrate                   | 0.56 g     |                0% |
+| Dietary Fiber                        | 0.17 g     |                1% |
+| Total Sugars                         | 0.40 g     |                1% |
+| Protein                              | 0.06 g     |                0% |
+| Vitamin C                            | 1.2 mg     |                1% |
+| Vitamin D                            | 0 mcg      |                0% |
+| Calcium                              | 2.8 mg     |                0% |
+| Iron                                 | 0.02 mg    |                0% |
+| Magnesium                            | 1.35 mg    |                0% |
+| Phosphorus                           | 1.55 mg    |                0% |
+| Potassium                            | 12.3 mg    |                0% |
+| Zinc                                 | 0.04 mg    |                0% |
+| [Choline](../Supplements/Choline.md) | 0.33 mg    |                0% |
 
-Values are based on prepared horseradish (USDA data). Raw horseradish differs slightly—e.g., raw is higher in vitamin C (~1.25 mg per tsp) and lower in sodium.
+Values are based on prepared horseradish (USDA data). Raw horseradish differs 
+slightly, e.g., raw is higher in vitamin C (~1.25 mg per tsp) and lower in 
+sodium.
 
 ## Health Benefits
 

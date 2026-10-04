@@ -111,9 +111,9 @@ day.
 
 Myo-inositol is a supplement with essentially zero side effects at 4 g/day, no
 meaningful drug interactions, and it works on the *actual insulin signaling
-pathway* rather than a downstream proxy. Paired with berberine (AMPK) and
-magnesium (receptor kinase cofactor), insulin sensitivity is covered from
-three complementary angles. 2022 head-to-head data showing ~2 times the
+pathway* rather than a downstream proxy. Paired with [berberine](./Berberine.md) 
+(AMPK) and magnesium (receptor kinase cofactor), insulin sensitivity is covered 
+from three complementary angles. 2022 head-to-head data showing ~2 times the
 Homeostatic Model Assessment of [Insulin Resistance](../InsulinResistance.md) 
 ([HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir)) 
 improvement over metformin makes it arguably the highest evidence-per-dollar 

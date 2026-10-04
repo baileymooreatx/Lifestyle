@@ -42,38 +42,38 @@ sulforaphane.
 
 Here's the nutritional profile for 1 cup of cooked broccoli.
 
-| **Nutrient**          | **Amount (per 1 cup / 156 g)** | **% Daily Value** |
-|:----------------------|:-------------------------------|------------------:|
-| Calories              | 55 kcal                        |                 — |
-| Protein               | 3.7 g                          |                7% |
-| Total Fat             | 0.6 g                          |                1% |
-| Saturated Fat         | 0.1 g                          |                0% |
-| Total Carbohydrates   | 11.2 g                         |                4% |
-| Dietary Fiber         | 5.1 g                          |               18% |
-| Sugars                | 2.2 g                          |                 — |
-| Vitamin A (RAE)       | 120 mcg                        |               13% |
-| Beta-carotene         | 1,449 mcg                      |               13% |
-| Vitamin C             | 101 mg                         |              112% |
-| Vitamin E             | 2.3 mg                         |               15% |
-| Vitamin K             | 164 mcg                        |              137% |
-| Thiamin (B1)          | 0.1 mg                         |                8% |
-| Riboflavin (B2)       | 0.19 mg                        |               15% |
-| Niacin (B3)           | 0.86 mg                        |                5% |
-| Pantothenic acid (B5) | 0.96 mg                        |               19% |
-| Vitamin B6            | 0.31 mg                        |               18% |
-| Folate (B9)           | 108 mcg                        |               27% |
-| Choline               | 62.6 mg                        |               12% |
-| Calcium               | 62 mg                          |                5% |
-| Iron                  | 1.0 mg                         |                6% |
-| Magnesium             | 33 mg                          |                8% |
-| Phosphorus            | 105 mg                         |                8% |
-| Potassium             | 457 mg                         |               10% |
-| Sodium                | 64 mg                          |                3% |
-| Manganese             | 0.2 mg                         |                9% |
-| Copper                | 0.1 mg                         |               10% |
-| Zinc                  | 0.5 mg                         |                4% |
-| Selenium              | 1.3 mcg                        |                2% |
-| Lutein + Zeaxanthin   | 1,685 mcg                      |                 — |
+| **Nutrient**                         | **Amount (per 1 cup / 156 g)** | **% Daily Value** |
+|:-------------------------------------|:-------------------------------|------------------:|
+| Calories                             | 55 kcal                        |                 — |
+| Protein                              | 3.7 g                          |                7% |
+| Total Fat                            | 0.6 g                          |                1% |
+| Saturated Fat                        | 0.1 g                          |                0% |
+| Total Carbohydrates                  | 11.2 g                         |                4% |
+| Dietary Fiber                        | 5.1 g                          |               18% |
+| Sugars                               | 2.2 g                          |                 — |
+| Vitamin A (RAE)                      | 120 mcg                        |               13% |
+| Beta-carotene                        | 1,449 mcg                      |               13% |
+| Vitamin C                            | 101 mg                         |              112% |
+| Vitamin E                            | 2.3 mg                         |               15% |
+| Vitamin K                            | 164 mcg                        |              137% |
+| Thiamin (B1)                         | 0.1 mg                         |                8% |
+| Riboflavin (B2)                      | 0.19 mg                        |               15% |
+| Niacin (B3)                          | 0.86 mg                        |                5% |
+| Pantothenic acid (B5)                | 0.96 mg                        |               19% |
+| Vitamin B6                           | 0.31 mg                        |               18% |
+| Folate (B9)                          | 108 mcg                        |               27% |
+| [Choline](../Supplements/Choline.md) | 62.6 mg                        |               12% |
+| Calcium                              | 62 mg                          |                5% |
+| Iron                                 | 1.0 mg                         |                6% |
+| Magnesium                            | 33 mg                          |                8% |
+| Phosphorus                           | 105 mg                         |                8% |
+| Potassium                            | 457 mg                         |               10% |
+| Sodium                               | 64 mg                          |                3% |
+| Manganese                            | 0.2 mg                         |                9% |
+| Copper                               | 0.1 mg                         |               10% |
+| Zinc                                 | 0.5 mg                         |                4% |
+| Selenium                             | 1.3 mcg                        |                2% |
+| Lutein + Zeaxanthin                  | 1,685 mcg                      |                 — |
 
 *Values are based on USDA data for cooked broccoli (boiled, drained). Steaming
 for 2–3 minutes retains slightly more vitamin C and sulforaphane than boiling,

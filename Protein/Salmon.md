@@ -56,35 +56,35 @@ Here's the full nutrient profile for **one 3.5 oz (100 g) serving of raw,
 wild-caught sockeye salmon**, based primarily on USDA National Nutrient Database
 values.
 
-| **Nutrient**          |        **Amount** | **% Daily Value** |
-|:----------------------|------------------:|------------------:|
-| Calories              |          168 kcal |                8% |
-| Protein               |            21.3 g |               43% |
-| Total Fat             |            8.56 g |               11% |
-| — Saturated Fat       |            1.50 g |                8% |
-| — Monounsaturated Fat |             2.2 g |                 — |
-| — Polyunsaturated Fat |             1.4 g |                 — |
-| Carbohydrates         |               0 g |                0% |
-| Cholesterol           |             62 mg |               21% |
-| Sodium                |             92 mg |                4% |
-| Potassium             |            436 mg |                9% |
-| Calcium               |             11 mg |                1% |
-| Iron                  |           0.43 mg |                2% |
-| Magnesium             |             36 mg |                9% |
-| Phosphorus            |            305 mg |               22% |
-| Selenium              |             47 µg |               85% |
-| Zinc                  |           0.46 mg |                4% |
-| Vitamin A             |         58 µg RAE |                7% |
-| Vitamin D             | 16.75 µg (670 IU) |               84% |
-| Vitamin E             |           0.99 mg |                7% |
-| Thiamin (B1)          |           0.20 mg |               17% |
-| Riboflavin (B2)       |           0.15 mg |               11% |
-| Niacin (B3)           |           5.78 mg |               35% |
-| Pantothenic Acid (B5) |           0.61 mg |               12% |
-| Vitamin B6            |           0.19 mg |               11% |
-| Folate (B9)           |              7 µg |                2% |
-| Vitamin B12           |           4.31 µg |              179% |
-| Choline               |           94.6 mg |               18% |
+| **Nutrient**                         |        **Amount** | **% Daily Value** |
+|:-------------------------------------|------------------:|------------------:|
+| Calories                             |          168 kcal |                8% |
+| Protein                              |            21.3 g |               43% |
+| Total Fat                            |            8.56 g |               11% |
+| — Saturated Fat                      |            1.50 g |                8% |
+| — Monounsaturated Fat                |             2.2 g |                 — |
+| — Polyunsaturated Fat                |             1.4 g |                 — |
+| Carbohydrates                        |               0 g |                0% |
+| Cholesterol                          |             62 mg |               21% |
+| Sodium                               |             92 mg |                4% |
+| Potassium                            |            436 mg |                9% |
+| Calcium                              |             11 mg |                1% |
+| Iron                                 |           0.43 mg |                2% |
+| Magnesium                            |             36 mg |                9% |
+| Phosphorus                           |            305 mg |               22% |
+| Selenium                             |             47 µg |               85% |
+| Zinc                                 |           0.46 mg |                4% |
+| Vitamin A                            |         58 µg RAE |                7% |
+| Vitamin D                            | 16.75 µg (670 IU) |               84% |
+| Vitamin E                            |           0.99 mg |                7% |
+| Thiamin (B1)                         |           0.20 mg |               17% |
+| Riboflavin (B2)                      |           0.15 mg |               11% |
+| Niacin (B3)                          |           5.78 mg |               35% |
+| Pantothenic Acid (B5)                |           0.61 mg |               12% |
+| Vitamin B6                           |           0.19 mg |               11% |
+| Folate (B9)                          |              7 µg |                2% |
+| Vitamin B12                          |           4.31 µg |              179% |
+| [Choline](../Supplements/Choline.md) |           94.6 mg |               18% |
 
 % Daily Values based on a 2,000-calorie diet (FDA guidelines).
 

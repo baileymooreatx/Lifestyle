@@ -58,8 +58,9 @@ effects.
 * **Alzheimer’s and Dementia:** Vitamin E protects brain cells from oxidative
   stress, potentially lowering the risk of Alzheimer’s and dementia by up to 
   **25%**.
-* **Cognitive Function:** Pecans contain **choline** and healthy fats that
-  support memory and may prevent age-related cognitive decline.
+* **Cognitive Function:** Pecans contain [choline](../Supplements/Choline.md)
+  and healthy fats that support memory and may prevent age-related cognitive 
+  decline.
 * **Nervous System Protection:** The blend of B vitamins and minerals supports
   the nervous system, with research suggesting a role in protecting against
   neurodegenerative diseases like Parkinson’s.

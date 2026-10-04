@@ -99,8 +99,8 @@ becomes capable of efficiently switching between burning sugar and fat.
 
 [Ben Azadi](https://www.youtube.com/watch?v=_DXmxRAlDuY) advocates for specific 
 supplementation, specifically [creatine](./Supplements/Creatine.md) and 
-**magnesium glycinate**, to support muscle recovery and sleep, which are vital 
-for metabolic repair.
+[magnesium glycinate](./Supplements/MagnesiumGlycinate.md), to support muscle 
+recovery and sleep, which are vital for metabolic repair.
 
 ## Health Potions  
 

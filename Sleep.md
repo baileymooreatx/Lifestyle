@@ -11,8 +11,8 @@
     - [Substances to Limit](#substances-to-limit)
     - [Environment](#environment)
     - [Stress & Wind-down](#stress--wind-down)
+    - [Duration](#duration)
     - [Other](#other)
-  - [Duration](#duration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -166,15 +166,7 @@ Chronic stress elevates nighttime cortisol, which directly competes with
 melatonin. A 5 to 10 minute wind-down (slow breathing at 4–6 breaths/min, 
 gentle stretching, journaling, reading) helps lower arousal.
 
-### Other
-
-- Avoid large meals within 3 hours of bed.
-- Limit or eliminate long daytime naps.
-- If poor deep sleep persists despite good habits, get screened for **sleep
-  apnea or other sleep disorders**, which can fragment and suppress slow-wave
-  sleep.
-
-## Duration
+### Duration
 
 For someone in their 50s, the typical target is **45 to 80 minutes of deep sleep
 per night** (roughly 10–16% of an 8-hour sleep period). This is lower than the
@@ -206,3 +198,11 @@ sign of poor sleep.
   on a 7 to 9 hour night, that's well within normal. If you are consistently 
   below ~35 minutes and waking unrefreshed, it's worth a conversation with a 
   doctor. However, a single low night means nothing.
+
+### Other
+
+- Avoid large meals within 3 hours of bed.
+- Limit or eliminate long daytime naps.
+- If poor deep sleep persists despite good habits, get screened for **sleep
+  apnea or other sleep disorders**, which can fragment and suppress slow-wave
+  sleep.

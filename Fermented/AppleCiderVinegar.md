@@ -129,7 +129,7 @@ two main mechanisms:
 To achieve these blood sugar benefits safely:
 
 * **Effective Dose**: The standard studied dose is **1 to 2 tablespoons (15 to 30
-  ml)** diluted in water, taken **immediately before** or with a meal.
+  ml)** diluted in water, taken **15 to 20 minutes before** or with a meal.
 * **Medication Warning**: Because ACV lowers blood sugar, combining it with
   **diabetes medications** (such as insulin or sulfonylureas) can cause
   **hypoglycemia** (dangerously low blood sugar). Patients on these medications

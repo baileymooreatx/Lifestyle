@@ -47,10 +47,10 @@ compared to other forms (oxide, citrate), and it's gentle on the stomach.
 
 **What the evidence says:** A 2025 randomized trial of 155 adults found **modest
 but statistically significant** improvements in insomnia severity after 28 days.
-A 2021 meta-analysis of three random control trials found magnesium users fell 
-asleep ~17 minutes faster and slept ~16 minutes longer, though researchers 
-rated overall evidence quality as **low**. Cleveland Clinic notes the evidence 
-is "thin" but acknowledges some people do find it helpful.
+A 2021 meta-analysis of three randomized controlled trials (RCTs) found 
+magnesium users fell asleep ~17 minutes faster and slept ~16 minutes longer, 
+though researchers rated overall evidence quality as **low**. Cleveland Clinic 
+notes the evidence is "thin" but acknowledges some people do find it helpful.
 
 ## Dosage  
 

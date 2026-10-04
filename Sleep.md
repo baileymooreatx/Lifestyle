@@ -12,6 +12,7 @@
     - [Environment](#environment)
     - [Stress & Wind-down](#stress--wind-down)
     - [Other](#other)
+  - [Duration](#duration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -42,15 +43,15 @@ From YouTube video
 These supplements are recommended for people over fifty, who frequently have
 issues with restful sleep.
 
-| Supplement        | Sleep issue                          | Dosage and timing                                                   |
-|:------------------|:-------------------------------------|:--------------------------------------------------------------------|
-| Glycine           | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
-| L-theanin         | Restless overactive mind             | 200 mg capsule an hour before bed                                   |
-| Magnolia Bark     | Waking before morning                | 200 upto 400 mg one hour before bed                                 |
-| Valerian and Hops | Difficulty falling asleep            | 300 to 500 mg of valerian extract<br> 100 to 200 mg of hops extract |
-| Jujube            | Night sweats and agitation           | Follow the label instructions and take 30 to 60 minutes before bed  |
-| Folate            | Restless leg syndrome                | 0.5 mg in the morning or at lunch                                   |
-| 5-HTP             | Insomnia or irregular sleep schedule | 100 to 200 mg 30 minutes to one hour before bed                     |
+| Supplement                      | Sleep issue                          | Dosage and timing                                                   |
+|:--------------------------------|:-------------------------------------|:--------------------------------------------------------------------|
+| Glycine                         | Restless overactive mind             | 3 g of powder 30 minutes to an hour before bed                      |
+| L-theanin                       | Restless overactive mind             | 200 mg capsule an hour before bed                                   |
+| Magnolia Bark                   | Waking before morning                | 200 upto 400 mg one hour before bed                                 |
+| Valerian and Hops               | Difficulty falling asleep            | 300 to 500 mg of valerian extract<br> 100 to 200 mg of hops extract |
+| Jujube                          | Night sweats and agitation           | Follow the label instructions and take 30 to 60 minutes before bed  |
+| Folate                          | Restless leg syndrome                | 0.5 mg in the morning or at lunch                                   |
+| [5-HTP](./Supplements/5-HTP.md) | Insomnia or irregular sleep schedule | 100 to 200 mg 30 minutes to one hour before bed                     |
 
 1. [Glycine](https://www.youtube.com/watch?v=aGH6eMNXF20&list=WL&index=11&t=77s)
    production decreases with age. Glycine triggers peripheral vasodialation,
@@ -167,8 +168,41 @@ gentle stretching, journaling, reading) helps lower arousal.
 
 ### Other
 
-- Avoid large meals within 2–3 hours of bed.
+- Avoid large meals within 3 hours of bed.
 - Limit or eliminate long daytime naps.
 - If poor deep sleep persists despite good habits, get screened for **sleep
   apnea or other sleep disorders**, which can fragment and suppress slow-wave
   sleep.
+
+## Duration
+
+For someone in their 50s, the typical target is **45 to 80 minutes of deep sleep
+per night** (roughly 10–16% of an 8-hour sleep period). This is lower than the
+60 to 110 minutes common in your 20s–30s, and the decline is normal aging, not a
+sign of poor sleep.
+
+- **Menopause fragments deep sleep.** The drop in estrogen and progesterone,
+  plus hot flashes and night sweats, tend to break up the first half of the
+  night, which is where most deep sleep occurs. This is why post-menopausal
+  women often report lighter, more interrupted sleep even when total hours are
+  adequate.
+- **Aim for 7 to 9 hours total sleep.** The National Sleep Foundation and 
+  American Academy of Sleep Medicine still recommend this range for 50-year-old 
+  adults. Deep sleep naturally takes up a smaller *percentage* of that total as 
+  you age.
+- **Track your 7-day average, not single nights.** Night-to-night variation and
+  wearable error each run 20 to 30 minutes, so one low reading means little. If
+  your weekly average consistently sits below ~45 minutes and you're waking
+  unrefreshed, it's worth discussing with your doctor.
+- **Men lose deep sleep faster with age.** Multiple studies confirm that men
+  experience a steeper age-related decline in slow-wave sleep than women. The
+  gap is small at 57 but grows noticeably by the 70s, where men average ~5% deep
+  sleep vs. 15–20% for women.
+- **The sex difference in mid-50s is modest.** One large actigraphy study found 
+  **no significant sleep differences between men and women over 40**, suggesting
+  the hormonal advantage women had pre-menopause largely evens out. Another 
+  source notes the gap "narrows after menopause."
+- **Practical takeaway:** If you are getting **~40–60 minutes** of deep sleep 
+  on a 7 to 9 hour night, that's well within normal. If you are consistently 
+  below ~35 minutes and waking unrefreshed, it's worth a conversation with a 
+  doctor. However, a single low night means nothing.

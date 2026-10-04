@@ -21,6 +21,10 @@ the highest concentration of nutrients, antioxidants, and healthy fats. It is a
 cornerstone of the Mediterranean diet and offers extensive health benefits 
 supported by scientific research.  
 
+Note: Extra virgin olive oil should be **early harvest** and **cold pressed** 
+in **dark glass** (e.g., green or amber) or metal can to prevent light 
+exposure. Avoid plastic which can leach into the oil.  
+
 ## Nutritional Profile  
 
 One tablespoon (approximately 14 grams) of Extra Virgin Olive Oil typically

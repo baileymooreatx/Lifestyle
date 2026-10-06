@@ -6,6 +6,8 @@
   - [Key Characteristics](#key-characteristics)
   - [Common Examples](#common-examples)
   - [Pulses vs. Legumes](#pulses-vs-legumes)
+  - [Protein](#protein)
+  - [Fiber](#fiber)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -48,3 +50,51 @@ distinction.
   green bean is a legume vegetable, but once dried, the seed inside becomes a
   pulse. Soybeans and peanuts are excluded from the pulse category because they
   are primarily grown for oil extraction and have higher fat content.  
+
+## Protein
+
+Here are common pulses ranked by protein content per cup (cooked):
+
+| **Pulse**             | **Protein** (g/cup cooked) |
+|:----------------------|---------------------------:|
+| Soybeans              |                       31.3 |
+| Lentils (green/brown) |                       17.9 |
+| White beans           |                       17.4 |
+| Adzuki beans          |                       17.3 |
+| Pinto beans           |                       15.4 |
+| Red kidney beans      |                       15.3 |
+| Black beans           |                       15.2 |
+| Navy beans            |                       15.0 |
+| Great Northern beans  |                       14.7 |
+| Lima beans            |                       14.7 |
+| Chickpeas             |                       14.5 |
+| Mung beans            |                       14.2 |
+| Black-eyed peas       |                       13.9 |
+| Fava beans            |                       12.9 |
+
+**Soybeans** are the clear leader at ~31 g per cup, more than double most other
+pulses. Among the more widely used everyday pulses, **lentils** (~18 g) and 
+**white beans** (~17 g) are the next highest, while chickpeas, black beans, and
+kidney beans all land in the 14 to 15 g range.
+
+## Fiber
+
+| **Pulse**                  | **Fiber** (g/cup cooked) |
+|:---------------------------|-------------------------:|
+| Navy beans                 |                     19.1 |
+| Small white beans          |                     19.0 |
+| Adzuki beans               |                     16.8 |
+| Split peas                 |                     16.3 |
+| Lentils (green/brown)      |                     15.6 |
+| Cranberry (Borlotti) beans |                     15.2 |
+| Black beans                |                     15.0 |
+| Pinto beans                |                     15.0 |
+| Mung beans                 |                     15.0 |
+| Red kidney beans           |                     13.1 |
+| Chickpeas                  |                     12.5 |
+| Soybeans                   |                     10.3 |
+
+**Navy beans** lead at ~19 g per cup, followed closely by small white beans. 
+**Split peas** and **adzuki beans** round out the top tier at ~16 to 17 g. 
+One cup of these covers roughly 55–68% of the recommended daily fiber intake 
+(28 g).

@@ -25,8 +25,8 @@
 Inositol is a six-carbon sugar alcohol (not a true vitamin, despite the "vitamin
 B8" nickname) that plays several key metabolic roles:
 
-- **Insulin signaling**: It is the structural basis for **inositol phosphates
-  ** (e.g., IP₃, IP₄, IP₆) and **inositol phosphate glycans (IPGs)**, which act
+- **Insulin signaling**: It is the structural basis for **inositol phosphates**
+   (e.g., IP₃, IP₄, IP₆) and **inositol phosphate glycans (IPGs)**, which act
   as second messengers downstream of the insulin receptor. These messengers
   activate the PI3K/Akt pathway, promoting **GLUT4 translocation** to the cell
   membrane and enhancing glucose uptake and glycogen synthesis.

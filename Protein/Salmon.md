@@ -26,8 +26,8 @@
 
 Salmon is a nutritional powerhouse, rich in omega-3 fatty acids (EPA and DHA), 
 high-quality complete protein, vitamin D, B vitamins (B12, B6, niacin), 
-selenium, potassium, and astaxanthin (the powerful antioxidant that gives 
-salmon its pink color).
+selenium, potassium, and [astaxanthin](../Supplements/Astaxanthin.md) (the 
+powerful antioxidant that gives salmon its pink color).
 
 Key health benefits include:
 

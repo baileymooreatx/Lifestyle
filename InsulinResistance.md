@@ -158,8 +158,8 @@ insulin resistant**.
   for diabetes).
 - It can detect insulin resistance even in **normal-weight** people and those
   with **normal glucose**, during the compensatory hyperinsulinemia phase.
-- It reflects both **hepatic and peripheral (adipose/muscle) insulin resistance
-  **, whereas HOMA-IR leans more toward hepatic.
+- It reflects both **hepatic and peripheral (adipose/muscle) insulin 
+  resistance**, whereas HOMA-IR leans more toward hepatic.
 
 **vs. HOMA-IR / fasting insulin:** HOMA-IR is calculated from fasting
 glucose and insulin and has high day-to-day variability; fasting insulin

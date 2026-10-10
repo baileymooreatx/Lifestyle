@@ -75,10 +75,11 @@ content.
 ## Gut Health & Microbiome
 
 The 12.5 g of fiber per cup (including resistant starch) feeds beneficial gut
-bacteria and stimulates production of **short-chain fatty acids** like butyrate,
-which supports intestinal barrier integrity, reduces inflammation, and may lower
-colorectal cancer risk. Chickpeas also contain alpha-galactosidase, which has
-been shown to increase *Bifidobacteria* and *Lactobacilli* levels in the gut.
+bacteria and stimulates production of **short-chain fatty acids** like 
+[butyrate](../Butyrate.md), which supports intestinal barrier integrity, reduces 
+inflammation, and may lower colorectal cancer risk. Chickpeas also contain 
+alpha-galactosidase, which has been shown to increase *Bifidobacteria* and 
+*Lactobacilli* levels in the gut.
 
 ## Weight Management
 

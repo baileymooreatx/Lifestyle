@@ -138,7 +138,7 @@ shapes the health benefits a person derives from coffee.
 
 Coffee consumption enhances the production of 
 [short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md) such 
-as butyrate, propionate, and acetate. SCFAs are critical for:
+as [butyrate](../Butyrate.md), propionate, and acetate. SCFAs are critical for:
 
 * **Intestinal Barrier Integrity:** They nourish colon cells and tighten
   junctions between intestinal walls, reducing "leaky gut" and preventing the

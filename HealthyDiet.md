@@ -72,7 +72,7 @@
    distinct meals daily.
 6. Eat in the right order to prevent insulin spikes.
    Drink apple cider vinegar and water before 20 minutes before each meal. 
-   Consider adding inulin to increase fiber.   
+   Consider adding [inulin](./Supplements/Inulin.md) to increase fiber.   
    1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
       Eat salad or vegetables first.
    2. [Protein and Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)  

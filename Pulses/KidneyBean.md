@@ -72,8 +72,9 @@ starch-digesting inhibitors that further slow carb absorption.
 ## Gut & Colon Health  
 
 The fiber and resistant starch act as **prebiotics**, feeding beneficial gut
-bacteria. Fermentation produces short-chain fatty acids (butyrate, propionate)
-that nourish colon cells and may reduce the risk of **colorectal cancer**.
+bacteria. Fermentation produces short-chain fatty acids 
+([butyrate](../Butyrate.md), propionate) that nourish colon cells and may reduce 
+the risk of **colorectal cancer**.
 
 ## Rich in Micronutrients  
 

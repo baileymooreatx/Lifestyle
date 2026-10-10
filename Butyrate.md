@@ -51,6 +51,7 @@
       - [Systemic (plasma) butyrate](#systemic-plasma-butyrate)
       - [Key modifiers of the timeline](#key-modifiers-of-the-timeline)
       - [Practical summary](#practical-summary)
+  - [Questions](#questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -430,7 +431,7 @@ taxonomic group:
 | Faecalibacterium prausnitzii | IV          | 5–15% of fecal microbiota      | Most abundant BPB; potent anti-inflammatory; biomarker of gut health |
 | Eubacterium rectale          | XIVa        | Up to ~13% of fecal microbiota | One of the two most dominant groups                                  |
 | Roseburia intestinalis       | XIVa        | 0.9–5%                         | Strong mucin colonizer (84× enrichment on mucus)                     |
-| Roseburia inulinivorans      | XIVa        | Variable                       | Ferments inulin specifically                                         |
+| Roseburia inulinivorans      | XIVa        | Variable                       | Ferments [inulin](./Supplements/Inulin.md) specifically              |
 
 #### Secondary producers
 
@@ -574,15 +575,17 @@ production potential.
 
 ### 2. Prebiotic fibers (inulin, FOS, GOS, pectin, beta-glucan)
 
-Inulin and related fructans (from **Jerusalem artichoke, chicory root, garlic,
-onions, leeks, asparagus**) are the second-tier butyrogenic substrate. They work
-partly through **cross-feeding**: *Bifidobacterium* species ferment inulin to
-produce **acetate and lactate**, which are then consumed by butyrate producers
-like *Faecalibacterium prausnitzii* and *Roseburia* species. A 2024 intervention
-study showed Inulin-Type Fructans (ITF) increased *but*-containing taxa governed 
-by *Faecalibacterium* and *Anaerostipes*.  
+[Inulin](./Supplements/Inulin.md) and related fructans (from **Jerusalem 
+artichoke, chicory root, garlic, onions, leeks, asparagus**) are the second-tier 
+butyrogenic substrate. They work partly through **cross-feeding**: 
+*Bifidobacterium* species ferment inulin to produce **acetate and lactate**, 
+which are then consumed by butyrate producers like *Faecalibacterium prausnitzii* 
+and *Roseburia* species. A 2024 intervention study showed Inulin-Type Fructans 
+(ITF) increased *but*-containing taxa governed by *Faecalibacterium* and 
+*Anaerostipes*.  
 
-- Inulin
+**Key Sources:**  
+- Inulin powder
 - [Garlic](./Vegetables/Garlic.md), [onions](./Vegetables/Onion.md), leeks, 
   asparagus, chicory root, Jerusalem artichokes
 - Oats and barley (beta-glucan)

@@ -75,9 +75,9 @@ provide essential functions.
 
 ### Metabolic Contributions
 
-- **[SCFAs](./ShortChainFattyAcid.md)** (butyrate, propionate, acetate) from 
-  fiber fermentation → Treg induction, epithelial barrier reinforcement, 
-  anti-inflammatory signaling
+- **[SCFAs](./ShortChainFattyAcid.md)** ([butyrate](../Butyrate.md), propionate,  
+  acetate) from fiber fermentation → Treg induction, epithelial barrier
+  reinforcement, anti-inflammatory signaling
 - **Bile acid metabolism** (e.g., 7α-dehydroxylation by *Clostridium*
   clusters) → FXR receptor activation → mucosal barrier maintenance
 - **Vitamin synthesis** (K, B₁₂, folate)

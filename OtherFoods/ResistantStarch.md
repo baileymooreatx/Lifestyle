@@ -26,8 +26,8 @@ intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
 [short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md), 
-particularly **butyrate**, which act as the primary fuel source for colon cells 
-and drive most of the associated health benefits.  
+particularly **[butyrate](../Butyrate.md)**, which act as the primary fuel 
+source for colon cells and drive most of the associated health benefits.  
 
 ## Improved Gut Health and Microbiome Balance
 

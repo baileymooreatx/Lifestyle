@@ -24,10 +24,10 @@ of the [commensal bacterial](./CommensalBacteria.md) population, with ~300 to
 1,000 species represented inside the [gut lumen](./GutLumen.md).  
 
 It functions as a **metabolic and immunological organ**: fermenting indigestible
-dietary fiber into **short-chain fatty acids** (butyrate, propionate, acetate),
-synthesizing vitamins (K, B₁₂, folate), maintaining the intestinal epithelial
-barrier, training the immune system by promoting [Tregs](./T-Cell.md) and 
-driving [sIgA](./ImmunoglobulinA.md) production, providing **colonization 
+dietary fiber into **short-chain fatty acids** ([butyrate](../Butyrate.md), 
+propionate, acetate), synthesizing vitamins (K, B₁₂, folate), maintaining the 
+intestinal epithelial barrier, training the immune system by promoting 
+[Tregs](./T-Cell.md) and driving [sIgA](./ImmunoglobulinA.md) production, providing **colonization 
 resistance** against pathogens, and communicating with the brain via the vagus 
 nerve and circulating metabolites (the **gut–brain axis**).
 
@@ -52,8 +52,8 @@ tolerance**.
 ### Producing Key Metabolites
 
 Gut microbes ferment dietary fiber into 
-[short-chain fatty acids (SCFAs)](./ShortChainFattyAcid.md) like butyrate, 
-which: 
+[short-chain fatty acids (SCFAs)](./ShortChainFattyAcid.md) like 
+[butyrate](../Butyrate.md), which: 
 
 - Promote differentiation of **regulatory [T cells (Tregs)](./T-Cell.md)**, the 
   immune system's "brakes" that prevent autoimmunity

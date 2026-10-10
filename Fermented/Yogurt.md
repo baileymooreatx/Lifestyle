@@ -13,7 +13,7 @@
       - [Structural Trade-off](#structural-trade-off)
       - [For Ultra-pasteurized Half-and-half](#for-ultra-pasteurized-half-and-half)
     - [Inulin Powder](#inulin-powder)
-    - [Increased  Lactose](#increased--lactose)
+    - [Increased Lactose](#increased-lactose)
   - [New Starter Culture?](#new-starter-culture)
     - [Contamination](#contamination)
     - [Reset](#reset)
@@ -42,9 +42,17 @@ lower them into the Instant Pot.
 ### Ingredients
 
 Starter: 2 tablespoons previous batch of L. reuteri yogurt (whey or curds or
-mixture of both)
-1 tablespoon of inulin
-1 quart of organic ulta-pasteurized half-and-half
+mixture of both)  
+1 quart of organic ulta-pasteurized half-and-half  
+
+**Optional thickeners:**
+½ cup of non-fat powdered milk (more effective) 
+1 tablespoon of inulin (less effective)  
+
+The powdered milk will make the yogurt thicker, but it must be heated added 
+to the half-and-half while it is cold. Then the mixture needs to be 
+pasteurized. The instant pot has a "Boil" setting to do this. Switch to this 
+mode by pressing the Yogurt button until the display says "boil."
 
 ## Lactobacillis gasseri
 Starter microbes [Swanson Lactobacillus Gasseri](https://www.amazon.com/dp/B00OLQLS64)  
@@ -113,13 +121,13 @@ modest amount and dial up from there.
 
 **The "prebiotic food" claim is largely unsupported for these strains.**
 
-The standard pitch is that inulin feeds *L. reuteri* and *L. gasseri*, boosting
-growth and CFU counts. But a PLOS study found that *L. reuteri* DSM 17938 and
-ATCC PTA 6475 **cannot ferment inulin-type fructans as a carbon source**. The
-r/ReuteriYogurt community has converged on the same conclusion: "Studies have
-shown that *L. reuteri* does not effectively utilize inulin-type fructans as a
-growth substrate." *L. gasseri* is in a similar metabolic category. It's not a
-fructan fermenter.
+The standard pitch is that [inulin](../Supplements/Inulin.md) feeds *L. reuteri* 
+and *L. gasseri*, boosting growth and CFU counts. But a PLOS study found that 
+*L. reuteri* DSM 17938 and ATCC PTA 6475 **cannot ferment inulin-type fructans 
+as a carbon source**. The r/ReuteriYogurt community has converged on the same 
+conclusion: "Studies have shown that *L. reuteri* does not effectively utilize 
+inulin-type fructans as a growth substrate." *L. gasseri* is in a similar 
+metabolic category. It's not a fructan fermenter.
 
 So the "extra food for the bacteria" rationale doesn't hold up for these 
 specific strains. As one user put it: "you have roughly three times more lactose 
@@ -157,7 +165,7 @@ getting a thick, uniform curd, the inulin is doing very little. If you're
 getting excess whey separation, it might help a small amount — but guar gum (2
 tsp per quart) is a more direct fix for that.
 
-### Increased  Lactose
+### Increased Lactose
 
 Adding extra lactose will **not** make your yogurt thicker. The thickness in
 your ferment comes from **protein coagulation**. As the bacteria convert

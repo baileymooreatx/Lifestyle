@@ -240,8 +240,8 @@ adults revealed:
 * **Increase in Beneficial Bacteria**: Significant increases in
   *Faecalibacterium* and *Prevotella*, genera known for producing 
   [short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md) like  
-  butyrate and propionate, which reduce inflammation and support gut lining 
-  integrity.  
+  [butyrate](../Butyrate.md) and propionate, which reduce inflammation and
+  support gut lining integrity.  
 * **Decrease in Pathogens**: A reduction in potentially pathogenic bacteria and
   a lowered Firmicutes-to-Bacteroidetes ratio, a marker often associated with
   leaner body mass.

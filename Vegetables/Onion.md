@@ -36,15 +36,15 @@ A medium onion (about 110g) provides approximately **44 calories** and is
 naturally **fat-free, sodium-free, and cholesterol-free**. They are an excellent
 source of:
 
-* **Vitamin C**: Crucial for immune function, collagen production, tissue
+- **Vitamin C**: Crucial for immune function, collagen production, tissue
   repair, and acting as a potent antioxidant to protect cells from free radical
   damage.
-* **B Vitamins**: Rich in **folate (B9)** and **vitamin B6**, which support
+- **B Vitamins**: Rich in **folate (B9)** and **vitamin B6**, which support
   metabolism, red blood cell production, and nerve function.
-* **Potassium**: Essential for normal cellular function, fluid balance, nerve
+- **Potassium**: Essential for normal cellular function, fluid balance, nerve
   transmission, and muscle contraction.
-* **Fiber**: Provides dietary fiber, including prebiotics like **inulin** and *
-  *fructooligosaccharides (FOS)**.
+- **Fiber**: Provides dietary fiber, including prebiotics like 
+  [inulin](../Supplements/Inulin.md) and **fructooligosaccharides (FOS)**.
 
 ## Powerful Antioxidants and Phytochemicals
 
@@ -53,10 +53,10 @@ with strong anti-inflammatory, antiviral, and antioxidant properties. Research
 indicates that the absorption of quercetin from onions is **twice that from tea
 ** and **more than three times that from [apples](../Fruits/Apple.md)**.
 
-* **Red Onions**: Contain **anthocyanins** (which give them their deep color) in
+- **Red Onions**: Contain **anthocyanins** (which give them their deep color) in
   addition to quercetin, offering superior antioxidant capacity compared to
   yellow or white varieties.
-* **Organosulfur Compounds**: Compounds like **allicin** and **onionin A**
+- **Organosulfur Compounds**: Compounds like **allicin** and **onionin A**
   provide antibacterial, antifungal, and potential anti-cancer effects.
 
 ## Heart Health and Blood Pressure
@@ -103,10 +103,10 @@ A **2021 meta-analysis** of 10 randomized controlled trials involving 446
 participants found that onion supplementation significantly improved blood lipid
 profiles:
 
-* **LDL Cholesterol**: Reduced by an average of **6.64 mg/dL**
-* **HDL Cholesterol**: Increased by an average of **2.29 mg/dL**
-* **Total Cholesterol**: Reduced by approximately **5.39 mg/dL**
-* **Triglycerides**: No significant effect observed
+- **LDL Cholesterol**: Reduced by an average of **6.64 mg/dL**
+- **HDL Cholesterol**: Increased by an average of **2.29 mg/dL**
+- **Total Cholesterol**: Reduced by approximately **5.39 mg/dL**
+- **Triglycerides**: No significant effect observed
 
 The benefits were **more pronounced in individuals with existing dyslipidemia
 ** (high cholesterol), where LDL reductions reached **12.70 mg/dL** and total
@@ -116,11 +116,11 @@ cholesterol dropped by **17.23 mg/dL**.
 
 The cholesterol-lowering effects are primarily attributed to:
 
-* **Quercetin**: A powerful flavonoid antioxidant concentrated in onion skins
+- **Quercetin**: A powerful flavonoid antioxidant concentrated in onion skins
   and outer layers. Studies show quercetin-rich onion juice (100 mL daily for 8
   weeks) significantly decreased total cholesterol and LDL in mildly
   hypercholesterolemic adults.
-* **Organosulfur Compounds**: These compounds help inhibit cholesterol synthesis
+- **Organosulfur Compounds**: These compounds help inhibit cholesterol synthesis
   in the liver by restricting **HMG-CoA reductase activity** (the same enzyme
   targeted by statin medications) and enhance bile acid excretion.
 
@@ -128,10 +128,10 @@ The cholesterol-lowering effects are primarily attributed to:
 
 Research indicates benefits from various forms:
 
-* **Onion juice** (100–200 mL/day)
-* **Onion peel extract** supplements (340–1,000 mg/day)
-* **Steamed onions** (900 mg/day)
-* **Raw onions** in diet
+- **Onion juice** (100–200 mL/day)
+- **Onion peel extract** supplements (340–1,000 mg/day)
+- **Steamed onions** (900 mg/day)
+- **Raw onions** in diet
 
 Effects typically appear after **8–12 weeks** of consistent consumption. While
 onions are a beneficial dietary addition, they should complement—not
@@ -156,15 +156,15 @@ as incorrect conditions can lead to mold, sprouting, or texture loss.
 cold, humid environment causes them to convert starch to sugar, resulting in a
 soft, soggy texture and encouraging mold growth.
 
-* **Ideal Location**: A **cool, dark, dry, and well-ventilated** area such as a
+- **Ideal Location**: A **cool, dark, dry, and well-ventilated** area such as a
   pantry, cellar, or garage. The optimal temperature is between **45°F and 55°F
   ** (7°C–13°C).
-* **Best Containers**: Use **mesh bags, wire baskets, perforated plastic sacks,
+- **Best Containers**: Use **mesh bags, wire baskets, perforated plastic sacks,
   or open paper bags** to ensure maximum airflow. Avoid sealed plastic bags,
   which trap moisture and accelerate spoilage.
-* **Critical Rule**: **Never store onions near potatoes**. Potatoes release
+- **Critical Rule**: **Never store onions near potatoes**. Potatoes release
   moisture and ethylene gas, which causes onions to sprout and rot prematurely.
-* **Shelf Life**: When stored correctly, yellow and white storage onions can
+- **Shelf Life**: When stored correctly, yellow and white storage onions can
   last **2–3 months**, while sweeter varieties (like Vidalia) have a shorter
   lifespan of **2–4 weeks**.
 
@@ -173,22 +173,22 @@ soft, soggy texture and encouraging mold growth.
 Once an onion is peeled, halved, or chopped, its shelf life drops drastically,
 and it must be refrigerated to prevent bacterial growth.
 
-* **Storage Method**: Place cut onions in an **airtight container** (glass or
+- **Storage Method**: Place cut onions in an **airtight container** (glass or
   stainless steel is preferred over plastic to prevent odor absorption) and
   refrigerate immediately.
-* **Shelf Life**: Cut onions remain fresh for **7–10 days** in the refrigerator.
+- **Shelf Life**: Cut onions remain fresh for **7–10 days** in the refrigerator.
   Peeled whole onions can last up to **2 weeks**.
-* **Freezing**: For long-term storage, chop onions and freeze them in airtight
+- **Freezing**: For long-term storage, chop onions and freeze them in airtight
   bags for up to **6 months**. Note that frozen onions become soft upon thawing
   and are best used in cooked dishes rather than raw applications.
 
 ### Special Cases: Sweet Onions and Scallions
 
-* **Sweet Onions**: Varieties like Vidalia, Walla Walla, or Maui have higher
+- **Sweet Onions**: Varieties like Vidalia, Walla Walla, or Maui have higher
   water content and spoil faster. While they can be stored in a pantry for short
   periods, wrapping them individually in paper towels and refrigerating them can
   extend their freshness.
-* **Green Onions (Scallions)**: Unlike bulb onions, these require refrigeration.
+- **Green Onions (Scallions)**: Unlike bulb onions, these require refrigeration.
   Store them upright in a jar with an inch of water (covering the roots) and
   loosely cover the tops with a plastic bag, or wrap them in damp paper towels
   in the crisper drawer. They typically last **1–2 weeks** this way.
@@ -201,23 +201,23 @@ time to grow.
 
 ### Primary Triggers for Sprouting
 
-* **Warm Temperatures**: Storage temperatures above **70°F (21°C)** accelerate
+- **Warm Temperatures**: Storage temperatures above **70°F (21°C)** accelerate
   the onion's metabolic activity, depleting its stored energy and prompting it
   to sprout. Ideally, onions should be kept between **45°F and 55°F** 
   (7°C–13°C).
-* **High Humidity and Moisture**: Onions are highly sensitive to moisture. Damp
+- **High Humidity and Moisture**: Onions are highly sensitive to moisture. Damp
   environments or storage near moisture-releasing produce (like potatoes)
   activate enzymes that convert stored starches into sugars, fueling new shoot
   growth.
-* **Exposure to Light**: Onions possess photoreceptors that detect light.
+- **Exposure to Light**: Onions possess photoreceptors that detect light.
   Exposure to sunlight or bright artificial light signals the bulb to grow
   shoots toward the source.
-* **Ethylene Gas**: While onions themselves emit low levels of ethylene, storing
+- **Ethylene Gas**: While onions themselves emit low levels of ethylene, storing
   them near high ethylene-producing fruits (like [apples](../Fruits/Apple.md), 
   bananas, or citrus) can accelerate aging and sprouting. Conversely, storing 
   onions near **potatoes** is detrimental because potatoes release significant 
   moisture and gases that trigger onion sprouting.
-* **Age**: Even in perfect conditions, onions have a finite dormancy period. As
+- **Age**: Even in perfect conditions, onions have a finite dormancy period. As
   they age, their natural resistance to sprouting diminishes, and they will
   eventually begin to grow.
 
@@ -225,12 +225,12 @@ time to grow.
 
 To keep onions dormant and prevent sprouting:
 
-* **Store in a Cool, Dark, Dry Place**: A pantry, cellar, or garage with good
+- **Store in a Cool, Dark, Dry Place**: A pantry, cellar, or garage with good
   ventilation is ideal.
-* **Ensure Airflow**: Use mesh bags, wire baskets, or paper bags. Avoid plastic
+- **Ensure Airflow**: Use mesh bags, wire baskets, or paper bags. Avoid plastic
   bags, which trap humidity.
-* **Isolate from Other Produce**: Keep onions strictly separate from potatoes
+- **Isolate from Other Produce**: Keep onions strictly separate from potatoes
   and ethylene-producing fruits.
-* **Avoid Refrigeration**: Do not store whole onions in the fridge, as the
+- **Avoid Refrigeration**: Do not store whole onions in the fridge, as the
   humidity and cold can encourage mold and alter texture, though it may slow
   sprouting in the short term for sweet varieties.

@@ -32,8 +32,8 @@ the **most abundant microbial metabolites** in the [gut lumen](./GutLumen.md)
 | **Propionate** | C3      | ~15–25%               | *Bacteroides*, *Bifidobacterium*, *Roseburia*                                                |
 | **Butyrate**   | C4      | ~10–20%               | *Faecalibacterium prausnitzii*, *Roseburia*, *Eubacterium*, *Clostridium* clusters IV & XIVa |
 
-The ratio shifts with diet: high-fiber diets increase butyrate; 
-high-sugar/low-fiber diets reduce it.
+The ratio shifts with diet: high-fiber diets increase 
+[butyrate](../Butyrate.md); high-sugar/low-fiber diets reduce it.
 
 ## Three Major Signaling Mechanisms
 
@@ -49,7 +49,8 @@ SCFAs act on host cells through **three distinct, non-exclusive pathways**.
 
 ### Butyrate (C4) — The "Chief Regulator"
 
-Butyrate is the most immunologically potent SCFA and the one most studied.
+[Butyrate](../Butyrate.md) is the most immunologically potent SCFA and the one 
+most studied.
 
 **On epithelial cells:**
 
@@ -139,7 +140,7 @@ Butyrate is the most immunologically potent SCFA and the one most studied.
 
 Acetate is the **most abundant** SCFA and the one that most readily escapes the
 gut into systemic circulation (it is not consumed by colonocytes the way
-butyrate is).
+[butyrate](../Butyrate.md) is).
 
 **On T cells:**
 

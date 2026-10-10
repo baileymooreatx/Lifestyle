@@ -260,9 +260,9 @@ off-flavors.
 
 * **Best Option (Freezer):** Store at **0°F (-18°C)**. This virtually halts
   oxidation, preserving nutrients for **2–4 years**.
-* **Excellent Option (Refrigerator):** Store between **32°F to 40°F (0°C to 4°C)
-  **. This slows degradation significantly, keeping almonds fresh for **9 months
-  to 2 years**.
+* **Excellent Option (Refrigerator):** Store between **32°F to 40°F (0°C to
+  4°C)**. This slows degradation significantly, keeping almonds fresh for **9
+  months to 2 years**.
 * **Short-Term Only (Pantry):** Room temperature storage is only viable for **2
   to 4 weeks** after opening. Temperatures above **70°F (21°C)** rapidly degrade
   quality.

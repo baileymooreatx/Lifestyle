@@ -145,7 +145,7 @@ process itself**:
   DNA.
 - **Beta-carotene**: Supports eye health and acts as a free radical scavenger.
 - **β-sitosterol** and **benzyl isothiocyanate**: Additional phytochemicals with
-  anticarcinogenic and anti-aging properties.
+  anti-carcinogenic and anti-aging properties.
 
 In lab tests, kimchi's antioxidant capacity (measured by DPPH radical scavenging
 activity) reaches about **75%**, rivaling many fruit extracts. A 2021 Stanford
@@ -156,8 +156,8 @@ kimchi) decreased **19 inflammatory proteins** over 17 weeks.
 
 - Regular kimchi consumers in Korean studies tend to have **lower LDL
   cholesterol** and reduced arterial plaque.
-- A small study in pre-diabetic participants found **improved glucose tolerance
-  ** after 8+ weeks of a fermented kimchi-containing diet.
+- A small study in pre-diabetic participants found **improved glucose
+  tolerance** after 8+ weeks of a fermented kimchi-containing diet.
 - The probiotics and fiber work together to support lipid metabolism and blood
   sugar regulation.
 - An interesting nuance: while the **sodium** in kimchi can raise blood
@@ -186,6 +186,7 @@ kimchi) decreased **19 inflammatory proteins** over 17 weeks.
 | **Histamine intolerance** | Fermented foods contain histamines that can trigger allergic-like symptoms in sensitive individuals.                                                |
 | **Hypertension**          | People with high blood pressure should limit portions or choose low-sodium brands (300–400 mg/100 g).                                               |
 
-**Practical tips**: Aim for about **½ cup (80 g) per serving**, 1–3 servings per
-day. If sodium is a concern, rinsing kimchi briefly before eating can reduce
-sodium by 20–30%, and making your own lets you control the salt level.
+**Practical tips**: Aim for about **½ cup (80 g) per serving**, 1 to 3 
+servings per day. If sodium is a concern, rinsing kimchi briefly before eating 
+can reduce sodium by 20 to 30%, and making your own lets you control the salt 
+level.

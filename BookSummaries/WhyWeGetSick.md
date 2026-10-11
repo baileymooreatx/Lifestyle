@@ -439,7 +439,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 #### Fermented Foods
 
 - [Apple cider vinegar](../Fermented/AppleCiderVinegar.md)
-- Kimchi
+- [Kimchi](../Fermented/Kimchi.md)  
 - Pickles
 - Sauerkraut
 - Sourdough bread (look for real sourdough starter in ingredients)

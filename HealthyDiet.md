@@ -146,7 +146,7 @@ Drink 1 hour before bed, blended for best results.
 * [Mushrooms](./Vegetables/Mushroom.md) (cooked)
 * Fermented foods
   * Sauerkraut
-  * Kimchi
+  * [Kimchi](./Fermented/Kimchi.md)
   * [Yogurt](Fermented/Yogurt.md)  
   * Kiefer
   * [Black tea](./Drinks/BlackTea.md)  

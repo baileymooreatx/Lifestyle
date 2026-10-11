@@ -73,6 +73,7 @@ disease, diabetes, and cancer.
 * [Horseradish](./Vegetables/Horseradish.md)  
 * Kava kava
 * [Kidney beans](./Pulses/KidneyBean.md)  
+* [Kimchi](./Fermented/Kimchi.md)
 * Lemon balm
 * [Lemons](./Fruits/Lemon.md)
 * Licorice root

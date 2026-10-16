@@ -1,8 +1,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Liver detoxification](#liver-detoxification)
+- [Liver Health](#liver-health)
   - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
   - [Signs of Liver Damage](#signs-of-liver-damage)
   - [The #1 Best Meal for Liver Detoxification](#the-1-best-meal-for-liver-detoxification)
@@ -10,10 +10,14 @@
   - [Supplements to Reverse Fatty Liver](#supplements-to-reverse-fatty-liver)
   - [Beverages to Reverse Fatty Liver](#beverages-to-reverse-fatty-liver)
   - [Dr. Berg's list of foods that are toxic to the liver](#dr-bergs-list-of-foods-that-are-toxic-to-the-liver)
+  - [Reverse Fatty Liver](#reverse-fatty-liver)
+    - [Key Dietary Strategies](#key-dietary-strategies)
+    - [Lifestyle Tips](#lifestyle-tips)
+    - [Supplements](#supplements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Liver detoxification
+# Liver Health
 
 ## [Foods to Detoxify the Liver](https://www.youtube.com/watch?v=xcS9x01gB18)
 
@@ -28,7 +32,8 @@
 5. [Mushrooms](./Vegetables/Mushroom.md) are high in glutathione.
 6. [Avocados](Vegetables/Avocado.md) are anti-inflammatory and high in 
    glutathione.
-7. Extra virgin olive oil is full of polyphenols and anti-inflammatory
+7. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) is full of
+   polyphenols and anti-inflammatory
 
 ## Signs of Liver Damage
 
@@ -44,7 +49,7 @@
 
 1. [Eggs](Protein/Egg.md) are high in [choline](../Supplements/Choline.md)
 2. Meat for amino acids
-3. Onion
+3. [Onion](./Vegetables/Onion.md)
 4. [Garlic](./Vegetables/Garlic.md)
 5. Sea salt for trace minerals
 6. Cruciferous vegetables
@@ -52,12 +57,12 @@
 8. [Walnuts](./Nuts/Walnut.md)  
 9. Chocolate chips (sugarless)  
 10. Herbs   
-    * Thyme  
-    * Sage  
-    * Oregano  
-    * [Cayenne pepper](./Spices/CayennePepper.md)  
-    * [Turmeric](./Spices/Turmeric.md)  
-    * Rosemary
+    - Thyme  
+    - Sage  
+    - Oregano  
+    - [Cayenne pepper](./Spices/CayennePepper.md)  
+    - [Turmeric](./Spices/Turmeric.md)  
+    - Rosemary
 
 ## [The 6 Best Ways to Heal a Fatty Liver](https://www.youtube.com/watch?v=i-sGhGT7ctA)
 
@@ -88,17 +93,17 @@
     * Decrease triglycerides
     * Enhance fatty acid oxidation helping reduce accumulation of fat in the
       liver
-3. Probiotics and Prebiotics
-    * Improve liver markers [liver function tests](https://en.wikipedia.org/wiki/Liver_function_tests)
-      including [ALT](https://en.wikipedia.org/wiki/Alanine_transaminase),
-      [AST](https://en.wikipedia.org/wiki/Aspartate_transaminase), and
-      [GGT](https://en.wikipedia.org/wiki/Gamma-glutamyltransferase) levels  
+3. Probiotics and Prebiotics  
+   Improve liver markers [liver function tests](https://en.wikipedia.org/wiki/Liver_function_tests)
+   including [ALT](https://en.wikipedia.org/wiki/Alanine_transaminase),
+   [AST](https://en.wikipedia.org/wiki/Aspartate_transaminase), and
+   [GGT](https://en.wikipedia.org/wiki/Gamma-glutamyltransferase) levels  
 4. [Choline](./Supplements/Choline.md)
-    * [Eggs](Protein/Egg.md)
-    * Meat
-    * Dairy
-    * Seafood
-5. [Berberine](./Supplements/Berberine.md)
+   - [Eggs](Protein/Egg.md)
+   - Meat
+   - Dairy
+   - Seafood
+5. [Berberi *n e](./Supplements/Berberine.md)
 6. Coenzyme Q10 (Co-Q10) decreases AST, GGT, and high-sensitivity C-reactive
    protein (hs-CRP)
 7. Vitamin E at 800 IU daily increases rate of improvement from non-alcoholic
@@ -109,13 +114,13 @@
 
 ## [Beverages to Reverse Fatty Liver](https://www.youtube.com/watch?v=zZAvjULZOSY)
 
-* Green tea
-* [Apple cider vinegar](Fermented/AppleCiderVinegar.md) - one tablespoon mixed with 10
-  ounces of water
-* [Ginger](Spices/Ginger.md) tea - steep ginger root slices in boiled water
+- Green tea
+- [Apple cider vinegar](Fermented/AppleCiderVinegar.md) - one tablespoon mixed
+  with 10 ounces of water
+- [Ginger](Spices/Ginger.md) tea - steep ginger root slices in boiled water
   for 10 minutes
-* [Coffee](./Drinks/Coffee.md)
-* [Hibiscus tea](./Drinks/HibiscusTea.md)
+- [Coffee](./Drinks/Coffee.md)
+- [Hibiscus tea](./Drinks/HibiscusTea.md)
 
 ## Dr. Berg's list of [foods that are toxic to the liver](https://www.youtube.com/watch?v=1B98PDEe4vU)
 
@@ -135,3 +140,48 @@
 7. **[Monosodium glutamate (MSG)](https://en.wikipedia.org/wiki/Monosodium_glutamate)**
    is a flavor enhancer that causes us to eat more food and is toxic to the
    liver.  
+
+## Reverse Fatty Liver  
+
+[This video](https://www.youtube.com/watch?v=EthLKTthXr0&list=WL&index=3) by
+*Dr. Leonid Kim* provides an evidence-based protocol for naturally and rapidly
+reversing **fatty liver disease**. Dr. Kim explains that while weight loss is
+the standard medical advice, more specific, actionable dietary changes can lead
+to improvements in just days or weeks.
+
+### Key Dietary Strategies
+
+- **Eliminate Fructose:** The most critical step is restricting fructose,
+  particularly from **processed foods and sugary drinks** like soda, juice, boba
+  tea, and sports drinks. Excess fructose leads to fat accumulation
+  and inflammation in the liver.
+- **Achieve a Calorie Deficit:** Any dietary approach that creates a calorie
+  deficit will help, but focusing on **low-carb, high-protein, and high-fat
+  (unprocessed)** diets can accelerate the process.
+- **Prioritize Protein:** Aim for **30 to 35 grams of protein** per meal,
+  especially at breakfast, to help manage hunger and satiety throughout the
+  day.
+- **Optimize Fat Intake:** Focus on **polyunsaturated and monounsaturated fats
+  ** (found in fish, nuts, and avocados) while moderating saturated fats, as
+  high saturated fat intake is linked to worse liver health.
+- **Choose Low-Glycemic Carbs:** Rather than avoiding all carbohydrates, choose
+  high-quality, **low-glycemic index** options like legumes, beans, lentils, and
+  whole grains.
+
+### Lifestyle Tips
+
+- **Avoid Alcohol:** Alcohol directly worsens liver fat accumulation and
+  increases the risk of disease progression, including fibrosis and cancer.
+- **Coffee Consumption:** There is some evidence suggesting
+  [coffee](./Drinks/Coffee) may have a **protective effect** against liver
+  fibrosis, though it is based on observational data.
+
+### Supplements
+
+While dietary changes are primary, Dr. Kim notes that certain supplements may
+enhance recovery.
+
+- **Omega-3 Fatty Acids (EPA/DHA):** May help reduce inflammation and
+  triglycerides.
+- **[Berberine](./Supplements/Berberine.md):** Shows potential for reducing
+  liver fat and improving metabolism.

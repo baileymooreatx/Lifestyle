@@ -47,7 +47,7 @@ Summaries of books about health and wellness
   microbiome  
 - Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
 - [High protein](Protein/ProteinRichPlantFoods.md) foods not derived from animals
-- Improve [liver health](./LiverDetoxification.md)  
+- Improve [liver health](Liver.md)  
 - How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
   insulin levels in the blood?
 - Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  

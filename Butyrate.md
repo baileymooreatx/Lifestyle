@@ -616,13 +616,13 @@ altered mucus composition, and anti-inflammatory signaling.
 
 ### 5. Fermented Foods & Multi-Strain Probiotics
 
-Fermented foods (kefir, sauerkraut, [kimchi](./Fermented/Kimchi.md), 
-[yogurt](./Fermented/Yogurt.md)) introduce live *Bifidobacterium* and 
-*Lactobacillus* strains that participate in cross-feeding. If supplementing, 
-**multi-strain formulations** that include both acetate-producers 
-(*Bifidobacterium*) and lactate-producers (*Lactobacillus*) outperform 
-single-strain products for butyrate output, because
-they replicate the cross-feeding cascade.
+Fermented foods ([kefir](./Fermented/Kefir.md), sauerkraut, 
+[kimchi](./Fermented/Kimchi.md), [yogurt](./Fermented/Yogurt.md)) introduce live 
+*Bifidobacterium* and *Lactobacillus* strains that participate in cross-feeding. 
+If supplementing, **multi-strain formulations** that include both 
+acetate-producers (*Bifidobacterium*) and lactate-producers (*Lactobacillus*) 
+outperform single-strain products for butyrate output, because they replicate 
+the cross-feeding cascade.
 
 ### 6. Intermittent Fasting
 

@@ -33,78 +33,79 @@ disease, diabetes, and cancer.
 
 ## Alphabetical List  
 
-* [Almonds](./Nuts/Almond.md)  
-* [Ashwagandha](./Supplements/Ashwagandha.md)
-* Astragalus root
-* [Avocados](./Vegetables/Avocado.md)
-* [Basil](./Herbs/Basil.md)  
-* [Beets](./Supplements/BeetrootPowder.md)  
-* [Bell pepper](./Vegetables/BellPepper.md)
-* [Black beans](./Pulses/BlackBean.md)  
-* [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
-* [Black tea](./Drinks/BlackTea.md)  
-* [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
-* [Brazil Nuts](./Nuts/BrazilNut.md)  
-* [Broccoli](./Vegetables/Broccoli.md)  
-* [Cacao](./OtherFoods/Cacao.md)  
-* Calendula
-* Cat’s claw
-* Cardamon
-* Chamomile
-* [Chili pepper](./Vegetables/ChiliPepper.md)
-* Cilantro
-* [Cinnamon (Ceylon)](./Spices/Cinnamon.md)
-* [Coconut oil](./Fats/CoconutOil.md)  
-* [Coriander seeds](./Seeds/Coriander.md)  
-* [Cloves](./Spices/Clove.md)
-* [Cayenne pepper](./Spices/CayennePepper.md)
-* Echinacea
-* Fenugreek  
-* [Fennel seeds](./Seeds/Fennel.md)  
-* [Flaxseed](./Seeds/Flaxseed.md)
-* [Garlic](./Vegetables/Garlic.md)
-* [Ginger](Spices/Ginger.md) - pair with black pepper for enhanced absorption
-* Ginseng
-* Green tea
-* [Hazelnuts](./Nuts/Hazelnut.md)  
-* [Hemp seeds or hearts](./Seeds/HempHearts.md)
-* [Hibiscus tea](./Drinks/HibiscusTea.md)
-* Holy basil  
-* [Horseradish](./Vegetables/Horseradish.md)  
-* Kava kava
-* [Kidney beans](./Pulses/KidneyBean.md)  
-* [Kimchi](./Fermented/Kimchi.md)
-* Lemon balm
-* [Lemons](./Fruits/Lemon.md)
-* Licorice root
-* [Lentils](./Pulses/Lentil.md)  
-* [Matcha](./Drinks/Matcha.md)
-* [Olive oil (extra virgin)](./Fats/ExtraVirginOliveOil.md)
-* [Onion](./Vegetables/Onion.md)
-* [Oranges](./Fruits/Orange.md)
-* Oregano
-* [Parsley](./Herbs/Parsley.md)
-* Passion flower
-* [Pecans](./Nuts/Pecan.md)
-* [Pineapple](./Fruits/Pineapple.md)
-* [Pumpkin seeds](./Seeds/Pumpkin.md)  
-* [Quinoa](./Seeds/Quinoa.md)  
-* Rhodiola  
-* [Rooibos Tea](./Drinks/RooibosTea.md)
-* Rosemary
-* Sage
-* [Saffron](./Spices/Saffron.md)  
-* [Strawberries](./Fruits/Strawberry.md)  
-* [Sunflower seeds](./Seeds/Sunflower.md)
-* [Spinach](./Vegetables/Spinach.md)  
-* Spearmint
-* St. John’s Wort  
-* [Sweet Potatoes](./Vegetables/SweetPotato.md)  
-* [Tart Cherries](./Fruits/TartCherry.md)
-* Thyme
-* [Tomatoes](./Vegetables/Tomato.md)  
-* [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
-* [Walnuts](./Nuts/Walnut.md)  
+- [Almonds](./Nuts/Almond.md)  
+- [Ashwagandha](./Supplements/Ashwagandha.md)
+- Astragalus root
+- [Avocados](./Vegetables/Avocado.md)
+- [Basil](./Herbs/Basil.md)  
+- [Beets](./Supplements/BeetrootPowder.md)  
+- [Bell pepper](./Vegetables/BellPepper.md)
+- [Black beans](./Pulses/BlackBean.md)  
+- [Black pepper](./Spices/BlackPepper.md) - improves absorption of nutrients
+- [Black tea](./Drinks/BlackTea.md)  
+- [Blueberries](./Fruits/Blueberry.md) - prefer frozen wild blueberries  
+- [Brazil Nuts](./Nuts/BrazilNut.md)  
+- [Broccoli](./Vegetables/Broccoli.md)  
+- [Cacao](./OtherFoods/Cacao.md)  
+- Calendula
+- Cat’s claw
+- Cardamon
+- Chamomile
+- [Chili pepper](./Vegetables/ChiliPepper.md)
+- Cilantro
+- [Cinnamon (Ceylon)](./Spices/Cinnamon.md)
+- [Coconut oil](./Fats/CoconutOil.md)  
+- [Coriander seeds](./Seeds/Coriander.md)  
+- [Cloves](./Spices/Clove.md)
+- [Cayenne pepper](./Spices/CayennePepper.md)
+- Echinacea
+- Fenugreek  
+- [Fennel seeds](./Seeds/Fennel.md)  
+- [Flaxseed](./Seeds/Flaxseed.md)
+- [Garlic](./Vegetables/Garlic.md)
+- [Ginger](Spices/Ginger.md) - pair with black pepper for enhanced absorption
+- Ginseng
+- Green tea
+- [Hazelnuts](./Nuts/Hazelnut.md)  
+- [Hemp seeds or hearts](./Seeds/HempHearts.md)
+- [Hibiscus tea](./Drinks/HibiscusTea.md)
+- Holy basil  
+- [Horseradish](./Vegetables/Horseradish.md)  
+- Kava kava
+- [Kidney beans](./Pulses/KidneyBean.md)  
+- [Kefir](./Fermented/Kefir.md)
+- [Kimchi](./Fermented/Kimchi.md)
+- Lemon balm
+- [Lemons](./Fruits/Lemon.md)
+- Licorice root
+- [Lentils](./Pulses/Lentil.md)  
+- [Matcha](./Drinks/Matcha.md)
+- [Olive oil (extra virgin)](./Fats/ExtraVirginOliveOil.md)
+- [Onion](./Vegetables/Onion.md)
+- [Oranges](./Fruits/Orange.md)
+- Oregano
+- [Parsley](./Herbs/Parsley.md)
+- Passion flower
+- [Pecans](./Nuts/Pecan.md)
+- [Pineapple](./Fruits/Pineapple.md)
+- [Pumpkin seeds](./Seeds/Pumpkin.md)  
+- [Quinoa](./Seeds/Quinoa.md)  
+- Rhodiola  
+- [Rooibos Tea](./Drinks/RooibosTea.md)
+- Rosemary
+- Sage
+- [Saffron](./Spices/Saffron.md)  
+- [Strawberries](./Fruits/Strawberry.md)  
+- [Sunflower seeds](./Seeds/Sunflower.md)
+- [Spinach](./Vegetables/Spinach.md)  
+- Spearmint
+- St. John’s Wort  
+- [Sweet Potatoes](./Vegetables/SweetPotato.md)  
+- [Tart Cherries](./Fruits/TartCherry.md)
+- Thyme
+- [Tomatoes](./Vegetables/Tomato.md)  
+- [Turmeric](./Spices/Turmeric.md) - pair with black pepper for enhanced absorption
+- [Walnuts](./Nuts/Walnut.md)  
 
 ## Mechanisms of Action
 

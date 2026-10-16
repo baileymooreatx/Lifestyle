@@ -13,6 +13,11 @@
   - [Bone & Joint Health](#bone--joint-health)
   - [Kefir vs. Yogurt: Key Differences](#kefir-vs-yogurt-key-differences)
   - [Practical Considerations](#practical-considerations)
+  - [Kefir Grain Sources](#kefir-grain-sources)
+    - [Online Specialty Shops (most popular)](#online-specialty-shops-most-popular)
+    - [Marketplaces](#marketplaces)
+    - [Local / Community Sources](#local--community-sources)
+    - [Tips for Choosing](#tips-for-choosing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,3 +181,50 @@ For gut health and probiotic diversity, kefir is the stronger choice.
 - **Caveat:** A 2026 review noted that some commercial "kefir" products are
   mislabeled or fortified with additional probiotic strains, making it unclear
   whether observed effects come from the kefir matrix or the added strains
+
+## Kefir Grain Sources
+
+To make homemade milk kefir, we need starter grains. There are several good 
+options, ranging from local to online.
+
+### Online Specialty Shops (most popular)
+
+| **Seller**                        |        **Price** | **Notes**                                                                        |
+|:----------------------------------|-----------------:|:---------------------------------------------------------------------------------|
+| **Cultures for Health**           |           $26.99 | Dehydrated grains; also sold at **Natural Grocers** (in stock at 42+ stores)     |
+| **Fusion Teas**                   |           $15.99 | Fresh/live grains; "guaranteed to revive or we send a new batch"; also on Amazon |
+| **Kombucha Kamp**                 | \$32.88 - $98.88 | Fresh, fully hydrated (never dehydrated); 140+ reviews                           |
+| [Yemoos](https://www.yemoos.com/) |           $27.00 | Live grains; frequently recommended in r/Kefir for thick, creamy results         |
+| **NW Ferments**                   |           Varies | Live grains                                                                      |
+| **Positively Probiotic**          |      from $20.00 | Riverside, CA-based                                                              |
+| **Tussock Sedge Farm**            |           $21.94 | Small farm, includes instructions                                                |
+
+### Marketplaces
+
+- **Amazon** — widest selection; top-rated sellers include **Fusion Teas**, 
+  **Mr. and Mrs. Kefir**, **POSEYMOM**, **Simply Life Probiotics**, and 
+  **NatuDelight** (Amazon's Choice). Prices range ~$8–$25.
+- **Etsy** — many small-scale breeders and farms sell live grains directly;
+  Reddit users frequently recommend checking seller reviews.
+- **eBay** — can find local sellers for pickup; some users report getting grains
+  for as little as $5.
+
+### Local / Community Sources
+
+- **Local health food stores** (e.g., Natural Grocers, Whole Foods) — sometimes
+  carry Cultures for Health or similar brands.
+- **Craft beer / fermentation supply shops** — some carry kefir grains alongside
+  kombucha SCOBYs.
+- **Farmers' markets** and local fermentation communities — a great way to get
+  well-established, healthy grains from an experienced maker.
+
+### Tips for Choosing
+
+- **Live (fresh) grains** are preferred over dehydrated — they're more active
+  and produce kefir faster.
+- Look for sellers who ship quickly (First Class or Priority) so grains don't
+  sit in transit.
+- Ask for **whole milk** (not UHT/ultra-pasteurized) to activate the grains —
+  UHT milk can prevent proper fermentation.
+- A 1 tsp to 1 tbsp starter amount is enough for your first batch (~1 quart of
+  milk).

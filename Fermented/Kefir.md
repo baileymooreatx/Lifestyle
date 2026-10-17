@@ -18,6 +18,9 @@
     - [Marketplaces](#marketplaces)
     - [Local / Community Sources](#local--community-sources)
     - [Tips for Choosing](#tips-for-choosing)
+  - [Homemade Kefir](#homemade-kefir)
+    - [Instructions](#instructions)
+    - [Tips](#tips)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -172,15 +175,15 @@ For gut health and probiotic diversity, kefir is the stronger choice.
 
 - **Dosage:** Most studies use **1 cup (240 mL) per day** as the effective dose
 - **Lactose:** Fermentation reduces lactose by ~30%, but kefir is **not**
-  lactose-free — those with severe intolerance may still react
+  lactose-free. Those with severe intolerance may still react
 - **[Alcohol](../Avoid/Alcohol.md):** Traditional kefir contains trace alcohol
   (0.1–1.5%) from fermentation
 - **Store-bought vs. homemade:** Store-bought kefir is often pasteurized
-  (killing live cultures); homemade or "live culture" brands retain the full
-  probiotic benefit
+  (killing live cultures). Homemade or "live culture" brands retain the full
+  probiotic benefit.
 - **Caveat:** A 2026 review noted that some commercial "kefir" products are
   mislabeled or fortified with additional probiotic strains, making it unclear
-  whether observed effects come from the kefir matrix or the added strains
+  whether observed effects come from the kefir matrix or the added strains.
 
 ## Kefir Grain Sources
 
@@ -228,3 +231,38 @@ options, ranging from local to online.
   UHT milk can prevent proper fermentation.
 - A 1 tsp to 1 tbsp starter amount is enough for your first batch (~1 quart of
   milk).
+
+## Homemade Kefir  
+
+To ferment milk kefir at home, combine **milk kefir grains** with fresh milk and
+let it sit at room temperature for **12–24 hours** until it thickens and turns
+tangy.
+
+### Instructions  
+
+1. **Combine:** Add about 1 tablespoon of kefir grains to 1 cup of fresh whole
+   milk in a clean glass jar. Leave about an inch of headspace.
+2. **Cover:** Top with a coffee filter, paper towel, or cloth secured with a
+   rubber band. Avoid an airtight lid — the ferment produces CO₂.
+3. **Ferment:** Leave in a warm, dark spot (68–76°F / 20–24°C) for **12–24 hours
+   **. The milk is done when it thickens to a cream-like consistency and
+   develops a sour, tangy smell. It may separate into curds and whey — that's
+   normal.
+4. **Strain:** Pour the kefir through a fine-mesh (non-metal) sieve into a bowl
+   or bottle. Gently push the liquid through with a plastic or wooden spoon. The
+   grains remain in the strainer.
+5. **Repeat:** Return the grains to a clean jar, add fresh milk, and start the
+   next batch. No need to rinse the grains.
+
+### Tips
+
+- **Milk choice:** Whole cow's milk works best. Avoid ultra-pasteurized or
+  lactose-free milk.
+- **Temperature matters:** Warmer rooms speed up fermentation; cooler rooms slow
+  it down.
+- **Second fermentation (optional):** After straining, bottle the kefir with a
+  tight cap and leave at room temperature another 12–24 hours for extra fizz and
+  tang. Add fruit, ginger, or lemon peel for flavor.
+- **Storage:** Finished kefir keeps in the fridge for up to 2 weeks.
+- **Grain growth:** Grains roughly double every 2 weeks. Share extras, freeze a
+  backup batch, or add more milk to keep the ratio balanced.

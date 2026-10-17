@@ -133,7 +133,8 @@ vegetables. To reach the target of 30, the following categories count.
    vs. green peppers) count as separate plants due to differing polyphenol
    profiles.
 2. **Whole Grains:** Oats, brown rice, [quinoa](./Seeds/Quinoa.md), barley, and 
-   whole-grain bread (refined grains like white bread do not count).
+   whole-grain bread ([refined grains](./Avoid/RefinedCarbohydrates.md) like 
+   white bread do not count).
 3. **Pulses:** Beans, [lentils](./Pulses/Lentil.md), 
    [chickpeas](./Pulses/Chickpea.md), and peas.
 4. **[Nuts](./Nuts/Nuts.md) and Seeds:** Including nut butters and seeds like 
@@ -144,8 +145,9 @@ vegetables. To reach the target of 30, the following categories count.
    [tea](./Drinks/Tea.md), and dark chocolate (70% cocoa or higher) also count 
    toward the total.
 
-**Exclusions:** Refined products (white flour, white rice), fruit juices (due to
-lack of fiber), and highly processed foods do not count.
+**Exclusions:** [Refined products](./Avoid/RefinedCarbohydrates.md) (white 
+flour, white rice), fruit juices (due to lack of fiber), and highly processed 
+foods do not count.
 
 ## Practical Application
 

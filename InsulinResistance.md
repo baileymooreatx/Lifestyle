@@ -8,6 +8,10 @@
   - [Signs & Signs Your Doctor Looks For](#signs--signs-your-doctor-looks-for)
   - [Why It Matters](#why-it-matters)
   - [Reversal & Management](#reversal--management)
+    - [Lifestyle Changes](#lifestyle-changes)
+    - [Most Effective (Strongest Evidence)](#most-effective-strongest-evidence)
+    - [Also Important](#also-important)
+    - [Practical Priority Order](#practical-priority-order)
   - [Diagnostic Measurements](#diagnostic-measurements)
     - [Homeostatic Model Assessment of Insulin Resistance (HOMA-IR)](#homeostatic-model-assessment-of-insulin-resistance-homa-ir)
       - [Why It Matters](#why-it-matters-1)
@@ -20,10 +24,6 @@
         - [Lab Ordering](#lab-ordering)
           - [LabCorp Test 884095 — "Lipoprotein Insulin Resistance Index (LP-IR)"](#labcorp-test-884095--lipoprotein-insulin-resistance-index-lp-ir)
           - [Direct-to-Consumer Options (No Prescription)](#direct-to-consumer-options-no-prescription)
-      - [Lifestyle Changes That Lower LP-IR](#lifestyle-changes-that-lower-lp-ir)
-        - [Most Effective (Strongest Evidence)](#most-effective-strongest-evidence)
-        - [Also Important](#also-important)
-        - [Practical Priority Order](#practical-priority-order)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -55,8 +55,8 @@ diabetes**.
 - **Genetics / family history** of diabetes.
 - **Age** (risk increases after 45).
 - Certain **medications** (steroids, some antipsychotics, HIV drugs).
-- Chronic **stress**, poor **sleep**, and a diet high in refined carbs and
-  saturated fats.
+- Chronic **stress**, poor **sleep**, and a diet high in 
+  [refined carbs](./Avoid/RefinedCarbohydrates.md) and saturated fats.
 
 ## Signs & Signs Your Doctor Looks For
 
@@ -83,7 +83,58 @@ whom don't know they have it.
 Lifestyle changes are the first line of defense: **regular physical activity**
 (exercise opens glucose transport into muscle cells, bypassing the insulin
 block), **weight loss**, and a **balanced diet** lower in refined sugars and
-processed carbs. In some cases, medications like metformin are prescribed.
+[processed carbs](./Avoid/RefinedCarbohydrates.md). In some cases, medications 
+like metformin are prescribed.
+
+### Lifestyle Changes  
+
+The LP-IR score, described in the Diagnostic Measurements section that 
+follows, is **highly responsive** to lifestyle intervention. Meaningful drops 
+(8 to 15 points) are achievable within **8 to 12 weeks** of consistent changes.
+
+### Most Effective (Strongest Evidence)
+
+| Intervention                                                                               | Typical LP-IR Reduction                  | Key Evidence                                                |
+|--------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------|
+| **Carbohydrate restriction** (especially [refined carbs](./Avoid/RefinedCarbohydrates.md)) | ~10 points in 12 wks                     | RCT (N=262): low-carb (−10.3) vs. low-fat (−2.4), P < 0.001 |
+| **Resistance training** (2+ sessions/wk)                                                   | 4–12 pts over 6–8 mo                     | STRRIDE trials; most effective single exercise modality     |
+| **Aerobic exercise** (150 min/wk moderate)                                                 | ~12 pts (moderate intensity, low volume) | Meta-analysis of 18 RCTs; SMD 0.48                          |
+| **Weight loss** (5–10% body weight)                                                        | ~4–6 pts per 5% lost                     | 10-wk study: −12.1 pts with −8.9% body weight               |
+| **Aerobic + dietary combo**                                                                | ~12–13 pts                               | STRRIDE-PD: combining both was most robust (−12.4 pts)      |
+
+### Also Important
+
+- **Sleep** — Target **7 to 9 hours** of quality sleep. Even one week of sleep
+  restriction worsens insulin resistance acutely.
+- **Stress reduction** — Mindfulness, yoga, or time in nature; chronic stress
+  elevates cortisol and worsens insulin sensitivity.
+- **Time-restricted eating** (8–10 hr window) — Emerging evidence for reducing
+  chronic insulin load.
+- **Reduce ultra-processed foods & sugary beverages** — Drives postprandial VLDL
+  secretion, the single largest contributor to the LP-IR formula.
+- **Increase soluble fiber** (legumes, nuts, seeds, whole grains) — Slows
+  glucose absorption, blunts insulin spikes.
+
+### Practical Priority Order
+
+1. **Cut [refined carbs](./Avoid/RefinedCarbohydrates.md) & ultra-processed
+   foods** → the fastest dietary impact
+2. **Add resistance training** 2–3×/week → most effective exercise lever
+3. **Add 150 min/wk aerobic activity** (brisk walking, cycling)
+4. **Lose 5–10% body weight** if overweight (visceral fat reduction has the
+   greatest effect on the VLDL component)
+5. **Fix sleep** (7–9 hrs) and **manage chronic stress**
+
+The STRRIDE data is particularly instructive: **exercise alone** produced modest
+LP-IR changes, but **exercise combined with dietary intervention and weight loss
+** produced the largest and most consistent reductions — suggesting the
+interventions work synergistically.
+
+**STRRIDE** stands for **Studies of a Targeted Risk Reduction Intervention
+through Defined Exercise**, a series of three randomized controlled trials
+conducted at Duke University that together tested **10 different exercise (and
+lifestyle) interventions** in 503 adults over 6–8 months. The primary 2021
+paper is: *Frontiers in Physiology* (2021), doi: 10.3389/fphys.2021.626142.
 
 ## Diagnostic Measurements
 
@@ -245,51 +296,3 @@ parameters, so you *can* calculate it yourself if you have the raw NMR values:
 > you can track individual particle trends over time, order the **NMR
 > LipoProfile + Lipids + IR Markers** panel (test 884000) instead — it includes
 > all six raw values plus the standard lipid panel.
-
-#### Lifestyle Changes That Lower LP-IR
-
-The LP-IR score is **highly responsive** to lifestyle intervention — meaningful
-drops (8–15 points) are achievable within **8–12 weeks** of consistent changes.
-
-##### Most Effective (Strongest Evidence)
-
-| Intervention                                            | Typical LP-IR Reduction                  | Key Evidence                                                |
-|---------------------------------------------------------|------------------------------------------|-------------------------------------------------------------|
-| **Carbohydrate restriction** (especially refined carbs) | ~10 points in 12 wks                     | RCT (N=262): low-carb (−10.3) vs. low-fat (−2.4), P < 0.001 |
-| **Resistance training** (2+ sessions/wk)                | 4–12 pts over 6–8 mo                     | STRRIDE trials; most effective single exercise modality     |
-| **Aerobic exercise** (150 min/wk moderate)              | ~12 pts (moderate intensity, low volume) | Meta-analysis of 18 RCTs; SMD 0.48                          |
-| **Weight loss** (5–10% body weight)                     | ~4–6 pts per 5% lost                     | 10-wk study: −12.1 pts with −8.9% body weight               |
-| **Aerobic + dietary combo**                             | ~12–13 pts                               | STRRIDE-PD: combining both was most robust (−12.4 pts)      |
-
-##### Also Important
-
-- **Sleep** — Target **7–9 hours** of quality sleep. Even one week of sleep
-  restriction worsens insulin resistance acutely.
-- **Stress reduction** — Mindfulness, yoga, or time in nature; chronic stress
-  elevates cortisol and worsens insulin sensitivity.
-- **Time-restricted eating** (8–10 hr window) — Emerging evidence for reducing
-  chronic insulin load.
-- **Reduce ultra-processed foods & sugary beverages** — Drives postprandial VLDL
-  secretion, the single largest contributor to the LP-IR formula.
-- **Increase soluble fiber** (legumes, nuts, seeds, whole grains) — Slows
-  glucose absorption, blunts insulin spikes.
-
-##### Practical Priority Order
-
-1. **Cut refined carbs & ultra-processed foods** → fastest dietary impact
-2. **Add resistance training** 2–3×/week → most effective exercise lever
-3. **Add 150 min/wk aerobic activity** (brisk walking, cycling)
-4. **Lose 5–10% body weight** if overweight (visceral fat reduction has the
-   greatest effect on the VLDL component)
-5. **Fix sleep** (7–9 hrs) and **manage chronic stress**
-
-The STRRIDE data is particularly instructive: **exercise alone** produced modest
-LP-IR changes, but **exercise combined with dietary intervention and weight loss
-** produced the largest and most consistent reductions — suggesting the
-interventions work synergistically.
-
-**STRRIDE** stands for **Studies of a Targeted Risk Reduction Intervention
-through Defined Exercise**, a series of three randomized controlled trials
-conducted at Duke University that together tested **10 different exercise (and
-lifestyle) interventions** in 503 adults over 6–8 months. The primary 2021 
-paper is: *Frontiers in Physiology* (2021), doi: 10.3389/fphys.2021.626142.

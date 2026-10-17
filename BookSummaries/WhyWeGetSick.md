@@ -86,10 +86,11 @@ The book is organized into three parts:
    frames metabolic syndrome not as a collection of unrelated criteria but as a
    downstream expression of one upstream problem.
 2. **The Causes** — He identifies what drives insulin resistance: a modern diet
-   heavy in refined carbohydrates and omega-6 fats, sedentary behavior, poor
-   sleep, environmental toxins (BPA, air pollution, pesticides), low-salt diets,
-   and the natural decline in insulin sensitivity with age and hormonal shifts.
-   Genetics set a baseline but do not determine fate.
+   heavy in [refined carbohydrates](../Avoid/RefinedCarbohydrates.md) and  
+   omega-6 fats, sedentary behavior, poor sleep, environmental toxins (BPA, air 
+   pollution, pesticides), low-salt diets, and the natural decline in insulin
+   sensitivity with age and hormonal shifts. Genetics set a baseline but do 
+   not determine fate.
 3. **The Solution** — Bikman offers an evidence-based lifestyle plan: a
    **low-carbohydrate diet** (targeting ~100 g/day of low-glycemic-load carbs,
    prioritizing protein at 1.0–1.5 g/kg), **intermittent fasting** (18 to 24

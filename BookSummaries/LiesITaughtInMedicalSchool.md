@@ -50,8 +50,8 @@ dismantling a foundational assumption of medical education:
   insulin.
 - **Type 2 diabetes** is a reversible metabolic condition, not a progressive,
   lifelong disease.
-- **Sugar and refined carbs**, not fat or cholesterol, are the primary 
-  drivers of metabolic disease.
+- **Sugar and [refined carbs](../Avoid/RefinedCarbohydrates.md)**, not fat or 
+  cholesterol, are the primary drivers of metabolic disease.
 - **Heart disease** is rooted in metabolic inflammation, not lipid accumulation;
   statins offer minimal absolute benefit.
 - **Fatty liver disease** is a direct consequence of fructose overconsumption
@@ -109,8 +109,8 @@ disorders.
 Key concepts include:
 
 - **Macronutrient roles**: Proteins and fats are essential for metabolism;
-  overconsumption of carbohydrates—especially refined sugars—disrupts metabolic
-  pathways.
+  overconsumption of carbohydrates, especially refined sugars, disrupts 
+  metabolic pathways.
 - **Glycolysis and energy production**: Understanding how cells produce energy
   reveals the connection between diet and chronic disease.
 - **mTOR (Mechanistic Target of Rapamycin)**: This protein acts as a master
@@ -147,7 +147,7 @@ fat or protein because of the different insulin responses each triggers.
 
 Instead of counting calories, Lufkin recommends focusing on:
 
-* Reducing refined carbohydrates  
+* Reducing [refined carbohydrates](../Avoid/RefinedCarbohydrates.md)  
 * Incorporating intermittent fasting (which lowers insulin and promotes fat
   burning)  
 * Shifting toward a low-carb, higher-fat dietary pattern  
@@ -168,10 +168,10 @@ in disease. Key points:
 - **Conventional treatment is counterproductive**: Treating diabetes with
   insulin medications actually worsens insulin resistance over time, creating a
   vicious cycle.
-- **Reversal through diet**: Reducing or eliminating sugar and refined
-  carbohydrates can reverse type 2 diabetes, contradicting the conventional
-  narrative that it is a progressive, lifelong condition requiring escalating
-  medication.
+- **Reversal through diet**: Reducing or eliminating sugar and
+  [refined carbohydrates](../Avoid/RefinedCarbohydrates.md) can reverse type 2  
+  diabetes, contradicting the conventional narrative that it is a progressive, 
+  lifelong condition requiring escalating medication.
 
 Lufkin argues that the medical system has a financial incentive to perpetuate
 the "manage, don't reverse" model, as it generates recurring revenue from
@@ -253,8 +253,8 @@ dietary fat and cholesterol are the primary culprits in heart disease.
   and the subsequent half-century of dietary guidelines that shifted the
   population toward high-carb, low-fat eating that makes them sicker.
 - **The metabolic approach**: Heart disease is better addressed by reducing
-  sugar and refined carbs, improving insulin sensitivity, exercising, and
-  managing overall metabolic health.
+  sugar and [refined carbs](../Avoid/RefinedCarbohydrates.md), improving insulin
+  sensitivity, exercising, and managing overall metabolic health.
 
 ## Chapter 8: The Cancer Lie — "Most Cancer Is Caused by Accumulated DNA Damage"
 
@@ -365,7 +365,8 @@ The final chapter synthesizes the book's findings into a practical action plan:
   arises from the body's internal environment; metabolic and inflammatory
   dysfunction is central.
 - **Dietary changes**:
-    - **Remove**: Sugar, grains, refined carbohydrates, and seed oils
+    - **Remove**: Sugar, grains,
+      [refined carbohydrates](../Avoid/RefinedCarbohydrates.md), and seed oils
     - **Add**: Animal protein, healthy fats (avocado, olive oil, butter, coconut
       oil), and non-starchy vegetables
     - **Time-restricted eating**: Consume meals within an approximately 8-hour

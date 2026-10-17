@@ -112,8 +112,8 @@ cleanup), promotes **stem-cell regeneration**, and nudges the body into
 
 - **Allowed:** non-starchy vegetables (celery, zucchini, leafy greens), berries,
   small amounts of nuts/seeds, olive oil, avocado
-- **Avoided:** refined carbs, animal proteins, dairy, high-glycemic foods,
-  processed foods
+- **Avoided:** [refined carbs](./Avoid/RefinedCarbohydrates.md), animal 
+  proteins, dairy, high-glycemic foods, processed foods
 
 The diet is typically repeated in **cycles** — e.g., 5 days once a month for 2–3
 months — followed by normal eating. A commercial version is sold as **ProLon**

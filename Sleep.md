@@ -149,8 +149,8 @@ Get **bright sunlight exposure in the morning** and dim lights in the evening.
 
 - **Caffeine**: avoid for at least 6 hours before bed (it can last 12+ hours in
   the body).
-- **Alcohol**: even small doses reduce deep sleep; avoid within 3–4 hours of
-  bedtime.
+- **[Alcohol](./Avoid/Alcohol.md)**: even small doses reduce deep sleep; avoid
+  within 3 to 4 hours of bedtime.
 
 ### Environment
 

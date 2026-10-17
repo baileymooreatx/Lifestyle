@@ -37,7 +37,7 @@ veins, and help restore proper tone to weakened vessel walls.
 There's no standardized dose, but traditional and practitioner-recommended
 ranges vary by form.
 
-| Form                                       | Typical Dose                          |
+| **Form**                                   | **Typical Dose**                      |
 |--------------------------------------------|---------------------------------------|
 | **Fresh root tincture** (1:2, 60% alcohol) | **2–5 mL, 3× daily**                  |
 | **Dried root tincture** (1:5)              | 1–3 mL (20–30 drops), 3–4 times daily |

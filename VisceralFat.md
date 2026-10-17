@@ -101,7 +101,8 @@ target in grams.
   snacks)
 - **Fried foods**
 - **Ultra-processed meats** (hot dogs, sausages, bologna)
-- **Alcohol** (especially heavy/binge drinking — promotes visceral fat storage)
+- **[Alcohol](./Avoid/Alcohol.md)** (especially heavy/binge drinking — promotes 
+  visceral fat storage)
 - **Foods high in saturated fat** (keep under 10% of daily calories)
 - **Trans fats** (partially hydrogenated oils)
 

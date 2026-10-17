@@ -38,19 +38,19 @@ nutrient-dense relative to its tiny serving size.
 A standard **1-teaspoon serving (approx. 2 grams)** of ground cayenne pepper
 provides:
 
-* **Calories:** Only **5 or 6 calories**, making it a virtually calorie-free
+- **Calories:** Only **5 or 6 calories**, making it a virtually calorie-free
   flavor enhancer.
-* **Vitamin A:** Delivers roughly **11 to 15% of the Daily Value (DV)**. This is
+- **Vitamin A:** Delivers roughly **11 to 15% of the Daily Value (DV)**. This is
   crucial for vision, immune function, and skin health. The drying process
   concentrates the carotenoids (like beta-carotene) that give the powder its
   vibrant red color.
-* **Vitamin C:** Provides about **7% of the DV**, supporting immune defense and
+- **Vitamin C:** Provides about **7% of the DV**, supporting immune defense and
   collagen synthesis, though slightly less than fresh peppers due to oxidation
   during drying.
-* **Vitamin B6:** Contains modest amounts helpful for metabolism.
-* **Minerals:** Offers trace amounts of **potassium**, **manganese**, and
+- **Vitamin B6:** Contains modest amounts helpful for metabolism.
+- **Minerals:** Offers trace amounts of **potassium**, **manganese**, and
   **iron**.
-* **Fiber:** Contains approximately **0.5 grams** of dietary fiber per teaspoon.
+- **Fiber:** Contains approximately **0.5 grams** of dietary fiber per teaspoon.
 
 ## High Concentration of Capsaicin
 
@@ -59,11 +59,11 @@ process. Ground cayenne typically ranges from **30,000 to 50,000 Scoville Heat
 Units (SHU)**. This concentration allows for precise dosing of capsaicin, which
 drives the spice's ability to:
 
-* **Boost Metabolism:** Induces thermogenesis (heat production), helping the
+- **Boost Metabolism:** Induces thermogenesis (heat production), helping the
   body burn more calories.
-* **Suppress Appetite:** Reduces levels of the hunger hormone ghrelin,
+- **Suppress Appetite:** Reduces levels of the hunger hormone ghrelin,
   potentially aiding in weight management.
-* **Relieve Pain:** Blocks the neurotransmitter *Substance P*, reducing pain
+- **Relieve Pain:** Blocks the neurotransmitter *Substance P*, reducing pain
   signals in conditions like arthritis and neuropathy.
 
 ## Potent Antioxidant Source
@@ -111,17 +111,18 @@ cardiovascular disease.
 
 ### Evidence for Specific Conditions
 
-* **Arthritis and Joint Pain:** A **2024 systematic review** confirmed that
+- **Arthritis and Joint Pain:** A **2024 systematic review** confirmed that
   capsaicin (applied topically or consumed) significantly reduces pain severity
   in osteoarthritis and rheumatoid arthritis. While topical creams are the most
   studied form, oral consumption of ground cayenne contributes to systemic pain
   relief and reduced joint swelling over time.
-* **Gastrointestinal Health:** Contrary to the myth that spicy food causes
+- **Gastrointestinal Health:** Contrary to the myth that spicy food causes
   ulcers, studies show that low doses of capsaicin **protect the stomach
   lining**. It stimulates the production of protective mucus and increases blood
-  flow to the gastric wall, shielding it from damage caused by alcohol and 
-  NSAIDs (non-steroidal anti-inflammatory drugs).
-* **Cardiovascular Inflammation:** Regular consumption helps reduce vascular
+  flow to the gastric wall, shielding it from damage caused by 
+  [alcohol](../Avoid/Alcohol.md) and NSAIDs (non-steroidal anti-inflammatory 
+  drugs).
+- **Cardiovascular Inflammation:** Regular consumption helps reduce vascular
   inflammation by increasing **nitric oxide** production, which relaxes blood
   vessels and prevents the adhesion of immune cells to vessel walls, a key step
   in plaque formation.
@@ -132,12 +133,12 @@ While **topical capsaicin creams** (0.025% to 0.075%) provide the most direct an
 clinically proven relief for localized joint pain, **dietary intake** of ground
 cayenne offers systemic benefits:
 
-* **Dosage:** Incorporating **1/4 to 1/2 teaspoon** of ground cayenne into meals
+- **Dosage:** Incorporating **1/4 to 1/2 teaspoon** of ground cayenne into meals
   daily is a practical way to achieve anti-inflammatory effects.
-* **Synergy:** It works synergistically with other anti-inflammatory foods (like
+- **Synergy:** It works synergistically with other anti-inflammatory foods (like
   [turmeric](./Turmeric.md) and [ginger](Ginger.md)) to combat chronic 
   inflammation.
-* **Limitations:** Oral capsaicin may take longer to show effects on joint pain
+- **Limitations:** Oral capsaicin may take longer to show effects on joint pain
   compared to topical application, and high doses can cause gastrointestinal
   discomfort in sensitive individuals.
 
@@ -151,11 +152,11 @@ due to the body's natural rejection mechanisms (vomiting), excessive
 consumption, particularly via supplements or extreme challenges, poses real 
 health risks.
 
-* **Culinary Use:** Start with a pinch (1/8 teaspoon) and work up to 1/2 or 1
+- **Culinary Use:** Start with a pinch (1/8 teaspoon) and work up to 1/2 or 1
   teaspoon per day mixed into water, tea, or food.
-* **Potency:** The powder can be significantly hotter than fresh peppers
+- **Potency:** The powder can be significantly hotter than fresh peppers
   depending on the seed content included during grinding.
-* **Safety:** High doses can cause stomach upset, heartburn, or irritation.
+- **Safety:** High doses can cause stomach upset, heartburn, or irritation.
   Avoid inhaling the fine powder, as it can severely irritate the lungs and
   eyes.
 
@@ -164,19 +165,19 @@ health risks.
 The most immediate consequence of high cayenne intake is severe irritation of
 the mucous membranes throughout the digestive tract.
 
-* **Gastric Distress:** Ingesting large amounts triggers intense **abdominal
+- **Gastric Distress:** Ingesting large amounts triggers intense **abdominal
   cramping**, **nausea**, **vomiting**, and **diarrhea**. The capsaicin
   irritates the stomach lining, potentially causing acute **gastritis** or a
   burning sensation that persists during bowel movements.
-* **"Capsaicin Shock":** Extreme doses can overwhelm the nervous system, leading
+- **"Capsaicin Shock":** Extreme doses can overwhelm the nervous system, leading
   to a temporary shock response characterized by **uncontrollable shaking**,
   **profuse sweating**, **rapid heart rate**, and a feeling of impending doom.
   This is caused by a massive flood of adrenaline triggered by pain receptors.
-* **Respiratory Issues:** Inhaling the fine powder or consuming excessive
+- **Respiratory Issues:** Inhaling the fine powder or consuming excessive
   amounts can induce **coughing spells**, **wheezing**, and **shortness of
   breath**. In susceptible individuals, this can trigger severe **asthma
   attacks** or respiratory distress.
-* **Cardiovascular Strain:** Rare but serious complications include **chest
+- **Cardiovascular Strain:** Rare but serious complications include **chest
   pain**, **heart palpitations**, and spikes in blood pressure. In extreme cases
   involving pre-existing heart conditions, this stress has been linked to heart
   attacks.
@@ -186,18 +187,18 @@ the mucous membranes throughout the digestive tract.
 High cayenne intake significantly alters how the body processes certain
 medications, creating potentially life-threatening situations:
 
-* **Blood Thinners (Anticoagulants):** Cayenne enhances the effects of drugs
+- **Blood Thinners (Anticoagulants):** Cayenne enhances the effects of drugs
   like **warfarin (Coumadin)**, **aspirin**, and **clopidogrel (Plavix)**. This
   synergy drastically increases the risk of **internal bleeding** and bruising.
   Doctors typically recommend stopping cayenne consumption at least two weeks
   before surgery.
-* **ACE Inhibitors:** For patients taking ACE inhibitors (e.g., **lisinopril**,
+- **ACE Inhibitors:** For patients taking ACE inhibitors (e.g., **lisinopril**,
   **enalapril**) for high blood pressure, high cayenne intake can worsen the
   common side effect of a **dry, hacking cough**.
-* **Theophylline:** Capsaicin can increase the absorption of **theophylline**
+- **Theophylline:** Capsaicin can increase the absorption of **theophylline**
   (used for asthma), potentially leading to toxicity symptoms like nausea, heart
   rhythm disturbances, and seizures.
-* **Diabetes Medications:** Cayenne may lower blood sugar levels, which can
+- **Diabetes Medications:** Cayenne may lower blood sugar levels, which can
   cause **hypoglycemia** (dangerously low blood sugar) when combined with
   insulin or oral diabetes drugs.
 
@@ -206,26 +207,26 @@ medications, creating potentially life-threatening situations:
 Chronic overconsumption or habitual high-dose supplementation carries
 specific long-term risks.
 
-* **Chronic Gastrointestinal Disorders:** Continuous irritation can lead to
+- **Chronic Gastrointestinal Disorders:** Continuous irritation can lead to
   chronic gastritis, exacerbate **acid reflux (GERD)**, and damage the
   esophageal lining. While low doses may protect against ulcers, high doses can
   impair the stomach's protective mucus layer.
-* **Kidney and Liver Stress:** Extremely high concentrations of capsaicin (often
+- **Kidney and Liver Stress:** Extremely high concentrations of capsaicin (often
   found in concentrated extracts rather than culinary powder) must be
   metabolized by the liver and excreted by the kidneys, potentially straining
   these organs in susceptible individuals.
-* **Specific Contraindications:** Individuals with **active ulcers**, 
+- **Specific Contraindications:** Individuals with **active ulcers**, 
   **inflammatory bowel disease (IBD)**, or **severe heart conditions** should
   strictly avoid high intake. Additionally, topical application of
   high-concentration capsaicin on broken skin can cause severe chemical burns.
 
 ### Safety Thresholds
 
-* **Culinary Use:** Using up to **1/2 to 1 teaspoon** daily in food is generally
+- **Culinary Use:** Using up to **1/2 to 1 teaspoon** daily in food is generally
   safe for healthy adults.
-* **Supplement Danger:** Risks escalate significantly with capsules or liquid
+- **Supplement Danger:** Risks escalate significantly with capsules or liquid
   extracts, where doses can exceed **100 mg of pure capsaicin** at once.
-* **Lethality:** While theoretically possible, lethal overdose via eating powder
+- **Lethality:** While theoretically possible, lethal overdose via eating powder
   is highly unlikely because the pain usually forces cessation before a fatal
   dose is reached. However, concentrated **oleoresin capsicum** (used in pepper
   spray) can be fatal if ingested in large quantities.
@@ -245,27 +246,27 @@ to these elements, leading to a significant loss of heat and flavor.
 The single most effective method is storing ground cayenne in a **cool, dark
 cupboard** or spice drawer, away from direct sunlight and heat sources.
 
-* **Temperature:** Maintain a consistent temperature below **68°F (20°C)**.
+- **Temperature:** Maintain a consistent temperature below **68°F (20°C)**.
   Avoid storing spices above the stove, near the oven, or on top of the
   refrigerator, as heat accelerates the breakdown of volatile oils.
-* **Light:** Exposure to light is the fastest way to bleach the pepper's red
+- **Light:** Exposure to light is the fastest way to bleach the pepper's red
   color and weaken its flavor. **Amber or cobalt glass jars** are superior to
   clear glass or plastic because they block UV rays that degrade capsaicin and
   carotenoids.
-* **Humidity:** Keep the spice in a low-humidity environment. Moisture leads to
+- **Humidity:** Keep the spice in a low-humidity environment. Moisture leads to
   clumping and creates a risk for mold growth, which ruins the powder instantly.
 
 ### Container Selection
 
 The container you choose is critical for long-term preservation:
 
-* **Airtight Seal:** Use containers with tight-fitting lids (glass or metal are
+- **Airtight Seal:** Use containers with tight-fitting lids (glass or metal are
   best) to prevent air exchange. Plastic shakers often allow gradual air
   permeation, speeding up oxidation.
-* **Opaque Material:** If using clear glass, ensure it is kept inside a dark
+- **Opaque Material:** If using clear glass, ensure it is kept inside a dark
   cabinet. Opaque ceramic or tinted glass jars provide an extra layer of
   protection against light degradation.
-* **Oxygen Absorbers:** For bulk storage or long-term preservation, adding a
+- **Oxygen Absorbers:** For bulk storage or long-term preservation, adding a
   food-grade **silica gel packet** or an **oxygen absorber** to the jar can
   extend peak potency by significantly reducing oxidation and moisture.
 
@@ -273,13 +274,13 @@ The container you choose is critical for long-term preservation:
 
 How you handle the spice daily impacts its lifespan.  
 
-* **Dry Utensils Only:** Never introduce a wet spoon into the jar. Even a small
+- **Dry Utensils Only:** Never introduce a wet spoon into the jar. Even a small
   amount of moisture can trigger clumping and mold.
-* **Grind Your Own:** For maximum potency, store **whole dried cayenne peppers**
+- **Grind Your Own:** For maximum potency, store **whole dried cayenne peppers**
   and grind them in small batches using a spice grinder. Whole pods retain up to
   **73% more capsaicin** over time compared to pre-ground powder because their
   intact cell walls protect the volatile oils from oxygen.
-* **Buy in Moderation:** Purchase quantities you can use within **6 to 12
+- **Buy in Moderation:** Purchase quantities you can use within **6 to 12
   months** for the best flavor, although properly stored ground cayenne remains
   safe and usable for **3 to 4 years**.
 
@@ -287,12 +288,12 @@ How you handle the spice daily impacts its lifespan.
 
 Even with perfect storage, ground cayenne will slowly lose its kick.
 
-* **Peak Potency:** 0 to 12 months (100% to 80% heat retention).
-* **Moderate Decline:** 12 to 24 months (80% to 60% heat retention). You
+- **Peak Potency:** 0 to 12 months (100% to 80% heat retention).
+- **Moderate Decline:** 12 to 24 months (80% to 60% heat retention). You
   may need to increase the amount used by 25% to 50%.
-* **Significant Loss:** 24 to 36 months (60% to 40% heat retention). The flavor
+- **Significant Loss:** 24 to 36 months (60% to 40% heat retention). The flavor
   becomes flat, and you may need to double the quantity.
-* **Replacement Time:** After **3 to 4 years**, the powder is likely too weak to
+- **Replacement Time:** After **3 to 4 years**, the powder is likely too weak to
   provide the desired heat, even if it is still safe to eat.
 
 **How to Test Potency:** Rub a small amount of the powder between your fingers

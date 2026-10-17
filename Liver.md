@@ -3,8 +3,18 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Liver Health](#liver-health)
-  - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
+  - [Metabolism](#metabolism)
+  - [Detoxification](#detoxification)
+  - [Bile Production & Digestion](#bile-production--digestion)
+  - [Protein Synthesis](#protein-synthesis)
+  - [Storage](#storage)
+  - [Immune Defense](#immune-defense)
+  - [Other Functions](#other-functions)
   - [Signs of Liver Damage](#signs-of-liver-damage)
+    - [Early / Mild Signs](#early--mild-signs)
+    - [Later / More Advanced Signs](#later--more-advanced-signs)
+    - [Actionable Steps](#actionable-steps)
+  - [Foods to Detoxify the Liver](#foods-to-detoxify-the-liver)
   - [The #1 Best Meal for Liver Detoxification](#the-1-best-meal-for-liver-detoxification)
   - [Reverse Fatty Liver](#reverse-fatty-liver)
     - [The 6 Best Ways to Heal a Fatty Liver](#the-6-best-ways-to-heal-a-fatty-liver)
@@ -18,7 +28,129 @@
 
 # Liver Health
 
-## [Foods to Detoxify the Liver](https://www.youtube.com/watch?v=xcS9x01gB18)
+The liver performs over **500 distinct functions**, but they fall into a few
+major categories.
+
+## Metabolism
+
+- **Carbohydrate:** Stores excess glucose as **glycogen** and releases it as
+  needed to maintain stable blood sugar
+- **Lipid:** Synthesizes cholesterol, converts dietary fats into triglycerides,
+  and produces lipoproteins to transport fats
+- **Protein/Amino acid:** Regulates blood amino acid levels; converts toxic 
+  **ammonia** (a byproduct of protein breakdown) into **urea** for excretion —
+  the process whose failure causes the hepatic encephalopathy discussed earlier
+
+## Detoxification
+
+- Filters **~1.5 liters of blood per minute** through its dual blood supply
+  (hepatic artery and portal vein)
+- Metabolizes **drugs, [alcohol](./Avoid/Alcohol.md)**, and environmental toxins 
+  via **Phase I** (oxidation by cytochrome P450 enzymes) and **Phase II** 
+  (conjugation) reactions, making them water-soluble for excretion in urine or 
+  bile
+- Inactivates excess hormones (estrogen, aldosterone, thyroid hormones)
+
+## Bile Production & Digestion
+
+- Produces **bile** (~500–1000 mL/day), stored in the gallbladder and released
+  into the small intestine to **emulsify and absorb dietary fats** and
+  fat-soluble vitamins (A, D, E, K)
+- Excretes waste products like **bilirubin** (from old red blood cell
+  breakdown) — its accumulation causes jaundice
+
+## Protein Synthesis
+
+- Manufactures **albumin** (maintains blood volume/osmotic pressure) and 
+  **clotting factors** (fibrinogen, prothrombin, factors V, VII, VIII, X, XI,
+  XII) — deficiency leads to easy bruising and bleeding
+
+## Storage
+
+- Reserves **vitamins A, D, E, K, B₁₂**, as well as **iron** and **copper**,
+  releasing them when blood levels drop
+
+## Immune Defense
+
+- **Kupffer cells** (liver-resident macrophages) phagocytose bacteria, viruses,
+  and particulate debris entering via the portal vein
+- Produces **complement proteins** and **acute-phase reactants** during
+  infection
+
+## Other Functions  
+
+- **Gluconeogenesis** — synthesizes new glucose from non-carbohydrate sources
+  during fasting
+- **Regeneration** — one of the few human organs capable of regenerating lost
+  tissue
+- **Hemoglobin recycling** — salvages iron from senescent red blood cells for
+  reuse
+
+The liver's central position — receiving nutrient-rich blood from the gut via
+the **portal vein** before it reaches the rest of the body — is what makes it
+the body's dominant metabolic and detoxification hub.
+
+## Signs of Liver Damage
+
+[This video](https://www.youtube.com/watch?v=XEQAQ6wAuI0)
+by *[Ben Azadi](https://www.youtube.com/@KetoKamp)*
+explains why the **liver** is a vital "MVP" organ that
+often shows no pain signals when in trouble, leading it to "delegate" its
+workload to other body systems. He outlines **six warning signs**
+that indicate the liver may be struggling, noting that these symptoms are
+actually signs of system overflow.
+
+Liver damage often causes **no symptoms in its early stages**. When signs do
+appear, they typically progress from mild to severe:
+
+### Early / Mild Signs
+
+**Sleep Issues** - You are exhausted but wide awake at 2–3 a.m. due to blood
+sugar instability. Persistent fatigue or weakness.
+
+Additional early signs not mentioned in the video:
+
+- Nausea or vomiting
+- Loss of appetite
+- Mild pain or discomfort in the upper right abdomen
+- Unexplained weight loss
+
+### Later / More Advanced Signs
+
+1. **Itchy Skin** - Chronic itching, especially on palms and soles,
+   without a visible rash
+2. **Easy Bruising** - Unexplained bruising or bleeding due to a lack of
+   clotting factors and low platelets
+3. **Belly Fluid/Ascites (9:18):** A firm, tight belly (unlike soft fat) caused
+   by fluid buildup, which may signal a shift to decompensated liver disease.
+   Swelling may also occur in the legs or ankles.
+4. **Dark Urine and Yellow Eyes:** A buildup of *bilirubin* causing
+   jaundice, which typically appears in the eyes before the skin. Urine may
+   be brown, orange, or amber.
+5. **Brain Changes (16:43):** Cognitive shifts like short temper, memory loss,
+   or confusion, often noticed by family first. (hepatic encephalopathy)
+
+Additional advanced signs not mentions in the video:
+
+- Pale or clay-colored stool
+- Vomiting blood or black, tarry stools (bleeding varices)
+
+If you notice jaundice, unexplained swelling, or confusion, seek medical
+attention promptly. Early detection is important because liver damage can be
+partially reversible if caught before it progresses to cirrhosis.
+
+### Actionable Steps
+
+- **Test:** Request blood work including *ALT, AST, GGT, bilirubin, albumin, and
+  platelets*. Calculate your *FIB4 score* online to screen for scarring.
+- **Remove Interference:** Eliminate [alcohol](./Avoid/Alcohol.md), high
+  fructose corn syrup , and processed inflammatory oils.
+- **Support:** Focus on quality sleep and muscle building to help with glucose
+  storage.
+
+## Liver Detox  
+
+### [Foods to Detoxify the Liver](https://www.youtube.com/watch?v=xcS9x01gB18)
 
 1. [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)
    are high in sulforaphane.  
@@ -34,17 +166,7 @@
 7. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) is full of
    polyphenols and anti-inflammatory
 
-## Signs of Liver Damage
-
-1. Itchy skin
-2. Jaundice
-3. Lethargy
-4. Achy joints
-5. Nausea
-6. Lowered cognitive function
-7. Gallstones
-
-## [The #1 Best Meal for Liver Detoxification](https://www.youtube.com/watch?v=-vtMP3laIBc)
+### [The #1 Best Meal for Liver Detoxification](https://www.youtube.com/watch?v=-vtMP3laIBc)
 
 1. [Eggs](Protein/Egg.md) are high in [choline](../Supplements/Choline.md)
 2. Meat for amino acids
@@ -79,11 +201,12 @@
 
 ### Key Dietary Strategies
 
-[This video](https://www.youtube.com/watch?v=EthLKTthXr0&list=WL&index=3) by
-*Dr. Leonid Kim* provides an evidence-based protocol for naturally and rapidly
-reversing **fatty liver disease**. Dr. Kim explains that while weight loss is
-the standard medical advice, more specific, actionable dietary changes can lead
-to improvements in just days or weeks.
+[This video](https://www.youtube.com/watch?v=EthLKTthXr0) by
+*[Dr. Leonid Kim](https://www.youtube.com/@LeonidKimMD)* provides an 
+evidence-based protocol for naturally and rapidly reversing **fatty liver 
+disease**. Dr. Kim explains that while weight loss is the standard medical 
+advice, more specific, actionable dietary changes can lead to improvements in 
+just days or weeks.
 
 - **Eliminate Fructose:** The most critical step is restricting fructose,
   particularly from **processed foods and sugary drinks** like soda, juice, boba
@@ -99,13 +222,14 @@ to improvements in just days or weeks.
   fats** (found in fish, nuts, and avocados) while moderating saturated fats, as
   high saturated fat intake is linked to worse liver health.
 - **Choose Low-Glycemic Carbs:** Rather than avoiding all carbohydrates, choose
-  high-quality, **low-glycemic index** options like legumes, beans, lentils, and
-  whole grains.
+  high-quality, **low-glycemic index** options like [legumes](./Pulses/Pulses.md),
+  beans, [lentils](./Pulses/Lentil.md), and whole grains.
 
 ### Lifestyle Tips
 
-- **Avoid Alcohol:** Alcohol directly worsens liver fat accumulation and
-  increases the risk of disease progression, including fibrosis and cancer.
+- **Avoid Alcohol:** [Alcohol](./Avoid/Alcohol.md) directly worsens liver fat 
+  accumulation and increases the risk of disease progression, including fibrosis 
+  and cancer.
 - **Coffee Consumption:** There is some evidence suggesting
   [coffee](./Drinks/Coffee) may have a **protective effect** against liver
   fibrosis, though it is based on observational data.

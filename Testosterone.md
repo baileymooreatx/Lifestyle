@@ -76,7 +76,7 @@ zinc and magnesium.
 Certain foods can lower testosterone levels:
 
 - Deep-fried foods and trans fats
-- Excessive alcohol
+- Excessive [alcohol](./Avoid/Alcohol.md)
 - Processed meats
 - High-sugar diets
 

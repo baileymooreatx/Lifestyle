@@ -214,8 +214,8 @@ a symptom of broader metabolic dysfunction rather than a standalone condition.
   inhibit NO production, causing blood vessels to constrict and raising blood
   pressure.
 - **Root causes**: Poor diet (especially high sugar), lack of exercise, excess
-  alcohol, obesity, and insulin resistance are the primary drivers, not salt,
-  as commonly believed.
+  [alcohol](../Avoid/Alcohol.md), obesity, and insulin resistance are the
+  primary drivers, not salt, as commonly believed.
 - **Critique of drug treatment**: Conventional pharmacological management (ACE
   inhibitors, beta-blockers, diuretics, etc.) treats the symptom without
   addressing the underlying metabolic dysfunction. Lufkin advocates for

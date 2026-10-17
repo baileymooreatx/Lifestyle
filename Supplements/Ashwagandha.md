@@ -176,7 +176,7 @@ medications.
 - **Antidepressants** (SSRIs/SNRIs like sertraline or escitalopram) — limited
   data, but a theoretical risk of serotonin-related effects has been flagged.
 - **Acetaminophen** — may increase liver injury risk when combined.
-- **Alcohol** — additive sedative effect.
+- **[Alcohol](../Avoid/Alcohol.md)** — additive sedative effect.
 
 If you take any of the above medications, talk to your doctor or pharmacist
 before adding ashwagandha. The interactions are dose-dependent, and monitoring

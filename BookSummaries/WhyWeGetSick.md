@@ -555,7 +555,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 #### Beverages
 
-- Alcohol (most beer, sweet wines, mixers, and cocktails)
+- [Alcohol](../Avoid/Alcohol.md) (most beer, sweet wines, mixers, and cocktails)
 - Soda, including diet soda
 - Fruit juice
 - Sport drinks (Gatorade)

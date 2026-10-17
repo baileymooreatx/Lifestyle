@@ -173,10 +173,10 @@ For gut health and probiotic diversity, kefir is the stronger choice.
 - **Dosage:** Most studies use **1 cup (240 mL) per day** as the effective dose
 - **Lactose:** Fermentation reduces lactose by ~30%, but kefir is **not**
   lactose-free — those with severe intolerance may still react
-- **Alcohol:** Traditional kefir contains trace alcohol (0.1–1.5%) from
-  fermentation
-- **Store-bought vs. homemade:** Store-bought kefir is often pasteurized (
-  killing live cultures); homemade or "live culture" brands retain the full
+- **[Alcohol](../Avoid/Alcohol.md):** Traditional kefir contains trace alcohol
+  (0.1–1.5%) from fermentation
+- **Store-bought vs. homemade:** Store-bought kefir is often pasteurized
+  (killing live cultures); homemade or "live culture" brands retain the full
   probiotic benefit
 - **Caveat:** A 2026 review noted that some commercial "kefir" products are
   mislabeled or fortified with additional probiotic strains, making it unclear

@@ -11,7 +11,7 @@ releases free fatty acids, inflammatory cytokines (like IL-6 and TNF-α), and
 other signaling molecules directly into the **portal vein** that feeds the
 liver. This is why even a small amount of excess visceral fat can drive:
 
-- **[Insulin resistance](../InsulinResistance.md)** → type 2 diabetes
+- **[Insulin resistance](InsulinResistance.md)** → type 2 diabetes
 - **Systemic inflammation** → cardiovascular disease, stroke
 - **Dyslipidemia** → elevated triglycerides, low HDL
 - **Fatty liver disease**
@@ -36,9 +36,9 @@ exercise, and the **last gained**.
 |    5 | Omega-3 (EPA/DHA)                                          |    2 | 1 or 2 g combined                | **With meals** (fat improves absorption)            |
 |    6 | Alpha-lipoic acid                                          |    2 | 300 to 600 mg                    | **20 min before meals** (empty stomach)             |
 |    7 | Chromium picolinate                                        |    2 | 200 to 400 µg                    | **With breakfast**                                  |
-|    8 | [Ceylon cinnamon](../Spices/Cinnamon.md)                    |    3 | 1 to 6 g (½ to 2 tsp)            | **With meals** or in morning coffee                 |
-|    9 | [Apple cider vinegar](../Fermented/AppleCiderVinegar.md)    |    3 | 1 or 2 tbsp in water             | **15–30 min before meals**                          |
-|   10 | Curcumin See [Turmeric](../Spices/Turmeric.md).             |    3 | 500 to 1,000 mg (with piperine)  | **With meals** (fat + black pepper for absorption)  |
+|    8 | [Ceylon cinnamon](../Food/Spices/Cinnamon.md)                    |    3 | 1 to 6 g (½ to 2 tsp)            | **With meals** or in morning coffee                 |
+|    9 | [Apple cider vinegar](../Food/Fermented/AppleCiderVinegar.md)    |    3 | 1 or 2 tbsp in water             | **15–30 min before meals**                          |
+|   10 | Curcumin See [Turmeric](../Food/Spices/Turmeric.md).             |    3 | 500 to 1,000 mg (with piperine)  | **With meals** (fat + black pepper for absorption)  |
 |   11 | CoQ10                                                      |    3 | 200 mg                           | **With lunch or dinner** (fat-containing meal)      |
 
 **Quick-start stack (first 3):** 
@@ -79,7 +79,7 @@ target in grams.
 
 ### Eat More  
 
-- **Fatty fish** ([salmon](../Protein/Salmon.md), mackerel, sardines) — omega-3s are 
+- **Fatty fish** ([salmon](../Food/Protein/Salmon.md), mackerel, sardines) — omega-3s are 
   linked to reduced waist circumference
 - **Oats and whole grains** (oats, quinoa, brown rice) — soluble fiber
   (beta-glucan) is tied to lower visceral fat
@@ -91,8 +91,8 @@ target in grams.
   intake is associated with greater visceral fat loss
 - **Cruciferous vegetables** (broccoli, Brussels sprouts, cauliflower) — contain
   sulforaphane
-- **Healthy fats** — [olive oil](../Fats/ExtraVirginOliveOil.md), 
-  [avocado](../Vegetables/Avocado.md), [seeds](../Seeds)
+- **Healthy fats** — [olive oil](../Food/Fats/ExtraVirginOliveOil.md), 
+  [avocado](../Food/Vegetables/Avocado.md), [seeds](../Food/Seeds)
 
 ### Avoid  
 

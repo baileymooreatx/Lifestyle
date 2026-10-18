@@ -59,7 +59,7 @@ meta-analyses and systematic reviews.
   augmenting gains in competitive or experienced lifters is mixed to negligible.
 - The strongest, most consistent evidence is for **untrained individuals, older
   adults, and catabolic states** (illness, surgery, bed rest, caloric deficit).
-- A 2026 study showed HMB added to 40 g whey [protein](../Protein/Protein.md)
+- A 2026 study showed HMB added to 40 g whey [protein](../Food/Protein/Protein.md)
   further increased muscle protein synthesis in older *women* but not older men,
   suggesting sex-based differences in responsiveness.
 

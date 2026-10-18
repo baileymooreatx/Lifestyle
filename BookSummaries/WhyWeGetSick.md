@@ -69,7 +69,7 @@ by Benjamin Bikman PhD
 ## Synopsis
 
 *Why We Get Sick* by Benjamin Bikman, PhD, is built around a single central
-claim: **[insulin resistance](../InsulinResistance.md) is the hidden, unifying
+claim: **[insulin resistance](../Body/InsulinResistance.md) is the hidden, unifying
 root cause of most chronic diseases** — not just diabetes, but heart disease,
 Alzheimer's, cancer, polycystic ovary syndrome (PCOS), kidney failure, and 
 more. Bikman argues that over half of U.S. adults (and possibly up to 88%) are 
@@ -255,7 +255,7 @@ A practical integration chapter.
   timing (30 min = good, 120 min = definite IR).
 - **Food rules:** Keep glycemic load < 15 when possible; avoid "sweet"
   condiments; be "starch smart"; don't drink your carbs; use 
-  [stevia](../OtherFoods/Stevia.md), erythritol, or monk fruit as sweeteners.
+  [stevia](../Food/OtherFoods/Stevia.md), erythritol, or monk fruit as sweeteners.
 - **Supplements/nutrients:** Cysteine (from methionine) may help prevent IR;
   vitamin D deficiency worsens IR; dairy may reduce IR risk.
 - **Meal suggestions** for breakfast, lunch, and dinner following the low-carb,
@@ -389,9 +389,9 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Avocado oil
 - Ghee
-- [Coconut oil](../Fats/CoconutOil.md)
+- [Coconut oil](../Food/Fats/CoconutOil.md)
 - Lard or rendered animal fat
-- [Extra-virgin olive oil](../Fats/ExtraVirginOliveOil.md)
+- [Extra-virgin olive oil](../Food/Fats/ExtraVirginOliveOil.md)
 - MCT oil
 - Fish oil
 
@@ -408,7 +408,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - All meats (beef, lamb, and game) — choose grass-fed if you can
 - All poultry (chicken, turkey, and others) — choose pastured if you can
-- [Eggs](../Protein/Egg.md) — choose pastured and eat the yolks
+- [Eggs](../Food/Protein/Egg.md) — choose pastured and eat the yolks
 - Fish and seafood — choose wild-caught and avoid farmed fish
 - Tofu and tempeh — if you are vegetarian or vegan
 
@@ -416,40 +416,40 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Artichoke hearts
 - Asparagus
-- [Avocados](../Vegetables/Avocado.md)
+- [Avocados](../Food/Vegetables/Avocado.md)
 - Bamboo shoots
 - Bok choy
 - Celery
 - Cucumber
 - Green leafy vegetables (arugula, chard, lettuce,
-  [spinach](../Vegetables/Spinach.md), etc.)
+  [spinach](../Food/Vegetables/Spinach.md), etc.)
 - Jicama
 - Leeks
-- [Lemons](../Fruits/Lemon.md)
+- [Lemons](../Food/Fruits/Lemon.md)
 - Limes
-- [Mushrooms](../Vegetables/Mushroom.md)  
+- [Mushrooms](../Food/Vegetables/Mushroom.md)  
 - Olives
-- [Onions](../Vegetables/Onion.md)
-- [Peppers](../Vegetables/ChiliPepper.md)
-  ([bell peppers](../Vegetables/BellPepper.md), jalapeños, etc.)
+- [Onions](../Food/Vegetables/Onion.md)
+- [Peppers](../Food/Vegetables/ChiliPepper.md)
+  ([bell peppers](../Food/Vegetables/BellPepper.md), jalapeños, etc.)
 - Radishes
 - Watermelon
-- All herbs and spices ([basil](../Herbs/Basil.md), cilantro,
-  [parsley](../Herbs/Parsley.md), rosemary, thyme, etc.)
+- All herbs and spices ([basil](../Food/Herbs/Basil.md), cilantro,
+  [parsley](../Food/Herbs/Parsley.md), rosemary, thyme, etc.)
 
 #### Fermented Foods
 
-- [Apple cider vinegar](../Fermented/AppleCiderVinegar.md)
-- [Kimchi](../Fermented/Kimchi.md)  
+- [Apple cider vinegar](../Food/Fermented/AppleCiderVinegar.md)
+- [Kimchi](../Food/Fermented/Kimchi.md)  
 - Pickles
 - Sauerkraut
 - Sourdough bread (look for real sourdough starter in ingredients)
 
 #### Beverages
 
-- [Coffee](../Drinks/Coffee.md) — black or with cream
+- [Coffee](../Food/Drinks/Coffee.md) — black or with cream
 - Kombucha
-- [Tea](../Drinks/Tea.md)
+- [Tea](../Food/Drinks/Tea.md)
 - Unsweetened nut and seed milks (almond, coconut)
 - Sparkling water — add lemon, lime, or apple cider vinegar
 
@@ -457,24 +457,24 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Mayonnaise (full fat)
 - Salad dressings without sugar
-- Noncaloric sweeteners (erythritol, [stevia](../OtherFoods/Stevia.md), monk fruit, xylitol)
+- Noncaloric sweeteners (erythritol, [stevia](../Food/OtherFoods/Stevia.md), monk fruit, xylitol)
 
 ### Limit to 2 or Fewer Servings a Day
 
 #### Nuts, Seeds & Legumes
 
-- [Almonds](../Nuts/Almond.md)
+- [Almonds](../Food/Nuts/Almond.md)
 - Almond flour and coconut flour
-- [Flaxseeds](../Seeds/Flaxseed.md)
-- [Hazelnuts](../Nuts/Hazelnut.md)
+- [Flaxseeds](../Food/Seeds/Flaxseed.md)
+- [Hazelnuts](../Food/Nuts/Hazelnut.md)
 - Macadamia nuts
 - Nut butters
 - Peanuts
-- [Pecans](../Nuts/Pecan.md)
+- [Pecans](../Food/Nuts/Pecan.md)
 - Pine nuts
-- [Pumpkin seeds](../Seeds/Pumpkin.md)
-- [Sunflower seeds](../Seeds/Sunflower.md)
-- [Walnuts](../Nuts/Walnut.md)
+- [Pumpkin seeds](../Food/Seeds/Pumpkin.md)
+- [Sunflower seeds](../Food/Seeds/Sunflower.md)
+- [Walnuts](../Food/Nuts/Walnut.md)
 
 #### Protein
 
@@ -486,10 +486,10 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 - Barley pearls
 - Bean sprouts
-- Berries (blackberries, [blueberries](../Fruits/Blueberry.md),
-  [cranberries](../Fruits/Cranberry.md), raspberries, 
-  [strawberries](../Fruits/Strawberry.md))
-- [Broccoli](../Vegetables/Broccoli.md)
+- Berries (blackberries, [blueberries](../Food/Fruits/Blueberry.md),
+  [cranberries](../Food/Fruits/Cranberry.md), raspberries, 
+  [strawberries](../Food/Fruits/Strawberry.md))
+- [Broccoli](../Food/Vegetables/Broccoli.md)
 - Brussels sprouts
 - Cabbage
 - Cauliflower
@@ -537,7 +537,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 
 #### Vegetables, Fruits & Grains
 
-- [Apples](../Fruits/Apple.md)
+- [Apples](../Food/Fruits/Apple.md)
 - Apricots
 - Bananas
 - Cherries
@@ -548,7 +548,7 @@ A fuller list of smart foods to help control insulin, divided by food category
 - Jam, jelly, and preserves
 - Mango
 - Melons
-- [Oranges](../Fruits/Orange.md)
+- [Oranges](../Food/Fruits/Orange.md)
 - Peaches
 - Pears
 - Plantains

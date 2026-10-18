@@ -30,7 +30,7 @@ Chronic sleep loss disrupts this balance. It **reduces insulin sensitivity by
 ~25%** after just one poor night, raises the appetite-stimulating hormone
 ghrelin, and lowers the satiety hormone leptin, driving increased hunger and
 caloric intake. Over time, these shifts promote 
-[insulin resistance](./InsulinResistance.md), [visceral fat](Body/VisceralFat.md)
+[insulin resistance](Body/InsulinResistance.md), [visceral fat](Body/VisceralFat.md)
 accumulation, and elevated risk of **type 2 diabetes** and obesity. In short,
 adequate, quality sleep is **essential** for maintaining stable blood sugar,
 efficient energy use, and healthy appetite signaling.
@@ -119,7 +119,7 @@ issues with restful sleep.
    serotonin precursor. Serotonin regulates mood, calmness, and melatonin.  
    Take 100 to 200 mg 30 minutes to one hour before bed.
 
-[Montmorency Tart Cherries](./Fruits/TartCherry.md) also support sleep.
+[Montmorency Tart Cherries](Food/Fruits/TartCherry.md) also support sleep.
 
 ## Deep Sleep
 

@@ -18,7 +18,7 @@
 # Berberine
 
 Berberine is the most evidence-backed "metabolic" supplement for someone with
-[insulin resistance](../InsulinResistance.md) and 
+[insulin resistance](../Body/InsulinResistance.md) and 
 [visceral fat](../Body/VisceralFat.md). Its mechanism overlaps heavily with
 metformin, the evidence is stronger than almost any other supplement in this
 space, and it's cheap. The main caveats are GI tolerance and drug interactions.
@@ -47,7 +47,7 @@ form is **berberine HCl**.
 ## Clinical Evidence
 
 - **Insulin sensitivity:** Meta-analyses show ~30–45%
-  [HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir) 
+  [HOMA-IR](../Body/InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir) 
   reduction; fasting glucose drops of 15–30 mg/dL in prediabetic and T2DM 
   populations
 - **HbA1c:** ~0.5–0.8% reduction — comparable to metformin in head-to-head
@@ -105,7 +105,7 @@ blood levels of:
 - Oral bioavailability is low (~5–7%) — taking with food improves absorption
 - Effects are most pronounced in people with existing metabolic dysregulation
   (elevated 
-  [HOMA-IR](../InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir), 
+  [HOMA-IR](../Body/InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir), 
   HbA1c > 5.7%, hs-CRP > 2 mg/L)
 - It's an **adjunct**, not a replacement for caloric deficit, protein intake,
   and resistance training

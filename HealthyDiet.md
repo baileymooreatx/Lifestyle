@@ -20,51 +20,51 @@
    1. No ultra processed foods  
    2. Minimize sugar  
    3. Avoid boxes and barcodes by eating lots of plants.  
-      See [Eat 30 plants per week](Eat30Plants.md).  
+      See [Eat 30 plants per week](Food/Eat30Plants.md).  
       *  **Vegetables**  
-         * Leafy greens: arugula, [spinach](./Vegetables/Spinach.md), kale, 
+         * Leafy greens: arugula, [spinach](Food/Vegetables/Spinach.md), kale, 
            chard, collards, lettuce    
          * [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)  
          * [Beets](./Supplements/BeetrootPowder.md), carrots, sweet potatoes, yams  
-         * [Peppers](./Vegetables/ChiliPepper.md), cucumber, eggplant, 
-           [onions](./Vegetables/Onion.md), leeks, and scallions  
+         * [Peppers](Food/Vegetables/ChiliPepper.md), cucumber, eggplant, 
+           [onions](Food/Vegetables/Onion.md), leeks, and scallions  
       *  **Fruits**  
-         * Berries: [blueberries](./Fruits/Blueberry.md), [strawberries](./Fruits/Strawberry.md),
+         * Berries: [blueberries](Food/Fruits/Blueberry.md), [strawberries](Food/Fruits/Strawberry.md),
            blackberries, raspberries  
          * Pomegranate (seeds or fresh, unsweetened)  
-         * [Tart cherries](./Fruits/TartCherry.md)  
-         * Citrus: [oranges](./Fruits/Orange.md), [lemons](./Fruits/Lemon.md),
+         * [Tart cherries](Food/Fruits/TartCherry.md)  
+         * Citrus: [oranges](Food/Fruits/Orange.md), [lemons](Food/Fruits/Lemon.md),
            limes, and grapefruit  
            **Whole fruit, not juice**  
-         * [Apples](./Fruits/Apple.md) in moderation, with the skin  
+         * [Apples](Food/Fruits/Apple.md) in moderation, with the skin  
          * Grapes in moderation, dark or red preferred for resveratrol  
-2. **Prioritize [protein](./Protein/Protein.md)** 
+2. **Prioritize [protein](Food/Protein/Protein.md)** 
    Eat one gram of protein per pound for your ideal weight.
-   * Wild-caught, low-mercury fish: [salmon](./Protein/Salmon.md), sardines, 
+   * Wild-caught, low-mercury fish: [salmon](Food/Protein/Salmon.md), sardines, 
      mackerel, anchovies
-   * [Eggs](Protein/Egg.md): Pasture raised or organic when possible  
+   * [Eggs](Food/Protein/Egg.md): Pasture raised or organic when possible  
    * Grass fed beef, bison, venison, lamb
    * Chicken and turkey (check labels for additives and chlorine)  
      Pasture raised when possible
 3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
    **Prefer healthy oils**
-   1. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
+   1. [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
       Ideally organic, not blended, and stored in dark glass to prevent oxidation  
       Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
-   2. [Avocados](Vegetables/Avocado.md) and Avocado oil (cold pressed and tested)   
-   3. [Coconut oil](./Fats/CoconutOil.md) is good for cooking at high temperature.  
+   2. [Avocados](Food/Vegetables/Avocado.md) and Avocado oil (cold pressed and tested)   
+   3. [Coconut oil](Food/Fats/CoconutOil.md) is good for cooking at high temperature.  
    4. Grass fed butter or ghee, beef tallow  
-   5. [Nuts](./Nuts/Nuts.md): 
-      * [Walnuts](./Nuts/Walnut.md)
-      * [Almonds](./Nuts/Almond.md) 
-      * [Brazil nuts](./Nuts/BrazilNut.md)    
+   5. [Nuts](Food/Nuts/Nuts.md): 
+      * [Walnuts](Food/Nuts/Walnut.md)
+      * [Almonds](Food/Nuts/Almond.md) 
+      * [Brazil nuts](Food/Nuts/BrazilNut.md)    
         Limit Brazil nuts because they are very high in Selenium
    6. Seeds
-      * [Flaxseed](Seeds/Flaxseed.md)  
-      * [Chia](./Seeds/Chia.md)  
-      * [Hemp](./Seeds/HempHearts.md) 
-      * [Pumpkin](./Seeds/Pumpkin.md) 
-      * [Sunflower](./Seeds/Sunflower.md) (raw preferred)
+      * [Flaxseed](Food/Seeds/Flaxseed.md)  
+      * [Chia](Food/Seeds/Chia.md)  
+      * [Hemp](Food/Seeds/HempHearts.md) 
+      * [Pumpkin](Food/Seeds/Pumpkin.md) 
+      * [Sunflower](Food/Seeds/Sunflower.md) (raw preferred)
 4. Prefer **fewer ingredients**  
    When you cook it yourself, you control the ingredients.  
 5. **Stop Snacking**  
@@ -112,13 +112,13 @@ Increase fiber and nutrient availability.
 |:------------------------------------------------------------------------------|:----------------|
 | Cranberry juice                                                               | 4 fluid oz      |
 | Water                                                                         | 12 fluid oz     |
-| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
-| [Apple Cider Vinegar](./Fermented/AppleCiderVinegar.md)                       | 2 tablespoon    |
-| [Lemon](./Fruits/Lemon.md) juice                                              | Half of a Lemon |
+| [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md)                       | 1 tablespoon    |
+| [Apple Cider Vinegar](Food/Fermented/AppleCiderVinegar.md)                       | 2 tablespoon    |
+| [Lemon](Food/Fruits/Lemon.md) juice                                              | Half of a Lemon |
 | Sea salt                                                                      | ½ teaspoon      |
 | **Optional spices**                                                           |                 |
-| [Turmeric](./Spices/Turmeric.md)  and [Black Pepper](./Spices/BlackPepper.md) | 1 teaspoon each |
-| [Ginger](./Spices/Ginger.md)                                                  | 1 teaspoon      |
+| [Turmeric](Food/Spices/Turmeric.md)  and [Black Pepper](Food/Spices/BlackPepper.md) | 1 teaspoon each |
+| [Ginger](Food/Spices/Ginger.md)                                                  | 1 teaspoon      |
 
 ### [Night](https://www.youtube.com/watch?v=fKnyQjL_NpY)
 
@@ -127,13 +127,13 @@ Drink 1 hour before bed, blended for best results.
 | **Ingredient**                                          | **Amount**   |
 |:--------------------------------------------------------|:-------------|
 | Water                                                   | 8 fluid oz   |
-| [Ceylon Cinnamon](./Spices/Cinnamon.md)                 | ½ teaspoon   |
-| [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
-| [Apple Cider Vinegar](./Fermented/AppleCiderVinegar.md) | 1 tablespoon |
+| [Ceylon Cinnamon](Food/Spices/Cinnamon.md)                 | ½ teaspoon   |
+| [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md) | 1 tablespoon |
+| [Apple Cider Vinegar](Food/Fermented/AppleCiderVinegar.md) | 1 tablespoon |
 | Sea salt                                                | ½ teaspoon   |
 | **Optional Fiber**                                      |              |
-| [Chia seeds](./Seeds/Chia.md)                           | 1 tablespoon |
-| [Flaxseeds](./Seeds/Flaxseed.md)                        | 1 tablespoon |
+| [Chia seeds](Food/Seeds/Chia.md)                           | 1 tablespoon |
+| [Flaxseeds](Food/Seeds/Flaxseed.md)                        | 1 tablespoon |
 
 ## Dr. Gundry's [Superfoods](https://www.youtube.com/watch?v=9VsHYodU1lw)  
 
@@ -142,20 +142,20 @@ Drink 1 hour before bed, blended for best results.
   * Arugula
   * Radicchio and other members of the chicory family (genus Cichorium) such 
     as Endive
-* [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md)
-* [Mushrooms](./Vegetables/Mushroom.md) (cooked)
+* [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md)
+* [Mushrooms](Food/Vegetables/Mushroom.md) (cooked)
 * Fermented foods
   * Sauerkraut
-  * [Kimchi](./Fermented/Kimchi.md)
-  * [Yogurt](Fermented/Yogurt.md)  
+  * [Kimchi](Food/Fermented/Kimchi.md)
+  * [Yogurt](Food/Fermented/Yogurt.md)  
   * Kiefer
-  * [Black tea](./Drinks/BlackTea.md)  
-  * [Coffee](./Drinks/Coffee.md)  
-  * [Apple cider vinegar](Fermented/AppleCiderVinegar.md)  
+  * [Black tea](Food/Drinks/BlackTea.md)  
+  * [Coffee](Food/Drinks/Coffee.md)  
+  * [Apple cider vinegar](Food/Fermented/AppleCiderVinegar.md)  
 * Polyphenol rich foods
   * Berries
   * Pomegranate
-  * Dark chocolate (85% [cacao](Protein/Cacao.md) or more)
-* [Avocados](Vegetables/Avocado.md)  
+  * Dark chocolate (85% [cacao](Food/Protein/Cacao.md) or more)
+* [Avocados](Food/Vegetables/Avocado.md)  
 
-See [Superfood](./Superfood.md).
+See [Superfood](Food/Superfood.md).

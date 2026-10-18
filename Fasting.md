@@ -43,7 +43,7 @@ Meals should be about four hours apart with **no snacking** in between.
 1. [Prepare for fasting](https://www.youtube.com/watch?v=fnIrkwke_M8), take the following steps
     1. Cut out carbs 7 days before fast. Go in as a fat burner not a sugar burner.
     2. Eat three meals per day with no snacking between meals.
-    3. Consume 2 tbsp each of avocado oil, [coconut oil](./Fats/CoconutOil.md) 
+    3. Consume 2 tbsp each of avocado oil, [coconut oil](Food/Fats/CoconutOil.md) 
        and butter for 7 days leading up to fast.
 2. 12 hour fast should be baseline.  
    Do not eat three to five hours before sleeping.  
@@ -79,12 +79,12 @@ Meals should be about four hours apart with **no snacking** in between.
 * [Calorie reduction](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=4575s) occasionally
 * [Exercise](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=630s) long duration, low intensity
 * [Pytonutrients](https://www.youtube.com/watch?v=vx6RkgoxzgQ&t=740s) that create a hormetic or stress response 
-  * [Coffee](./Drinks/Coffee.md)
+  * [Coffee](Food/Drinks/Coffee.md)
   * Green tea
   * [Berberine](./Supplements/Berberine.md)
   * Ashwaganda
-  * [Ginger](Spices/Ginger.md)
-  * Some [mushrooms](./Vegetables/Mushroom.md)  
+  * [Ginger](Food/Spices/Ginger.md)
+  * Some [mushrooms](Food/Vegetables/Mushroom.md)  
 
 ## Fasting-Mimicking Diet
 

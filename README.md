@@ -14,16 +14,16 @@
 
 Ideas about how to improve health and wellbeing  
 
-- Pros and cons of drinking [Alkaline Water](./OtherFoods/AlkalineWater.md)
+- Pros and cons of drinking [Alkaline Water](Food/OtherFoods/AlkalineWater.md)
 - Measure [Blood Pressure](Body/BloodPressure.md) correctly
-- [Dental care](./DentalCare.md) and natural recipes for oral health
+- [Dental care](Frameworks/DentalCare.md) and natural recipes for oral health
 - Peace of [mind](./Mind.md) with a splash of brain health
 - [The Microbiome's Role in Immunity](Body/ImmuneSystem/Microbiome.md)  
 - [Move](./Move.md) your body at least once an hour
 - Daily [supplements](./Supplements/Supplements.md)
 - [Sleep](./Sleep.md) supplements
 - [Summaries of Books](./BookSummaries) about health and wellness
-- Great reasons to take a [walk](./Walking.md) every day  
+- Great reasons to take a [walk](Walk.md) every day  
 
 ## Books  
 
@@ -42,29 +42,29 @@ Summaries of books about health and wellness
 
 ## Food  
 
-- [Anti-inflammatory foods](./Anti-inflammatoryFoods.md) prevent disease  
-- [Eat more plants](./Eat30Plants.md) each week to improve health and the gut
+- [Anti-inflammatory foods](Food/Anti-inflammatoryFoods.md) prevent disease  
+- [Eat more plants](Food/Eat30Plants.md) each week to improve health and the gut
   microbiome  
-- Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
-- [High protein](Protein/ProteinRichPlantFoods.md) foods not derived from animals
+- Food and Drug Administration (FDA) [Nutrition Label Daily Values](Food/NutritionLabelDailyValues.md)
+- [High protein](Food/Protein/ProteinRichPlantFoods.md) foods not derived from animals
 - Improve [liver health](Body/Liver.md)  
-- How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
+- How do [Non-Nutritive Sweeteners](Food/OtherFoods/Sweeteners.md) effect 
   insulin levels in the blood?
-- Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
-- [Peppers are fruit, but bananas are berries](./PlantClassification.md)
-- List of [potassium rich foods](PotassiumRichFoods.md)  
+- Healthy [nut](Food/Nuts/Nuts.md) choices and nuts to avoid  
+- [Peppers are fruit, but bananas are berries](Food/PlantClassification.md)
+- List of [potassium rich foods](Food/PotassiumRichFoods.md)  
 - Avoid [processed meats](./Avoid/ProcessedMeats.md)  
-- Which [produce to buy organic](./Produce.md) instead of conventional  
+- Which [produce to buy organic](Food/Produce.md) instead of conventional  
 - My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
-- [Seed](./Seeds) nutrition, preparation, and storage  
-- What does "[superfood](./Superfood.md)" mean?
-- Compare non-nutritive [sweeteners](./OtherFoods/Sweeteners.md)
-- Brew a perfect cup of [Tea](./Drinks/Tea.md)  
-- Homemade [yogurt](Fermented/Yogurt.md) for special strains of gut friendly bacteria  
+- [Seed](Food/Seeds) nutrition, preparation, and storage  
+- What does "[superfood](Food/Superfood.md)" mean?
+- Compare non-nutritive [sweeteners](Food/OtherFoods/Sweeteners.md)
+- Brew a perfect cup of [Tea](Food/Drinks/Tea.md)  
+- Homemade [yogurt](Food/Fermented/Yogurt.md) for special strains of gut friendly bacteria  
 
 ## Weight Loss  
 
-- [Insulin resistance](./InsulinResistance.md)
+- [Insulin resistance](Body/InsulinResistance.md)
 - [Intermittent Fasting](./Fasting.md)  
 - [Keto diet](./HealthyDiet.md)
 - Reduce [Visceral Fat](Body/VisceralFat.md)  

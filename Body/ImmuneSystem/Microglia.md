@@ -89,7 +89,7 @@ disease** (α-synuclein).
 ## Connection to the Microbiome
 
 Gut-derived [short chain fatty acids (SCFAs)](ShortChainFattyAcid.md), 
-especially [butyrate](../../Butyrate.md), reach the brain via:
+especially [butyrate](../Butyrate.md), reach the brain via:
 
 - Circulating metabolites crossing the BBB
 - Vagal nerve signaling

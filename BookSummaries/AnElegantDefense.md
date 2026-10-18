@@ -372,9 +372,9 @@ responses.
 
 ### Chapter 33: Microbiome
 
-Dives deeper into the gut [microbiome](../Body/ImmuneSystem/Microbiome.md) and its 
+Dives deeper into the gut [microbiome](../Body/Microbiome.md) and its 
 relationship with immunity. Trillions of bacteria in the 
-[gut](../Body/ImmuneSystem/GutLumen.md) communicate with immune cells, influencing
+[gut](../Body/GutLumen.md) communicate with immune cells, influencing
 everything from inflammation to tolerance. The chapter covers how disruptions to
 the microbiome (through antibiotics, diet, or other factors) can contribute to
 immune dysfunction, allergies, and autoimmune disease.

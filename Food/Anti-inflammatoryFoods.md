@@ -139,7 +139,7 @@ walls, a key step in atherosclerosis.
 [short-chain fatty acids (SCFAs)](../Body/ImmuneSystem/ShortChainFattyAcid.md) in the 
 colon. SCFAs strengthen the gut barrier, preventing toxins (like 
 lipopolysaccharides) from leaking into the bloodstream and triggering systemic 
-inflammation. See [Microbiome](../Body/ImmuneSystem/Microbiome.md) for more detail. 
+inflammation. See [Microbiome](../Body/Microbiome.md) for more detail. 
 
 #### Insulin Sensitivity  
 

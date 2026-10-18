@@ -20,9 +20,9 @@
 
 Short-Chain Fatty Acids (SCFAs) are **2 to 4 carbon fatty acids** produced by
 bacterial fermentation of dietary fiber and host mucins in the colon. They are
-the **most abundant microbial metabolites** in the [gut lumen](GutLumen.md) 
+the **most abundant microbial metabolites** in the [gut lumen](../GutLumen.md) 
 (10–100 mM) and the single most important class of molecules through which the 
-[microbiome](Microbiome.md) communicates with the host.
+[microbiome](../Microbiome.md) communicates with the host.
 
 ## Production & Relative Abundance
 

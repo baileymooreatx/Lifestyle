@@ -72,7 +72,7 @@ The most relevant evidence comes from two human clinical trials.
 - A **4-week crossover study** (published in *The American Journal of Clinical
   Nutrition*, 2024) compared a steviol glycoside beverage at 25% of the ADI to
   sucrose and found **no significant differences** in gut 
-  [microflora](../../Body/ImmuneSystem/Microbiome.md), 
+  [microflora](../../Body/Microbiome.md), 
   [short-chain fatty acid (SCFA)](../../Body/ImmuneSystem/ShortChainFattyAcid.md) 
   production, or any cardiometabolic markers.
 

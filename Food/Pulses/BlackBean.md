@@ -86,7 +86,7 @@ in black beans also help the body respond to glucose in a more beneficial way.
 ## Gut Health & Microbiome
 
 The 15 g of fiber per cup (including resistant starch) feeds 
-[beneficial gut bacteria](../../Body/ImmuneSystem/Microbiome.md) and stimulates 
+[beneficial gut bacteria](../../Body/Microbiome.md) and stimulates 
 production of [short-chain fatty acids](../../Body/ImmuneSystem/ShortChainFattyAcid.md) 
 like [butyrate](../../Body/Butyrate.md). The USDA Agricultural Research Service study 
 found black beans **restored the balance of gut bacteria** in obese mice, 

@@ -54,7 +54,7 @@ These metabolites are the key to its health effects:
 ## Improved Gut Health and Microbiome Balance
 
 Resistant starch acts as a premium fuel for beneficial bacteria in the gut,
-promoting a balanced [microbiome](../../Body/ImmuneSystem/Microbiome.md). The production
+promoting a balanced [microbiome](../../Body/Microbiome.md). The production
 of butyrate helps maintain the gut's protective lining, reduces inflammation, 
 and may aid in treating conditions like **inflammatory bowel disease (IBD)**, 
 **Crohn’s disease**, and **ulcerative colitis**. A healthy gut microbiome is 

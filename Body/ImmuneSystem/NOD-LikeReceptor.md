@@ -92,7 +92,7 @@ All NLRs share a common three-part architecture:
 ## Connection to the Microbiome
 
 NOD1 and NOD2 are expressed heavily in **intestinal epithelial cells** and
-directly sense bacterial peptidoglycan from the [gut lumen](GutLumen.md), 
+directly sense bacterial peptidoglycan from the [gut lumen](../GutLumen.md), 
 making them a key molecular bridge between the microbiome and host immunity. A 
 healthy microbiome provides a steady "low-grade" peptidoglycan signal that keeps 
 NOD1/2 tone appropriate; dysbiosis (antibiotics, pathogenic overgrowth) disrupts 

@@ -18,7 +18,7 @@ Ideas about how to improve health and wellbeing
 - Measure [Blood Pressure](Body/BloodPressure.md) correctly
 - [Dental care](Frameworks/DentalCare.md) and natural recipes for oral health
 - Peace of [mind](./Mind.md) with a splash of brain health
-- [The Microbiome's Role in Immunity](Body/ImmuneSystem/Microbiome.md)  
+- [The Microbiome's Role in Immunity](Body/Microbiome.md)  
 - [Move](./Move.md) your body at least once an hour
 - Daily [supplements](./Supplements/Supplements.md)
 - [Sleep](./Sleep.md) supplements

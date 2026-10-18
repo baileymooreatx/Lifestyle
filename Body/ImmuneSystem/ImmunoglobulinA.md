@@ -37,7 +37,7 @@ Mucosal epithelial cells have two distinct surfaces. They are polarized.
 
 * The **basolateral** surface is the side that faces away from the lumen and
   toward the body's internal environment.
-* The **apical** surface is the side that faces the [lumen](GutLumen.md), the
+* The **apical** surface is the side that faces the [lumen](../GutLumen.md), the
   open space or cavity on the "outside" of the tissue.
 
 A **polymeric immunoglobulin receptor (pIgR)** is the transmembrane protein on 

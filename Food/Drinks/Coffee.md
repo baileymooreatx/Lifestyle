@@ -94,7 +94,7 @@ metabolic rate.
 
 ### Gut Microbiome Health
 
-Coffee consumption significantly influences [gut microbiome](../../Body/ImmuneSystem/Microbiome.md) 
+Coffee consumption significantly influences [gut microbiome](../../Body/Microbiome.md) 
 health, primarily by increasing [microbial diversity](../../Body/ImmuneSystem/CommensalBacteria.md) 
 and promoting the growth of specific beneficial bacteria. These effects are 
 largely driven by **polyphenols** (such as chlorogenic acid) and **melanoidins** 

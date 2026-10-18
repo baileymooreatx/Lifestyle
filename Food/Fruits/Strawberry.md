@@ -130,7 +130,7 @@ Strawberries combat inflammation through multiple biological pathways:
 * **NF-κB Inhibition**: Strawberry extracts inhibit the **NF-κB pathway**, a
   master switch that controls the expression of many inflammatory genes.
   Blocking this pathway prevents the cascade of inflammation before it starts.  
-* **[Gut Microbiome](../../Body/ImmuneSystem/Microbiome.md) Modulation**: By promoting  
+* **[Gut Microbiome](../../Body/Microbiome.md) Modulation**: By promoting  
   the growth of beneficial bacteria (like *Faecalibacterium*) that produce 
   anti-inflammatory [short-chain fatty acids (SCFAs)](../../Body/ImmuneSystem/ShortChainFattyAcid.md), 
   strawberries improve gut barrier function. This prevents "leaky gut," a 
@@ -230,7 +230,7 @@ strawberry-specific flavonoids:
 
 With approximately 3 grams of fiber per cup, strawberries promote healthy
 digestion and prevent constipation. Emerging research also indicates that
-strawberry consumption can positively impact the [gut microbiome](../../Body/ImmuneSystem/Microbiome.md), 
+strawberry consumption can positively impact the [gut microbiome](../../Body/Microbiome.md), 
 increasing bacteria associated with lean body mass and longevity.
 
 Strawberries act as a prebiotic, actively reshaping the gut environment rather

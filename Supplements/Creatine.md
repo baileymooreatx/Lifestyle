@@ -1,8 +1,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+-*Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Creatine](#creatine)
+  - [Why Creatine Matters After 40](#why-creatine-matters-after-40)
   - [Physical Performance and Muscle Growth](#physical-performance-and-muscle-growth)
     - [Enhanced Strength and Power](#enhanced-strength-and-power)
     - [Increased Muscle Mass](#increased-muscle-mass)
@@ -19,18 +20,20 @@
     - [Heart Health](#heart-health)
     - [Skin Health](#skin-health)
   - [Safety and Dosage](#safety-and-dosage)
+    - [Poor Absorption](#poor-absorption)
+    - [Protocol for Effective Results](#protocol-for-effective-results)
   - [Interactions with Other Supplements and Foods](#interactions-with-other-supplements-and-foods)
+    - [Potential Interaction with Caffeine](#potential-interaction-with-caffeine)
   - [Synergistic Stacks](#synergistic-stacks)
     - [Protein Powder](#protein-powder)
     - [Beta-Alanine](#beta-alanine)
     - [Carbohydrates](#carbohydrates)
-  - [Potential Interaction with Caffeine](#potential-interaction-with-caffeine)
-  - [Summary of Interactions](#summary-of-interactions)
+    - [Summary of Interactions](#summary-of-interactions)
   - [Storage](#storage)
-    - [The Golden Rule: Avoid Moisture](#the-golden-rule-avoid-moisture)
+    - [Avoid Moisture](#avoid-moisture)
     - [Temperature and Light](#temperature-and-light)
     - [Liquid Mixtures: Use Immediately](#liquid-mixtures-use-immediately)
-  - [Signs of Degradation](#signs-of-degradation)
+    - [Signs of Degradation](#signs-of-degradation)
   - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -41,7 +44,16 @@ Creatine is one of the most extensively researched supplements, proven to
 enhance **high-intensity exercise performance**, **increase muscle mass**, and
 support **brain health**. While popular among athletes, emerging evidence
 suggests significant benefits for older adults, vegetarians, and clinical
-populations.
+populations. Creatine improves body composition even 
+[without exercise](https://pubmed.ncbi.nlm.nih.gov/42578920/).
+
+## Why Creatine Matters After 40
+
+As we age, natural creatine levels decline, contributing to **sarcopenia**
+(muscle loss) and decreased ATP production in our mitochondria. Creatine helps
+recharge ATP, providing essential energy for the brain, heart, immune system,
+and fat cells. Research indicates creatine can help **shrink fat cells** and
+improve body composition in aging adults.
 
 ## Physical Performance and Muscle Growth
 
@@ -61,11 +73,11 @@ repetitions, directly translating to greater strength gains over time.
 
 Creatine promotes muscle growth through several mechanisms:
 
-* **Cell Volumization:** It draws water into muscle cells, causing them to
+- **Cell Volumization:** It draws water into muscle cells, causing them to
   swell, which signals growth and rapidly increases muscle size.
-* **Protein Synthesis:** It boosts the formation of proteins that create new
+- **Protein Synthesis:** It boosts the formation of proteins that create new
   muscle fibers and raises levels of insulin-like growth factor 1 (IGF-1).
-* **Myostatin Reduction:** Some studies suggest creatine lowers myostatin, a
+- **Myostatin Reduction:** Some studies suggest creatine lowers myostatin, a
   molecule that inhibits muscle growth.
 
 ### Injury Prevention and Recovery
@@ -104,7 +116,7 @@ dietary restrictions or physiological changes.
 ### Older Adults (Sarcopenia Prevention)
 
 Age-related muscle loss, known as sarcopenia, can be mitigated by combining
-creatine with resistance training. Studies in adults aged 57–70 demonstrate
+creatine with resistance training. Studies in adults aged 57 to 70 demonstrate
 significant improvements in **lean tissue mass** and upper/lower body strength,
 enhancing overall physical function and quality of life.
 
@@ -113,7 +125,7 @@ enhancing overall physical function and quality of life.
 Since dietary creatine is found primarily in red meat and fish, vegetarians and
 vegans often have lower baseline stores. Supplementation in these groups can
 lead to more dramatic improvements in both **physical performance** and 
-**cognitive function** compared to omnivores, effectively restoring optimal
+-*cognitive function** compared to omnivores, effectively restoring optimal
 levels.
 
 ### Women’s Health
@@ -149,22 +161,62 @@ damage, though oral supplementation's direct effect on skin is less established.
 Creatine is considered **safe for long-term use** in healthy individuals, with
 studies lasting up to five years showing no adverse effects.
 
-* **Standard Dosage:** A common maintenance dose is **3–5 grams per day**.
-* **Loading Phase:** Some users start with 20 grams daily for 5–7 days to
+- **Standard Dosage:** A common maintenance dose is **3–5 grams per day**.
+- **Loading Phase:** Some users start with 20 grams daily for 5–7 days to
   saturate muscles quickly, followed by the maintenance dose.
-* **Side Effects:** Generally mild, including potential water retention,
+- **Side Effects:** Generally mild, including potential water retention,
   bloating, or digestive discomfort if taken in excessive amounts without enough
   water.
-* **Contraindications:** Individuals with pre-existing **kidney disease** or
+- **Contraindications:** Individuals with pre-existing **kidney disease** or
   **bipolar disorder** should consult a healthcare provider before use. 
   Combining high doses of creatine with caffeine may diminish its performance
   benefits or cause discomfort.
+
+[This video](https://www.youtube.com/watch?v=G-NmkPy2g6w), presented by Ben 
+Azadi, argues that for individuals over 40, creatine is a vital tool for 
+-*cellular energy** and **metabolic health**.
+
+### Poor Absorption
+
+The video emphasizes that many people "waste" their creatine because it never
+effectively enters the muscle cell. The transport mechanism for creatine is 
+-*sodium-dependent**. Taking *creatine* with plain water, on an empty stomach, 
+or while dehydrated often prevents proper absorption, leading to it being 
+excreted.
+
+### Protocol for Effective Results  
+
+To maximize absorption, *Ben Azadi* recommends the following routine.
+
+1. **Consistency:** Take **5 grams daily**; do not cycle or skip days.
+2. **Pairing:** Consume with a meal (containing protein and some carbs) to 
+   trigger a healthy insulin response, which aids transport.
+3. **Hydration:** Always prioritize hydration and ensure adequate 
+   **sodium/electrolyte intake** before or during consumption.
+4. **Post-Workout:** If you have just performed an intense workout or used a
+   sauna, **rehydrate first** before taking creatine.
+
+Azadi also advises using **micronized, third-party tested** creatine to avoid
+gut irritation and ensure product purity.
 
 ## Interactions with Other Supplements and Foods
 
 Creatine interacts **synergistically** with most common supplements, enhancing
 muscle growth and performance, though its interaction with **caffeine** requires
 timing consideration.
+
+### Potential Interaction with Caffeine
+
+The interaction between creatine and **caffeine** is the most debated.
+
+- **Conflicting Evidence:** Early studies suggested high doses of caffeine might
+  blunt creatine's performance benefits, possibly due to opposing effects on
+  muscle relaxation time or increased dehydration risk.
+- **Current Consensus:** Recent reviews and trials (including 2024 data) suggest
+  that for most users, **co-ingestion is safe** and does not significantly
+  negate benefits. However, to be cautious, some experts recommend separating
+  intake (e.g., caffeine pre-workout, creatine post-workout) or avoiding very
+  high caffeine doses (>5 mg/kg) during the creatine loading phase.
 
 ## Synergistic Stacks
 
@@ -175,9 +227,9 @@ and safe. While they operate through different mechanisms—creatine boosts
 energy (ATP) for training intensity, while protein provides amino acids for
 repair—they complement each other perfectly.
 
-* **Convenience:** Mixing them in a post-workout shake ensures consistent
+- **Convenience:** Mixing them in a post-workout shake ensures consistent
   intake.
-* **Absorption:** Some evidence suggests that the insulin response from
+- **Absorption:** Some evidence suggests that the insulin response from
   protein (and added carbs) may slightly aid creatine uptake into muscle cells,
   though consistent daily dosing is the most critical factor.
 
@@ -186,39 +238,26 @@ repair—they complement each other perfectly.
 Stacking creatine with **beta-alanine** is considered one of the most effective
 combinations for performance.
 
-* **Complementary Mechanisms:** Creatine fuels explosive, short-duration
-  efforts (0–10 seconds) by regenerating ATP. Beta-alanine buffers acid to delay
-  fatigue in efforts lasting 1–4 minutes.
-* **Combined Effect:** Research indicates that taking both together leads to
+- **Complementary Mechanisms:** Creatine fuels explosive, short-duration
+  efforts (0 to 10 seconds) by regenerating ATP. Beta-alanine buffers acid to 
+  delay fatigue in efforts lasting 1 to 4 minutes.
+- **Combined Effect:** Research indicates that taking both together leads to
   greater improvements in strength, lean mass, and exercise capacity than taking
   either supplement alone, as they cover different energy systems.
 
 ### Carbohydrates
 
-Consuming creatine with **carbohydrates** (e.g., fruit juice, dextrose, or a
-meal) can accelerate muscle saturation.
+Consuming creatine with **carbohydrates** (e.g., a meal) can accelerate muscle 
+saturation.
 
-* **Insulin Spike:** Carbs trigger an insulin release, which acts as a "shuttle"
+- **Insulin Spike:** Carbs trigger an insulin release, which acts as a "shuttle"
   to drive creatine into muscle cells more rapidly.
-* **Necessity:** While this speeds up the loading phase, it is not strictly
+- **Necessity:** While this speeds up the loading phase, it is not strictly
   necessary for long-term benefits. Taking creatine with a mixed meal containing
   protein and carbs is often sufficient and more practical than consuming high
   amounts of sugar.
 
-## Potential Interaction with Caffeine  
-
-The interaction between creatine and **caffeine** is the most debated.
-
-* **Conflicting Evidence:** Early studies suggested high doses of caffeine might
-  blunt creatine's performance benefits, possibly due to opposing effects on
-  muscle relaxation time or increased dehydration risk.
-* **Current Consensus:** Recent reviews and trials (including 2024 data) suggest
-  that for most users, **co-ingestion is safe** and does not significantly
-  negate benefits. However, to be cautious, some experts recommend separating
-  intake (e.g., caffeine pre-workout, creatine post-workout) or avoiding very
-  high caffeine doses (>5 mg/kg) during the creatine loading phase.
-
-## Summary of Interactions
+### Summary of Interactions
 
 | Supplement         | Interaction Type    | Recommendation                                                                   |
 |:-------------------|:--------------------|:---------------------------------------------------------------------------------|
@@ -233,20 +272,20 @@ The interaction between creatine and **caffeine** is the most debated.
 The best way to store creatine to retain potency is in a **cool, dry, and dark
 place** inside an **airtight container**.
 
-### The Golden Rule: Avoid Moisture
+### Avoid Moisture
 
 Moisture is the single biggest enemy of creatine stability. When dry creatine
 powder absorbs water, it begins an irreversible chemical process called
 hydrolysis, converting active creatine into inactive **creatinine**.
 
-* **Humidity Control:** Store creatine in an environment with low humidity (
-  ideally below 50%). Avoid bathrooms, kitchens near sinks/stoves, or unsealed
+- **Humidity Control:** Store creatine in an environment with low humidity
+  (ideally below 50%). Avoid bathrooms, kitchens near sinks/stoves, or unsealed
   garages where humidity fluctuates.
-* **Seal Tightly:** Always close the lid immediately after use. Even brief
+- **Seal Tightly:** Always close the lid immediately after use. Even brief
   exposure to humid air can introduce enough moisture to start clumping and
   degradation.
-* **Desiccants:** If you live in a humid climate, keep the silica gel packet (
-  desiccant) that comes with the tub inside the container, or add a food-grade
+- **Desiccants:** If you live in a humid climate, keep the silica gel packet
+  (desiccant) that comes with the tub inside the container, or add a food-grade
   silica gel pack to absorb excess moisture.
 
 ### Temperature and Light
@@ -254,13 +293,13 @@ hydrolysis, converting active creatine into inactive **creatinine**.
 While creatine is surprisingly heat-stable in its dry form, extreme conditions
 should still be avoided to ensure maximum shelf life.
 
-* **Ideal Temperature:** Room temperature (20–25°C / 68–77°F) is perfect. Avoid
+- **Ideal Temperature:** Room temperature (20–25°C / 68–77°F) is perfect. Avoid
   storing it in cars, direct sunlight, or near radiators where temperatures can
   spike significantly.
-* **Light Exposure:** UV light can degrade supplements over time. Keep the
+- **Light Exposure:** UV light can degrade supplements over time. Keep the
   container in an opaque cupboard or pantry rather than on a windowsill or clear
   countertop display.
-* **Refrigeration:** **Do not refrigerate** dry creatine powder. Taking a cold
+- **Refrigeration:** **Do not refrigerate** dry creatine powder. Taking a cold
   container into a warm room causes condensation to form inside the tub,
   introducing moisture that ruins the powder.
 
@@ -269,23 +308,23 @@ should still be avoided to ensure maximum shelf life.
 Once creatine is dissolved in liquid, the degradation clock speeds up
 dramatically.
 
-* **Mix Fresh:** Always mix creatine with water, juice, or protein shakes *
-  *immediately before drinking**.
-* **Don't Pre-Mix:** Avoid mixing large batches for later use. In solution,
+- **Mix Fresh:** Always mix creatine with water or protein shakes **immediately 
+  before drinking**.
+- **Don't Pre-Mix:** Avoid mixing large batches for later use. In solution,
   creatine begins converting to creatinine within hours, especially in acidic
   liquids (like orange juice) or warm beverages. If you must pre-mix, consume it
   within 30–60 minutes.
 
-## Signs of Degradation
+### Signs of Degradation
 
 Properly stored creatine monohydrate can remain potent for **3–5 years**, often
 well past its printed expiration date. However, discard the product if you
 notice:
 
-* **Foul Odor:** A sour or musty smell indicates bacterial growth or significant
+- **Foul Odor:** A sour or musty smell indicates bacterial growth or significant
   breakdown.
-* **Discoloration:** Any change from pure white to yellow or off-color.
-* **Hard Clumps:** While minor clumping from humidity can often be broken up,
+- **Discoloration:** Any change from pure white to yellow or off-color.
+- **Hard Clumps:** While minor clumping from humidity can often be broken up,
   rock-hard blocks suggest significant moisture absorption and potential potency
   loss.
 

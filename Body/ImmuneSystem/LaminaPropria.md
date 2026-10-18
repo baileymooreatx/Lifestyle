@@ -39,7 +39,7 @@ Muscularis externa
 Serosa
 ```
 
-See the image provided in [Gut Lumen](./GutLumen.md).
+See the image provided in [Gut Lumen](GutLumen.md).
 
 ### Composition
 

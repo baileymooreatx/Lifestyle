@@ -48,7 +48,7 @@ diabetes**.
 
 ## Main Causes & Risk Factors
 
-- **Excess body weight**, especially [visceral](VisceralFat.md)
+- **Excess body weight**, especially [visceral](Body/VisceralFat.md)
   (belly) fat, is the leading cause.
 - **Physical inactivity** — exercise improves insulin sensitivity and builds
   muscle that absorbs glucose.

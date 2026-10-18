@@ -13,11 +13,11 @@
 
 # NOD-Like Receptors (NLRs)
 
-**NLRs** are a family of **[cytosolic](./Cytosol.md) pattern recognition 
+**NLRs** are a family of **[cytosolic](Cytosol.md) pattern recognition 
 receptors** that detect microbial products, pathogen-associated molecular 
 Patterns (PAMPs), and host danger signals, damage-associated molecular 
 patterns (DAMPs), **inside** the cell, complementing the membrane-bound 
-[Toll-like receptors (TLRs)](./Troll-LikeReceptor.md). They are sometimes called 
+[Toll-like receptors (TLRs)](Troll-LikeReceptor.md). They are sometimes called 
 **NACHT** (Nucleotide-binding domain, domain with **A**mino-acid repeats, 
 **C**ysteine-**H**is-**T**hreonine) and **LRR** (Leucine-Rich Repeat) proteins.  
 
@@ -92,7 +92,7 @@ All NLRs share a common three-part architecture:
 ## Connection to the Microbiome
 
 NOD1 and NOD2 are expressed heavily in **intestinal epithelial cells** and
-directly sense bacterial peptidoglycan from the [gut lumen](./GutLumen.md), 
+directly sense bacterial peptidoglycan from the [gut lumen](GutLumen.md), 
 making them a key molecular bridge between the microbiome and host immunity. A 
 healthy microbiome provides a steady "low-grade" peptidoglycan signal that keeps 
 NOD1/2 tone appropriate; dysbiosis (antibiotics, pathogenic overgrowth) disrupts 

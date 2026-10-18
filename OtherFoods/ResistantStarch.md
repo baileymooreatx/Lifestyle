@@ -33,7 +33,7 @@ Resistant starch is a type of carbohydrate that resists digestion in the small
 intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
-[short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md),
+[short-chain fatty acids (SCFAs)](../Body/ImmuneSystem/ShortChainFattyAcid.md),
 primarily butyrate, acetate, and propionate.
 
 These metabolites are the key to its health effects:
@@ -43,7 +43,7 @@ These metabolites are the key to its health effects:
   integrity and showing [anti-inflammatory](../Anti-inflammatoryFoods.md) and
   anti-carcinogenic properties (linked to reduced colorectal cancer risk).
 - **Immune regulation:** SCFAs modulate cytokine release and induce regulatory
-  [T cells](../ImmuneSystem/T-Cell.md) (Tregs) in the colon, dampening excessive
+  [T cells](../Body/ImmuneSystem/T-Cell.md) (Tregs) in the colon, dampening excessive
   immune responses.
 - **Metabolic benefits:** Slows glucose absorption, improves insulin
   sensitivity, lowers LDL cholesterol, and triggers satiety hormones (PYY,
@@ -54,7 +54,7 @@ These metabolites are the key to its health effects:
 ## Improved Gut Health and Microbiome Balance
 
 Resistant starch acts as a premium fuel for beneficial bacteria in the gut,
-promoting a balanced [microbiome](../ImmuneSystem/Microbiome.md). The production
+promoting a balanced [microbiome](../Body/ImmuneSystem/Microbiome.md). The production
 of butyrate helps maintain the gut's protective lining, reduces inflammation, 
 and may aid in treating conditions like **inflammatory bowel disease (IBD)**, 
 **Crohn’s disease**, and **ulcerative colitis**. A healthy gut microbiome is 

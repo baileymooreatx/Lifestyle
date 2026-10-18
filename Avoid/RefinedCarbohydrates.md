@@ -167,7 +167,7 @@ associated with heart attacks and strokes.
 
 This is a distinct and underappreciated pathway. **Fructose** (found in table
 sugar, high-fructose corn syrup, and many "natural" sweeteners) is metabolized
-almost entirely in the [liver](../Liver.md), and it **bypasses the rate-limiting
+almost entirely in the [liver](../Body/Liver.md), and it **bypasses the rate-limiting
 regulatory step** (phosphofructokinase) that normally controls glucose
 metabolism.
 

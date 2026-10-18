@@ -122,7 +122,7 @@ undergo:
 |---------------------------------|--------------------------------------------------------------------------------------|
 | **IgM**                         | First responder; potent complement activation (C1q binding); pentamer = high avidity |
 | **IgG**                         | Opsonization, ADCC, transplacental transfer (IgG1/3); 4 subclasses in humans         |
-| **[IgA](./ImmunoglobulinA.md)** | Mucosal immunity (dimeric, secretory component); coats commensals (sIgA)             |
+| **[IgA](ImmunoglobulinA.md)** | Mucosal immunity (dimeric, secretory component); coats commensals (sIgA)             |
 | **IgE**                         | Mast cell/basophil degranulation; anti-helminth; **allergy/anaphylaxis**             |
 | **IgD**                         | BCR co-receptor on naïve B cells; role in activation still debated                   |
 

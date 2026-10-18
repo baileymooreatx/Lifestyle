@@ -74,7 +74,7 @@ by Matt Richtel
 
 The book weaves the science of immunology through four lives: Jason Greenstein
 (Hodgkin's lymphoma / immunotherapy), Bob (an HIV long‑term nonprogressor), and 
-two women with [autoimmune disease](../ImmuneSystem/AutoImmunity.md), Linda 
+two women with [autoimmune disease](../Body/ImmuneSystem/AutoImmunity.md), Linda 
 (lupus) and Meredith (rheumatoid arthritis).  
 
 The book weaves the four personal narratives (Jason, Bob, Linda, and Meredith) 
@@ -84,7 +84,7 @@ concepts. The overall arc moves from the basics of immune function to the
 cutting edge of immunotherapy, ending with a meditation on mortality and the 
 double-edged nature of the body's defense.  
 
-Most of the articles in [Immune System](../ImmuneSystem) are inspired by this 
+Most of the articles in [Immune System](../Body/ImmuneSystem) are inspired by this 
 book. Here's a detailed chapter-by-chapter summary, organized by part with 
 headings for each chapter.  
 
@@ -165,7 +165,7 @@ removal leads to profound immunodeficiency.
 
 ### Chapter 9: The B-Word
 
-Covers the discovery of [B cells](../ImmuneSystem/B-Cell.md) and their role in 
+Covers the discovery of [B cells](../Body/ImmuneSystem/B-Cell.md) and their role in 
 antibody production. The chapter tells the story of a young boy at Walter Reed 
 General Hospital who could not produce antibodies, suffering relentless 
 infections. His case revealed that B cells, named for the Bursa of Fabricius in 
@@ -173,7 +173,7 @@ birds, are the source of antibodies and are distinct from T cells.
 
 ### Chapter 10: T Cells and B Cells
 
-Explains the division of labor between [T cells](../ImmuneSystem/T-Cell.md) and 
+Explains the division of labor between [T cells](../Body/ImmuneSystem/T-Cell.md) and 
 B cells as the two arms of adaptive immunity. B cells produce antibodies that 
 tag pathogens; T cells (helpers and killers) orchestrate and execute attacks. 
 The chapter details how these cells recognize antigens, proliferate, and 
@@ -366,15 +366,15 @@ prevalence of food allergies and the "hygiene hypothesis."
 A playful chapter that discusses the role of the microbiome in immune
 development. The "hygiene hypothesis" suggests that reduced exposure to microbes
 in early childhood may contribute to the rise in allergies and autoimmune
-diseases. The chapter explores how the [bacteria](../ImmuneSystem/CommensalBacteria.md) 
+diseases. The chapter explores how the [bacteria](../Body/ImmuneSystem/CommensalBacteria.md) 
 we host (and even the ones we ingest) train our immune system to calibrate its 
 responses.
 
 ### Chapter 33: Microbiome
 
-Dives deeper into the gut [microbiome](../ImmuneSystem/Microbiome.md) and its 
+Dives deeper into the gut [microbiome](../Body/ImmuneSystem/Microbiome.md) and its 
 relationship with immunity. Trillions of bacteria in the 
-[gut](../ImmuneSystem/GutLumen.md) communicate with immune cells, influencing
+[gut](../Body/ImmuneSystem/GutLumen.md) communicate with immune cells, influencing
 everything from inflammation to tolerance. The chapter covers how disruptions to
 the microbiome (through antibiotics, diet, or other factors) can contribute to
 immune dysfunction, allergies, and autoimmune disease.
@@ -433,7 +433,7 @@ grow and spread.
 ### Chapter 40: Programmed Death
 
 Covers the PD-1/PD-L1 checkpoint — the "programmed death" 
-[receptor](../ImmuneSystem/PatternRecognitionReceptor.md) on T cells that acts 
+[receptor](../Body/ImmuneSystem/PatternRecognitionReceptor.md) on T cells that acts 
 as a brake on immune responses. Cancer cells express PD-L1 to bind to PD-1 on 
 T cells, effectively telling them to stand down. This is how tumors evade immune 
 detection. The chapter explains the discovery of this mechanism and its 

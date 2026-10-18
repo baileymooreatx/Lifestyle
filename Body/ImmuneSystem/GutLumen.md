@@ -4,7 +4,7 @@ The **gut lumen** is the hollow interior space of the gastrointestinal (GI)
 tract, the cavity inside the intestinal wall where food, digestive secretions, 
 and the microbiota reside. It runs from the mouth to the anus.
 
-![Layers of the Stomach Wall](../binary/StomachLayers.jpg "Layers of the Stomach Wall")  
+![Layers of the Stomach Wall](../../binary/StomachLayers.jpg "Layers of the Stomach Wall")  
 
 Structurally, the lumen is bounded by four layers of the intestinal wall. 
 This table lists them from the inside to the outside.
@@ -23,11 +23,11 @@ In the context of immunology, the lumen matters.
 - It is where **pathogen-associated molecular patterns (PAMPs)** (e.g., 
   peptidoglycan, LPS, flagellin) are first encountered by surface 
   [Troll-like Receptors (TLRs)](Troll-LikeReceptor.md) and, after translocation, 
-  by [cytosolic](./Cytosol.md) [NOD-like Receptors (NLRs)](NOD-LikeReceptor.md).
+  by [cytosolic](Cytosol.md) [NOD-like Receptors (NLRs)](NOD-LikeReceptor.md).
 - The **mucus layer** (~400 µm thick in the human colon) separates luminal
   bacteria from the epithelium, a critical physical barrier.
 - [sIgA](ImmunoglobulinA.md) is secreted *into* the lumen to coat 
-  [commensals](./CommensalBacteria.md) and prevent their adhesion to or 
+  [commensals](CommensalBacteria.md) and prevent their adhesion to or 
   translocation across the epithelium.
 - When barrier integrity fails ("leaky gut"), luminal contents (bacteria, PAMPs)
   cross into the lamina propria and trigger inflammation — a key mechanism in 

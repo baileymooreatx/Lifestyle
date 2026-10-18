@@ -15,10 +15,10 @@
 Ideas about how to improve health and wellbeing  
 
 - Pros and cons of drinking [Alkaline Water](./OtherFoods/AlkalineWater.md)
-- Measure [Blood Pressure](./BloodPressure.md) correctly
+- Measure [Blood Pressure](Body/BloodPressure.md) correctly
 - [Dental care](./DentalCare.md) and natural recipes for oral health
 - Peace of [mind](./Mind.md) with a splash of brain health
-- [The Microbiome's Role in Immunity](ImmuneSystem/Microbiome.md)  
+- [The Microbiome's Role in Immunity](Body/ImmuneSystem/Microbiome.md)  
 - [Move](./Move.md) your body at least once an hour
 - Daily [supplements](./Supplements/Supplements.md)
 - [Sleep](./Sleep.md) supplements
@@ -47,7 +47,7 @@ Summaries of books about health and wellness
   microbiome  
 - Food and Drug Administration (FDA) [Nutrition Label Daily Values](./NutritionLabelDailyValues.md)
 - [High protein](Protein/ProteinRichPlantFoods.md) foods not derived from animals
-- Improve [liver health](Liver.md)  
+- Improve [liver health](Body/Liver.md)  
 - How do [Non-Nutritive Sweeteners](./OtherFoods/Sweeteners.md) effect 
   insulin levels in the blood?
 - Healthy [nut](./Nuts/Nuts.md) choices and nuts to avoid  
@@ -67,7 +67,7 @@ Summaries of books about health and wellness
 - [Insulin resistance](./InsulinResistance.md)
 - [Intermittent Fasting](./Fasting.md)  
 - [Keto diet](./HealthyDiet.md)
-- Reduce [Visceral Fat](VisceralFat.md)  
+- Reduce [Visceral Fat](Body/VisceralFat.md)  
   
 ## Dr. Eric Berg, DC
 

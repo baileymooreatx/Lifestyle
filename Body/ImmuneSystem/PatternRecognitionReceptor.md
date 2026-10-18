@@ -36,7 +36,7 @@ individual pathogens, a "pattern" rather than a "molecule."
 
 They comprise a multifamily, multi-compartment surveillance network that detects 
 conserved microbial and damage signals at every stage of pathogen invasion 
-(outside → membrane → endosome → [cytosol](./Cytosol.md)), translates them into 
+(outside → membrane → endosome → [cytosol](Cytosol.md)), translates them into 
 two major transcriptional programs (inflammation and antiviral), and provides
 the essential "first wave" of defense that bridges to adaptive immunity. Their 
 misregulation underlies immune-mediated disease.
@@ -45,8 +45,8 @@ misregulation underlies immune-mediated disease.
 
 | Family                                             | Abbreviation | Location                      | Primary Ligands                                                    | Key Signaling Output                                                       |
 |----------------------------------------------------|--------------|-------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|
-| **[Toll-like receptors](./Troll-LikeReceptor.md)** | TLRs         | Plasma membrane and endosomes | Lipids, lipoproteins, LPS, flagellin, dsRNA, ssRNA, CpG DNA, DAMPs | NF-κB, MAPKs, IRFs → cytokines, type I IFNs                                |
-| **[NOD-like receptors](./NOD-LikeReceptor.md)**    | NLRs         | Cytosol                       | Peptidoglycan, flagellin, K⁺ efflux, ROS, toxins, ATP              | NF-κB (NOD1/2); **Inflammasome** → IL-1β, IL-18, pyroptosis (NLRP3, NLRC4) |
+| **[Toll-like receptors](Troll-LikeReceptor.md)** | TLRs         | Plasma membrane and endosomes | Lipids, lipoproteins, LPS, flagellin, dsRNA, ssRNA, CpG DNA, DAMPs | NF-κB, MAPKs, IRFs → cytokines, type I IFNs                                |
+| **[NOD-like receptors](NOD-LikeReceptor.md)**    | NLRs         | Cytosol                       | Peptidoglycan, flagellin, K⁺ efflux, ROS, toxins, ATP              | NF-κB (NOD1/2); **Inflammasome** → IL-1β, IL-18, pyroptosis (NLRP3, NLRC4) |
 | **RIG-I-like receptors**                           | RLRs         | Cytosol                       | Viral RNA (short/5′-triphosphorylated dsRNA, long dsRNA)           | MAVS → NF-κB + IRF3/7 → **type I IFNs** (antiviral)                        |
 | **C-type lectin receptors**                        | CLRs         | Plasma membrane               | Fungal β-glucans, mannans, glycolipids                             | SYK → CARD9 → NF-κB; phagocytosis; cytokines                               |
 | **AIM2-like receptors**                            | ALRs         | Cytosol                       | Cytosolic **dsDNA** (bacterial, viral, mitochondrial)              | **Inflammasome** (AIM2) → caspase-1 → IL-1β, IL-18, pyroptosis             |
@@ -99,7 +99,7 @@ sufficient for full detection; redundancy is the design principle.
 
 ### 1. Toll-like Receptors (TLRs)
 
-Covered in depth in [Toll-like Receptors](./Troll-LikeReceptor.md)
+Covered in depth in [Toll-like Receptors](Troll-LikeReceptor.md)
 
 - 10 in humans, 12 in mice
 - LRR ectodomain + TIR cytoplasmic domain
@@ -108,13 +108,13 @@ Covered in depth in [Toll-like Receptors](./Troll-LikeReceptor.md)
 
 ### 2. NOD-like Receptors (NLRs)
 
-Covered in depth in [NOD-like Receptors](./NOD-LikeReceptor.md)
+Covered in depth in [NOD-like Receptors](NOD-LikeReceptor.md)
 
 - Cytosolic; NACHT + LRR architecture
 - NOD1/2 → RIP2 → NF-κB (bacterial peptidoglycan sensing)
 - NLRP3, NLRC4, NLRP1 → **Inflammasome** → caspase-1 → IL-1β/IL-18 + pyroptosis
 - The "confirmation" layer: if a pathogen has entered the 
-  [cytosol](./Cytosol.md), NLRs escalate the response
+  [cytosol](Cytosol.md), NLRs escalate the response
 
 ### 3. RIG-I-like Receptors (RLRs)
 

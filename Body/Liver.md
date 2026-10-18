@@ -45,7 +45,7 @@ major categories.
 
 - Filters **~1.5 liters of blood per minute** through its dual blood supply
   (hepatic artery and portal vein)
-- Metabolizes **drugs, [alcohol](./Avoid/Alcohol.md)**, and environmental toxins 
+- Metabolizes **drugs, [alcohol](../Avoid/Alcohol.md)**, and environmental toxins 
   via **Phase I** (oxidation by cytochrome P450 enzymes) and **Phase II** 
   (conjugation) reactions, making them water-soluble for excretion in urine or 
   bile
@@ -143,7 +143,7 @@ partially reversible if caught before it progresses to cirrhosis.
 
 - **Test:** Request blood work including *ALT, AST, GGT, bilirubin, albumin, and
   platelets*. Calculate your *FIB4 score* online to screen for scarring.
-- **Remove Interference:** Eliminate [alcohol](./Avoid/Alcohol.md), high
+- **Remove Interference:** Eliminate [alcohol](../Avoid/Alcohol.md), high
   fructose corn syrup , and processed inflammatory oils.
 - **Support:** Focus on quality sleep and muscle building to help with glucose
   storage.
@@ -154,35 +154,35 @@ partially reversible if caught before it progresses to cirrhosis.
 
 1. [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables)
    are high in sulforaphane.  
-2. [Garlic](./Vegetables/Garlic.md) is antibacterial, antifungal, antiviral and 
+2. [Garlic](../Vegetables/Garlic.md) is antibacterial, antifungal, antiviral and 
    anti-inflammatory.
-3. [Turmeric](./Spices/Turmeric.md) is high in curcumin which is a very 
+3. [Turmeric](../Spices/Turmeric.md) is high in curcumin which is a very 
    powerful anti-inflammatory. Detoxifies heavy metals.
-4. [Beets](./Supplements/BeetrootPowder.md) protect the liver and help 
+4. [Beets](../Supplements/BeetrootPowder.md) protect the liver and help 
    release bile salts.
-5. [Mushrooms](./Vegetables/Mushroom.md) are high in glutathione.
-6. [Avocados](Vegetables/Avocado.md) are anti-inflammatory and high in 
+5. [Mushrooms](../Vegetables/Mushroom.md) are high in glutathione.
+6. [Avocados](../Vegetables/Avocado.md) are anti-inflammatory and high in 
    glutathione.
-7. [Extra virgin olive oil](./Fats/ExtraVirginOliveOil.md) is full of
+7. [Extra virgin olive oil](../Fats/ExtraVirginOliveOil.md) is full of
    polyphenols and anti-inflammatory
 
 ### [The #1 Best Meal for Liver Detoxification](https://www.youtube.com/watch?v=-vtMP3laIBc)
 
-1. [Eggs](Protein/Egg.md) are high in [choline](../Supplements/Choline.md)
+1. [Eggs](../Protein/Egg.md) are high in [choline](../Supplements/Choline.md)
 2. Meat for amino acids
-3. [Onion](./Vegetables/Onion.md)
-4. [Garlic](./Vegetables/Garlic.md)
+3. [Onion](../Vegetables/Onion.md)
+4. [Garlic](../Vegetables/Garlic.md)
 5. Sea salt for trace minerals
 6. Cruciferous vegetables
-7. [Kefir](./Fermented/Kefir.md) contains both friendly bacteria and yeast
-8. [Walnuts](./Nuts/Walnut.md)  
+7. [Kefir](../Fermented/Kefir.md) contains both friendly bacteria and yeast
+8. [Walnuts](../Nuts/Walnut.md)  
 9. Chocolate chips (sugarless)  
 10. Herbs   
     - Thyme  
     - Sage  
     - Oregano  
-    - [Cayenne pepper](./Spices/CayennePepper.md)  
-    - [Turmeric](./Spices/Turmeric.md)  
+    - [Cayenne pepper](../Spices/CayennePepper.md)  
+    - [Turmeric](../Spices/Turmeric.md)  
     - Rosemary
 
 ## Reverse Fatty Liver  
@@ -222,12 +222,12 @@ just days or weeks.
   fats** (found in fish, nuts, and avocados) while moderating saturated fats, as
   high saturated fat intake is linked to worse liver health.
 - **Choose Low-Glycemic Carbs:** Rather than avoiding all carbohydrates, choose
-  high-quality, **low-glycemic index** options like [legumes](./Pulses/Pulses.md),
-  beans, [lentils](./Pulses/Lentil.md), and whole grains.
+  high-quality, **low-glycemic index** options like [legumes](../Pulses/Pulses.md),
+  beans, [lentils](../Pulses/Lentil.md), and whole grains.
 
 ### Lifestyle Tips
 
-- **Avoid Alcohol:** [Alcohol](./Avoid/Alcohol.md) directly worsens liver fat 
+- **Avoid Alcohol:** [Alcohol](../Avoid/Alcohol.md) directly worsens liver fat 
   accumulation and increases the risk of disease progression, including fibrosis 
   and cancer.
 - **Coffee Consumption:** There is some evidence suggesting
@@ -238,7 +238,7 @@ just days or weeks.
 
 [Supplements to Reverse Fatty Liver](https://www.youtube.com/watch?v=FS-EFkLNHRI)
 
-1. [Turmeric](./Spices/Turmeric.md) (curcumin)
+1. [Turmeric](../Spices/Turmeric.md) (curcumin)
    - Lowers blood sugar
    - Helps with insulin sensitivity
    - Helps remedy metabolic dysfunction
@@ -258,12 +258,12 @@ just days or weeks.
    including [ALT](https://en.wikipedia.org/wiki/Alanine_transaminase),
    [AST](https://en.wikipedia.org/wiki/Aspartate_transaminase), and
    [GGT](https://en.wikipedia.org/wiki/Gamma-glutamyltransferase) levels  
-4. [Choline](./Supplements/Choline.md)
-   - [Eggs](Protein/Egg.md)
+4. [Choline](../Supplements/Choline.md)
+   - [Eggs](../Protein/Egg.md)
    - Meat
    - Dairy
    - Seafood
-5. [Berberine](./Supplements/Berberine.md) shows potential for reducing liver
+5. [Berberine](../Supplements/Berberine.md) shows potential for reducing liver
    fat and improving metabolism.
 6. Coenzyme Q10 (Co-Q10) decreases AST, GGT, and high-sensitivity C-reactive
    protein (hs-CRP)
@@ -278,12 +278,12 @@ just days or weeks.
 From [Beverages to Reverse Fatty Liver](https://www.youtube.com/watch?v=zZAvjULZOSY)
 
 - Green tea
-- [Apple cider vinegar](Fermented/AppleCiderVinegar.md) - one tablespoon mixed
+- [Apple cider vinegar](../Fermented/AppleCiderVinegar.md) - one tablespoon mixed
   with 10 ounces of water
-- [Ginger](Spices/Ginger.md) tea - steep ginger root slices in boiled water
+- [Ginger](../Spices/Ginger.md) tea - steep ginger root slices in boiled water
   for 10 minutes
-- [Coffee](./Drinks/Coffee.md)
-- [Hibiscus tea](./Drinks/HibiscusTea.md)
+- [Coffee](../Drinks/Coffee.md)
+- [Hibiscus tea](../Drinks/HibiscusTea.md)
 
 ## Foods to Avoid  
 

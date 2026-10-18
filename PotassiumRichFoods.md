@@ -17,8 +17,9 @@
 
 Potassium is an essential mineral that supports heart, nerve, and muscle
 function. While bananas are famously associated with potassium, many other foods
-contain significantly higher amounts per serving. The current Daily Value (DV)
-for potassium is **4,700 mg**.
+contain significantly higher amounts per serving. The current 
+[Daily Value (DV)](./NutritionLabelDailyValues.md) for potassium is **4,700 
+mg**.  
 
 ## Highest Potassium Sources by Category
 

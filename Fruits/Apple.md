@@ -59,23 +59,36 @@ A **medium apple** (approximately 182 grams or 3 inches in diameter) provides a
 nutrient-dense profile that is **low in calories** but **high in fiber** and
 essential micronutrients.
 
-* **Calories:** ~95 kcal
-* **Water:** ~156 grams (86% of total weight), contributing to hydration and
-  satiety.
-* **Carbohydrates:** ~25.1 grams total.
-    * **Natural Sugars:** ~18.9 grams (primarily fructose, glucose, and
-      sucrose).
-    * **Dietary Fiber:** ~4.4 grams (16% of the Daily Value), including soluble
-      fiber (pectin) which aids digestion and heart health.
-* **Protein:** ~0.5 grams.
-* **Fat:** ~0.3 grams (negligible).
-* **Vitamin C:** ~8.4 mg (approximately 9–14% of the Daily Value), crucial for
-  immune function and skin health.
-* **Potassium:** ~195 mg (4% of the Daily Value), supporting heart function and
-  blood pressure regulation.
-* **Vitamin K:** ~4 mcg (important for blood clotting).
-* **Trace Minerals:** Small amounts of manganese, copper, magnesium, and
-  B-vitamins (including B6, thiamin, and riboflavin).
+| **Nutrient**           | **Per 1 medium apple (182 g, with skin)** | **% Daily Value** |
+|:-----------------------|------------------------------------------:|------------------:|
+| **Calories**           |                                        95 |                5% |
+| **Total Fat**          |                                     0.3 g |                0% |
+| — Saturated Fat        |                                     0.1 g |                0% |
+| — Monounsaturated Fat  |                                    0.03 g |                 — |
+| — Polyunsaturated Fat  |                                    0.06 g |                 — |
+| **Cholesterol**        |                                      0 mg |                0% |
+| **Sodium**             |                                      2 mg |                0% |
+| **Total Carbohydrate** |                                      25 g |                9% |
+| — Dietary Fiber        |                                     4.4 g |               16% |
+| — Sugars (natural)     |                                    18.9 g |                 — |
+| **Protein**            |                                     0.5 g |                2% |
+| **Vitamin C**          |                                    8.4 mg |                9% |
+| **Potassium**          |                                    195 mg |                4% |
+| **Vitamin A**          |                                      5 µg |                1% |
+| **Calcium**            |                                     11 mg |                1% |
+| **Iron**               |                                    0.2 mg |                1% |
+| **Vitamin E**          |                                    0.3 mg |                2% |
+| **Vitamin K**          |                                      4 µg |                3% |
+
+Based on a 2,000-calorie diet
+([USDA FoodData Central](../NutritionLabelDailyValues.md)). A medium 
+apple is about 86% water and gets nearly all its calories from natural sugars 
+(mostly fructose). Most of the fiber and antioxidant compounds (quercetin, 
+anthocyanins) are concentrated in the **skin**, so eating it unpeeled maximizes 
+nutritional value.
+
+**Trace Minerals:** Small amounts of manganese, copper, magnesium, and
+B-vitamins (including B6, thiamin, and riboflavin).
 
 ## Glycemic Impact
 

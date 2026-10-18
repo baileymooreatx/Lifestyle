@@ -68,21 +68,28 @@ counts, making them a better option for blood sugar management.
 
 ## Nutritional Profile
 
-Unsweetened dried cranberries are primarily a source of energy through
-carbohydrates, with negligible fat content.
+| **Nutrient**             | **Per 1/4 cup (40 g, unsweetened)** | **% Daily Value** |
+|:-------------------------|------------------------------------:|------------------:|
+| **Calories**             |                                 120 |                6% |
+| **Total Fat**            |                                 0 g |                0% |
+| — Saturated Fat          |                                 0 g |                0% |
+| **Cholesterol**          |                                0 mg |                0% |
+| **Sodium**               |                                0 mg |                0% |
+| **Total Carbohydrate**   |                                32 g |               12% |
+| — Dietary Fiber          |                                11 g |               39% |
+| — Total Sugars (natural) |                                16 g |                 — |
+| — Added Sugars           |                                 0 g |                0% |
+| **Protein**              |                                 0 g |                0% |
+| **Vitamin C**            |                               20 mg |               22% |
+| **Calcium**              |                                5 mg |                0% |
+| **Iron**                 |                              0.2 mg |                1% |
+| **Potassium**            |                               20 mg |                0% |
 
-* **Calories:** Approximately **300–343 kcal**, depending on the specific
-  variety and drying process.
-* **Carbohydrates:** Ranging from **80g to 81g**, making up the vast majority of
-  the caloric content.
-* **Sugars:** Contain roughly **29g to 40g** of natural sugars. Crucially, they
-  contain **0g of added sugar**, unlike sweetened versions which can exceed 60g
-  of total sugar.
-* **Dietary Fiber:** Exceptionally high, providing **24g to 28g** per 100g (
-  approx. 86–100% of the Daily Value). This high fiber content moderates the
-  glycemic impact compared to sweetened varieties.
-* **Protein:** Low, typically around **0g to 3.1g**.
-* **Fat:** Negligible, usually less than **1g**.
+Based on a 2,000-calorie diet
+([USDA FoodData Central](../NutritionLabelDailyValues.md)).
+
+All 16 g of sugar is natural fruit sugar (mostly glucose and fructose). It's 
+also a surprisingly good source of vitamin C for a dried fruit. 
 
 ### Vitamins
 

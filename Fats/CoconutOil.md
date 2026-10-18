@@ -3,7 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Coconut Oil](#coconut-oil)
-    - [Metabolic Energy and Satiety](#metabolic-energy-and-satiety)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Metabolic Energy and Satiety](#metabolic-energy-and-satiety)
   - [Medium-Chain Triglycerides (MCTs)](#medium-chain-triglycerides-mcts)
     - [Rapid Energy Production and Ketosis](#rapid-energy-production-and-ketosis)
     - [Weight Management and Metabolic Rate](#weight-management-and-metabolic-rate)
@@ -34,7 +35,41 @@ Value. The defining nutritional characteristic of coconut oil is its high
 saturated fat content, comprising about **90% of its total fat**, with more than
 half of these being **medium-chain triglycerides (MCTs)** like lauric acid.
 
-### Metabolic Energy and Satiety
+## Nutritional Profile
+
+| **Nutrient**           | **Per 1 tbsp (14 g)** | **% Daily Value** |
+|:-----------------------|----------------------:|------------------:|
+| **Calories**           |                   120 |                6% |
+| **Total Fat**          |                  14 g |               18% |
+| — Saturated Fat        |                  12 g |               60% |
+| — Monounsaturated Fat  |                 0.8 g |                 — |
+| — Polyunsaturated Fat  |                 0.2 g |                 — |
+| — Trans Fat            |                   0 g |                 — |
+| **Cholesterol**        |                  0 mg |                0% |
+| **Sodium**             |                  0 mg |                0% |
+| **Total Carbohydrate** |                   0 g |                0% |
+| — Dietary Fiber        |                   0 g |                0% |
+| — Sugars               |                   0 g |                0% |
+| **Protein**            |                   0 g |                0% |
+| **Vitamin E**          |                0.2 mg |                1% |
+| **Vitamin K**          |                0.1 µg |                0% |
+
+Based on a 2,000-calorie diet
+([USDA FoodData Central](../NutritionLabelDailyValues.md)).
+
+**Key notes:**
+
+- **~85% saturated fat** — the highest of any common cooking fat. The dominant
+  fatty acid is **lauric acid** (~6.3 g per tbsp), which is a medium-chain
+  triglyceride (MCT). Total MCT content is roughly **7–9 g** per tablespoon.
+- **Virgin vs. refined:** Nutritionally identical in macros. Virgin
+  (cold-pressed, unrefined) retains slightly more **antioxidants** (polyphenols,
+  tocopherols) and has a distinct coconut flavor.
+- **Smoke point:** ~350 °F is lower than most refined oils, so it's best for
+  low-to-medium heat cooking or as a finishing oil.
+- **Solid at room temperature** below ~76 °F (25 °C).
+
+## Metabolic Energy and Satiety
 
 The primary nutritional advantage of coconut oil lies in its unique fatty acid
 composition. The MCTs found in the oil, particularly lauric acid, are
@@ -112,8 +147,8 @@ saturated fat intake (less than 10% of total daily calories).
 ## Antimicrobial and Anti-inflammatory Properties
 
 Beyond macronutrients, coconut oil contains bioactive compounds with potential
-health benefits. The lauric acid in the oil can be converted by the body into *
-*monolaurin**, a substance with demonstrated antimicrobial, antiviral, and
+health benefits. The lauric acid in the oil can be converted by the body into
+**monolaurin**, a substance with demonstrated antimicrobial, antiviral, and
 antifungal properties. Furthermore, the oil possesses **anti-inflammatory** and
 antioxidant qualities, attributed to polyphenols found especially in virgin and
 cold-pressed varieties. These properties contribute to its effectiveness in
@@ -180,8 +215,7 @@ retention.
 * **Airtight Seals:** Always keep the lid tightly sealed to minimize exposure to
   oxygen, the main driver of rancidity.
 * **Material:** **Glass jars** are preferred over plastic to prevent chemical
-  leaching, though BPA-free plastic is acceptable. Dark or opaque glass offers
-  extra protection against light.
+  leaching. Dark or opaque glass offers extra protection against light.
 * **Contamination Prevention:** Moisture introduces bacteria and mold. Always
   use **clean, dry utensils** and avoid double-dipping. Never introduce water
   into the jar.

@@ -43,7 +43,8 @@ process, so it's best enjoyed in moderation as a side rather than a main course.
 ## Nutritional Profile
 
 Here's a consolidated nutritional profile for **napa cabbage kimchi** per 100 g
-(approximately ⅔ cup)
+(approximately ⅔ cup) based on a 2,000-calorie diet
+([USDA / FDA reference values](../NutritionLabelDailyValues.md)).
 
 ### Macronutrients
 

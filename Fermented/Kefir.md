@@ -44,6 +44,9 @@ One cup (8 oz) of low-fat kefir provides approximately:
 | Vitamin D       |     100 IU |              ~12% |
 | Potassium       |     400 mg |               ~8% |
 
+Based on a 2,000-calorie diet
+([USDA / FDA reference values](../NutritionLabelDailyValues.md)).
+
 ## Health Benefits  
 
 Key health benefits supported by research:

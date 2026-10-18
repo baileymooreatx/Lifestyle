@@ -56,19 +56,20 @@ minerals while remaining low in calories. They are an excellent source of
 
 One cup (approx. 148 grams) of raw blueberries contains:
 
-| Nutrient          | Amount   | % Daily Value (Approx.) |
-|:------------------|:---------|:------------------------|
-| **Calories**      | 84       | -                       |
-| **Carbohydrates** | 21.5 g   | 8%                      |
-| **Fiber**         | 3.6 g    | 14%                     |
-| **Sugar**         | 15 g     | -                       |
-| **Protein**       | 1.1 g    | 2%                      |
-| **Fat**           | 0.5 g    | 1%                      |
-| **Vitamin C**     | 14.4 mg  | 16 to 24%               |
-| **Vitamin K**     | 28.6 mcg | 24 to 36%               |
-| **Manganese**     | 0.5 mg   | 25%                     |
+| Nutrient          |   Amount | % Daily Value (Approx.) |
+|:------------------|---------:|------------------------:|
+| **Calories**      |       84 |                       - |
+| **Carbohydrates** |   21.5 g |                      8% |
+| **Fiber**         |    3.6 g |                     14% |
+| **Sugar**         |     15 g |                       - |
+| **Protein**       |    1.1 g |                      2% |
+| **Fat**           |    0.5 g |                      1% |
+| **Vitamin C**     |  14.4 mg |               16 to 24% |
+| **Vitamin K**     | 28.6 mcg |               24 to 36% |
+| **Manganese**     |   0.5 mg |                     25% |
 
-*Note: Percent Daily Values may vary based on specific dietary guidelines.*
+Based on a 2,000-calorie diet
+([USDA FoodData Central](../NutritionLabelDailyValues.md)).
 
 ## Antioxidant and Anti-Inflammatory
 

@@ -27,18 +27,27 @@ exposure. Avoid plastic which can leach into the oil.
 
 ## Nutritional Profile  
 
-One tablespoon (approximately 14 grams) of Extra Virgin Olive Oil typically
-contains:
+| **Nutrient**           | **Per 1 tbsp (14 g)** | **% Daily Value** |
+|:-----------------------|----------------------:|------------------:|
+| **Calories**           |                   119 |                6% |
+| **Total Fat**          |                13.5 g |               17% |
+| — Saturated Fat        |                 1.9 g |                9% |
+| — Monounsaturated Fat  |                 9.8 g |                 — |
+| — Polyunsaturated Fat  |                 1.4 g |                 — |
+| — Trans Fat            |                   0 g |                 — |
+| **Cholesterol**        |                  0 mg |                0% |
+| **Sodium**             |                0.3 mg |                0% |
+| **Total Carbohydrate** |                   0 g |                0% |
+| — Dietary Fiber        |                   0 g |                0% |
+| — Sugars               |                   0 g |                0% |
+| **Protein**            |                   0 g |                0% |
+| **Vitamin E**          |                1.9 mg |               13% |
+| **Vitamin K**          |                8.1 µg |                7% |
 
-* **Calories**: ~119–126
-* **Total Fat**: 14 grams
-    * **Monounsaturated Fat (MUFA)**: ~9.8–10 grams (primarily **oleic acid**,
-      an omega-9 fatty acid)
-    * **Polyunsaturated Fat**: ~1.4 grams
-    * **Saturated Fat**: ~1.9 grams
-* **Vitamins**:
-    * **Vitamin E**: ~10–19% of the Daily Value (DV)
-    * **Vitamin K**: ~3–10% of the DV
+Based on a 2,000-calorie diet
+([USDA FoodData Central](../NutritionLabelDailyValues.md)). Olive 
+oil is essentially 100% fat, with roughly 73% of that fat being the 
+heart-healthy monounsaturated type (mostly oleic acid).
 
 Unlike refined oils, EVOO is rich in **polyphenols** (such as oleocanthal,
 hydroxytyrosol, and oleuropein) and other bioactive compounds that act as

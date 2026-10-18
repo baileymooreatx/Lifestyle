@@ -17,7 +17,7 @@
 ## Thought Frameworks  
 
 * [Stoic daily routine](./Frameworks/StoicDailyRoutine.md)  
-* [The Energy Bus](./Frameworks/EnergyBus.md) by Jon Gordon provides rules to 
+* [The Energy Bus](BookSummaries/EnergyBus.md) by Jon Gordon provides rules to 
   overcome adversity and negativity through the power of positive energy.
 
 ## Fundamental Human Needs  

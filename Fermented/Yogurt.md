@@ -4,9 +4,12 @@
 
 - [Probiotic Fermented Dairy](#probiotic-fermented-dairy)
   - [Lactobacillis reuteri](#lactobacillis-reuteri)
+  - [Nutritional Profile (Estimated)](#nutritional-profile-estimated)
     - [Equipment](#equipment)
     - [Ingredients](#ingredients)
   - [Lactobacillis gasseri](#lactobacillis-gasseri)
+  - [Fermentation](#fermentation)
+  - [L. gasseri affect vs. L. reuteri](#l-gasseri-affect-vs-l-reuteri)
   - [Thicker Yogurt](#thicker-yogurt)
     - [Increased Protein](#increased-protein)
       - [What It Does to the Gel](#what-it-does-to-the-gel)
@@ -23,14 +26,78 @@
 # Probiotic Fermented Dairy  
 
 These are like very thick yogurt, but they do not contain the microbes species
-required to be called yogurt. Instead, the contain microbes that kill harmful
-bacteria in the small intestine and promote gut health.  
+required to be called yogurt. Instead, they contain microbes that kill harmful
+bacteria in the small intestine and promote gut health.
+
+Bacteria Species:  
+- _Lactobacillis reuteri_
+- _Lactobacillis gasseri_
+
+Per the FDA standard of identity (21 CFR § 131.200), a product can only be
+labeled "yogurt" if it is cultured with **both** of these two lactic
+acid-producing bacteria:
+
+| **Required Bacteria**                           | **Role**                                                                     |
+|:------------------------------------------------|:-----------------------------------------------------------------------------|
+| *Lactobacillus delbrueckii* subsp. *bulgaricus* | Produces lactic acid and flavor compounds (acetaldehyde, diacetyl)           |
+| *Streptococcus thermophilus*                    | Produces lactic acid and helps *L. bulgaricus* grow (symbiotic relationship) |
+
+**Key regulatory details:**
+
+- **Both must be present** — a product fermented with only one (or with a
+  different strain like *L. reuteri* or *L. gasseri*) **cannot** legally be
+  called "yogurt."
+- The fermentation must reach a **pH of 4.6 or lower** (≥0.7% titratable
+  acidity) solely through bacterial action — no added acidulants.
+- **Optional additional cultures** are permitted (e.g., *L. acidophilus*,
+  *Bifidobacterium* spp., *L. casei*), but they don't substitute for the two
+  required ones.
+- To claim **"contains live and active cultures,"** the product must have ≥10⁷
+  CFU/g at manufacture with a reasonable expectation of ≥10⁶ CFU/g through shelf
+  life.
+
+So ferments using *L. reuteri* or *L. gasseri* are a **cultured/fermented dairy
+product**, but they could not carry the "yogurt" label because they lack the two
+mandatory starter species.
 
 ## Lactobacillis reuteri  
 Dr. Davis' [instructions](https://web.archive.org/web/20251214180108/https://drdavisinfinitehealth.com/2019/07/how-to-make-l-reuteri-yogurt-step-by-step/)  
 YouTube [video](https://www.youtube.com/watch?v=aHfqE_zLPxE)   
 [PDF Instructions](.binary/EricBerg-L-Reuteri-Yogurt-Recipe.pdf)  
 Starter microbes [BioGaia Gastrus Probiotic Capsules](https://www.amazon.com/dp/B0FDX7DYP2)
+
+## Nutritional Profile (Estimated)
+
+The base values come from ultra-pasteurized half & half (≈133 kcal, 10 g fat,
+3.3 g carbs, 3.3 g protein per 100 g); a US cup is 237 g. Per Cutting Edge
+Cultures, the final nutrition "comes directly from the dairy," so fermentation
+with Lactobacillus reuteri mainly **reduces the carbs/sugars** (the bacteria
+consume most of the lactose over a ~36-hour ferment), with the added prebiotic
+inulin contributing a small amount of fiber.
+
+| **Nutrient**       | **Per cup (237 g)**                                    |
+|:-------------------|:-------------------------------------------------------|
+| Calories           | **≈315**                                               |
+| Total Fat          | **≈23.7 g**                                            |
+| — Saturated Fat    | ≈15.9 g                                                |
+| — Trans Fat        | 0 g                                                    |
+| Cholesterol        | ≈118 mg                                                |
+| Sodium             | ≈237 mg                                                |
+| Total Carbohydrate | ≈8 g (≈7–8 g before fermentation; lower after)         |
+| — Dietary Fiber    | 0 g (≈2 g if inulin/prebiotic added)                   |
+| — Total Sugars     | ≈8 g (drops to ~1–2 g after a long L. reuteri ferment) |
+| Protein            | ≈7.8 g                                                 |
+| Calcium            | ≈277 mg                                                |
+| Potassium          | ≈315 mg                                                |
+| Vitamin D          | 0 mcg                                                  |
+| Iron               | 0 mg                                                   |
+
+**Caveats:** This is an estimate scaled from the unfermented half-and-half
+label. Exact values vary by brand and by fermentation time—longer (≈36-hour)
+_L. reuteri_ fermentation substantially lowers the sugar/carb count but leaves
+fat, protein, and calories essentially unchanged. No single standardized
+"L. reuteri half-and-half" nutrition label exists, so treat the carb/sugar
+figures as approximate.
 
 ### Equipment
 
@@ -43,7 +110,7 @@ lower them into the Instant Pot.
 
 Starter: 2 tablespoons previous batch of L. reuteri yogurt (whey or curds or
 mixture of both)  
-1 quart of organic ulta-pasteurized half-and-half  
+1 quart of organic **ulta-pasteurized** half-and-half  
 
 **Optional thickeners:**
 ½ cup of non-fat powdered milk (more effective) 
@@ -52,11 +119,64 @@ mixture of both)
 The powdered milk will make the yogurt thicker, but it must be heated added 
 to the half-and-half while it is cold. Then the mixture needs to be 
 pasteurized. The instant pot has a "Boil" setting to do this. Switch to this 
-mode by pressing the Yogurt button until the display says "boil."
+mode by pressing the Yogurt button until the display says "boil." After the 
+pasteurization is complete, wait for the milk to cool to 105 °F prevent killing 
+the bacteria.  
+
+Mix the dairy with the starter and ferment in the Instant Pot for 36 hours 
+using the "Yogurt" function set to "Less/Low."
 
 ## Lactobacillis gasseri
 Starter microbes [Swanson Lactobacillus Gasseri](https://www.amazon.com/dp/B00OLQLS64)  
-Ferment using the instructions listed above.
+Ferment using the same instructions listed above.
+
+## Fermentation
+
+Both strains share the same optimal window, 36 hours at 97–100 °F, but they
+differ in *when* they actually start proliferating, which is the
+critical detail.
+
+|                                          | *L. gasseri*                     | *L. reuteri*                     |
+|:-----------------------------------------|:---------------------------------|:---------------------------------|
+| **Optimal ferment time**                 | **36 h**                         | **36 h**                         |
+| **Temperature**                          | 97–100 °F (36–38 °C)             | 97–100 °F (36–38 °C)             |
+| **Lag phase** (before meaningful growth) | **~24 h**                        | **~30 h**                        |
+| **Peak count**                           | End of 36 h                      | End of 36 h                      |
+| **What happens at 24 h**                 | Just *starting* to proliferate   | Still in lag; minimal growth     |
+| **What happens at 36 h**                 | Full exponential growth achieved | Full exponential growth achieved |
+
+A 24-hour *L. gasseri* ferment is actually **right at the edge of its lag
+phase**. It would be pulling it out just as the bacteria *begin* to multiply,
+so you'd get far fewer live cultures and less lactose consumed than the 36-hour
+version. Both manufacturers (Cutting Edge Cultures, Cultured Food Life) are
+emphatic: **do not stop before 36 hours** for either strain.
+
+If you want the full probiotic benefit from either strain, **36 hours is
+non-negotiable**. Shorter times sacrifice the exponential growth phase that
+gives these ferments their therapeutic value.
+
+## L. gasseri vs. L. reuteri  
+
+They overlap in several areas but have distinct strengths:
+
+| **Area**                 | *L. gasseri*                                                                                                            | *L. reuteri*                                                                                                               |
+|:-------------------------|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| **Immune profile**       | Pro-Th1 (activates cell-mediated immunity)                                                                              | More anti-inflammatory (↑ IL-10, ↓ Th2/IgE)                                                                                |
+| **Gut barrier**          | Restores tight-junction proteins & goblet cells (mouse colitis model)                                                   | Reduces intestinal permeability ("leaky gut"); strongest barrier-repair evidence of any *Lactobacillus*                    |
+| **SCFA / butyrate**      | Modest SCFA contribution                                                                                                | **Specifically shifts microbiota toward butyrate production** — unique among the two                                       |
+| **Weight / metabolic**   | **Strongest evidence**: visceral fat reduction (BNR17, SBT2055), insulin sensitivity, lipid metabolism                  | Weaker; some weight/obesity data but less robust                                                                           |
+| **Stress / gut-brain**   | **Strongest evidence**: CP2305 reduces stress markers, improves sleep, preserves *Bifidobacterium* under chronic stress | Some gut-brain data but less specific                                                                                      |
+| **Unique antimicrobial** | Gassericin A (cyclic bacteriocin)                                                                                       | **Reuterin** (3-hydroxypropionaldehyde) — broad-spectrum antimicrobial                                                     |
+| **Allergy / asthma**     | Limited                                                                                                                 | **More effective**: reduces Th2 cytokines, total IgE, airway inflammation                                                  |
+| **H. pylori**            | Adjunct to eradication therapy                                                                                          | Adjunct; also improves gastrin-17 / mucosal inflammation                                                                   |
+| **Growth in milk**       | Slower; needs peptides (not whole proteins)                                                                             | Faster; thrives on lactose and glycerol                                                                                    |
+| **Long-term / aging**    | Less studied                                                                                                            | 1-year trial in elderly women: preserved microbiota diversity, improved inflammatory markers, correlated with bone density |
+
+*L. gasseri* leans toward **metabolic/weight benefits, stress resilience, and
+upper-GI (gastric) protection**, while *L. reuteri* leans toward **barrier
+repair, SCFA/butyrate production, anti-allergic effects, and long-term
+microbiome maintenance**. They're complementary rather than redundant, which is
+why many fermented-milk protocols use both together.
 
 ## Thicker Yogurt
 
@@ -65,9 +185,9 @@ For a thicker result, the levers that actually work are:
 - **Higher fat**: We're already at ~18% with half-and-half, about as good as
   it gets without going to cream.
 - **Protein denaturation**: Ultra-pasteurized half-and-half already provides
-  this. If you ever switch to milk that is not ultra-pasteurized, heat it to
+  this. If you switch to milk that is not ultra-pasteurized, heat it to
   180–195 °F for 10 to 20 min first with the Instant Pot Yogurt "Boil" mode.
-  Let it cool 105°F before inoculating it with the starter.
+  Let it cool 105 °F before inoculating it with the starter.
 - **Longer fermentation / more generations**: Re-inoculating with a prior batch
   consistently yields a thicker, more uniform curd.
 - **Straining whey** for a Greek-style finish

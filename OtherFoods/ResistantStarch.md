@@ -8,14 +8,22 @@
   - [Weight Management and Satiety](#weight-management-and-satiety)
   - [Heart Health and Cholesterol Reduction](#heart-health-and-cholesterol-reduction)
   - [Colon Cancer Protection](#colon-cancer-protection)
-  - [Types and Food Sources](#types-and-food-sources)
+  - [Types](#types)
+    - [RS1 — Physically Inaccessible Starch](#rs1--physically-inaccessible-starch)
+    - [RS2 — Native Granular Starch](#rs2--native-granular-starch)
+    - [RS3 — Retrograded Starch](#rs3--retrograded-starch)
+    - [RS4 — Chemically modified starch](#rs4--chemically-modified-starch)
+    - [RS5 — Amylose–lipid complexes](#rs5--amyloselipid-complexes)
+    - [Practical rRlevance](#practical-rrlevance)
   - [Practical Considerations](#practical-considerations)
   - [Top Sources](#top-sources)
+    - [Most Cost-Effective Sources](#most-cost-effective-sources)
     - [Concentrated Powders (Highest Density)](#concentrated-powders-highest-density)
+    - [Potato Starch](#potato-starch)
     - [Legumes and Beans (Best Whole Food Sources)](#legumes-and-beans-best-whole-food-sources)
     - [The "Cooked and Cooled" Method (RS3)](#the-cooked-and-cooled-method-rs3)
     - [Fruits and Grains](#fruits-and-grains)
-  - [Quick Comparison Table](#quick-comparison-table)
+    - [Quick Comparison Table](#quick-comparison-table)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -25,9 +33,23 @@ Resistant starch is a type of carbohydrate that resists digestion in the small
 intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
-[short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md), 
-particularly **[butyrate](../Butyrate.md)**, which act as the primary fuel 
-source for colon cells and drive most of the associated health benefits.  
+[short-chain fatty acids (SCFAs)](../ImmuneSystem/ShortChainFattyAcid.md),
+primarily butyrate, acetate, and propionate.
+
+These metabolites are the key to its health effects:
+
+- **Gut barrier & colon health:** [Butyrate](../Butyrate.md) is the preferred
+  fuel for colonocytes (colon lining cells), maintaining intestinal barrier
+  integrity and showing [anti-inflammatory](../Anti-inflammatoryFoods.md) and
+  anti-carcinogenic properties (linked to reduced colorectal cancer risk).
+- **Immune regulation:** SCFAs modulate cytokine release and induce regulatory
+  [T cells](../ImmuneSystem/T-Cell.md) (Tregs) in the colon, dampening excessive
+  immune responses.
+- **Metabolic benefits:** Slows glucose absorption, improves insulin
+  sensitivity, lowers LDL cholesterol, and triggers satiety hormones (PYY,
+  GLP-1) that reduce appetite.
+- **Microbiome diversity:** Selectively feeds beneficial bacteria like
+  *Bifidobacteria* and *Lactobacilli*, suppressing pathogenic species.
 
 ## Improved Gut Health and Microbiome Balance
 
@@ -73,22 +95,97 @@ reduction of systemic immune reactivity contribute to a protective environment
 in the colon. Long-term observational studies have found a correlation between
 higher resistant starch intake and a lower risk of dying from cancer.
 
-## Types and Food Sources
+## Types
 
-There are five types of resistant starch (RS1–RS5), found in various foods:
+The type system was originally proposed by **Englyst, Kingman & Cummings
+(1992)** with three types (RS1 – RS3), later expanded to five as new
+mechanisms were characterized. The classification is by **structural mechanism**
+— *why* the starch escapes pancreatic amylase in the small intestine.
 
-* **RS1 (Physically inaccessible):** Found in whole grains, seeds, and legumes.
-* **RS2 (Resistant granules):** Found in raw potatoes, green bananas, and
-  high-amylose corn.
-* **RS3 (Retrograded starch):** Formed when starchy foods like **rice**, *
-  *potatoes**, and **pasta** are cooked and then **cooled**. This is the basis
-  of the "cooked and cooled" method popularized recently.
-* **RS4 & RS5 (Synthetic/Chemically modified):** Often added to processed foods
-  as fiber supplements.
+| **Type** | **Name**                | **Mechanism**                                                                          | **Key Sources**                                                                      | **Reversible by**                        |
+|:---------|:------------------------|:---------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|------------------------------------------|
+| RS1      | Physically inaccessible | Starch trapped inside intact cell walls / protein matrices                             | Whole grains, seeds, legumes, nuts                                                   | Milling, grinding                        |
+| RS2      | Native granular         | Dense B- or C-type crystalline granule structure                                       | Raw potatoes, green bananas, high-amylose corn                                       | **Cooking** (gelatinization)             |
+| RS3      | Retrograded             | Amylose/amylopectin chains re-crystallize after gelatinization and cooling             | Cooked & cooled potatoes, rice, bread, pasta, cornflakes                             | **Reheating** (partially)                |
+| RS4      | Chemically modified     | Industrial cross-linking, esterification, etherification, phosphorylation              | Processed foods (e.g., VersaFibe, Novelose); **not found in whole foods**            | Not reversible by normal cooking         |
+| RS5      | Amylose–lipid complex   | Amylose helix wraps around fatty acid / monoglyceride guest molecules (V-type crystal) | High-amylose foods cooked with fat; also starch–protein and starch–peptide complexes | Heating above melting point of the lipid |
+
+### RS1 — Physically Inaccessible Starch
+
+RS1 is starch **trapped inside intact plant cell walls**, protein matrices, or
+fibrous food structures. The starch granule itself is perfectly digestible; it
+just can't be reached.
+
+- **Sources:** Whole or partially milled grains, seeds (sunflower, pumpkin),
+  legumes (lentils, beans, peas)
+- **Key property:** Heat-stable — cooking doesn't destroy it. However,
+  **milling/grinding destroys it**, because that breaks open the cell walls and
+  exposes the starch to enzymes.
+- **Practical implication:** A whole oat or a split pea delivers RS1; oat flour
+  or a puréed bean delivers much less.
+
+### RS2 — Native Granular Starch
+
+RS2 is starch whose **granule itself** is structurally resistant. The granule
+has a dense, semi-crystalline packing (B-type or C-type polymorph) that amylase
+simply can't penetrate, regardless of whether the cell wall is intact.
+
+- **Sources:** Raw potatoes, green (unripe) bananas, high-amylose corn
+  (amylose >40–50%)
+- **Key property:** **Heat destroys it.** Cooking gelatinizes the granule,
+  unpacks the crystal structure, and makes the starch fully digestible.
+  **It must be consumed raw and cold.**
+- **Practical implication:** This is the type you get from raw potato starch
+  powder — the most concentrated and consistent RS2 source.
+
+### RS3 — Retrograded Starch
+
+This is the most practically important type. When you cook starch (gelatinize it
+in water/heat) and then let it cool, the linear amylose chains, and to a lesser
+extent long amylopectin branches, **re-align into new double-helix crystalline
+structures**. This is called *retrogradation*. It's why day-old bread, potato
+salad, and sushi rice are more resistant to digestion than their fresh
+counterparts.
+
+**Key detail:** RS3 is **partially reversible by reheating**. Microwave
+reheating a
+cooled potato or rice partially disrupts the retrograded structure and increases
+digestibility. So for maximum RS3 benefit, eat the food cold or at room
+temperature.
+
+### RS4 — Chemically modified starch
+
+This is the only type that **does not occur naturally**. It's produced in food
+manufacturing by reacting starch with chemical reagents (e.g., sodium
+trimetaphosphate for cross-linking, acetic anhydride for esterification).
+The modifications alter the starch surface and internal structure, creating a
+rough, hollow morphology that impedes enzyme access. In the US, certain RS4
+starches (e.g., distarch phosphate) are **approved as a dietary fiber
+ingredient** on nutrition labels. You'll find it in some fiber drinks, baked
+goods, and processed snacks.
+
+### RS5 — Amylose–lipid complexes
+
+The newest category, formally proposed by **Hasjim et al. (2010)**. When amylose
+is heated with lipids (fatty acids, monoglycerides, waxes), the linear amylose
+chain forms a **helical inclusion complex** around the lipid, creating a V-type
+crystalline structure that amylase cannot penetrate. The broader definition also
+includes starch–protein and starch–peptide complexes. In practice, RS5 forms
+naturally in any high-amylose food cooked with fat (e.g., waxy corn, some
+traditional starch preparations), but it's also engineered for food
+applications.
+
+### Practical rRlevance
+
+For the prebiotic / gut-health use case we discussed, **RS2 and RS3 are the two
+you can actually target in your diet** (raw potato starch and cooked-then-cooled
+starchy foods). RS1 comes along passively from eating whole foods. RS4 is a
+processed-food ingredient you encounter incidentally. RS5 is still largely a
+research and food-science category with limited standalone dietary relevance.
 
 To maximize benefits, experts recommend focusing on **RS2** and **RS3** sources,
-such as legumes, slightly unripe bananas, and leftovers like cold potato salad
-or overnight oats.
+such as [legumes](../Pulses/Pulses.md), slightly unripe bananas, and leftovers
+like cold potato salad or overnight oats.
 
 ## Practical Considerations
 
@@ -106,6 +203,23 @@ The most potent sources of resistant starch fall into three main categories:
 concentrated powders, legumes, and "cooked-and-cooled" staples. The content
 varies significantly based on ripeness and preparation method.
 
+### Most Cost-Effective Sources
+
+| Source                     | Key Fiber Type                | Fiber / Serving  | Approx. Cost / Serving |
+|----------------------------|-------------------------------|------------------|------------------------|
+| Dried lentils / beans      | GOS, resistant starch         | 15–19 g          | ~$0.15–0.25            |
+| Rolled oats                | Beta-glucan                   | 4 g (cooked cup) | ~$0.20                 |
+| Onions / garlic            | Inulin, FOS                   | 2–4 g (1 medium) | ~$0.25–0.50            |
+| Apples                     | Pectin                        | 1–2 g (medium)   | ~$0.50                 |
+| Inulin powder (NOW, 8 oz)  | Inulin                        | 3 g / tsp        | **$0.13/day**          |
+| Psyllium husk (NOW, 12 oz) | Mucilage (partly fermentable) | 7 g / tbsp       | $0.31/day              |
+
+**Bottom line:** Dried legumes and oats are the cheapest whole-food sources by
+far, delivering multiple fiber types plus protein and micronutrients. If you
+want a targeted supplement, **inulin powder** (chicory-root derived) is the most
+cost-effective fermentable/prebiotic fiber per dose at roughly $0.13/day. Start
+gradually to minimize gas and bloating.
+
 ### Concentrated Powders (Highest Density)  
 
 These are the most efficient ways to boost intake, often containing **40–80%
@@ -120,6 +234,19 @@ yogurt, smoothies, or oatmeal to preserve their structure.
   starch, it loses benefits if baked or cooked at high temperatures.  
 * **High-Amylose Corn Starch:** A specialized supplement often used in research,
   containing up to **4.5 grams per tablespoon**.  
+
+### Potato Starch
+
+Raw (unmodified) [potato starch](./PotatoStarch.md) is a concentrated source of
+**RS2** (native resistant granules) — one of the most studied forms of resistant starch.
+
+Potato starch is the most **concentrated** fermentable fiber per scoop and very
+cheap at scale, but it's a single nutrient (pure starch) — no protein,
+micronutrients, or other fiber types. Dried legumes remain the best whole-food
+value. If you want a targeted prebiotic supplement and don't mind the gritty
+texture, potato starch at 1–2 tbsp in a smoothie is arguably the
+most cost-effective option on the list. Start with 1 tsp and build up over 1 to
+2 weeks to let your microbiome adapt.
 
 ### Legumes and Beans (Best Whole Food Sources)  
 
@@ -165,7 +292,7 @@ cooling.
   dense rye breads contain higher levels (**~3 grams per slice**) compared to
   standard white bread.
 
-## Quick Comparison Table
+### Quick Comparison Table
 
 | Food Source                                 | Typical Serving | Approx. Resistant Starch | Key Type |
 |:--------------------------------------------|:----------------|:-------------------------|:---------|

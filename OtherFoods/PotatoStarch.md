@@ -2,8 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Potato Starch](#potato-starch)
+- [Raw Potato Starch](#raw-potato-starch)
   - [Nutritional Profile](#nutritional-profile)
+  - [Key Facts](#key-facts)
+  - [Evidence](#evidence)
   - [Gut Health and Prebiotic Effects](#gut-health-and-prebiotic-effects)
   - [Blood Sugar Control and Insulin Sensitivity](#blood-sugar-control-and-insulin-sensitivity)
   - [Weight Management and Satiety](#weight-management-and-satiety)
@@ -15,13 +17,13 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Potato Starch
+# Raw Potato Starch
 
 The primary nutritional value of potato starch lies in its high content of
-**resistant starch**, a carbohydrate that functions more like dietary fiber than
-traditional starch. Unlike rapidly digestible carbohydrates, resistant starch
-bypasses digestion in the small intestine and ferments in the colon, offering
-distinct metabolic advantages.
+[resistant starch](./ResistantStarch.md), a carbohydrate that functions more 
+like dietary fiber than traditional starch. Unlike rapidly digestible 
+carbohydrates, resistant starch bypasses digestion in the small intestine and 
+ferments in the colon, offering distinct metabolic advantages.
 
 ## Nutritional Profile
 
@@ -37,6 +39,27 @@ following characteristics.
   these are removed during extraction.
 * **Gluten-Free:** It is naturally gluten-free, making it a safe thickening
   agent for individuals with celiac disease or gluten intolerance.
+
+## Key Facts
+
+- **~7–8 g resistant starch per tablespoon** — the highest RS density of any
+  common supplement
+- **Must be raw and consumed cold.** Heating gelatinizes the granules and
+  destroys the RS2, so stir it into cold water, smoothies, or yogurt — don't
+  cook with it
+- A 2 lb bag (e.g., 
+  [Nutricost](https://www.amazon.com/Nutricost-Pantry-Organic-Potato-Starch/dp/B0DW5KNC11/) 
+  or [Anthony's](https://www.amazon.com/Anthonys-Organic-Potato-Unmodified-Resistant/dp/B06XH6SZVT/), 
+  ~$12–15) yields roughly 450 g of RS at ~50% concentration → **~$0.03/g RS**
+- At 1–2 tbsp/day, that's roughly **$0.20–0.50/day**
+
+## Evidence
+
+A 2023 randomized trial of Solnul (a resistant potato starch) showed **prebiotic
+effects at just 3.5 g/day** — a significant increase in *Bifidobacterium* and
+*Akkermansia*, plus improved bowel regularity. Higher doses (15–30 g/day) in
+other trials add metabolic benefits: improved insulin sensitivity, blunted
+post-meal glucose, and higher colonic butyrate.  
 
 ## Gut Health and Prebiotic Effects
 
@@ -109,9 +132,9 @@ optimal functional quality lasts **1 to 2 years**.
 
 When kept in optimal conditions, unopened commercial potato starch can last **12
 to 24 months** past its printed date, while opened containers are best used
-within **1 year**. Homemade versions have a shorter lifespan of about **6 months
-**. Because the powder has very low water activity, it does not typically harbor
-bacteria unless wet, but it can degrade in quality.
+within **1 year**. Homemade versions have a shorter lifespan of about **6
+months**. Because the powder has very low water activity, it does not typically
+harbor bacteria unless wet, but it can degrade in quality.
 
 Discard the starch immediately if you observe:
 

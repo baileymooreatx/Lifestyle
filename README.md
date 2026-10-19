@@ -53,7 +53,7 @@ Summaries of books about health and wellness
 - Healthy [nut](Food/Nuts/Nuts.md) choices and nuts to avoid  
 - [Peppers are fruit, but bananas are berries](Food/PlantClassification.md)
 - List of [potassium rich foods](Food/PotassiumRichFoods.md)  
-- Avoid [processed meats](./Avoid/ProcessedMeats.md)  
+- Avoid [processed meats](Avoid/ProcessedMeat.md)  
 - Which [produce to buy organic](Food/Produce.md) instead of conventional  
 - My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
 - [Seed](Food/Seeds) nutrition, preparation, and storage  

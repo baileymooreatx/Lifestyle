@@ -56,7 +56,7 @@ diabetes**.
 - **Age** (risk increases after 45).
 - Certain **medications** (steroids, some antipsychotics, HIV drugs).
 - Chronic **stress**, poor **sleep**, and a diet high in 
-  [refined carbs](../Avoid/RefinedCarbohydrates.md) and saturated fats.
+  [refined carbs](../Avoid/RefinedCarbohydrate.md) and saturated fats.
 
 ## Signs & Signs Your Doctor Looks For
 
@@ -83,7 +83,7 @@ whom don't know they have it.
 Lifestyle changes are the first line of defense: **regular physical activity**
 (exercise opens glucose transport into muscle cells, bypassing the insulin
 block), **weight loss**, and a **balanced diet** lower in refined sugars and
-[processed carbs](../Avoid/RefinedCarbohydrates.md). In some cases, medications 
+[processed carbs](../Avoid/RefinedCarbohydrate.md). In some cases, medications 
 like metformin are prescribed.
 
 ### Lifestyle Changes  
@@ -96,7 +96,7 @@ follows, is **highly responsive** to lifestyle intervention. Meaningful drops
 
 | Intervention                                                                               | Typical LP-IR Reduction                  | Key Evidence                                                |
 |--------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------|
-| **Carbohydrate restriction** (especially [refined carbs](../Avoid/RefinedCarbohydrates.md)) | ~10 points in 12 wks                     | RCT (N=262): low-carb (−10.3) vs. low-fat (−2.4), P < 0.001 |
+| **Carbohydrate restriction** (especially [refined carbs](../Avoid/RefinedCarbohydrate.md)) | ~10 points in 12 wks                     | RCT (N=262): low-carb (−10.3) vs. low-fat (−2.4), P < 0.001 |
 | **Resistance training** (2+ sessions/wk)                                                   | 4–12 pts over 6–8 mo                     | STRRIDE trials; most effective single exercise modality     |
 | **Aerobic exercise** (150 min/wk moderate)                                                 | ~12 pts (moderate intensity, low volume) | Meta-analysis of 18 RCTs; SMD 0.48                          |
 | **Weight loss** (5–10% body weight)                                                        | ~4–6 pts per 5% lost                     | 10-wk study: −12.1 pts with −8.9% body weight               |
@@ -117,7 +117,7 @@ follows, is **highly responsive** to lifestyle intervention. Meaningful drops
 
 ### Practical Priority Order
 
-1. **Cut [refined carbs](../Avoid/RefinedCarbohydrates.md) & ultra-processed
+1. **Cut [refined carbs](../Avoid/RefinedCarbohydrate.md) & ultra-processed
    foods** → the fastest dietary impact
 2. **Add resistance training** 2–3×/week → most effective exercise lever
 3. **Add 150 min/wk aerobic activity** (brisk walking, cycling)

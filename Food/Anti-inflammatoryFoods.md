@@ -214,8 +214,8 @@ Fiber supports a healthy gut microbiome that is essential for immune
 regulation. It is plentiful in whole grains, beans, fruits, and vegetables.   
 
 Conversely, preventing disease requires limiting **pro-inflammatory foods** such
-as [processed meats](../Avoid/ProcessedMeats.md), 
-[refined carbohydrates](../Avoid/RefinedCarbohydrates.md), sugary drinks, and 
+as [processed meats](../Avoid/ProcessedMeat.md), 
+[refined carbohydrates](../Avoid/RefinedCarbohydrate.md), sugary drinks, and 
 trans fats, which trigger the release of inflammatory messengers and promote 
 oxidative stress.
 

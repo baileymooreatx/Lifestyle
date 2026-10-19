@@ -50,7 +50,7 @@ dismantling a foundational assumption of medical education:
   insulin.
 - **Type 2 diabetes** is a reversible metabolic condition, not a progressive,
   lifelong disease.
-- **Sugar and [refined carbs](../Avoid/RefinedCarbohydrates.md)**, not fat or 
+- **Sugar and [refined carbs](../Avoid/RefinedCarbohydrate.md)**, not fat or 
   cholesterol, are the primary drivers of metabolic disease.
 - **Heart disease** is rooted in metabolic inflammation, not lipid accumulation;
   statins offer minimal absolute benefit.
@@ -147,7 +147,7 @@ fat or protein because of the different insulin responses each triggers.
 
 Instead of counting calories, Lufkin recommends focusing on:
 
-* Reducing [refined carbohydrates](../Avoid/RefinedCarbohydrates.md)  
+* Reducing [refined carbohydrates](../Avoid/RefinedCarbohydrate.md)  
 * Incorporating intermittent fasting (which lowers insulin and promotes fat
   burning)  
 * Shifting toward a low-carb, higher-fat dietary pattern  
@@ -169,7 +169,7 @@ in disease. Key points:
   insulin medications actually worsens insulin resistance over time, creating a
   vicious cycle.
 - **Reversal through diet**: Reducing or eliminating sugar and
-  [refined carbohydrates](../Avoid/RefinedCarbohydrates.md) can reverse type 2  
+  [refined carbohydrates](../Avoid/RefinedCarbohydrate.md) can reverse type 2  
   diabetes, contradicting the conventional narrative that it is a progressive, 
   lifelong condition requiring escalating medication.
 
@@ -253,7 +253,7 @@ dietary fat and cholesterol are the primary culprits in heart disease.
   and the subsequent half-century of dietary guidelines that shifted the
   population toward high-carb, low-fat eating that makes them sicker.
 - **The metabolic approach**: Heart disease is better addressed by reducing
-  sugar and [refined carbs](../Avoid/RefinedCarbohydrates.md), improving insulin
+  sugar and [refined carbs](../Avoid/RefinedCarbohydrate.md), improving insulin
   sensitivity, exercising, and managing overall metabolic health.
 
 ## Chapter 8: The Cancer Lie — "Most Cancer Is Caused by Accumulated DNA Damage"
@@ -366,7 +366,7 @@ The final chapter synthesizes the book's findings into a practical action plan:
   dysfunction is central.
 - **Dietary changes**:
     - **Remove**: Sugar, grains,
-      [refined carbohydrates](../Avoid/RefinedCarbohydrates.md), and seed oils
+      [refined carbohydrates](../Avoid/RefinedCarbohydrate.md), and seed oils
     - **Add**: Animal protein, healthy fats (avocado, olive oil, butter, coconut
       oil), and non-starchy vegetables
     - **Time-restricted eating**: Consume meals within an approximately 8-hour

@@ -86,7 +86,7 @@ The book is organized into three parts:
    frames metabolic syndrome not as a collection of unrelated criteria but as a
    downstream expression of one upstream problem.
 2. **The Causes** — He identifies what drives insulin resistance: a modern diet
-   heavy in [refined carbohydrates](../Avoid/RefinedCarbohydrates.md) and  
+   heavy in [refined carbohydrates](../Avoid/RefinedCarbohydrate.md) and  
    omega-6 fats, sedentary behavior, poor sleep, environmental toxins (BPA, air 
    pollution, pesticides), low-salt diets, and the natural decline in insulin
    sensitivity with age and hormonal shifts. Genetics set a baseline but do 

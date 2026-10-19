@@ -139,10 +139,10 @@ target in grams.
 ### Avoid  
 
 - **Sugary beverages** (soda, fruit juice, sweetened coffee drinks)
-- **[Refined carbohydrates](../Avoid/RefinedCarbohydrates.md)** (white bread,  
+- **[Refined carbohydrates](../Avoid/RefinedCarbohydrate.md)** (white bread,  
   white pasta, pastries, packaged snacks)
 - **Fried foods**
-- **[Ultra-processed meats](../Avoid/ProcessedMeats.md)** (hot dogs, sausages, 
+- **[Ultra-processed meats](../Avoid/ProcessedMeat.md)** (hot dogs, sausages, 
   bologna, sliced deli meats)
 - **[Alcohol](../Avoid/Alcohol.md)** (especially heavy/binge drinking — promotes 
   visceral fat storage)

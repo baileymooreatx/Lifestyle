@@ -84,7 +84,7 @@ help regulate blood pressure and lower LDL (bad) cholesterol levels.
 
 The seed has a **low glycemic index**, meaning it causes a slower, more
 controlled rise in blood sugar compared to 
-[refined grains](../../Avoid/RefinedCarbohydrates.md). This property makes
+[refined grains](../../Avoid/RefinedCarbohydrate.md). This property makes
 it particularly beneficial for individuals with **diabetes** or insulin
 resistance, as it improves insulin sensitivity and reduces blood sugar spikes.
 
@@ -121,6 +121,6 @@ strong feeling of fullness (satiety). This helps control appetite and reduces
 overall calorie intake, making it an effective food for **weight management**
 and loss.
 
-Unlike [refined carbohydrates](../../Avoid/RefinedCarbohydrates.md) that cause 
+Unlike [refined carbohydrates](../../Avoid/RefinedCarbohydrate.md) that cause 
 energy crashes, quinoa's complex carbohydrates provide sustained energy, 
 preventing the urge to snack on unhealthy foods between meals.

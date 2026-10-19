@@ -3,9 +3,10 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Lifestyle](#lifestyle)
-  - [Books](#books)
   - [Food](#food)
+    - [Avoid these to improve your health](#avoid-these-to-improve-your-health)
   - [Weight Loss](#weight-loss)
+  - [Books](#books)
   - [Dr. Eric Berg, DC](#dr-eric-berg-dc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -25,26 +26,11 @@ Ideas about how to improve health and wellbeing
 - [Summaries of Books](./BookSummaries) about health and wellness
 - Great reasons to take a [walk](Walk.md) every day  
 
-## Books  
-
-Summaries of books about health and wellness  
-
-- _[An Elegant Defense](./BookSummaries/AnElegantDefense.md) The Extraordinary 
-  New Science of the Immune System: A Tale in Four Lives_  
-  by Matt Richtel  
-- _[Lies I Taught in Medical School](./BookSummaries/LiesITaughtInMedicalSchool.md)
-  How Conventional Medicine Is Making You Sicker and What You Can Do to Save Your
-  Own Life_  
-  by Robert Lufkin, MD  
-- _[Why We Get Sick](./BookSummaries/WhyWeGetSick.md) The Hidden Epidemic at the 
-  Root of Most Chronic Disease - and How to Fight It_  
-  by Benjamin Bikman PhD  
-
 ## Food  
 
 - [Anti-inflammatory foods](Food/Anti-inflammatoryFoods.md) prevent disease  
 - [Eat more plants](Food/Eat30Plants.md) each week to improve health and the gut
-  microbiome  
+  [microbiome](./Body/Microbiome.md)    
 - Food and Drug Administration (FDA) [Nutrition Label Daily Values](Food/NutritionLabelDailyValues.md)
 - [High protein](Food/Protein/ProteinRichPlantFoods.md) foods not derived from animals
 - Improve [liver health](Body/Liver.md)  
@@ -62,13 +48,37 @@ Summaries of books about health and wellness
 - Brew a perfect cup of [Tea](Food/Drinks/Tea.md)  
 - Homemade [yogurt](Food/Fermented/Yogurt.md) for special strains of gut friendly bacteria  
 
+### Avoid these to improve your health  
+- [Added Sugar](./Avoid/Sugar.md) especially in beverages
+- [Alcohol](./Avoid/Alcohol.md) is a poison that hijacks your liver 
+- [Fried Foods](./Avoid/FriedFood.md)  
+- [Processed Meats](./Avoid/ProcessedMeat.md)  
+- [Refined carbohydrates](./Avoid/RefinedCarbohydrate.md)  
+- [Ultra-processed Foods](./Avoid/Ultra-processedFood.md) are food-like 
+  substances that are considered harmful
+
 ## Weight Loss  
 
 - [Insulin resistance](Body/InsulinResistance.md)
 - [Intermittent Fasting](./Fasting.md)  
 - [Keto diet](./HealthyDiet.md)
 - Reduce [Visceral Fat](Body/VisceralFat.md)  
-  
+
+## Books
+
+Summaries of books about health and wellness
+
+- _[An Elegant Defense](./BookSummaries/AnElegantDefense.md) The Extraordinary
+  New Science of the Immune System: A Tale in Four Lives_  
+  by Matt Richtel
+- _[Lies I Taught in Medical School](./BookSummaries/LiesITaughtInMedicalSchool.md)
+  How Conventional Medicine Is Making You Sicker and What You Can Do to Save Your
+  Own Life_  
+  by Robert Lufkin, MD
+- _[Why We Get Sick](./BookSummaries/WhyWeGetSick.md) The Hidden Epidemic at the
+  Root of Most Chronic Disease - and How to Fight It_  
+  by Benjamin Bikman PhD
+
 ## Dr. Eric Berg, DC
 
 From the YouTube channel of 

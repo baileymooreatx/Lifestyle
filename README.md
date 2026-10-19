@@ -39,12 +39,10 @@ Ideas about how to improve health and wellbeing
 - Healthy [nut](Food/Nuts/Nuts.md) choices and nuts to avoid  
 - [Peppers are fruit, but bananas are berries](Food/PlantClassification.md)
 - List of [potassium rich foods](Food/PotassiumRichFoods.md)  
-- Avoid [processed meats](Avoid/ProcessedMeat.md)  
 - Which [produce to buy organic](Food/Produce.md) instead of conventional  
 - My favorite [recipes](https://github.com/baileymooreatx/Cooking)  
 - [Seed](Food/Seeds) nutrition, preparation, and storage  
 - What does "[superfood](Food/Superfood.md)" mean?
-- Compare non-nutritive [sweeteners](Food/OtherFoods/Sweeteners.md)
 - Brew a perfect cup of [Tea](Food/Drinks/Tea.md)  
 - Homemade [yogurt](Food/Fermented/Yogurt.md) for special strains of gut friendly bacteria  
 

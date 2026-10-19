@@ -52,6 +52,7 @@ Ideas about how to improve health and wellbeing
 - [Fried Foods](./Avoid/FriedFood.md)  
 - [Processed Meats](./Avoid/ProcessedMeat.md)  
 - [Refined carbohydrates](./Avoid/RefinedCarbohydrate.md)  
+- Excess [Salt](./Avoid/Salt.md) - more than 2,300 mg per day  
 - [Ultra-processed Foods](./Avoid/Ultra-processedFood.md) are food-like 
   substances that are considered harmful
 

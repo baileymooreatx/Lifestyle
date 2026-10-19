@@ -132,7 +132,7 @@ Strawberries combat inflammation through multiple biological pathways:
   Blocking this pathway prevents the cascade of inflammation before it starts.  
 * **[Gut Microbiome](../../Body/Microbiome.md) Modulation**: By promoting  
   the growth of beneficial bacteria (like *Faecalibacterium*) that produce 
-  anti-inflammatory [short-chain fatty acids (SCFAs)](../../Body/ImmuneSystem/ShortChainFattyAcid.md), 
+  anti-inflammatory [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md), 
   strawberries improve gut barrier function. This prevents "leaky gut," a 
   condition where toxins enter the bloodstream and trigger systemic 
   inflammation.  
@@ -239,7 +239,7 @@ adults revealed:
 
 * **Increase in Beneficial Bacteria**: Significant increases in
   *Faecalibacterium* and *Prevotella*, genera known for producing 
-  [short-chain fatty acids (SCFAs)](../../Body/ImmuneSystem/ShortChainFattyAcid.md) like  
+  [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md) like  
   [butyrate](../../Body/Butyrate.md) and propionate, which reduce inflammation and
   support gut lining integrity.  
 * **Decrease in Pathogens**: A reduction in potentially pathogenic bacteria and

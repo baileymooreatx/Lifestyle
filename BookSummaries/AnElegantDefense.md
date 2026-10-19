@@ -366,7 +366,7 @@ prevalence of food allergies and the "hygiene hypothesis."
 A playful chapter that discusses the role of the microbiome in immune
 development. The "hygiene hypothesis" suggests that reduced exposure to microbes
 in early childhood may contribute to the rise in allergies and autoimmune
-diseases. The chapter explores how the [bacteria](../Body/ImmuneSystem/CommensalBacteria.md) 
+diseases. The chapter explores how the [bacteria](../Body/CommensalBacteria.md) 
 we host (and even the ones we ingest) train our immune system to calibrate its 
 responses.
 

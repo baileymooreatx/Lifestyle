@@ -18,7 +18,7 @@ This table lists them from the inside to the outside.
 
 In the context of immunology, the lumen matters.
 
-- It is the compartment where [commensal bacteria](ImmuneSystem/CommensalBacteria.md)
+- It is the compartment where [commensal bacteria](CommensalBacteria.md)
   live (~10¹¹ bacteria/g in the colon).
 - It is where **pathogen-associated molecular patterns (PAMPs)** (e.g., 
   peptidoglycan, LPS, flagellin) are first encountered by surface 
@@ -27,7 +27,7 @@ In the context of immunology, the lumen matters.
 - The **mucus layer** (~400 µm thick in the human colon) separates luminal
   bacteria from the epithelium, a critical physical barrier.
 - [sIgA](ImmuneSystem/ImmunoglobulinA.md) is secreted *into* the lumen to coat 
-  [commensals](ImmuneSystem/CommensalBacteria.md) and prevent their adhesion to or 
+  [commensals](CommensalBacteria.md) and prevent their adhesion to or 
   translocation across the epithelium.
 - When barrier integrity fails ("leaky gut"), luminal contents (bacteria, PAMPs)
   cross into the lamina propria and trigger inflammation — a key mechanism in 

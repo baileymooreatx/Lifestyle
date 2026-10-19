@@ -33,7 +33,7 @@ Resistant starch is a type of carbohydrate that resists digestion in the small
 intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
-[short-chain fatty acids (SCFAs)](../../Body/ImmuneSystem/ShortChainFattyAcid.md),
+[short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md),
 primarily butyrate, acetate, and propionate.
 
 These metabolites are the key to its health effects:

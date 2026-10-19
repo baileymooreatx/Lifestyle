@@ -20,7 +20,7 @@ The **gut microbiome** is the collective community of microorganisms — roughly
 colonize the human gastrointestinal tract, with the highest density (~10¹¹–10¹²
 cells/g) in the colon. It is dominated by two phyla, **Bacteroidota**
 (Bacteroidetes) and **Bacillota** (Firmicutes), which together account for ~90%
-of the [commensal bacterial](ImmuneSystem/CommensalBacteria.md) population, with ~300 to 
+of the [commensal bacterial](CommensalBacteria.md) population, with ~300 to 
 1,000 species represented inside the [gut lumen](GutLumen.md).  
 
 It functions as a **metabolic and immunological organ**: fermenting indigestible
@@ -45,14 +45,14 @@ The gut microbiome acts as an "educator" for the developing immune system,
 especially in early life. Germ-free mice show severely underdeveloped immune
 tissues (smaller lymphoid organs, fewer [T cells](ImmuneSystem/T-Cell.md)), proving that
 microbial exposure is *necessary* for proper immune maturation.
-[Commensal bacteria](ImmuneSystem/CommensalBacteria.md) teach the immune system to
+[Commensal bacteria](CommensalBacteria.md) teach the immune system to
 distinguish harmless microbes from true threats, a process called **immune
 tolerance**.
 
 ### Producing Key Metabolites
 
 Gut microbes ferment dietary fiber into 
-[short-chain fatty acids (SCFAs)](ImmuneSystem/ShortChainFattyAcid.md) like 
+[short-chain fatty acids (SCFAs)](ShortChainFattyAcid.md) like 
 [butyrate](Butyrate.md), which: 
 
 - Promote differentiation of **regulatory [T cells (Tregs)](ImmuneSystem/T-Cell.md)**, the 
@@ -88,7 +88,7 @@ The microbiome provides a frontline barrier through:
 
 Microbiome-derived metabolites don't stay in the gut — they enter circulation
 and influence immunity in the **liver, lungs, brain, and joints**. For example,
-[SCFAs](ImmuneSystem/ShortChainFattyAcid.md) regulate [microglial cells](ImmuneSystem/Microglia.md) in 
+[SCFAs](ShortChainFattyAcid.md) regulate [microglial cells](ImmuneSystem/Microglia.md) in 
 the brain and can modulate autoimmune responses in distant tissues. 
 
 ### Consequences of Dysbiosis  

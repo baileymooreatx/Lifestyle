@@ -25,8 +25,8 @@ persists as a historical convention, but modern immunology treats the gut
 microbiota as a functional organ that the host **requires**.  
 
 Commensal bacteria are not passive passengers. They are **active architects** of
-immune architecture — training [T cells](T-Cell.md), tuning 
-[pattern recognition receptor (PRR)](PatternRecognitionReceptor.md) 
+immune architecture — training [T cells](ImmuneSystem/T-Cell.md), tuning 
+[pattern recognition receptor (PRR)](ImmuneSystem/PatternRecognitionReceptor.md) 
 sensitivity, producing metabolites that regulate distant organs, and maintaining 
 the ecological barrier that prevents pathogen invasion. A germ-free immune 
 system is fundamentally broken.  
@@ -48,10 +48,10 @@ The first two phyla together account for **~90%** of the gut microbiota.
 ## How They Interact with the Immune System
 
 Commensal bacteria are the *primary ligand source* for 
-[Troll-like Receptors (TLRs)](Troll-LikeReceptor.md) and 
-[NOD-like Receptors (NLRs)](NOD-LikeReceptor.md) in steady state. By 
+[Troll-like Receptors (TLRs)](ImmuneSystem/Troll-LikeReceptor.md) and 
+[NOD-like Receptors (NLRs)](ImmuneSystem/NOD-LikeReceptor.md) in steady state. By 
 interacting with these 
-[pattern recognition receptors (PRRs)](PatternRecognitionReceptor.md) they 
+[pattern recognition receptors (PRRs)](ImmuneSystem/PatternRecognitionReceptor.md) they 
 provide essential functions.
 
 ### Innate Immune "Toning"
@@ -70,12 +70,12 @@ provide essential functions.
 - They also promote **Th17** cells (via IL-22) that maintain barrier integrity
   and antimicrobial peptide production
 - **B cells** in Peyer's patches undergo class-switching to produce secretory
-  [IgA](ImmunoglobulinA.md) (sIgA), which coats commensals and prevents their
+  [IgA](ImmuneSystem/ImmunoglobulinA.md) (sIgA), which coats commensals and prevents their
   translocation into the lamina propria — a form of immune "compartmentalization"
 
 ### Metabolic Contributions
 
-- **[SCFAs](ShortChainFattyAcid.md)** ([butyrate](../Butyrate.md), propionate,  
+- **[SCFAs](ShortChainFattyAcid.md)** ([butyrate](Butyrate.md), propionate,  
   acetate) from fiber fermentation → Treg induction, epithelial barrier
   reinforcement, anti-inflammatory signaling
 - **Bile acid metabolism** (e.g., 7α-dehydroxylation by *Clostridium*
@@ -111,10 +111,10 @@ The immune system must simultaneously:
 This is achieved through:
 
 - **Physical barrier:** tight junctions, mucus layer  
-- **[sIgA](ImmunoglobulinA.md) coating:** neutralizes commensals without
+- **[sIgA](ImmuneSystem/ImmunoglobulinA.md) coating:** neutralizes commensals without
   triggering inflammation  
 - **Treg dominance:** at the mucosa (IL-10, TGF-β)  
-- **Selective [Pattern Recognition Receptor (PRR)](PatternRecognitionReceptor.md) 
+- **Selective [Pattern Recognition Receptor (PRR)](ImmuneSystem/PatternRecognitionReceptor.md) 
   engagement:** commensal pathogen-associated molecular patterns (PAMPs) trigger
   *low-grade* TLR/NLR signaling (homeostatic), while pathogen PAMPs at higher
   concentration or in the wrong compartment trigger *high-grade* inflammatory

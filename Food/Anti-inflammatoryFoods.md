@@ -136,7 +136,7 @@ walls, a key step in atherosclerosis.
 #### Gut Microbiome Modulation  
 
 **Dietary fiber** increases the production of 
-[short-chain fatty acids (SCFAs)](../Body/ImmuneSystem/ShortChainFattyAcid.md) in the 
+[short-chain fatty acids (SCFAs)](../Body/ShortChainFattyAcid.md) in the 
 colon. SCFAs strengthen the gut barrier, preventing toxins (like 
 lipopolysaccharides) from leaking into the bloodstream and triggering systemic 
 inflammation. See [Microbiome](../Body/Microbiome.md) for more detail. 

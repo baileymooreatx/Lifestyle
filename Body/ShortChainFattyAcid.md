@@ -20,9 +20,9 @@
 
 Short-Chain Fatty Acids (SCFAs) are **2 to 4 carbon fatty acids** produced by
 bacterial fermentation of dietary fiber and host mucins in the colon. They are
-the **most abundant microbial metabolites** in the [gut lumen](../GutLumen.md) 
+the **most abundant microbial metabolites** in the [gut lumen](GutLumen.md) 
 (10–100 mM) and the single most important class of molecules through which the 
-[microbiome](../Microbiome.md) communicates with the host.
+[microbiome](Microbiome.md) communicates with the host.
 
 ## Production & Relative Abundance
 
@@ -33,7 +33,7 @@ the **most abundant microbial metabolites** in the [gut lumen](../GutLumen.md)
 | **Butyrate**   | C4      | ~10–20%               | *Faecalibacterium prausnitzii*, *Roseburia*, *Eubacterium*, *Clostridium* clusters IV & XIVa |
 
 The ratio shifts with diet: high-fiber diets increase 
-[butyrate](../Butyrate.md); high-sugar/low-fiber diets reduce it.
+[butyrate](Butyrate.md); high-sugar/low-fiber diets reduce it.
 
 ## Three Major Signaling Mechanisms
 
@@ -49,7 +49,7 @@ SCFAs act on host cells through **three distinct, non-exclusive pathways**.
 
 ### Butyrate (C4) — The "Chief Regulator"
 
-[Butyrate](../Butyrate.md) is the most immunologically potent SCFA and the one 
+[Butyrate](Butyrate.md) is the most immunologically potent SCFA and the one 
 most studied.
 
 **On epithelial cells:**
@@ -140,7 +140,7 @@ most studied.
 
 Acetate is the **most abundant** SCFA and the one that most readily escapes the
 gut into systemic circulation (it is not consumed by colonocytes the way
-[butyrate](../Butyrate.md) is).
+[butyrate](Butyrate.md) is).
 
 **On T cells:**
 

@@ -52,8 +52,9 @@ linked to higher risk. Harvard, Stanford, Johns Hopkins, and the American Heart
 Association all conclude that seed oils are **not inherently harmful** and may
 be heart-healthy when used in place of saturated fats.
 
-The real dietary concern is overconsumption of ultra-processed foods that happen
-to contain seed oils rather than the oils themselves.
+The real dietary concern is overconsumption of 
+[ultra-processed foods](../../Avoid/Ultra-processedFood.md) that happen to 
+contain seed oils rather than the oils themselves.
 
 Here's a deeper dive into each of the main claims and what the evidence actually
 shows.
@@ -119,12 +120,14 @@ support, and where the scientific consensus is strongest:
 - Seed oils are the **dominant cooking and processing fat** in the US food
   supply. They're in chips, crackers, fast food, baked goods, frozen meals, and
   most packaged snacks.
-- Diets high in **ultra-processed foods (UPFs)** are robustly associated with
-  cardiovascular disease, type 2 diabetes, obesity, and earlier mortality. A
-  2026 study of 8.8 million people linked UPF consumption to early death.
-- The health harms people observe are almost certainly driven by the **sugar,
-  sodium, refined starches, excess calories, and lack of fiber** in those
-  foods — not the oil itself.
+- Diets high in [ultra-processed foods (UPFs)](../../Avoid/Ultra-processedFood.md) 
+  are robustly associated with cardiovascular disease, type 2 diabetes, obesity,
+  and earlier mortality. A 2026 study of 8.8 million people linked UPF 
+  consumption to early death.
+- The health harms people observe are almost certainly driven by the 
+  **[sugar](../../Avoid/Sugar.md), [sodium](../../Avoid/Salt.md), 
+  [refined starches](../../Avoid/RefinedCarbohydrate.md), excess calories, and 
+  lack of fiber** in those foods — not the oil itself.
 - Stanford's Gardner puts it plainly: *"The real concern should be overeating
   ultra-processed foods, which may contain harmful ingredients such as
   high-fructose corn syrup, added sugar and sodium."*
@@ -262,14 +265,16 @@ that is largely independent of seed oil industry funding. The conflict of
 interest is a valid governance criticism, but it doesn't automatically
 invalidate the findings.
 
-## Summary
+## Summaryß
 
 - **You don't need to avoid seed oils.** They're a source of essential fatty
   acids and, in RCTs, improve cholesterol profiles compared to saturated fats.
-- **The real dietary lever** is reducing ultra-processed food intake and
+- **The real dietary lever** is reducing 
+ [ultra-processed food](../../Avoid/Ultra-processedFood.md) intake and
   increasing whole foods (vegetables, fruits, legumes, whole grains, fish).
 - **If you want to optimize**, focus on increasing omega-3 intake (fatty fish
-  2×/week, walnuts, flaxseed) rather than cutting omega-6s.
+  2×/week, [walnuts](../Nuts/Walnut.md), [flaxseed](../Seeds/Flaxseed.md)) 
+  rather than cutting omega-6s.
 - **For cooking at home**, canola, soybean, and sunflower oils are fine at
   normal stovetop temperatures. If you're deep-frying, use the oil fresh and
   don't reuse it excessively.

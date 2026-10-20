@@ -17,8 +17,8 @@
 ## Manage macronutrients to lower insulin and reduce inflammation  
 
 1. **Control carbohydrates**
-   1. No ultra processed foods  
-   2. Minimize sugar  
+   1. No [ultra processed foods](./Avoid/Ultra-processedFood.md)  
+   2. Minimize [sugar](./Avoid/Sugar.md)  
    3. Avoid boxes and barcodes by eating lots of plants.  
       See [Eat 30 plants per week](Food/Eat30Plants.md).  
       *  **Vegetables**  
@@ -46,9 +46,10 @@
    * Grass fed beef, bison, venison, lamb
    * Chicken and turkey (check labels for additives and chlorine)  
      Pasture raised when possible
-3. Fat is good, but avoid seed oils because they are too high in Omega-6 fatty acids.  
+3. Fat is good, but avoid [seed oils](./Food/Fats/SeedOil.md) because they are  
+   too high in Omega-6 fatty acids.  
    **Prefer healthy oils**
-   1. [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md) (EVOO)  first cold pressed  
+   1. [Extra virgin olive oil](Food/Fats/ExtraVirginOliveOil.md) (EVOO) first cold pressed  
       Ideally organic, not blended, and stored in dark glass to prevent oxidation  
       Olive oil is frequently adulterated. Look for authenticity. Peppery finish.  
    2. [Avocados](Food/Vegetables/Avocado.md) and Avocado oil (cold pressed and tested)   
@@ -79,7 +80,8 @@
       Protein releases GLP-1 to slow digestion and decrease insulin release.  
       Fat increases satiety.
    3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
-      Blood sugar increases slowly when carbs come last, avoiding a flood of insulin to lower glucose.
+      Blood sugar increases slowly when carbs come last, avoiding a flood of 
+      insulin to lower glucose.
 7. **Walk After Meals**
    Use skeletal muscle as a "metabolic engine" by lifting weights 2 or 3 times a
    week (with adequate protein intake). A 10-minute walk immediately after meals

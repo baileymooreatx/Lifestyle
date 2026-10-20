@@ -110,20 +110,23 @@ follows, is **highly responsive** to lifestyle intervention. Meaningful drops
   elevates cortisol and worsens insulin sensitivity.
 - **Time-restricted eating** (8–10 hr window) — Emerging evidence for reducing
   chronic insulin load.
-- **Reduce ultra-processed foods & sugary beverages** — Drives postprandial VLDL
-  secretion, the single largest contributor to the LP-IR formula.
-- **Increase soluble fiber** (legumes, nuts, seeds, whole grains) — Slows
+- **Reduce [ultra-processed foods](../Avoid/Ultra-processedFood.md) and 
+  [sugary](../Avoid/Sugar.md) beverages** — Drives postprandial (after eating) 
+  VLDL secretion, the single largest contributor to the LP-IR formula.
+- **Increase soluble fiber** ([legumes](../Food/Pulses/Pulses.md), 
+  [nuts](../Food/Nuts/Nuts.md), [seeds](../Food/Seeds), whole grains) — Slows
   glucose absorption, blunts insulin spikes.
 
 ### Practical Priority Order
 
-1. **Cut [refined carbs](../Avoid/RefinedCarbohydrate.md) & ultra-processed
-   foods** → the fastest dietary impact
+1. **Cut [refined carbs](../Avoid/RefinedCarbohydrate.md) and
+   [ultra-processed foods](../Avoid/Ultra-processedFood.md)** → the fastest 
+   dietary impact
 2. **Add resistance training** 2–3×/week → most effective exercise lever
-3. **Add 150 min/wk aerobic activity** (brisk walking, cycling)
+3. **Add 150 min/wk aerobic activity** (brisk [walking](../Walk.md), cycling)
 4. **Lose 5–10% body weight** if overweight (visceral fat reduction has the
    greatest effect on the VLDL component)
-5. **Fix sleep** (7–9 hrs) and **manage chronic stress**
+5. **Fix [sleep](../Sleep.md)** (7–9 hrs) and **manage chronic stress**
 
 The STRRIDE data is particularly instructive: **exercise alone** produced modest
 LP-IR changes, but **exercise combined with dietary intervention and weight loss
@@ -132,8 +135,8 @@ interventions work synergistically.
 
 **STRRIDE** stands for **Studies of a Targeted Risk Reduction Intervention
 through Defined Exercise**, a series of three randomized controlled trials
-conducted at Duke University that together tested **10 different exercise (and
-lifestyle) interventions** in 503 adults over 6–8 months. The primary 2021
+conducted at Duke University that together tested **10 different exercise and
+lifestyle interventions** in 503 adults over 6–8 months. The primary 2021
 paper is: *Frontiers in Physiology* (2021), doi: 10.3389/fphys.2021.626142.
 
 ## Diagnostic Measurements
@@ -150,13 +153,13 @@ values.
 
 **Interpretation:**
 
-| Score   | Meaning                                                     |
-|---------|-------------------------------------------------------------|
-| < 1.0   | High insulin sensitivity (optimal)                          |
-| 1.0–1.9 | Normal / favorable                                          |
-| 2.0–2.9 | Early insulin resistance                                    |
-| 3.0–4.9 | Elevated insulin resistance (higher cardiometabolic risk)   |
-| ≥ 5.0   | Marked insulin resistance (metabolic syndrome / T2DM range) |
+| **Score** | **Meaning**                                                 |
+|----------:|:------------------------------------------------------------|
+|     < 1.0 | High insulin sensitivity (optimal)                          |
+|   1.0–1.9 | Normal / favorable                                          |
+|   2.0–2.9 | Early insulin resistance                                    |
+|   3.0–4.9 | Elevated insulin resistance (higher cardiometabolic risk)   |
+|     ≥ 5.0 | Marked insulin resistance (metabolic syndrome / T2DM range) |
 
 #### Why It Matters
 
@@ -188,18 +191,18 @@ creates, often **years before** glucose or A1c cross diagnostic thresholds.
 
 Insulin resistance shifts the lipoprotein profile toward more
 atherogenic particles. The LP-IR score is a weighted combination of **six
-NMR-measured lipoprotein variables** — notably higher large VLDL particles (
-VLDL-P), higher small dense LDL particles (small LDL-P), and lower large HDL
+NMR-measured lipoprotein variables** — notably higher large VLDL particles
+(VLDL-P), higher small dense LDL particles (small LDL-P), and lower large HDL
 particles (HDL-P). A score of **0 = most insulin sensitive**, **100 = most
 insulin resistant**.
 
 **Interpreting the score:**
 
-| Range     | Interpretation                                                               |
-|-----------|------------------------------------------------------------------------------|
-| **< 45**  | Below the clinical threshold for insulin resistance (low)                    |
+| **Range** | **Interpretation**                                                           |
+|----------:|:-----------------------------------------------------------------------------|
+|  **< 45** | Below the clinical threshold for insulin resistance (low)                    |
 | **45–48** | Borderline / intermediate                                                    |
-| **≥ 48**  | Elevated insulin resistance (some labs use **≥ 68** as a higher-risk cutoff) |
+|  **≥ 48** | Elevated insulin resistance (some labs use **≥ 68** as a higher-risk cutoff) |
 
 #### Why It Matters
 
@@ -255,8 +258,8 @@ parameters, so you *can* calculate it yourself if you have the raw NMR values:
 
 ###### LabCorp Test 884095 — "Lipoprotein Insulin Resistance Index (LP-IR)"
 
-| Detail              | Info                                                                                                                    |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Detail**          | **Info**                                                                                                                |
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------|
 | **Test #**          | 884095                                                                                                                  |
 | **CPT**             | 83704                                                                                                                   |
 | **Specimen**        | NMR LipoTube (black-and-yellow-top, preferred); or plain red-top serum; or lavender-top EDTA / green-top heparin plasma |

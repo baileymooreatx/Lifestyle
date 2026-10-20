@@ -634,24 +634,25 @@ altered gut motility patterns.
 
 ### 7. What to Avoid / Limit
 
-- **Ultra-processed foods** deplete mucus-associated butyrate producers
-- **Excess refined sugar and emulsifiers** (polysorbate 80,
-  carboxymethylcellulose) — deplete butyrate producers
-- **Chronic antibiotic use** — broad-spectrum depletion of anaerobes
+- **[Ultra-processed foods](../Avoid/Ultra-processedFood.md)** deplete
+  mucus-associated butyrate producers
+- **Excess refined [sugar](../Avoid/Sugar.md) and emulsifiers** (polysorbate 80,
+  carboxymethylcellulose) deplete butyrate producers
+- **Excess [salt](../Avoid/Salt.md)** depletes butyrate producers
+- **Chronic antibiotic use** causes broad-spectrum depletion of anaerobes
 - **Very low-fiber diets** (including strict ketogenic diets without fiber
-  supplementation) — starve the butyrate producers of substrate
+  supplementation) starve the butyrate producers of substrate
 
 ### Practical Hierarchy
 
-| Priority | Strategy                                                                                           | Why                                         |
-|----------|----------------------------------------------------------------------------------------------------|---------------------------------------------|
-| 1        | Increase total fiber diversity (≥[30 plant species](../Food/Eat30Plants.md)/week)                        | Maximizes substrate range for the community |
-| 2        | Add [resistant starch](../Food/OtherFoods/ResistantStarch.md) daily (green banana, cooled potatoes/rice) | Most direct butyrate precursor              |
-| 3        | Add inulin / prebiotic fructans                                                                    | Fuels cross-feeding cascade                 |
-| 4        | Regular moderate [exercise](../Walk.md)                                                          | Enriches *F. prausnitzii*                   |
-| 5        | Fermented foods daily                                                                              | Supports bifidobacteria as acetate donors   |
-| 6        | Consider polyphenol-rich foods (berries, green tea, coffee)                                        | Selective prebiotic effect                  |
-
+| **Priority** | **Strategy**                                                                                             | **Why**                                     |
+|:-------------|:---------------------------------------------------------------------------------------------------------|:--------------------------------------------|
+| 1            | Increase total fiber diversity (≥[30 plant species](../Food/Eat30Plants.md)/week)                        | Maximizes substrate range for the community |
+| 2            | Add [resistant starch](../Food/OtherFoods/ResistantStarch.md) daily (green banana, cooled potatoes/rice) | Most direct butyrate precursor              |
+| 3            | Add inulin / prebiotic fructans                                                                          | Fuels cross-feeding cascade                 |
+| 4            | Regular moderate [exercise](../Walk.md)                                                                  | Enriches *F. prausnitzii*                   |
+| 5            | Fermented foods daily                                                                                    | Supports bifidobacteria as acetate donors   |
+| 6            | Consider polyphenol-rich foods (berries, green tea, coffee)                                              | Selective prebiotic effect                  |
 
 Increase fiber gradually (over 2–3 weeks) to minimize gas and bloating while 
 your microbiome adapts.  
@@ -666,32 +667,48 @@ practical way to preserve the butyrate → ketone axis.
 
 ### Timeline  
 
-The timeline depends on what you're measuring (fecal butyrate vs. microbiome composition vs. systemic effects), but the evidence breaks down roughly like this:
+The timeline depends on what you're measuring (fecal butyrate vs. microbiome 
+composition vs. systemic effects), but the evidence breaks down roughly like 
+this.  
 
 #### Fecal butyrate (luminal)
 
-| Timeframe | What happens | Evidence |
-|---|---|---|
-| **1–3 days** | Initial rise in colonic fermentation products; some individuals show detectable increases | In vitro colon models; early fecal sampling in crossover trials |
-| **~2 weeks** | Significant increases in fecal butyrate in most responders | Baxter et al. (2019): resistant potato starch → ↑ total SCFAs incl. butyrate by day 14; MDPI RCT (2025): high-fiber group showed significant butyrate rise at week 2 |
-| **3–4 weeks** | Sustained, stable elevation; microbiome composition begins shifting toward BPB | Reimer et al. (4-wk inulin); Frontiers (2026): 39 g RS/day → +7.2 mmol/L butyrate at 3 weeks |
-| **6+ weeks** | Maximal effect in some populations (e.g., T1DM on 40 g RS showed ↑ fecal *and* circulating butyrate at 6 weeks) | Bell et al. 2022 |
+| **Timeframe** | **What happens**                                                                                                | **Evidence**                                                                                                                                                         |
+|:--------------|:----------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1–3 days**  | Initial rise in colonic fermentation products; some individuals show detectable increases                       | In vitro colon models; early fecal sampling in crossover trials                                                                                                      |
+| **~2 weeks**  | Significant increases in fecal butyrate in most responders                                                      | Baxter et al. (2019): resistant potato starch → ↑ total SCFAs incl. butyrate by day 14; MDPI RCT (2025): high-fiber group showed significant butyrate rise at week 2 |
+| **3–4 weeks** | Sustained, stable elevation; microbiome composition begins shifting toward BPB                                  | Reimer et al. (4-wk inulin); Frontiers (2026): 39 g RS/day → +7.2 mmol/L butyrate at 3 weeks                                                                         |
+| **6+ weeks**  | Maximal effect in some populations (e.g., T1DM on 40 g RS showed ↑ fecal *and* circulating butyrate at 6 weeks) | Bell et al. 2022                                                                                                                                                     |
 
 #### Microbiome composition (BPB abundance)
 
-- **2–4 weeks**: Early shifts in *Firmicutes*/*Bacteroidetes* ratio; some BPB (e.g., *A. hallii*) detectable by week 4
-- **3 months**: More robust increases in *F. prausnitzii* and other dominant BPB (Hiel et al., 2012; Dewulf et al., 2012)
+- **2–4 weeks**: Early shifts in *Firmicutes*/*Bacteroidetes* ratio; some BPB
+  (e.g., *A. hallii*) detectable by week 4
+- **3 months**: More robust increases in *F. prausnitzii* and other dominant BPB
+  (Hiel et al., 2012; Dewulf et al., 2012)
 
 #### Systemic (plasma) butyrate
 
-Slower than fecal — typically requires **4–12 weeks** of consistent intervention before circulating levels shift measurably (Perraudeau et al. 2020: ↑ fasting plasma butyrate at 12 weeks with synbiotic).
+Slower than fecal — typically requires **4–12 weeks** of consistent intervention
+before circulating levels shift measurably (Perraudeau et al. 2020: ↑ fasting
+plasma butyrate at 12 weeks with synbiotic).
 
 #### Key modifiers of the timeline
 
-- **Baseline microbiome** – Individuals who already carry BPB respond faster (as little as 1–2 weeks); those with depleted BPB (post-antibiotic, low-fiber habit) may need 4–8 weeks for the community to re-establish.
-- **Dose and type of substrate** – Higher doses (≥20 g resistant starch/day) and mixed fiber combinations tend to produce faster and larger increases than single low-dose fibers.
-- **Consistency** – The rat study (Moughan et al., 2007) showed butyrate production **increased progressively over 6 months** (6-fold at 6 mo vs. 0.5 mo), suggesting the microbiome continues to "train" its butyrate capacity with ongoing substrate availability.
-- **Direct supplementation** – Sodium butyrate (4 g/day) produces metabolic effects (insulin sensitivity) within **4 weeks**, but interestingly *reduces* fecal butyrate (it's absorbed rather than fermented), so it doesn't build the microbial capacity the way fiber does.
+- **Baseline microbiome** – Individuals who already carry BPB respond faster 
+  (as little as 1–2 weeks); those with depleted BPB (post-antibiotic, 
+  low-fiber habit) may need 4–8 weeks for the community to re-establish.
+- **Dose and type of substrate** – Higher doses (≥20 g resistant starch/day) and 
+  mixed fiber combinations tend to produce faster and larger increases than 
+  single low-dose fibers.
+- **Consistency** – The rat study (Moughan et al., 2007) showed butyrate 
+  production **increased progressively over 6 months** (6-fold at 6 mo vs. 0.5 
+  mo), suggesting the microbiome continues to "train" its butyrate capacity 
+  with ongoing substrate availability.
+- **Direct supplementation** – Sodium butyrate (4 g/day) produces metabolic 
+  effects (insulin sensitivity) within **4 weeks**, but interestingly 
+  *reduces* fecal butyrate (it's absorbed rather than fermented), so it doesn't 
+  build the microbial capacity the way fiber does.
 
 #### Practical summary
 

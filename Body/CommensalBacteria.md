@@ -75,14 +75,14 @@ provide essential functions.
 
 ### Metabolic Contributions
 
-- **[SCFAs](ShortChainFattyAcid.md)** ([butyrate](Butyrate.md), propionate,  
-  acetate) from fiber fermentation → Treg induction, epithelial barrier
-  reinforcement, anti-inflammatory signaling
+- **[SCFAs](ShortChainFattyAcid.md)** ([butyrate](Butyrate.md), 
+  [propionate](./Propionate.md), acetate) from fiber fermentation → Treg 
+  induction, epithelial barrier reinforcement, anti-inflammatory signaling
 - **Bile acid metabolism** (e.g., 7α-dehydroxylation by *Clostridium*
   clusters) → FXR receptor activation → mucosal barrier maintenance
 - **Vitamin synthesis** (K, B₁₂, folate)
-- **Short-chain fatty acids** also serve as the primary energy source for
-  colonocytes
+- **[Short-chain fatty acids](./ShortChainFattyAcid.md)** also serve as the 
+  primary energy source for colonocytes
 
 ### Colonization Resistance
 
@@ -95,9 +95,9 @@ ecological.
 ### Paneth Cell Symbiosis
 
 - A striking example of commensal–host crosstalk: commensal bacteria signal
-  through **NOD2** and **LRRK2** in Paneth cells to direct selective sorting of
-  **lysozyme** into secretory vesicles, ensuring lysozyme is delivered to the
-  mucus layer where it kills invading pathogens
+  through **NOD2** and **LRRK2** in [Paneth cells](https://en.wikipedia.org/wiki/Paneth_cell) 
+  to direct selective sorting of **lysozyme** into secretory vesicles, ensuring 
+  lysozyme is delivered to the mucus layer where it kills invading pathogens
 - Loss of NOD2 or LRRK2 (both IBD-associated genes) disrupts this sorting and
   predisposes to intestinal inflammation
 

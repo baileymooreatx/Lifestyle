@@ -245,8 +245,8 @@ parameters, so you *can* calculate it yourself if you have the raw NMR values:
 
 **Sum all six points** → your LP-IR score (0–100).
 
-> **Third-party calculator** (
-> approximation): [hortibook.com LP-IR Calculator](https://hortibook.com/HowToCalculateLpIrScore.php) —
+> **Third-party calculator** (approximation):
+> [hortibook.com LP-IR Calculator](https://hortibook.com/HowToCalculateLpIrScore.php) —
 > enter the six NMR values and it outputs a score. Note: this is an approximation,
 > not the proprietary LabCorp algorithm.
 

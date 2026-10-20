@@ -66,11 +66,11 @@ post-meal glucose, and higher colonic butyrate.
 Potato starch acts as a potent **prebiotic**, feeding beneficial gut bacteria
 such as *Bifidobacteria* and *Lactobacilli*. This fermentation process produces
 [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md), particularly [butyrate](../../Body/Butyrate.md), 
-acetate, and propionate. Butyrate serves as the primary fuel source for colon 
-cells, helping to strengthen the intestinal barrier, reduce inflammation, and 
-potentially lower the risk of colon cancer. Studies indicate that potato starch 
-supplementation can improve [microbiota](../../Body/Microbiome.md) diversity and prevent diet-induced 
-dysbiosis.
+acetate, and [propionate](../../Body/Propionate.md). Butyrate serves as the 
+primary fuel source for colon cells, helping to strengthen the intestinal 
+barrier, reduce inflammation, and potentially lower the risk of colon cancer. 
+Studies indicate that potato starch supplementation can improve 
+[microbiota](../../Body/Microbiome.md) diversity and prevent diet-induced dysbiosis.
 
 ## Blood Sugar Control and Insulin Sensitivity
 

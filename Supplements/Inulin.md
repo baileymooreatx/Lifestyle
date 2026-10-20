@@ -22,7 +22,7 @@ supplement include:
 | **Gut health & microbiome**          | Fermented by *Bifidobacterium* and *Lactobacillus*, producing short-chain fatty acids (SCFAs) that strengthen the gut barrier and reduce inflammation |
 | **Bowel regularity**                 | Increases stool frequency and softness; studies show relief of constipation at 8 to 15 g/day                                                          |
 | **Blood sugar control**              | Slows glucose absorption and may improve insulin sensitivity; one study showed ~8.5% lower fasting glucose in type 2 diabetics at 10 g/day            |
-| **Heart health / cholesterol**       | May lower LDL cholesterol and triglycerides (via propionate production and bile acid metabolism)                                                      |
+| **Heart health / cholesterol**       | May lower LDL cholesterol and triglycerides (via [propionate](../Body/Propionate.md) production and bile acid metabolism)                             |
 | **Satiety & weight management**      | Forms a gel in the gut, slowing stomach emptying and promoting fullness; provides only ~1.5 cal/g                                                     |
 | **Mineral absorption**               | Lowers colonic pH via SCFA production, enhancing uptake of **calcium, magnesium, iron, zinc, and copper**                                             |
 | **Immune support**                   | SCFAs promote immune equilibrium and reduce chronic inflammation                                                                                      |

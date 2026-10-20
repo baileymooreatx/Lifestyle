@@ -52,21 +52,21 @@ strawberries contains more vitamin C than an orange, providing approximately
 95–98% of the daily recommended value. They are also loaded with beneficial
 plant compounds and antioxidants, including:
 
-* **Anthocyanins** (specifically pelargonidin): Responsible for the bright red
+- **Anthocyanins** (specifically pelargonidin): Responsible for the bright red
   color and linked to heart health.
-* **Ellagic acid** and **ellagitannins**: Polyphenol antioxidants associated
+- **Ellagic acid** and **ellagitannins**: Polyphenol antioxidants associated
   with cancer prevention and reduced inflammation.
-* **Procyanidins**: Antioxidants found in the flesh and seeds.
+- **Procyanidins**: Antioxidants found in the flesh and seeds.
 
 ## Nutritional Profile
 
 A standard serving of strawberries (approximately 1 cup or 8 medium berries,
 ~150g) is highly efficient for nutrient intake.
 
-* **Calories**: ~45–48 calories (very low energy density).
-* **Sugar**: Less than 8 grams (naturally low).
-* **Fiber**: 3 grams (12% of daily value).
-* **Water Content**: High, aiding in hydration and satiety.
+- **Calories**: ~45–48 calories (very low energy density).
+- **Sugar**: Less than 8 grams (naturally low).
+- **Fiber**: 3 grams (12% of daily value).
+- **Water Content**: High, aiding in hydration and satiety.
 
 They contain no sodium, fat, or cholesterol, making them an ideal snack for
 weight management. Their low glycemic impact makes them suitable for managing
@@ -84,20 +84,20 @@ protein (CRP)**, **IL-6**, and **TNF-α**.
 Recent and established studies demonstrate measurable anti-inflammatory effects
 in humans:
 
-* **Osteoarthritis Pain & Inflammation**: A pivotal clinical trial involving
+- **Osteoarthritis Pain & Inflammation**: A pivotal clinical trial involving
   obese adults with knee osteoarthritis found that consuming the equivalent of
   **~1 cup of fresh strawberries daily** for 12 weeks significantly reduced pain
   scores and lowered serum levels of **IL-6**, **IL-1β**, and **MMP-3** (a
   marker of cartilage degradation). This suggests strawberries not only reduce
   systemic inflammation but also specifically target joint inflammation and
   degradation.
-* **Cardiovascular Inflammation (CRP)**: Large-scale epidemiological data
+- **Cardiovascular Inflammation (CRP)**: Large-scale epidemiological data
   indicates that women consuming **two or more servings of strawberries per week
   ** were **14% less likely** to have elevated CRP levels (>3 mg/L), a primary
   marker for heart disease risk. A meta-analysis of randomized controlled trials
   further confirmed that strawberry interventions significantly reduce
   circulating CRP levels by an average of **0.63 mg/L**.
-* **Postprandial (Meal-Induced) Inflammation**: Consuming strawberries with or
+- **Postprandial (Meal-Induced) Inflammation**: Consuming strawberries with or
   before a high-carbohydrate/fat meal significantly attenuates the spike in
   inflammatory markers (IL-6 and CRP) that typically occurs after eating. This
   "blunting" effect helps prevent the acute inflammatory stress that contributes
@@ -109,34 +109,34 @@ in humans:
 The anti-inflammatory power of strawberries is driven by a synergistic matrix of
 bioactive compounds:
 
-* **Anthocyanins (Pelargonidin)**: The primary pigment giving strawberries their
+- **Anthocyanins (Pelargonidin)**: The primary pigment giving strawberries their
   red color. Pelargonidin-3-O-glucoside is uniquely abundant in strawberries and
   has been shown to inhibit the production of pro-inflammatory cytokines like
   TNF-α and IL-6.
-* **Ellagic Acid & Ellagitannins**: These polyphenols are converted by gut
+- **Ellagic Acid & Ellagitannins**: These polyphenols are converted by gut
   bacteria into **urolithins**, which possess strong anti-inflammatory and
   antioxidant properties. They inhibit enzymes like COX-2 and iNOS, which are
   central to the inflammatory response.
-* **Quercetin & Kaempferol**: Flavonoids that modulate immune cell activity and
+- **Quercetin & Kaempferol**: Flavonoids that modulate immune cell activity and
   reduce the expression of inflammatory genes.
 
 ## Mechanisms of Action
 
 Strawberries combat inflammation through multiple biological pathways:
 
-* **Cytokine Suppression**: They directly downregulate the signaling proteins (
+- **Cytokine Suppression**: They directly downregulate the signaling proteins (
    cytokines) that trigger inflammation, effectively "turning down the volume"
    on the immune system's overreaction.  
-* **NF-κB Inhibition**: Strawberry extracts inhibit the **NF-κB pathway**, a
+- **NF-κB Inhibition**: Strawberry extracts inhibit the **NF-κB pathway**, a
   master switch that controls the expression of many inflammatory genes.
   Blocking this pathway prevents the cascade of inflammation before it starts.  
-* **[Gut Microbiome](../../Body/Microbiome.md) Modulation**: By promoting  
+- **[Gut Microbiome](../../Body/Microbiome.md) Modulation**: By promoting  
   the growth of beneficial bacteria (like *Faecalibacterium*) that produce 
   anti-inflammatory [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md), 
   strawberries improve gut barrier function. This prevents "leaky gut," a 
   condition where toxins enter the bloodstream and trigger systemic 
   inflammation.  
-* **Oxidative Stress Reduction**: Inflammation and oxidative stress are
+- **Oxidative Stress Reduction**: Inflammation and oxidative stress are
    cyclical; one fuels the other. Strawberries' high antioxidant capacity
    neutralizes free radicals, breaking this cycle and reducing the stimulus for
    inflammation.
@@ -145,14 +145,14 @@ Strawberries combat inflammation through multiple biological pathways:
 
 To leverage strawberries for anti-inflammatory effects:
 
-* **Dosage**: Clinical benefits are observed with intakes of **1 to 2.5 servings
+- **Dosage**: Clinical benefits are observed with intakes of **1 to 2.5 servings
   per day** (approx. 150g–375g or 1–2.5 cups).
-* **Consistency**: Regular consumption is key. Anti-inflammatory benefits
+- **Consistency**: Regular consumption is key. Anti-inflammatory benefits
   accumulate over weeks, as seen in the 12-week osteoarthritis trials.
-* **Form**: Both **fresh and frozen** strawberries retain their
+- **Form**: Both **fresh and frozen** strawberries retain their
   anti-inflammatory potency. Freeze-dried strawberry powder (used in many
   studies) is also effective, making smoothies a convenient delivery method.
-* **Timing**: Consuming strawberries **before or with meals** is particularly
+- **Timing**: Consuming strawberries **before or with meals** is particularly
   effective at preventing post-meal inflammatory spikes, which are damaging to
   blood vessels.
 
@@ -167,16 +167,16 @@ times a week can reduce heart attack risk by up to one-third.
 Recent randomized controlled trials provide concrete evidence for heart health
 claims:
 
-* **Cholesterol Reduction**: A study involving subjects with metabolic syndrome
+- **Cholesterol Reduction**: A study involving subjects with metabolic syndrome
   showed that daily strawberry supplementation significantly decreased total
   cholesterol, LDL ("bad") cholesterol, and triglycerides. These levels returned
   to baseline once consumption stopped, indicating a need for habitual intake.
-* **Heart Attack Risk**: Data from the *Nurses' Health Study II*, following over
+- **Heart Attack Risk**: Data from the *Nurses' Health Study II*, following over
   93,000 women for 18 years, found that those consuming more than three servings
   of strawberries and blueberries per week had a **32–34% lower risk of
   myocardial infarction** (heart attack) compared to those eating them once a
   month or less.
-* **Endothelial Function**: Anthocyanins improve the function of the
+- **Endothelial Function**: Anthocyanins improve the function of the
   endothelium (the lining of the blood vessels), which is critical for
   regulating blood pressure and preventing plaque buildup.
 
@@ -193,15 +193,15 @@ activity. The primary compound, **ellagic acid**, is released in the digestive
 system from ellagitannins. Once absorbed, it acts through several specific
 pathways:
 
-* **Carcinogen Deactivation**: It neutralizes carcinogens before they can damage
+- **Carcinogen Deactivation**: It neutralizes carcinogens before they can damage
   DNA.
-* **Cell Cycle Regulation**: It inhibits the proliferation of cancer cells
+- **Cell Cycle Regulation**: It inhibits the proliferation of cancer cells
   (specifically in breast, esophageal, and colon tissue) and activates signaling
   pathways that induce apoptosis (self-destruction) in abnormal cells.
-* **Enzyme Inhibition**: In breast cancer models, metabolites of ellagic acid (
+- **Enzyme Inhibition**: In breast cancer models, metabolites of ellagic acid (
   urolithins) have been shown to inhibit the aromatase enzyme, which produces
   estrogen, thereby slowing the growth of estrogen-responsive tumors.
-* **Anti-Angiogenesis**: It prevents the formation of new blood vessels that
+- **Anti-Angiogenesis**: It prevents the formation of new blood vessels that
   tumors need to grow and spread.
 
 ## Brain Function and Cognitive Health
@@ -215,13 +215,13 @@ flavonoid content.
 Long-term epidemiological studies highlight the neuroprotective effects of
 strawberry-specific flavonoids:
 
-* **Delayed Aging**: Research published in the *Annals of Neurology* indicates
+- **Delayed Aging**: Research published in the *Annals of Neurology* indicates
   that high intake of strawberries and blueberries can delay cognitive aging by
   up to **2.5 years**.
-* **Risk Reduction**: A 20-year study involving 75,000 participants found that
+- **Risk Reduction**: A 20-year study involving 75,000 participants found that
   consuming at least half a serving of high-flavonoid foods (like strawberries)
   daily was associated with a **20% lower risk of cognitive decline**.
-* **Alzheimer’s Protection**: A prospective study of older adults found that
+- **Alzheimer’s Protection**: A prospective study of older adults found that
   strawberry intake was associated with a **34% reduced risk of Alzheimer’s
   dementia**, attributed largely to pelargonidin, the primary anthocyanidin in
   strawberries, which protects the brain's blood supply from inflammation.
@@ -237,15 +237,16 @@ Strawberries act as a prebiotic, actively reshaping the gut environment rather
 than just feeding existing bacteria. Clinical interventions in healthy elderly
 adults revealed:
 
-* **Increase in Beneficial Bacteria**: Significant increases in
+- **Increase in Beneficial Bacteria**: Significant increases in
   *Faecalibacterium* and *Prevotella*, genera known for producing 
   [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md) like  
-  [butyrate](../../Body/Butyrate.md) and propionate, which reduce inflammation and
-  support gut lining integrity.  
-* **Decrease in Pathogens**: A reduction in potentially pathogenic bacteria and
+  [butyrate](../../Body/Butyrate.md) and 
+  [propionate](../../Body/Propionate.md), which reduce inflammation and support 
+  gut lining integrity.  
+- **Decrease in Pathogens**: A reduction in potentially pathogenic bacteria and
   a lowered Firmicutes-to-Bacteroidetes ratio, a marker often associated with
   leaner body mass.
-* **Inflammation Reduction**: In models of inflammatory bowel disease (IBD),
+- **Inflammation Reduction**: In models of inflammatory bowel disease (IBD),
   strawberry powder reduced colonic inflammation and reversed unhealthy
   microbiota compositions, increasing *Lactobacillus* and *Bifidobacterium*
   while decreasing harmful species like *Dorea*.
@@ -255,15 +256,15 @@ adults revealed:
 The timing of strawberry consumption significantly impacts their metabolic
 benefits:
 
-* **Pre-Meal Advantage**: Consuming strawberries (or a strawberry beverage) 
+- **Pre-Meal Advantage**: Consuming strawberries (or a strawberry beverage) 
   **two hours before a meal** results in significantly lower blood glucose levels
   over the subsequent 10 hours compared to eating them with or after the meal.
   This suggests they prime the body's insulin signaling.
-* **Insulin Resistance**: In adults with obesity and insulin resistance, daily
+- **Insulin Resistance**: In adults with obesity and insulin resistance, daily
   consumption of freeze-dried strawberry powder (equivalent to ~2.5 servings of
   fresh fruit) for 12 weeks improved fasting glucose, HbA1c, and insulin
   sensitivity.
-* **Mechanism**: The anthocyanins, particularly pelargonidin, appear to improve
+- **Mechanism**: The anthocyanins, particularly pelargonidin, appear to improve
   the efficiency of insulin in moving glucose from the bloodstream into cells,
   reducing the overall insulin demand required to process a meal.
 
@@ -271,11 +272,11 @@ benefits:
 
 Strawberries are versatile and effective for various dietary goals:
 
-* **Weight Loss**: Their low calorie count and high volume allow for larger
+- **Weight Loss**: Their low calorie count and high volume allow for larger
   portion sizes without exceeding calorie limits, aiding in appetite control.
-* **Pre-Workout Energy**: They provide light, fast-digesting carbohydrates that
+- **Pre-Workout Energy**: They provide light, fast-digesting carbohydrates that
   offer energy without feeling heavy during training.
-* **Skin Health**: The combination of vitamin C and antioxidants promotes
+- **Skin Health**: The combination of vitamin C and antioxidants promotes
   collagen production and protects skin from free radical damage.
 
 To maximize benefits, choose firm, bright red berries with intact green caps and
@@ -313,10 +314,10 @@ difference in these macronutrients between fresh and frozen varieties.
 The nutritional superiority depends entirely on the supply chain timeline of
 the "fresh" fruit.  
 
-* **Peak Ripeness**: Commercial frozen strawberries are typically picked at
+- **Peak Ripeness**: Commercial frozen strawberries are typically picked at
   **peak ripeness** and flash-frozen within hours, locking in maximum nutrient
   density.
-* **Transport Degradation**: "Fresh" strawberries often spend days or weeks in
+- **Transport Degradation**: "Fresh" strawberries often spend days or weeks in
   transit and on shelves. During this time, vitamin C levels can drop by
   **30–50%**.
 
@@ -326,14 +327,14 @@ if the fresh one looks firmer.
 
 ### Practical Considerations
 
-* **Texture Changes**: Freezing ruptures cell walls due to ice crystal
+- **Texture Changes**: Freezing ruptures cell walls due to ice crystal
   formation, making thawed frozen strawberries softer and juicier. This makes
   them **ideal for smoothies, baking, and jams**, but less suitable for fresh
   salads where firmness is desired.
-* **No Blanching**: Unlike many vegetables, strawberries are **not blanched**
+- **No Blanching**: Unlike many vegetables, strawberries are **not blanched**
   before freezing. Blanching (brief boiling) destroys heat-sensitive vitamins;
   skipping this step helps strawberries retain their high vitamin C content.
-* **Additives**: Always check labels. Some frozen strawberries contain **added
+- **Additives**: Always check labels. Some frozen strawberries contain **added
   sugar** or syrups. For health benefits equivalent to fresh fruit, choose bags
   labeled **"unsweetened"** or containing only strawberries.
 
@@ -348,16 +349,16 @@ pesticide residues.
 Research consistently shows that organic strawberries possess a superior
 phytochemical profile compared to conventional varieties.  
 
-* **Higher Antioxidants**: Studies indicate organic strawberries contain **8.5%
+- **Higher Antioxidants**: Studies indicate organic strawberries contain **8.5%
   to 19% more total antioxidant activity** and **10.5% more total phenolics**
   than conventional berries. This is attributed to the plant's natural defense
   mechanisms; without synthetic pesticides, the plant produces more protective
   compounds like flavonoids and anthocyanins.
-* **Vitamin C Content**: Organic berries typically have **9.7% to 30% more
+- **Vitamin C Content**: Organic berries typically have **9.7% to 30% more
   vitamin C** (ascorbic acid). One study noted that a standard serving of
   organic strawberries provides nearly 10% more of the daily vitamin C
   requirement than conventional ones.
-* **Mineral Trade-off**: While higher in antioxidants, organic strawberries may
+- **Mineral Trade-off**: While higher in antioxidants, organic strawberries may
   contain slightly **less phosphorus (13.6% less)** and **potassium (9.1%
   less)**. However, strawberries are not a primary dietary source for these
   minerals, making the trade-off favorable for antioxidant intake.  
@@ -367,16 +368,16 @@ phytochemical profile compared to conventional varieties.
 The most critical distinction lies in chemical safety, particularly for frozen
 products:
 
-* **"[Dirty Dozen](../Produce.md#dirty-dozen)" Status**: Strawberries
+- **"[Dirty Dozen](../Produce.md#dirty-dozen)" Status**: Strawberries
   consistently top the Environmental   Working Group's "Dirty Dozen" list. USDA 
   testing has found that **99% of conventional strawberries** contain detectable
   pesticide residues, with nearly 30% containing 10 or more different 
   pesticides.  
-* **Frozen Specifics**: Contrary to the belief that freezing reduces pesticides,
+- **Frozen Specifics**: Contrary to the belief that freezing reduces pesticides,
   residues are "locked in" during the flash-freezing process. Some data suggests
   frozen conventional strawberries may even harbor specific toxic residues (like
   Carbaryl) at higher rates than fresh due to post-harvest treatments.
-* **Organic Advantage**: Organic frozen strawberries are grown without synthetic
+- **Organic Advantage**: Organic frozen strawberries are grown without synthetic
   fungicides, herbicides, or fumigants. Choosing organic drastically reduces
   exposure to neurotoxins and potential carcinogens often found on conventional
   berries, which is especially important for children and pregnant women.
@@ -391,15 +392,15 @@ and retailer.
 
 Recent market data indicates a significant but variable cost gap:
 
-* **Average Premium**: Organic berries generally command a **56% to 66% price
+- **Average Premium**: Organic berries generally command a **56% to 66% price
   premium** over conventional berries at the retail level. For frozen
   strawberries specifically, this often translates to organic options costing
   roughly **$5.00 to $7.00 per pound** compared to **$3.00 to $4.50 per 
   pound** for conventional.
-* **Unit Pricing**: In standard 16 oz (1 lb) bags, conventional unsweetened
+- **Unit Pricing**: In standard 16 oz (1 lb) bags, conventional unsweetened
   frozen strawberries typically retail for **$3.00 to $5.00**, whereas organic
   versions range from **$5.00 to $8.00**.
-* **Seasonal Variance**: The gap widens in winter (up to **74–88% higher** for
+- **Seasonal Variance**: The gap widens in winter (up to **74–88% higher** for
   organic) when supply is low, and narrows in summer (down to **18–24% higher**)
   during peak harvest.
 
@@ -408,12 +409,12 @@ Recent market data indicates a significant but variable cost gap:
 The higher price of organic strawberries reflects distinct production
 challenges:
 
-* **Labor Intensity**: Organic farming prohibits synthetic herbicides, requiring
+- **Labor Intensity**: Organic farming prohibits synthetic herbicides, requiring
   significantly more manual labor for weeding and pest control. Harvest speeds
   are also slower in organic fields.
-* **Yield Loss**: Organic crops often have lower yields per acre due to higher
+- **Yield Loss**: Organic crops often have lower yields per acre due to higher
   susceptibility to disease and pests without synthetic fungicides.
-* **Certification & Segregation**: Costs for organic certification and the
+- **Certification & Segregation**: Costs for organic certification and the
   logistical requirement to keep organic and conventional berries separate
   during processing and freezing add to the final price.
 
@@ -457,10 +458,10 @@ Water is the enemy of nutrient retention in fresh storage. Washing before
 storage introduces moisture that accelerates mold growth and leaches
 water-soluble vitamins like **vitamin C** and **folate**.
 
-* **Do Not Wash:** Wait to wash berries until immediately before consumption.
-* **Do Not Hull:** Removing the green cap creates an open wound where oxidation
+- **Do Not Wash:** Wait to wash berries until immediately before consumption.
+- **Do Not Hull:** Removing the green cap creates an open wound where oxidation
   and microbial invasion begin, rapidly degrading antioxidants.
-* **Airflow:** Store in a vented container or the original clamshell. Lining the
+- **Airflow:** Store in a vented container or the original clamshell. Lining the
   container with a paper towel absorbs excess condensation, further preventing
   spoilage.
 
@@ -490,12 +491,12 @@ To maximize nutrient retention during freezing:
 
 The speed of nutrient loss depends heavily on storage conditions:
 
-* **Room Temperature:** Vitamin C levels drop precipitously, with nearly **total
+- **Room Temperature:** Vitamin C levels drop precipitously, with nearly **total
   loss after 11 days** and significant degradation within 48 hours. Anthocyanins
   also decline rapidly.
-* **Refrigerated (Unwashed):** Retains roughly **80–90% of vitamin C** for the
+- **Refrigerated (Unwashed):** Retains roughly **80–90% of vitamin C** for the
   first week if kept dry and cold.
-* **Frozen:** Maintains **stable antioxidant levels** indefinitely for practical
+- **Frozen:** Maintains **stable antioxidant levels** indefinitely for practical
   purposes (up to a year), effectively pausing the enzymatic breakdown that
   occurs in fresh fruit.
 
@@ -504,9 +505,9 @@ The speed of nutrient loss depends heavily on storage conditions:
 The shelf life of frozen strawberries depends on whether you prioritize **safety
 ** or **quality**:
 
-* **Best Quality:** **8 to 12 months**. Within this window, strawberries retain
+- **Best Quality:** **8 to 12 months**. Within this window, strawberries retain
   their peak flavor, vibrant red color, and firm texture.
-* **Safe to Eat:** **Indefinitely**. As long as they have been kept constantly
+- **Safe to Eat:** **Indefinitely**. As long as they have been kept constantly
   frozen at **0°F (-18°C)** or below, they remain safe to eat indefinitely
   because bacterial growth is halted. However, after 12 months, quality
   deteriorates significantly.
@@ -516,11 +517,11 @@ The shelf life of frozen strawberries depends on whether you prioritize **safety
 While safety is not an issue for properly frozen fruit, the eating experience
 changes over time.
 
-* **0–6 Months:** Peak flavor and texture; ideal for fresh-thawed applications
+- **0–6 Months:** Peak flavor and texture; ideal for fresh-thawed applications
   like yogurt toppings.
-* **6–12 Months:** Still excellent for cooking, baking, and smoothies, though
+- **6–12 Months:** Still excellent for cooking, baking, and smoothies, though
   some loss of aroma and slight texture softening may occur.
-* **12+ Months:** Significant quality loss. Berries often become dry,
+- **12+ Months:** Significant quality loss. Berries often become dry,
   discolored (brownish), and bland. They may turn mushy immediately upon
   thawing, making them suitable only for jams or heavily processed sauces where
   texture is irrelevant.
@@ -530,26 +531,26 @@ changes over time.
 Even if safe, frozen strawberries should be discarded if they show signs of
 severe degradation or mishandling:
 
-* **Freezer Burn:** Look for whitish or grayish dry patches. This indicates
+- **Freezer Burn:** Look for whitish or grayish dry patches. This indicates
   dehydration from air exposure. While safe, the texture will be leathery and
   flavor bland.
-* **Ice Crystals:** Large clumps of ice inside the bag suggest the berries
+- **Ice Crystals:** Large clumps of ice inside the bag suggest the berries
   thawed and refroze or were stored with excess moisture. This leads to a mushy,
   watery texture upon thawing.
-* **Off Odors:** A sour, fermented, or musty smell upon opening the package
+- **Off Odors:** A sour, fermented, or musty smell upon opening the package
   indicates spoilage (likely from pre-freezing decay or temperature abuse).
-* **Discoloration:** A dull, dark brown, or uneven color suggests oxidation and
+- **Discoloration:** A dull, dark brown, or uneven color suggests oxidation and
   age.
 
 ### Storage Factors Affecting Shelf Life
 
-* **Home vs. Commercial:** Commercially frozen berries (IQF) often last closer
+- **Home vs. Commercial:** Commercially frozen berries (IQF) often last closer
   to the full 12 months due to rapid freezing and professional packaging.
   Home-frozen berries may have a shorter prime window (**6–10 months**) due to
   slower freezing speeds and frequent freezer door openings causing temperature
   fluctuations.
-* **Packaging:** Airtight, vacuum-sealed bags extend quality life by preventing
+- **Packaging:** Airtight, vacuum-sealed bags extend quality life by preventing
   freezer burn. Standard plastic bags with excess air will degrade quality
   faster.
-* **Temperature Stability:** Consistent storage at 0°F is critical. Fluctuations
+- **Temperature Stability:** Consistent storage at 0°F is critical. Fluctuations
   accelerate ice crystal formation and nutrient loss.

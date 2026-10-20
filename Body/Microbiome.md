@@ -25,11 +25,12 @@ of the [commensal bacterial](CommensalBacteria.md) population, with ~300 to
 
 It functions as a **metabolic and immunological organ**: fermenting indigestible
 dietary fiber into **short-chain fatty acids** ([butyrate](Butyrate.md), 
-propionate, acetate), synthesizing vitamins (K, B₁₂, folate), maintaining the 
-intestinal epithelial barrier, training the immune system by promoting 
-[Tregs](ImmuneSystem/T-Cell.md) and driving [sIgA](ImmuneSystem/ImmunoglobulinA.md) production, providing **colonization 
-resistance** against pathogens, and communicating with the brain via the vagus 
-nerve and circulating metabolites (the **gut–brain axis**).
+[propionate](./Propionate.md), acetate), synthesizing vitamins (K, B₁₂, folate), 
+maintaining the intestinal epithelial barrier, training the immune system by 
+promoting [Tregs](ImmuneSystem/T-Cell.md) and driving [sIgA](ImmuneSystem/ImmunoglobulinA.md) production, providing 
+**colonization resistance** against pathogens, and communicating with the brain 
+via the vagus nerve and circulating metabolites (the 
+[gut–brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)).
 
 The microbiome is established at birth (vaginal delivery, breast milk) and
 shaped thereafter by diet, antibiotics, genetics, and environment. When its

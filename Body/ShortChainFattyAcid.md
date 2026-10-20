@@ -104,9 +104,9 @@ most studied.
 
 **On the liver:**
 
-- **Feedback inhibitor of gluconeogenesis** — propionate enters hepatocytes and
-  is converted to pyruvate, which feeds the TCA cycle but also signals the liver
-  to *reduce* glucose output (the "propionate brake")
+- **Feedback inhibitor of gluconeogenesis** — [propionate](./Propionate.md)  
+  enters hepatocytes and is converted to pyruvate, which feeds the TCA cycle but 
+  also signals the liver to *reduce* glucose output (the "propionate brake")
 - This is a key mechanism by which the microbiome influences **systemic glucose
   homeostasis**
 
@@ -232,9 +232,11 @@ depending on the tissue, the cell type, and the concentration.
 ## Summary
 
 SCFAs are the **molecular language** of the microbiome–host conversation:  
-* butyrate is the **immune regulator** (Tregs, barrier, NLRP3 brake)  
-* propionate is the **metabolic brake** (gluconeogenesis, Th17 suppression)  
-* acetate is the **systemic fuel** (brain, CD8⁺ T cells, lipid metabolism)  
+- [butyrate](./Butyrate.md) is the **immune regulator** (Tregs, barrier, 
+  NLRP3 brake)  
+- [propionate](./Propionate.md) is the **metabolic brake** (gluconeogenesis,
+  Th17 suppression)  
+- acetate is the **systemic fuel** (brain, CD8⁺ T cells, lipid metabolism)  
 
 Together, they translate the composition of the gut ecosystem into immune, 
 metabolic, and neurological outcomes — making them the single most important 

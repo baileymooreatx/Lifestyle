@@ -503,13 +503,13 @@ butyrate availability is actually *lower* in obesity.
 When butyrate is supplemented in obesity models, it modulates community
 composition through several mechanisms.  
 
-| **Model**                                            | **Microbiome changes**                                                                                                                   | **Key reference**          |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| HFD mice (12 wk, NaB in water)                       | Shift toward lean-like community; increased Bacteroidetes; decreased serum LPS; reduced TLR4 in liver/adipose                            | Fang et al., *J Nutr* 2019 |
-| db/db mice (6 wk, NaB ± dapagliflozin)               | Decreased Adlercreutzia and Alistipes; increased Streptococcus; ↑ Bacteroidetes / ↓ Firmicutes ratio                                     | *Sci Rep* 2019             |
-| Lean vs. obese FMT donors                            | Butyrate selectively enriched Lachnospiraceae bacterium 28-4 in lean recipients but **failed to do so in DIO (diet-induced obese) mice** | *JCI Insight* 2021         |
-| Obese rats (microencapsulated propionate + butyrate) | Beneficially modulated microbiota composition; increased fecal amino acids; improved lipid utilization                                   | *PMC* 2025                 |
-| HFD broilers                                         | Increased Bacteroides, Clostridia UCG-014, Ruminococcaceae, and Clostridiales; decreased Actinobacteriota                                | *Poultry Science* 2026     |
+| **Model**                                                            | **Microbiome changes**                                                                                                                   | **Key reference**          |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| HFD mice (12 wk, NaB in water)                                       | Shift toward lean-like community; increased Bacteroidetes; decreased serum LPS; reduced TLR4 in liver/adipose                            | Fang et al., *J Nutr* 2019 |
+| db/db mice (6 wk, NaB ± dapagliflozin)                               | Decreased Adlercreutzia and Alistipes; increased Streptococcus; ↑ Bacteroidetes / ↓ Firmicutes ratio                                     | *Sci Rep* 2019             |
+| Lean vs. obese FMT donors                                            | Butyrate selectively enriched Lachnospiraceae bacterium 28-4 in lean recipients but **failed to do so in DIO (diet-induced obese) mice** | *JCI Insight* 2021         |
+| Obese rats (microencapsulated [propionate](./Propionate) + butyrate) | Beneficially modulated microbiota composition; increased fecal amino acids; improved lipid utilization                                   | *PMC* 2025                 |
+| HFD broilers                                                         | Increased Bacteroides, Clostridia UCG-014, Ruminococcaceae, and Clostridiales; decreased Actinobacteriota                                | *Poultry Science* 2026     |
 
 ### Mechanisms of microbiome modulation in the obese gut
 

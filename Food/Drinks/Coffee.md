@@ -57,14 +57,14 @@ The primary nutritional value of coffee lies in its complex chemical makeup
 rather than its macronutrients. Roasted coffee contains over **1,000 bioactive
 compounds**, including:
 
-* **Antioxidants:** Coffee is one of the largest sources of antioxidants in the
+- **Antioxidants:** Coffee is one of the largest sources of antioxidants in the
   modern diet, often exceeding fruits and vegetables. Key antioxidants include
   **chlorogenic acid**, **polyphenols**, and **melanoidins** (formed during
   roasting). These compounds combat oxidative stress and reduce inflammation.
-* **Diterpenes:** Compounds like **cafestol** and **kahweol** are found in
+- **Diterpenes:** Compounds like **cafestol** and **kahweol** are found in
   unfiltered coffee (e.g., French press) and have been linked to liver health,
   though they may raise cholesterol levels.
-* **Amino Acids and Polysaccharides:** Present in small quantities, contributing
+- **Amino Acids and Polysaccharides:** Present in small quantities, contributing
   to the beverage's metabolic effects.
 
 ## Evidence-Based Health Benefits
@@ -106,16 +106,16 @@ microbiome benefits.
 Regular coffee intake induces distinct and reproducible changes in gut bacterial
 composition.
 
-* **Increased Diversity:** Moderate consumption (3–4 cups daily) is consistently
+- **Increased Diversity:** Moderate consumption (3–4 cups daily) is consistently
   linked to higher **gut microbial diversity**, a key marker of gut resilience
   and overall health. Diverse microbiomes are better equipped to resist
   pathogens and maintain metabolic stability.
-* **Enrichment of Beneficial Bacteria:** Coffee drinkers exhibit significantly
+- **Enrichment of Beneficial Bacteria:** Coffee drinkers exhibit significantly
   higher levels of **_Lawsonibacter asaccharolyticus_**, a species found 4.5 to
   8 times more abundantly in coffee consumers than non-drinkers. This bacterium
   is associated with the metabolism of coffee polyphenols and higher levels of
   **hippurate**, a marker of metabolic health.
-* **Growth of Probiotic Strains:** Coffee acts as a prebiotic, stimulating the
+- **Growth of Probiotic Strains:** Coffee acts as a prebiotic, stimulating the
   growth of **_Bifidobacterium_** and **_Lactobacillus_** species. These
   bacteria are crucial for immune function and digestive health. Conversely,
   coffee consumption is associated with a reduction in **Enterobacteriaceae**, a
@@ -138,12 +138,15 @@ shapes the health benefits a person derives from coffee.
 
 Coffee consumption enhances the production of 
 [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md) such 
-as [butyrate](../../Body/Butyrate.md), propionate, and acetate. SCFAs are critical for:
+as [butyrate](../../Body/Butyrate.md), [propionate](../../Body/Propionate.md), 
+and acetate.  
 
-* **Intestinal Barrier Integrity:** They nourish colon cells and tighten
+SCFAs are critical for:
+
+- **Intestinal Barrier Integrity:** They nourish colon cells and tighten
   junctions between intestinal walls, reducing "leaky gut" and preventing the
   translocation of toxins (like lipopolysaccharides) into the bloodstream.
-* **Anti-inflammatory Effects:** SCFAs modulate the immune system, lowering
+- **Anti-inflammatory Effects:** SCFAs modulate the immune system, lowering
   markers of chronic inflammation like C-reactive protein (CRP).
 
 #### Caffeine vs. Decaffeinated
@@ -160,23 +163,23 @@ for those sensitive to stimulants.
 While beneficial for most, coffee affects individuals differently based on
 genetics and health status.
 
-* **Excessive Intake:** Consuming more than 5 cups daily may be associated with
+- **Excessive Intake:** Consuming more than 5 cups daily may be associated with
   an increased risk of **gastroesophageal reflux disease (GERD)** and the
   progression of **Crohn’s disease** in susceptible individuals.
-* **Motility:** Coffee stimulates the gastrocolic reflex and colonic motility
+- **Motility:** Coffee stimulates the gastrocolic reflex and colonic motility
   within minutes, which can be beneficial for constipation but problematic for
   those with diarrhea-predominant **Irritable Bowel Syndrome (IBS-D)**.
-* **Individual Variability:** Genetic differences in metabolism and baseline
+- **Individual Variability:** Genetic differences in metabolism and baseline
   microbiome composition mean responses to coffee can vary; some individuals may
   experience bloating or discomfort.
-* **Bone Health:** Excessive consumption may increase the risk of bone fractures
+- **Bone Health:** Excessive consumption may increase the risk of bone fractures
   in older women, potentially interfering with calcium absorption.
-* **Cholesterol:** Unfiltered coffee can raise LDL cholesterol and triglycerides
+- **Cholesterol:** Unfiltered coffee can raise LDL cholesterol and triglycerides
   due to diterpenes; using paper filters removes most of these compounds.
-* **Side Effects:** Consuming more than 400mg of caffeine daily (about 4 cups)
+- **Side Effects:** Consuming more than 400mg of caffeine daily (about 4 cups)
   can cause anxiety, insomnia, digestive issues, and irregular heartbeats in
   sensitive individuals.
-* **Pregnancy:** High caffeine intake is linked to increased risks of pregnancy
+- **Pregnancy:** High caffeine intake is linked to increased risks of pregnancy
   loss, preterm birth, and low birth weight. Pregnant individuals are generally
   advised to limit consumption.
 
@@ -188,27 +191,27 @@ enemies of coffee freshness are **oxygen, light, heat, and moisture**.
 
 ### Optimal Storage Conditions
 
-* **Container:** Use a vessel made of **stainless steel**, **ceramic**, or *
+- **Container:** Use a vessel made of **stainless steel**, **ceramic**, or *
   *dark glass** with a tight-sealing lid. If using clear glass, keep it inside a
   dark cabinet. Containers with **one-way degassing valves** are ideal for
   freshly roasted beans, as they allow carbon dioxide to escape without letting
   oxygen in.
-* **Location:** Store at room temperature (approx. 60–70°F or 15–21°C). Avoid
+- **Location:** Store at room temperature (approx. 60–70°F or 15–21°C). Avoid
   areas near ovens, dishwashers, or windows where temperature fluctuates or
   sunlight hits.
-* **Form:** **Whole beans** stay fresh significantly longer than ground coffee
+- **Form:** **Whole beans** stay fresh significantly longer than ground coffee
   because they have less surface area exposed to oxygen. Grind only immediately
   before brewing.
 
 ### What to Avoid
 
-* **The Refrigerator:** Never store coffee in the fridge. It is too humid, and
+- **The Refrigerator:** Never store coffee in the fridge. It is too humid, and
   coffee is hygroscopic (absorbs moisture), which degrades flavor. Additionally,
   coffee absorbs odors from other foods.
-* **The Freezer (Generally):** For daily coffee, avoid the freezer. Frequent
+- **The Freezer (Generally):** For daily coffee, avoid the freezer. Frequent
   removal causes **condensation** on the beans, damaging cell structure and
   flavor.
-* *Exception:* Freezing is acceptable only for **long-term storage** of unopened
+- *Exception:* Freezing is acceptable only for **long-term storage** of unopened
   bags or large bulk quantities. If freezing, divide beans into single-use,
   airtight portions. Thaw a portion completely before opening to prevent
   condensation.
@@ -217,10 +220,10 @@ enemies of coffee freshness are **oxygen, light, heat, and moisture**.
 
 Even with perfect storage, coffee degrades over time:
 
-* **Whole Beans (Opened):** Peak freshness lasts **2 to 4 weeks**.
-* **Ground Coffee (Opened):** Peak freshness lasts only **1 to 2 weeks** (or 
+- **Whole Beans (Opened):** Peak freshness lasts **2 to 4 weeks**.
+- **Ground Coffee (Opened):** Peak freshness lasts only **1 to 2 weeks** (or 
   even days for pre-ground).
-* **Unopened Bags:** Can retain quality for **6 to 9 months** if the packaging
+- **Unopened Bags:** Can retain quality for **6 to 9 months** if the packaging
   remains intact and sealed.
 
 ## My Preferred Brand  

@@ -34,7 +34,8 @@ intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
 [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md),
-primarily butyrate, acetate, and propionate.
+primarily [butyrate](../../Body/Butyrate.md), acetate, and 
+[propionate](../../Body/Propionate.md).
 
 These metabolites are the key to its health effects:
 
@@ -226,13 +227,13 @@ These are the most efficient ways to boost intake, often containing **40–80%
 resistant starch by weight**. They are typically added cold to foods like
 yogurt, smoothies, or oatmeal to preserve their structure.
 
-* **[Raw Potato Starch](PotatoStarch.md):** The gold standard for RS2,
+- **[Raw Potato Starch](PotatoStarch.md):** The gold standard for RS2,
   providing approximately **7 to 8 grams per tablespoon**. It must remain
   uncooked, as heat destroys its resistance.  
-* **Green Banana Flour:** Made from unripe bananas, offering about **5 to 9 
+- **Green Banana Flour:** Made from unripe bananas, offering about **5 to 9 
   grams per tablespoon** (depending on the brand and serving size). Like potato
   starch, it loses benefits if baked or cooked at high temperatures.  
-* **High-Amylose Corn Starch:** A specialized supplement often used in research,
+- **High-Amylose Corn Starch:** A specialized supplement often used in research,
   containing up to **4.5 grams per tablespoon**.  
 
 ### Potato Starch
@@ -253,13 +254,13 @@ most cost-effective option on the list. Start with 1 tsp and build up over 1 to
 Legumes are the most practical whole-food sources, providing a balance of
 protein, fiber, and resistant starch (RS1 and RS3).
 
-* **White Beans (Navy/Cannellini):** Consistently rank highest among beans, with
+- **White Beans (Navy/Cannellini):** Consistently rank highest among beans, with
   **~7.4 grams per cooked cup**.  
-* **[Lentils](../Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
+- **[Lentils](../Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
   cooked cup**.  
-* **[Black Beans](../Pulses/BlackBean.md) & [Chickpeas](../Pulses/Chickpea.md):** 
+- **[Black Beans](../Pulses/BlackBean.md) & [Chickpeas](../Pulses/Chickpea.md):** 
   Offer roughly **3.5 to 5 grams per cooked cup**.  
-* **Fava Beans:** Notable for having one of the highest concentrations per 100g,
+- **Fava Beans:** Notable for having one of the highest concentrations per 100g,
   ranging from **7 to 12 grams** depending on preparation.
 
 ### The "Cooked and Cooled" Method (RS3)
@@ -268,27 +269,27 @@ Starchy staples develop significant resistant starch (RS3) through
 **retrogradation**, a process where starch molecules recrystallize after 
 cooling.  
 
-* **Potatoes:** A medium potato contains minimal RS when hot but jumps to
+- **Potatoes:** A medium potato contains minimal RS when hot but jumps to
   **3 to 4.5 grams** when boiled/baked and **cooled overnight** (e.g., potato
   salad). Reheating gently retains most of this benefit.
-* **Rice:** Long-grain white rice, when cooked and chilled, provides **1.5 to 4
+- **Rice:** Long-grain white rice, when cooked and chilled, provides **1.5 to 4
   grams per cup**. Sushi rice and basmati are particularly effective.
-* **Pasta:** Cooked and cooled pasta (like in pasta salad) contains roughly
+- **Pasta:** Cooked and cooled pasta (like in pasta salad) contains roughly
   **1 to 2.5 grams per cup**, nearly double that of freshly boiled pasta.  
-* **Oats:** **Uncooked rolled oats** (as in overnight oats) retain about **3 
+- **Oats:** **Uncooked rolled oats** (as in overnight oats) retain about **3 
   to 4.5 grams per 1/2 cup**, whereas cooking them into hot porridge 
   significantly reduces the content.  
 
 ### Fruits and Grains  
 
-* **Green (Unripe) Bananas:** A medium green banana contains **4.5 to 6 
+- **Green (Unripe) Bananas:** A medium green banana contains **4.5 to 6 
   grams** of RS2. As the banana ripens and turns yellow, this starch converts 
   to sugar, dropping to less than **1 gram**.
-* **Plantains:** Green plantains are a potent source, similar to green bananas,
+- **Plantains:** Green plantains are a potent source, similar to green bananas,
   often used in savory dishes.  
-* **Barley and Sorghum:** These whole grains retain more resistant starch than
+- **Barley and Sorghum:** These whole grains retain more resistant starch than
   wheat or rice, offering **2 to 4 grams per cooked cup**.
-* **Sourdough and Rye Bread:** Fermentation and grain type matter; sourdough and
+- **Sourdough and Rye Bread:** Fermentation and grain type matter; sourdough and
   dense rye breads contain higher levels (**~3 grams per slice**) compared to
   standard white bread.
 

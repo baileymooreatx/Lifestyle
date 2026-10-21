@@ -41,7 +41,7 @@ The gut harbors ~300–1,000 species across a few dominant phyla:
 | **Bacillota** (Firmicutes)          | *Clostridium*, *Faecalibacterium*, *Ruminococcus*, *Lactobacillus*, *Bifidobacterium* | ~30–50%   |
 | **Actinomycetota**                  | *Bifidobacterium*, *Mycobacterium*                                                    | ~1–5%     |
 | **Pseudomonadota** (Proteobacteria) | *Escherichia*, *Klebsiella*                                                           | ~1%       |
-| **Verrucomicrobiota**               | *Akkermansia muciniphila*                                                             | < 1%      |
+| **Verrucomicrobiota**               | *[Akkermansia muciniphila](../Supplements/Akkermansia.md)*                            | < 1%      |
 
 The first two phyla together account for **~90%** of the gut microbiota.
 

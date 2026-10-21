@@ -64,7 +64,8 @@ to systemic homeostasis.
 ## Foods that Increase Propionate Production
 
 The key is targeting the specific fiber types that propionate-producing
-bacteria (*Bacteroides*, *Prevotella*, *Akkermansia*, *Dialister*,
+bacteria (*Bacteroides*, *Prevotella*, 
+*[Akkermansia](../Supplements/Akkermansia.md)*, *Dialister*, 
 *Phascolarctobacterium*) prefer to ferment.
 
 ### Top Fiber Types for Propionate

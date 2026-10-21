@@ -94,7 +94,8 @@ A 2026 systematic review of human interventional studies found kefir
 consistently:
 
 - **Increased** beneficial taxa: _Lactobacillus_, _Bifidobacterium_,
-  _Akkermansia muciniphila_, and _Faecalibacterium prausnitzii_
+  _[Akkermansia muciniphila](../../Supplements/Akkermansia.md)_, and 
+  _Faecalibacterium prausnitzii_
 - **Decreased** pro-inflammatory genera: _Enterobacteriaceae_
 - Improved stool frequency and consistency, reduced constipation
 - In one study, professional athletes consuming kefir showed elevated

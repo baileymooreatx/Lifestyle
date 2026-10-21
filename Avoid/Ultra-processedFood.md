@@ -131,8 +131,9 @@ epithelium, and low-grade inflammation.
 
 The altered environment selectively favors pro-inflammatory, mucus-degrading
 bacteria (e.g., *Ruminococcus gnavus*, members of *Pseudomonadota*) while
-reducing beneficial species like *Faecalibacterium prausnitzii* and *Akkermansia
-muciniphila*, which produce anti-inflammatory
+reducing beneficial species like *Faecalibacterium prausnitzii* and 
+*[Akkermansia muciniphila](../Supplements/Akkermansia.md)*, which produce 
+anti-inflammatory
 [short-chain fatty acids (SCFAs)](../Body/ShortChainFattyAcid.md) like
 [butyrate](../Body/Butyrate.md).
 

@@ -435,24 +435,24 @@ taxonomic group:
 
 #### Secondary producers
 
-| **Species**                  | **Cluster** | **Notes**                                               |
-|:-----------------------------|:------------|:--------------------------------------------------------|
-| Clostridium butyricum        | I           | Spore-forming; used as a probiotic (especially in Asia) |
-| Clostridium kluyveri         | I           | Also produces butanol                                   |
-| Butyrivibrio crossotus       | XIVa        | Mucin-associated                                        |
-| Butyrivibrio fibrisolvens    | XIVa        | Fibrolytic                                              |
-| Anaerostipes caccae          | XIVa        | Cross-feeds with Akkermansia muciniphila                |
-| Coprococcus eutactus         | IV          | Uses butyrate kinase pathway                            |
-| Coprococcus comes            | IV          | Uses butyrate kinase pathway                            |
-| Blautia faecis               | XIVa        | Reduced in Crohn's disease                              |
-| Ruminococcus torques         | XIVa        |                                                         |
-| Subdoligranulum spp.         | XIVa        |                                                         |
-| Anaerobutyricum spp.         | XIVa        |                                                         |
-| Bacteroides uniformis        | —           | One of the few Bacteroidetes producers                  |
-| Butyricicoccus pullicaecorum | —           | Probiotic potential; stomach acid tolerant              |
-| Eubacterium hallii           | XIVa        |                                                         |
-| Eubacterium limosum          | XIVa        |                                                         |
-| Papillibacter cinnamivorans  | XIVa        | Mucin-associated                                        |
+| **Species**                  | **Cluster** | **Notes**                                                                 |
+|:-----------------------------|:------------|:--------------------------------------------------------------------------|
+| Clostridium butyricum        | I           | Spore-forming; used as a probiotic (especially in Asia)                   |
+| Clostridium kluyveri         | I           | Also produces butanol                                                     |
+| Butyrivibrio crossotus       | XIVa        | Mucin-associated                                                          |
+| Butyrivibrio fibrisolvens    | XIVa        | Fibrolytic                                                                |
+| Anaerostipes caccae          | XIVa        | Cross-feeds with [Akkermansia muciniphila](../Supplements/Akkermansia.md) |
+| Coprococcus eutactus         | IV          | Uses butyrate kinase pathway                                              |
+| Coprococcus comes            | IV          | Uses butyrate kinase pathway                                              |
+| Blautia faecis               | XIVa        | Reduced in Crohn's disease                                                |
+| Ruminococcus torques         | XIVa        |                                                                           |
+| Subdoligranulum spp.         | XIVa        |                                                                           |
+| Anaerobutyricum spp.         | XIVa        |                                                                           |
+| Bacteroides uniformis        | —           | One of the few Bacteroidetes producers                                    |
+| Butyricicoccus pullicaecorum | —           | Probiotic potential; stomach acid tolerant                                |
+| Eubacterium hallii           | XIVa        |                                                                           |
+| Eubacterium limosum          | XIVa        |                                                                           |
+| Papillibacter cinnamivorans  | XIVa        | Mucin-associated                                                          |
 
 ## Key metabolic distinctions
 

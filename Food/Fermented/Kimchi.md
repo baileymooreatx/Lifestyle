@@ -113,9 +113,10 @@ and *Pediococcus*. Each contributes unique functions:
 
 A notable **2024 randomized, double-blind clinical trial** in overweight
 participants found that regular kimchi consumption significantly increased
-*Akkermansia muciniphila* (a bacterium linked to a healthy gut lining and
-anti-obesity effects) while reducing *Proteobacteria* (associated with obesity
-and inflammation). Participants also showed a significant reduction in body fat
+_[Akkermansia muciniphila](../../Supplements/Akkermansia.md)_ (a bacterium 
+linked to a healthy [gut lining](../../Body/GutLumen.md) and anti-obesity 
+effects) while reducing *Proteobacteria* (associated with obesity and 
+inflammation). Participants also showed a significant reduction in body fat
 mass.
 
 Other research highlights:

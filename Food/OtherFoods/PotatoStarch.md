@@ -28,17 +28,29 @@ ferments in the colon, offering distinct metabolic advantages.
 ## Nutritional Profile
 
 While beneficial for metabolic health, potato starch is nutritionally sparse in
-terms of micronutrients. It is essentially a pure carbohydrate source with the
-following characteristics.
+terms of micronutrients. It is essentially a pure carbohydrate source. 
 
-* **Calories:** Approximately 355 calories per 100 grams.
-* **Carbohydrates:** Comprises about 87% of its weight, primarily as starch.
-* **Protein and Fat:** Negligible amounts (less than 0.5% protein and 0.2% fat).
-* **Vitamins and Minerals:** Unlike whole potatoes, processed potato starch
-  lacks significant vitamins (such as vitamin C or B vitamins) and minerals, as
-  these are removed during extraction.
-* **Gluten-Free:** It is naturally gluten-free, making it a safe thickening
-  agent for individuals with celiac disease or gluten intolerance.
+**One tablespoon (12 g) of Bob's Red Mill Potato Starch** has the following 
+profile based on a 2,000-calorie diet
+([USDA / FDA reference values](../NutritionLabelDailyValues.md)).
+
+| **Nutrient**       | **Amount** | **% Daily Value** |
+|:-------------------|-----------:|------------------:|
+| Calories           |     **40** |                2% |
+| Total Fat          |        0 g |                0% |
+| – Saturated Fat    |        0 g |                0% |
+| – Trans Fat        |        0 g |                 — |
+| Cholesterol        |       0 mg |                0% |
+| Sodium             |       0 mg |                0% |
+| Total Carbohydrate |       10 g |                4% |
+| – Dietary Fiber    |        0 g |                0% |
+| – Total Sugars     |        0 g |                0% |
+| – Added Sugars     |        0 g |                0% |
+| Protein            |        0 g |                 — |
+| Vitamin D          |      0 mcg |                0% |
+| Calcium            |       4 mg |                0% |
+| Iron               |       0 mg |                0% |
+| Potassium          |       2 mg |                0% |
 
 ## Key Facts
 
@@ -57,14 +69,16 @@ following characteristics.
 
 A 2023 randomized trial of Solnul (a resistant potato starch) showed **prebiotic
 effects at just 3.5 g/day** — a significant increase in *Bifidobacterium* and
-*Akkermansia*, plus improved bowel regularity. Higher doses (15–30 g/day) in
-other trials add metabolic benefits: improved insulin sensitivity, blunted
-post-meal glucose, and higher colonic butyrate.  
+*[Akkermansia](../../Supplements/Akkermansia.md)*, plus improved bowel 
+regularity. Higher doses (15–30 g/day) in other trials add metabolic benefits: 
+improved insulin sensitivity, blunted post-meal glucose, and higher colonic 
+[butyrate](../../Body/Butyrate.md).  
 
 ## Gut Health and Prebiotic Effects
 
-Potato starch acts as a potent **prebiotic**, feeding beneficial gut bacteria
-such as *Bifidobacteria* and *Lactobacilli*. This fermentation process produces
+Potato starch acts as a potent **prebiotic**, feeding beneficial 
+[gut bacteria](../../Body/Microbiome.md) such as *Bifidobacteria* and 
+*Lactobacilli*. This fermentation process produces
 [short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md), particularly [butyrate](../../Body/Butyrate.md), 
 acetate, and [propionate](../../Body/Propionate.md). Butyrate serves as the 
 primary fuel source for colon cells, helping to strengthen the intestinal 
@@ -97,15 +111,15 @@ calorie absorption.
 The health benefits of potato starch are highly dependent on how it is prepared
 and consumed.
 
-* **Raw Consumption:** To maximize resistant starch intake for blood sugar
+- **Raw Consumption:** To maximize resistant starch intake for blood sugar
   control, unmodified potato starch is often consumed raw (e.g., mixed into
   smoothies or yogurt), as cooking can degrade the resistant starch content.
-* **Cooking and Cooling:** When potatoes are cooked and then **cooled** (a
+- **Cooking and Cooling:** When potatoes are cooked and then **cooled** (a
   process called retrogradation), their resistant starch content increases
   significantly. Reheating cooled potatoes can maintain much of this benefit,
   whereas eating them hot immediately after cooking results in a higher glycemic
   index.
-* **Dosage:** Experts recommend starting with small amounts (e.g., 1
+- **Dosage:** Experts recommend starting with small amounts (e.g., 1
   tablespoon daily) to allow the gut microbiome to adjust, as rapid
   increases in resistant starch can cause temporary gas and bloating.
 
@@ -138,11 +152,11 @@ harbor bacteria unless wet, but it can degrade in quality.
 
 Discard the starch immediately if you observe:
 
-* **Hard Clumping:** Indicates significant moisture absorption.
-* **Discoloration:** A shift from pure white to yellow or brown suggests
+- **Hard Clumping:** Indicates significant moisture absorption.
+- **Discoloration:** A shift from pure white to yellow or brown suggests
   oxidation or age.
-* **Off-odors:** A musty, sour, or rancid smell signals spoilage.
-* **Pest Infestation:** Presence of weevils or beetles.
+- **Off-odors:** A musty, sour, or rancid smell signals spoilage.
+- **Pest Infestation:** Presence of weevils or beetles.
 
 ## My Preferred Brand  
 

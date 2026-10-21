@@ -33,18 +33,18 @@ Resistant starch is a type of carbohydrate that resists digestion in the small
 intestine and travels intact to the large intestine. There, it functions
 similarly to soluble, fermentable fiber, serving as a **prebiotic** that feeds
 beneficial gut bacteria. This fermentation process produces
-[short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md),
-primarily [butyrate](../../Body/Butyrate.md), acetate, and 
-[propionate](../../Body/Propionate.md).
+[short-chain fatty acids (SCFAs)](../Body/ShortChainFattyAcid.md),
+primarily [butyrate](../Body/Butyrate.md), acetate, and 
+[propionate](../Body/Propionate.md).
 
 These metabolites are the key to its health effects:
 
-- **Gut barrier & colon health:** [Butyrate](../../Body/Butyrate.md) is the preferred
+- **Gut barrier & colon health:** [Butyrate](../Body/Butyrate.md) is the preferred
   fuel for colonocytes (colon lining cells), maintaining intestinal barrier
-  integrity and showing [anti-inflammatory](../Anti-inflammatoryFoods.md) and
+  integrity and showing [anti-inflammatory](../Food/Anti-inflammatoryFoods.md) and
   anti-carcinogenic properties (linked to reduced colorectal cancer risk).
 - **Immune regulation:** SCFAs modulate cytokine release and induce regulatory
-  [T cells](../../Body/ImmuneSystem/T-Cell.md) (Tregs) in the colon, dampening excessive
+  [T cells](../Body/ImmuneSystem/T-Cell.md) (Tregs) in the colon, dampening excessive
   immune responses.
 - **Metabolic benefits:** Slows glucose absorption, improves insulin
   sensitivity, lowers LDL cholesterol, and triggers satiety hormones (PYY,
@@ -55,7 +55,7 @@ These metabolites are the key to its health effects:
 ## Improved Gut Health and Microbiome Balance
 
 Resistant starch acts as a premium fuel for beneficial bacteria in the gut,
-promoting a balanced [microbiome](../../Body/Microbiome.md). The production
+promoting a balanced [microbiome](../Body/Microbiome.md). The production
 of butyrate helps maintain the gut's protective lining, reduces inflammation, 
 and may aid in treating conditions like **inflammatory bowel disease (IBD)**, 
 **Crohn’s disease**, and **ulcerative colitis**. A healthy gut microbiome is 
@@ -185,7 +185,7 @@ processed-food ingredient you encounter incidentally. RS5 is still largely a
 research and food-science category with limited standalone dietary relevance.
 
 To maximize benefits, experts recommend focusing on **RS2** and **RS3** sources,
-such as [legumes](../Pulses/Pulses.md), slightly unripe bananas, and leftovers
+such as [legumes](../Food/Pulses/Pulses.md), slightly unripe bananas, and leftovers
 like cold potato salad or overnight oats.
 
 ## Practical Considerations
@@ -256,9 +256,9 @@ protein, fiber, and resistant starch (RS1 and RS3).
 
 - **White Beans (Navy/Cannellini):** Consistently rank highest among beans, with
   **~7.4 grams per cooked cup**.  
-- **[Lentils](../Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
+- **[Lentils](../Food/Pulses/Lentil.md):** Provide approximately **5–6.8 grams per 
   cooked cup**.  
-- **[Black Beans](../Pulses/BlackBean.md) & [Chickpeas](../Pulses/Chickpea.md):** 
+- **[Black Beans](../Food/Pulses/BlackBean.md) & [Chickpeas](../Food/Pulses/Chickpea.md):** 
   Offer roughly **3.5 to 5 grams per cooked cup**.  
 - **Fava Beans:** Notable for having one of the highest concentrations per 100g,
   ranging from **7 to 12 grams** depending on preparation.
@@ -301,7 +301,7 @@ cooling.
 | **Green Banana Flour**                      | 2 tbsp          | **8–9 g**                | RS2      |
 | **White Beans (Cooked)**                    | 1 cup           | **7.4 g**                | RS1/RS3  |
 | **Green Banana**                            | 1 medium        | **4.5–6 g**              | RS2      |
-| **[Lentils](../Pulses/Lentil.md) (Cooked)** | 1 cup           | **5–6.8 g**              | RS1/RS3  |
+| **[Lentils](../Food/Pulses/Lentil.md) (Cooked)** | 1 cup           | **5–6.8 g**              | RS1/RS3  |
 | **Cooked & Cooled Potato**                  | 1 medium        | **3–4.5 g**              | RS3      |
 | **Uncooked Oats**                           | 1/2 cup         | **3–4.5 g**              | RS2      |
 | **Cooked & Cooled Rice**                    | 1 cup           | **1.5–4 g**              | RS3      |

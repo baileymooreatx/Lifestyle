@@ -555,7 +555,7 @@ route.
 
 ### 1. Resistant Starch (most potent single substrate)
 
-[Resistant starch](../Food/OtherFoods/ResistantStarch.md) (RS) is the most butyrogenic
+[Resistant starch](../Supplements/ResistantStarch.md) (RS) is the most butyrogenic
 fiber class. It ferments slowly and distally in the colon, directly increasing
 the abundance of bacteria carrying the **butyryl-CoA:acetate CoA-transferase
 (*but*) gene**, the key enzyme for butyrate synthesis.
@@ -648,7 +648,7 @@ altered gut motility patterns.
 | **Priority** | **Strategy**                                                                                             | **Why**                                     |
 |:-------------|:---------------------------------------------------------------------------------------------------------|:--------------------------------------------|
 | 1            | Increase total fiber diversity (≥[30 plant species](../Food/Eat30Plants.md)/week)                        | Maximizes substrate range for the community |
-| 2            | Add [resistant starch](../Food/OtherFoods/ResistantStarch.md) daily (green banana, cooled potatoes/rice) | Most direct butyrate precursor              |
+| 2            | Add [resistant starch](../Supplements/ResistantStarch.md) daily (green banana, cooled potatoes/rice) | Most direct butyrate precursor              |
 | 3            | Add inulin / prebiotic fructans                                                                          | Fuels cross-feeding cascade                 |
 | 4            | Regular moderate [exercise](../Walk.md)                                                                  | Enriches *F. prausnitzii*                   |
 | 5            | Fermented foods daily                                                                                    | Supports bifidobacteria as acetate donors   |

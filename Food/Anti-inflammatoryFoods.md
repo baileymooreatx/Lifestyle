@@ -90,7 +90,7 @@ disease, diabetes, and cancer.
 - [Pineapple](Fruits/Pineapple.md)
 - [Pumpkin seeds](Seeds/Pumpkin.md)  
 - [Quinoa](Seeds/Quinoa.md)  
-- [Resistant Starch](OtherFoods/ResistantStarch.md)
+- [Resistant Starch](../Supplements/ResistantStarch.md)
 - Rhodiola  
 - [Rooibos Tea](Drinks/RooibosTea.md)
 - Rosemary

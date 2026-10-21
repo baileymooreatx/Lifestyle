@@ -73,7 +73,7 @@ bacteria (*Bacteroides*, *Prevotella*,
 | **Fiber**                                                          | **Best Food Sources**                                                                         | **Why It Works**                                                                                                              |
 |:-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | [Inulin](../Supplements/Inulin.md) / Fructo-oligosaccharides (FOS) | Chicory root, Jerusalem artichoke, garlic, onions, leeks, asparagus, agave                    | Most direct propionate driver; a 50:50 inulin + arabinoxylan blend produced sustained propionate in continuous colonic models |
-| [Resistant starch](../Food/OtherFoods/ResistantStarch.md)          | Cooked-and-cooled potatoes, rice, pasta; green (unripe) bananas; legumes (lentils, chickpeas) | Slow, distal fermentation; strongly correlated with *Bacteroidaceae* and propionate in humanized models                       |
+| [Resistant starch](../Supplements/ResistantStarch.md)          | Cooked-and-cooled potatoes, rice, pasta; green (unripe) bananas; legumes (lentils, chickpeas) | Slow, distal fermentation; strongly correlated with *Bacteroidaceae* and propionate in humanized models                       |
 | Pectin                                                             | Apples (skin on), pears, citrus, berries, okra                                                | Feeds *Bacteroides* via the succinate pathway; high propionate yield                                                          |
 | β-Glucans                                                          | Oats, barley, algae (laminarin)                                                               | Shown *in vitro* to increase propionate proportionally to chain structure                                                     |
 | Arabinoxylan                                                       | Wheat bran, barley                                                                            | Part of the most effective propionate-producing prebiotic blend studied                                                       |
@@ -87,7 +87,7 @@ bacteria (*Bacteroides*, *Prevotella*,
 - **Legumes** ([beans](../Food/Pulses/Pulses.md), 
   [lentils](../Food/Pulses/Lentil.md), [chickpeas](../Food/Pulses/Chickpea.md)) 
   are particularly effective because they combine 
-  [resistant starch](../Food/OtherFoods/ResistantStarch.md), inulin-type 
+  [resistant starch](../Supplements/ResistantStarch.md), inulin-type 
   fructans, and pectin in one food.
 - **Cooking tip:** Boil potatoes/rice/pasta, then **cool for at least 12 
   hours** before eating. This converts digestible starch to resistant starch 

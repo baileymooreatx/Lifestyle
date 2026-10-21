@@ -144,7 +144,7 @@ The most evidence-supported ways to increase Akkermansia muciniphila are:
   [garlic](../Food/Vegetables/Garlic.md), [onions](../Food/Vegetables/Onion.md), 
   leeks), 
   [fructooligosaccharides](https://en.wikipedia.org/wiki/Fructooligosaccharide)
-  (FOS), and [resistant starch](../Food/OtherFoods/ResistantStarch.md)
+  (FOS), and [resistant starch](ResistantStarch.md)
   (cooked-and-cooled potatoes/rice, slightly green bananas, oats). These feed
   [SCFA](../Body/ShortChainFattyAcid.md)-producing bacteria that maintain the
   mucus layer *Akkermansia* depends on. Animal studies consistently show FOS

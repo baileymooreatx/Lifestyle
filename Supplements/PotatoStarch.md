@@ -32,7 +32,7 @@ terms of micronutrients. It is essentially a pure carbohydrate source.
 
 **One tablespoon (12 g) of Bob's Red Mill Potato Starch** has the following 
 profile based on a 2,000-calorie diet
-([USDA / FDA reference values](../NutritionLabelDailyValues.md)).
+([USDA / FDA reference values](../Food/NutritionLabelDailyValues.md)).
 
 | **Nutrient**       | **Amount** | **% Daily Value** |
 |:-------------------|-----------:|------------------:|
@@ -69,22 +69,22 @@ profile based on a 2,000-calorie diet
 
 A 2023 randomized trial of Solnul (a resistant potato starch) showed **prebiotic
 effects at just 3.5 g/day** — a significant increase in *Bifidobacterium* and
-*[Akkermansia](../../Supplements/Akkermansia.md)*, plus improved bowel 
+*[Akkermansia](Akkermansia.md)*, plus improved bowel 
 regularity. Higher doses (15–30 g/day) in other trials add metabolic benefits: 
 improved insulin sensitivity, blunted post-meal glucose, and higher colonic 
-[butyrate](../../Body/Butyrate.md).  
+[butyrate](../Body/Butyrate.md).  
 
 ## Gut Health and Prebiotic Effects
 
 Potato starch acts as a potent **prebiotic**, feeding beneficial 
-[gut bacteria](../../Body/Microbiome.md) such as *Bifidobacteria* and 
+[gut bacteria](../Body/Microbiome.md) such as *Bifidobacteria* and 
 *Lactobacilli*. This fermentation process produces
-[short-chain fatty acids (SCFAs)](../../Body/ShortChainFattyAcid.md), particularly [butyrate](../../Body/Butyrate.md), 
-acetate, and [propionate](../../Body/Propionate.md). Butyrate serves as the 
+[short-chain fatty acids (SCFAs)](../Body/ShortChainFattyAcid.md), particularly [butyrate](../Body/Butyrate.md), 
+acetate, and [propionate](../Body/Propionate.md). Butyrate serves as the 
 primary fuel source for colon cells, helping to strengthen the intestinal 
 barrier, reduce inflammation, and potentially lower the risk of colon cancer. 
 Studies indicate that potato starch supplementation can improve 
-[microbiota](../../Body/Microbiome.md) diversity and prevent diet-induced dysbiosis.
+[microbiota](../Body/Microbiome.md) diversity and prevent diet-induced dysbiosis.
 
 ## Blood Sugar Control and Insulin Sensitivity
 

@@ -101,9 +101,10 @@ consistently:
   _Akkermansia_ and _Faecalibacterium_, taxa linked to improved energy
   metabolism and anti-inflammatory effects
 
-Kefir also promotes **short-chain fatty acid (SCFA)** production — acetate and
-butyrate — which lower luminal pH, create a protective niche for beneficial
-bacteria, and feed colonocytes.
+Kefir also promotes
+[short-chain fatty acid (SCFA)](../../Body/ShortChainFattyAcid.md) production —
+acetate and [butyrate](../../Body/Butyrate.md) — which lower luminal pH, create
+a protective niche for beneficial bacteria, and feed colonocytes.
 
 ## Kefiran: The Unique Polysaccharide
 
@@ -197,7 +198,7 @@ options, ranging from local to online.
 
 | **Seller**                        |        **Price** | **Notes**                                                                        |
 |:----------------------------------|-----------------:|:---------------------------------------------------------------------------------|
-| **Cultures for Health**           |           $26.99 | Dehydrated grains; also sold at **Natural Grocers** (in stock at 42+ stores)     |
+| **Cultures for Health**           |           $26.99 | Dehydrated grains; also sold at **Natural Grocers**                              |
 | **Fusion Teas**                   |           $15.99 | Fresh/live grains; "guaranteed to revive or we send a new batch"; also on Amazon |
 | **Kombucha Kamp**                 | \$32.88 - $98.88 | Fresh, fully hydrated (never dehydrated); 140+ reviews                           |
 | [Yemoos](https://www.yemoos.com/) |           $27.00 | Live grains; frequently recommended in r/Kefir for thick, creamy results         |
@@ -238,8 +239,8 @@ options, ranging from local to online.
 ## Homemade Kefir  
 
 To ferment milk kefir at home, combine **milk kefir grains** with fresh milk and
-let it sit at room temperature for **12–24 hours** until it thickens and turns
-tangy.
+let it sit at room temperature for **12 to 24 hours** until it thickens and
+turns tangy.
 
 ### Instructions  
 
@@ -247,8 +248,8 @@ tangy.
    milk in a clean glass jar. Leave about an inch of headspace.
 2. **Cover:** Top with a coffee filter, paper towel, or cloth secured with a
    rubber band. Avoid an airtight lid — the ferment produces CO₂.
-3. **Ferment:** Leave in a warm, dark spot (68–76°F / 20–24°C) for **12–24 hours
-   **. The milk is done when it thickens to a cream-like consistency and
+3. **Ferment:** Leave in a warm, dark spot (68–76°F / 20–24°C) for **12 to 24
+   hours**. The milk is done when it thickens to a cream-like consistency and
    develops a sour, tangy smell. It may separate into curds and whey — that's
    normal.
 4. **Strain:** Pour the kefir through a fine-mesh (non-metal) sieve into a bowl
@@ -269,3 +270,17 @@ tangy.
 - **Storage:** Finished kefir keeps in the fridge for up to 2 weeks.
 - **Grain growth:** Grains roughly double every 2 weeks. Share extras, freeze a
   backup batch, or add more milk to keep the ratio balanced.
+- **Light:** Indirect or ambient light is perfectly fine. The main concern is
+  **direct sunlight**, which can heat the jar unevenly, stress the culture, and
+  encourage unwanted microbial growth. The standard recommendation is to keep 
+  the jar out of direct sun (a cupboard, pantry, or shaded counter works 
+  well), but total darkness is not required.
+  A few specific effects of light:
+  - **Riboflavin (vitamin B₂)** is degraded by UV and visible light, so 
+    prolonged
+  exposure can reduce this nutrient.
+  - **Heat is the real risk** — sunlight through a window can raise the
+  temperature enough to speed fermentation, upset the bacteria/yeast balance, or
+  cause over-fermentation.
+  - **Indirect light** (a kitchen counter, bright room) has no meaningful 
+  negative effect on the fermentation process itself.

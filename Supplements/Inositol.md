@@ -144,27 +144,29 @@ in food and even infant formula.
 | **Anti-oxidant / membrane stabilization**        | Protects cell membranes from lipid peroxidation; reduces hepatic triglyceride accumulation (hepatoprotective in NAFLD models).                                                                                                                                        |
 | **Gut–liver axis modulation**                    | Emerging evidence for modulation of gut-liver signaling that reduces hepatic steatosis.                                                                                                                                                                               |
 
-### Clinical Evidence
+### Clinical Evidence  
 
 | Outcome                      | Finding                                                                                                                                                                                                                                                             |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **HOMA-IR**                  | 2018 meta-analysis (*Eur Rev Med Pharmacol Sci*): significant reduction, driven by improved insulin sensitivity **independent of weight loss**. A 2022 *Open Heart* review found myo-inositol improves insulin resistance **~2× better than metformin** on HOMA-IR. |
 | **Fasting insulin**          | 12-week RCT in PCOS: 2 g BID → significant reductions in plasma insulin, LH, testosterone, and LH:FSH ratio.                                                                                                                                                        |
 | **Fasting glucose**          | 2016 RCT in T2DM: 3 months of supplementation → significant HbA1c and fasting glucose reduction.                                                                                                                                                                    |
-| **Lipids**                   | 2 g BID → triglycerides −20%, HDL +22%, diastolic BP −11% (metabolic syndrome cohort).                                                                                                                                                                              |
-| **Gestational diabetes**     | 2 g BID → significant improvement in fasting glucose and 1-hour OGTT glycemia.                                                                                                                                                                                      |
+| **Lipids**                   | 2 g twice per day → triglycerides −20%, HDL +22%, diastolic blood pressure −11% (metabolic syndrome cohort).                                                                                                                                                        |
+| **Gestational diabetes**     | 2 g twice per day → significant improvement in fasting glucose and 1-hour OGTT glycemia.                                                                                                                                                                            |
 | **NAFLD**                    | 2024 RCT (*PMC*): 4 g/day → enhanced AKT and PDK-1 expression in PBMCs, improved AMPK/PI3K/AKT pathway, reduced hepatic steatosis markers.                                                                                                                          |
 | **Anxiety / Panic disorder** | 12–18 g/day → reduced panic attack frequency comparable to fluvoxamine (1995 trial); mixed results for depression.                                                                                                                                                  |
 
+RCT stands for randomized controlled trial.
+
 ### Dosage
 
-| Use                                         | Dose                                      | Timing                                   |
-|---------------------------------------------|-------------------------------------------|------------------------------------------|
-| **Insulin resistance / metabolic syndrome** | 2 to 4 g/day (split into 2 doses)         | **AM and PM with meals**                 |
-| **PCOS**                                    | 4 g/day (2 g × 2)                         | **AM and PM** (AM dose before breakfast) |
-| **NAFLD**                                   | 4 g/day (single dose)                     | **With a meal**                          |
-| **Anxiety / OCD** (clinical use only)       | 12 to 18 g/day (split × 3)                | **TID**                                  |
-| **Starting out**                            | 1 g/day for the first week, then increase | **With meals**                           |
+| **Use**                                                                                                                                    | **Dose**                                  | **Timing**                            |
+|:-------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|:--------------------------------------|
+| Starting out                                                                                                                               | 1 g/day for the first week, then increase | With meals                            |
+| [Insulin resistance](../Body/InsulinResistance.md) / metabolic syndrome                                                                    | 2 to 4 g/day (split into 2 doses)         | AM and PM with meals                  |
+| [Polycystic Ovary Syndrome (PCOS)](https://en.wikipedia.org/wiki/Polyendocrine_metabolic_ovarian_syndrome)                                 | 4 g/day (2 g × 2)                         | AM and PM (AM dose before breakfast)  |
+| [Nonalcoholic Fatty Liver Disease (NAFLD)](https://en.wikipedia.org/wiki/Metabolic_dysfunction%E2%80%93associated_steatotic_liver_disease) | 4 g/day (single dose)                     | With a meal                           |
+| Anxiety / OCD (clinical use only)                                                                                                          | 12 to 18 g/day (split × 3)                | Three doses per day with meals        |
 
 ### Side Effects
 
@@ -180,12 +182,12 @@ placebo**. A 2011 safety review of >20 clinical trials found:
 
 ### Drug interactions
 
-| Medication                                        | Interaction                                                                                                                                                                                  |
-|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Metformin**                                     | Additive glucose-lowering; one study showed more pronounced drops in blood sugar, insulin resistance markers, and hormone levels when combined. Generally safe but monitor for hypoglycemia. |
-| **Lithium**                                       | Theoretical concern — inositol can antagonize lithium's effect on second-messenger systems. Not well-studied clinically; avoid without psychiatric supervision.                              |
-| **Laxatives / diuretics**                         | May increase GI side effects.                                                                                                                                                                |
-| **Diabetes medications** (insulin, sulfonylureas) | Additive hypoglycemic effect — monitor blood glucose.                                                                                                                                        |
+| **Medication**                                | **Interaction**                                                                                                                                                                              |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Metformin                                     | Additive glucose-lowering; one study showed more pronounced drops in blood sugar, insulin resistance markers, and hormone levels when combined. Generally safe but monitor for hypoglycemia. |
+| Lithium                                       | Theoretical concern: Inositol can antagonize lithium's effect on second-messenger systems. Not well-studied clinically; avoid without psychiatric supervision.                               |
+| Laxatives / diuretics                         | May increase GI side effects.                                                                                                                                                                |
+| Diabetes medications (insulin, sulfonylureas) | Additive hypoglycemic effect. Monitor blood glucose.                                                                                                                                         |
 
 ### Avoid or Use Caution
 
@@ -198,14 +200,14 @@ placebo**. A 2011 safety review of >20 clinical trials found:
 
 ### Practical Notes
 
-- **Bioavailability is high** — no food-dependent absorption issue, but taking 
-  with meals improves GI tolerance
+- **Bioavailability is high** — No food-dependent absorption issue, but taking 
+  with meals improves GI tolerance.
 - **Onset:** Metabolic markers (fasting insulin, HOMA-IR) can shift within 
   **4 to 8 weeks**; full effects typically by **12 weeks**
 - **It's an adjunct**, not a replacement for caloric deficit, protein intake,
-  and resistance training
+  and resistance training.
 - In the US it's sold as a dietary supplement; in some European countries it's
-  available as a prescription medication
+  available as a prescription medication.
 - **Quality matters:** Look for pure myo-inositol powder or capsules without
   fillers; the powder mixes easily into water or smoothies and has a mild sweet
   taste

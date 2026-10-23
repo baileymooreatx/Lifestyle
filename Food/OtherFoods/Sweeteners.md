@@ -62,8 +62,8 @@ benefits.
   **not raise blood glucose or insulin** in healthy individuals.
 - In people with diabetes or prediabetes, substituting allulose for sugar may 
   **reduce glucose impact by nearly 10%**.
-- It may also **stimulate GLP-1**, a hormone that enhances insulin secretion and
-  promotes satiety.
+- It may also **stimulate [GLP-1](../../Body/SatietyHormones.md)**, a hormone
+  that enhances insulin secretion and promotes satiety.
 
 ### Yacón Syrup
 
@@ -103,8 +103,8 @@ processing and insulin response.
   type 2 diabetes.
 - **Potential Benefits**: Some trials suggest it may **improve insulin
   sensitivity** and reduce HbA1c levels over time. It also stimulates gut
-  hormones like **GLP-1**, which can blunt post-meal glucose spikes when
-  consumed with carbohydrates.
+  hormones like **[GLP-1](../../Body/SatietyHormones.md)**, which can blunt 
+  post-meal glucose spikes when consumed with carbohydrates.
 - **Safety Note**: While metabolically neutral, recent observational studies
   (2023–2025) have noted associations between very high circulating levels of
   erythritol and increased cardiovascular risk, though causality remains under

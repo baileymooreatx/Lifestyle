@@ -23,15 +23,17 @@ meta-analyses and systematic reviews.
 - **Anti-catabolic action** — HMB's core benefit is reducing muscle protein
   breakdown by inhibiting the ubiquitin-proteasome pathway, while simultaneously
   stimulating protein synthesis via the mTOR/AKT pathway.
-- **Sarcopenia & aging** — A 2025 meta-analysis of 21 RCTs (1,935 participants
-  over 50) confirmed that 3 g/day for 12+ weeks significantly improves muscle
-  mass, strength, and physical function in older adults. It's considered
-  superior to protein supplementation alone for this purpose.
+- **Sarcopenia & aging** — A 2025 meta-analysis of 21 randomized controlled 
+  trials (RCTs) (1,935 participants over 50) confirmed that 3 g/day for 12+ weeks 
+  significantly improves muscle mass, strength, and physical function in older 
+  adults. It's considered superior to protein supplementation alone for this 
+  purpose.
 - **Bed rest / immobility** — HMB preserves lean mass during 10 days of enforced
   bed rest in older adults.
 - **Caloric restriction & weight loss** — HMB helps maintain muscle mass during
   dieting, and is increasingly studied as a countermeasure to the muscle loss
-  associated with GLP-1 receptor agonist therapy (e.g., semaglutide).
+  associated with [GLP-1](../Body/SatietyHormones.md) receptor agonist therapy  
+  (e.g., semaglutide).
 
 ## Exercise Performance & Recovery
 
@@ -83,15 +85,16 @@ point where it can feed ketone production directly.
 
 ### Caveats
 
-- The evidence is **animal-only** (mice). No human RCT has measured the effect
-  of HMB supplementation on circulating ketone levels.
+- The evidence is **animal-only** (mice). No human randomized controlled 
+  trial (RCT) has measured the effect of HMB supplementation on circulating 
+  ketone levels.
 - The magnitude in mice was modest — a statistically significant rise, but not
   enough to produce a clinically meaningful level of ketosis on its own.
 - A 2021 MDPI study found the reverse interaction: when BHB is already
   elevated (ketosis), HMB **attenuates** BHB-driven epigenetic changes (lysine
   β-hydroxybutyrylation) in muscle, suggesting HMB may *buffer* against
   ketosis-associated muscle wasting rather than simply add to ketone output.
-- A patent (CN116018155A) describes combined "KB-HMB" formulations (HMB +
+- A patent (CN116018155A) describes combined "KB-HMB" formulations (HMB and 
   exogenous BHB/acetoacetate), claiming synergistic lean-mass benefits, but this
   is not peer-reviewed clinical evidence.
 

@@ -34,11 +34,11 @@ form is **berberine HCl**.
 
 ## How It Works
 
-| Mechanism                                                    | Effect                                                                                                                     |
-|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Mechanism**                                                | **Effect**                                                                                                                 |
+|:-------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
 | **AMPK activation** (via mitochondrial complex I inhibition) | Suppresses lipogenesis, promotes fatty acid oxidation, upregulates GLUT-4 — the same pathway metformin and exercise target |
 | **Insulin receptor upregulation** (PKC-dependent)            | Increases InsR and IRS-1 phosphorylation, restoring the insulin signaling cascade                                          |
-| **GLP-1 increase**                                           | Enhances glucose-stimulated insulin secretion from pancreatic β-cells                                                      |
+| **[GLP-1](../Body/SatietyHormones.md) increase**             | Enhances glucose-stimulated insulin secretion from pancreatic β-cells                                                      |
 | **Gut microbiome modulation**                                | Increases SCFA-producing bacteria, reduces metabolic endotoxemia, shifts bile acid metabolism (FXR/TGR5 activation)        |
 | **Adipogenesis suppression**                                 | Downregulates PPARγ2, C/EBPα, SREBP-1c → fewer new fat cells form                                                          |
 | **Anti-inflammatory**                                        | Reduces TNF-α, IL-6, CRP; inhibits M1 macrophage activation in adipose tissue                                              |
@@ -52,8 +52,8 @@ form is **berberine HCl**.
   populations
 - **HbA1c:** ~0.5–0.8% reduction — comparable to metformin in head-to-head
   trials
-- **Lipids:** ~12% total cholesterol reduction, ~23% triglyceride reduction (
-  12-week RCTs)
+- **Lipids:** ~12% total cholesterol reduction, ~23% triglyceride reduction
+  in 12-week randomized controlled trials (RCTs)
 - **Visceral fat / liver fat:** A 2026 RCT in *JAMA Network Open* confirmed
   visceral and hepatic fat reduction at 1 g/day in obese, diabetes-free adults.
   Most trials use waist circumference as a surrogate; direct imaging data is

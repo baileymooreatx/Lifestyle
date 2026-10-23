@@ -85,20 +85,21 @@ The book is organized into three parts:
    promotes tumor growth, accelerates aging, and destroys kidney function. He
    frames metabolic syndrome not as a collection of unrelated criteria but as a
    downstream expression of one upstream problem.
-2. **The Causes** — He identifies what drives insulin resistance: a modern diet
-   heavy in [refined carbohydrates](../Avoid/RefinedCarbohydrate.md) and  
-   omega-6 fats, sedentary behavior, poor sleep, environmental toxins (BPA, air 
-   pollution, pesticides), low-salt diets, and the natural decline in insulin
-   sensitivity with age and hormonal shifts. Genetics set a baseline but do 
-   not determine fate.
+2. **The Causes** — He identifies what drives 
+   [insulin resistance](../Body/InsulinResistance.md): a modern diet heavy in 
+   [refined carbohydrates](../Avoid/RefinedCarbohydrate.md) and  
+   omega-6 fats, sedentary behavior, poor [sleep](../Sleep.md), environmental
+   toxins (BPA, air pollution, pesticides), low-salt diets, and the natural
+   decline in insulin sensitivity with age and hormonal shifts. Genetics set 
+   a baseline but do not determine fate.
 3. **The Solution** — Bikman offers an evidence-based lifestyle plan: a
    **low-carbohydrate diet** (targeting ~100 g/day of low-glycemic-load carbs,
-   prioritizing protein at 1.0–1.5 g/kg), **intermittent fasting** (18 to 24
-   hour windows), regular **exercise** (at least 20 minutes most days, with
-   progressive overload), and reduction of omega-6 fatty acids. He argues this
-   approach can reverse insulin resistance entirely, whereas drugs and bariatric
-   surgery treat symptoms and often fail long-term (~25% of surgical patients
-   regain weight and IR).
+   prioritizing protein at 1.0–1.5 g/kg), [intermittent fasting](../Fasting.md)
+   (18 to 24 hour windows), regular **exercise** (at least 20 minutes most days,
+   with progressive overload), and reduction of omega-6 fatty acids. He argues  
+   this approach can reverse insulin resistance entirely, whereas drugs and
+   bariatric surgery treat symptoms and often fail long-term (~25% of surgical 
+   patients regain weight and insulin resistance).
 
 The book's tone is that of a scientist making a public-health case: "nothing I
 write in this book is based on my opinion, but rather published, peer-reviewed
@@ -121,11 +122,12 @@ insulin is a common driver of chronic disease**.
 ### Chapter 2: Insulin Resistance and Heart Health
 
 Details multiple mechanisms by which IR drives cardiovascular disease: it raises
-aldosterone (increasing blood pressure and salt retention), stimulates
-endothelial growth, activates the sympathetic nervous system, increases small
-dense LDL particles, promotes oxidative stress, and fuels atherosclerotic plaque
-formation. Bikman also links IR to both dilated and hypertrophic cardiomyopathy,
-and notes that no single factor is more strongly associated with CVD than IR.
+aldosterone (increasing blood pressure and [salt](../Avoid/Salt.md) retention), 
+stimulates endothelial growth, activates the sympathetic nervous system, 
+increases small dense LDL particles, promotes oxidative stress, and fuels 
+atherosclerotic plaque formation. Bikman also links IR to both dilated and 
+hypertrophic cardiomyopathy, and notes that no single factor is more strongly 
+associated with cardiovascular disease (CVD) than IR.
 
 ### Chapter 3: Insulin Resistance, the Brain, and Neurological Disorders
 
@@ -153,8 +155,8 @@ controllable risk factor among many.
 ### Chapter 6: Insulin and Aging, the Skin, Muscles, and Bones
 
 Discusses how chronic hyperinsulinemia accelerates aging, causes skin changes
-(acanthosis nigricans, skin tags), degrades muscle function, and weakens bone
-health.
+([acanthosis nigricans](https://en.wikipedia.org/wiki/Acanthosis_nigricans), 
+skin tags), degrades muscle function, and weakens bone health.
 
 Acanthosis nigricans (AN) is a skin condition characterized by dark, thickened,
 velvety patches that typically appear in body folds — most commonly the back of
@@ -181,7 +183,7 @@ arguing it worsens the underlying problem.
 
 Reviews the genetic susceptibility to IR (certain gene variants increase risk)
 and the natural age-related decline in insulin sensitivity. Emphasizes that
-genetics set a baseline but do not determine destiny—lifestyle can modify risk
+genetics set a baseline but do not determine destiny. Lifestyle can modify risk
 at every stage.
 
 ### Chapter 10: How Hormones Cause Insulin Resistance
@@ -196,7 +198,8 @@ deterioration.
 Revisits the obesity–IR relationship, distinguishing between the two. Discusses
 lipodystrophy (inability to form new fat cells), ectopic fat deposition, and how
 muscles can become insulin-resistant even before fat tissue. Notes that
-ceramides are more harmful than triglycerides in driving IR.
+[ceramides](https://en.wikipedia.org/wiki/Ceramide) are more harmful than 
+[triglycerides](https://en.wikipedia.org/wiki/Triglyceride) in driving IR.
 
 ### Chapter 12: Inflammation and Oxidative Stress
 

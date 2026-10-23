@@ -77,12 +77,13 @@
    1. [Fiber Firewall](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=799s)  
       Eat salad or vegetables first.
    2. [Protein and Fat Anchor](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1032s)  
-      Protein releases GLP-1 to slow digestion and decrease insulin release.  
+      Protein releases [GLP-1](./Body/SatietyHormones.md) to slow digestion and
+      decrease insulin release.  
       Fat increases satiety.
    3. [Carbohydrates last](https://www.youtube.com/watch?v=JdZBQWRBSpg&list=WL&index=11&t=1278s)  
       Blood sugar increases slowly when carbs come last, avoiding a flood of 
       insulin to lower glucose.
-7. **Walk After Meals**
+7. **[Walk](./Walk.md) After Meals**
    Use skeletal muscle as a "metabolic engine" by lifting weights 2 or 3 times a
    week (with adequate protein intake). A 10-minute walk immediately after meals
    helps lower blood sugar by raising GLUT-4, so muscles can absorb glucose
@@ -93,9 +94,9 @@
 9. **24-Hour Water Fast**  
    Once a week, perform a 24-hour water-only fast to trigger autophagy (cell
    cleanup) and increase human growth hormone levels.
-
-Achieve Metabolic Flexibility. By mastering the previous habits, the body 
-becomes capable of efficiently switching between burning sugar and fat.
+10. **Achieve Metabolic Flexibility**  
+    By mastering the previous habits, the body becomes capable of efficiently 
+    switching between burning sugar and fat.
 
 ### Additional Recommendations
 

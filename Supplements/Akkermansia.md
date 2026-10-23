@@ -53,20 +53,20 @@ microbial biomarkers for metabolic health.
 
 ### Metabolic Health (strongest human evidence)
 
-- **Insulin sensitivity** — the 2019 *Nature Medicine* RCT (Depommier et al.)
-  showed ~30% improvement in insulin sensitivity with 3 months of pasteurized
-  *A. muciniphila*. A 2025 RCT in overweight/obese T2D patients confirmed
-  improved glycemic control and insulin sensitivity, with benefits concentrated
-  in those with **low baseline levels**.
+- **Insulin sensitivity** — the 2019 *Nature Medicine* randomized controlled 
+  trial (RCT) (Depommier et al.) showed ~30% improvement in insulin sensitivity 
+  with 3 months of pasteurized *A. muciniphila*. A 2025 RCT in overweight/obese 
+  T2D patients confirmed improved glycemic control and insulin sensitivity, with
+  benefits concentrated in those with **low baseline levels**.
 - **Weight & fat mass** — animal studies consistently show reduced adiposity and
   body weight on high-fat diets. Human data shows trends toward reduced weight,
   waist circumference, and fat mass, though most trials haven't reached
   statistical significance for weight alone.
 - **Lipid profile** — reduced total cholesterol and triglycerides in human
   trials.
-- **GLP-1 & satiety signaling** — *A. muciniphila* (particularly via its outer
-  membrane protein Amuc_1100) stimulates GLP-1 and PYY secretion while reducing
-  leptin, enhancing satiety and reducing appetite.
+- **[GLP-1 & satiety signaling](../Body/SatietyHormones.md)** — *A. muciniphila*
+  (particularly via its outer membrane protein Amuc_1100) stimulates GLP-1 and 
+  PYY secretion while reducing leptin, enhancing satiety and reducing appetite.
 
 ### Gut Barrier & Digestive Health
 
@@ -86,8 +86,8 @@ microbial biomarkers for metabolic health.
   increases IL-10 and TGF-β, and shifts tryptophan metabolism toward
   anti-inflammatory metabolites (indole-3-lactic acid, 5-HIAA) while suppressing
   the pro-inflammatory kynurenine pathway.
-- **Colonization resistance** — helps protect against pathogens like *C.
-  difficile* by enriching butyrate producers.
+- **Colonization resistance** — helps protect against pathogens like
+  *C. difficile* by enriching butyrate producers.
 
 ### Cardiovascular & Liver
 

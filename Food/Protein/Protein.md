@@ -17,9 +17,9 @@ Provided by Ben Azadi's YouTube video
 This video explores how **dietary protein** can naturally support weight loss,
 improve metabolic health, and reduce cravings by leveraging the body's own
 satiety hormones. Ben Azadi explains that **protein** functions
-similarly to *GLP-1* medications by stimulating natural hormonal signals that
-decrease hunger, yet it also provides the critical benefit of **preserving
-muscle mass**.
+similarly to *[GLP-1](../../Body/SatietyHormones.md)* medications by stimulating 
+natural hormonal signals that decrease hunger, yet it also provides the critical 
+benefit of **preserving muscle mass**.
 
 ## Key Takeaways
 

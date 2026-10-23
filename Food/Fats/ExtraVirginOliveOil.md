@@ -128,8 +128,9 @@ What the research does support:
   release, which aids fat digestion. This happens whether you take it fasted or
   with food.
 - **Modest blood-sugar effect**: A small crossover study found that 10 g of EVOO
-  taken with a meal lowered post-meal glucose rise, likely via GLP-1 and other
-  incretin hormones — but this was with a meal, not on an empty stomach.
+  taken with a meal lowered post-meal glucose rise, likely via 
+  [GLP-1](../../Body/SatietyHormones.md) and other incretin hormones, but this 
+  was with a meal, not on an empty stomach.
 - **Satiety**: The monounsaturated fats and oleoyl ethanolamide (a derivative of
   oleic acid) may mildly increase fullness, but the evidence for a meaningful
   effect on total daily calorie intake is limited.

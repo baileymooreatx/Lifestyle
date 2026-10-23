@@ -64,10 +64,11 @@ For sleep, the evidence-based approach is:
 **Start at 50 mg**, taken **30–60 minutes before bed**. If no effect after ~2
 weeks, increase by 50–100 mg increments.
 
-**Research-backed range:** Most studies showing measurable changes in sleep (
-faster onset, more REM, more slow-wave sleep) used **200 mg or more** per night.
-A 2024 RCT in older adults found **100 mg** daily improved sleep latency by ~18
-minutes over 8 weeks. A 200 mg dose was shown to increase REM sleep.
+**Research-backed range:** Most studies showing measurable changes in sleep 
+(faster onset, more REM, more slow-wave sleep) used **200 mg or more** per night.
+A 2024 randomized controlled trial (RCT) in older adults found **100 mg** daily 
+improved sleep latency by ~18 minutes over 8 weeks. A 200 mg dose was shown to 
+increase REM sleep.
 
 **Practical dosing by concern:**
 

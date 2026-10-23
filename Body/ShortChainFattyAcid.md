@@ -134,7 +134,8 @@ most studied.
 
 - Activates **GPR41** in the hypothalamus → satiety signaling → reduced food
   intake
-- Stimulates **PYY** and **GLP-1** secretion from L cells → anorectic effect
+- Stimulates [**PYY** and **GLP-1**](./SatietyHormones.md) secretion from
+  L cells → anorectic effect
 
 ### Acetate (C2) — The "Systemic Metabolite"
 

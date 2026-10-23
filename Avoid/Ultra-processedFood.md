@@ -93,8 +93,8 @@ This is where the evidence has gotten most precise in recent years:
   [2019 Cell Metabolism trial](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30248-7)
   ** (the landmark one): UPF was
   consumed at **17 kcal/min vs. 11 kcal/min** on the unprocessed diet (p <
-  0.0001). That ~50% speed difference meant the plate was empty before satiety
-  hormones (GLP-1, PYY, CCK) could ramp up.  
+  0.0001). That ~50% speed difference meant the plate was empty before
+  [satiety hormones](../Body/SatietyHormones.md) (GLP-1, PYY, CCK) could ramp up.  
   Result: 508 kcal/day excess, ~2 lbs gained in two weeks.
 - **A 2024 Japanese RCT** (Diabetes, Obesity and Metabolism) replicated this in
   adults with obesity: **813 extra kcal/day** on the UPF arm, with significantly

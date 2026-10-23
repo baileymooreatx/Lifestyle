@@ -143,8 +143,8 @@ multiple pathways:
   may protect pancreatic beta cells (which produce insulin) from oxidative
   stress and damage, preserving the body's natural insulin production.
 * **Gene Expression**: Orange-fleshed varieties have been shown to upregulate 
-  **GLP-1** (a hormone that stimulates insulin secretion) and downregulate
-  **DPP-4** (an enzyme that breaks down GLP-1).
+  **[GLP-1](../../Body/SatietyHormones.md)** (a hormone that stimulates insulin
+  secretion) and downregulate **DPP-4** (an enzyme that breaks down GLP-1).
 
 ## Digestive and Gut Health
 

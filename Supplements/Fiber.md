@@ -70,15 +70,15 @@ LDL, type 2 diabetes, or those in post-surgical recovery.
 
 Strongest evidence for improving insulin sensitivity:
 
-- **[Resistant starch](./ResistantStarch.md)** — the standout. A 12-week RCT in 
-  insulin-resistant individuals found a **19% increase in insulin 
-  sensitivity** (vs. a 14% *decrease* in placebo). Other studies report 33–50% 
-  improvements after just 4 weeks at 15–30 g/day. The mechanism is direct: 
-  [gut bacteria](../Body/Microbiome.md) ferment it into 
+- **[Resistant starch](./ResistantStarch.md)** — the standout. A 12-week 
+  randomized controlled trial (RCT) in insulin-resistant individuals found a
+  **19% increase in insulin sensitivity** (vs. a 14% *decrease* in placebo).
+  Other studies report 33–50% improvements after just 4 weeks at 15–30 g/day.
+  The mechanism is direct: [gut bacteria](../Body/Microbiome.md) ferment it into 
   [butyrate](../Body/Butyrate.md), which enhances insulin signaling in muscle 
   and reduces free fatty acids (a key driver of insulin resistance). A 2019 
-  meta-analysis confirmed improvements in fasting glucose, fasting insulin, 
-  and HOMA-IR.
+  meta-analysis confirmed improvements in fasting glucose, fasting insulin, and 
+  [HOMA-IR](../Body/InsulinResistance.md#homeostatic-model-assessment-of-insulin-resistance-homa-ir).
 - **Psyllium husk** — a 2024 meta-analysis of 19 RCTs found significant
   reductions in **HOMA-IR** (insulin resistance marker), fasting blood sugar (~7
   mg/dL), and HbA1c (~0.75 points) at doses above 10 g/day. It works through two
@@ -88,8 +88,9 @@ Strongest evidence for improving insulin sensitivity:
 - **[Inulin](./Inulin.md)** — a study in *Gut* (2019) showed that 
   inulin-propionate ester and high-fermentable fiber improved insulin 
   sensitivity in overweight/obese adults. The mechanism is the same 
-  [SCFA](../Body/ShortChainFattyAcid.md)/GLP-1 pathway as resistant starch, but
-  inulin's rapid fermentation makes it somewhat less well-tolerated.
+  [SCFA](../Body/ShortChainFattyAcid.md)/[GLP-1](../Body/SatietyHormones.md)  
+  pathway as resistant starch, but inulin's rapid fermentation makes it somewhat 
+  less well-tolerated.
 - **Oat beta-glucan** — lowers post-meal glucose and raises GLP-1, the incretin
   hormone that stimulates glucose-dependent insulin release.
 - **Glucomannan** — forms the thickest gel of any fiber, most strongly slowing

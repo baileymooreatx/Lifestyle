@@ -35,16 +35,16 @@ anaplerosis**, replenishing cycle intermediates when they are depleted.
 
 ## Key Metabolic Functions
 
-| **Function**                 | **Mechanism**                                                                                                                                                |
-|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gluconeogenesis              | Succinyl-CoA → oxaloacetate → glucose; propionate is a major substrate for hepatic glucose production                                                        |
-| Lipid/cholesterol regulation | Competitively inhibits acetate uptake by hepatocytes, reducing hepatic lipogenesis and cholesterol biosynthesis; lowers serum cholesterol                    |
-| Energy & body weight         | Reduces adiposity and body weight; promotes adipose tissue "browning" (↑UCP1, ↑PGC1α) and thermogenesis                                                      |
-| Appetite/satiety signaling   | Activates GPR41 (FFAR3) and GPR43 (FFAR2) on enteroendocrine cells → stimulates **PYY** and **GLP-1** release → reduces appetite and energy intake           |
-| Epigenetic regulation        | Inhibits histone deacetylases (HDAC8/9), increasing histone acetylation and propionylation; modulates gene expression in immune, neuronal, and cardiac cells |
-| Direct anabolic condensation | Two propionyl-CoA molecules can condense to form *trans*-2-methyl-pentenoyl-CoA (a 6-carbon unit), a pathway recently confirmed in vivo in human myocardium  |
-| Immune modulation            | Dampens NF-κB, IL-6, STAT1/STAT3 signaling; augments Treg/Th17 ratio; anti-inflammatory in gut and systemic tissues                                          |
-| Urea cycle interaction       | Propionyl-CoA can deplete hepatic acetyl-CoA, inhibiting N-acetylglutamate synthesis and thus carbamoyl phosphate synthetase I (first urea cycle step)       |
+| **Function**                 | **Mechanism**                                                                                                                                                              |
+|:-----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gluconeogenesis              | Succinyl-CoA → oxaloacetate → glucose; propionate is a major substrate for hepatic glucose production                                                                      |
+| Lipid/cholesterol regulation | Competitively inhibits acetate uptake by hepatocytes, reducing hepatic lipogenesis and cholesterol biosynthesis; lowers serum cholesterol                                  |
+| Energy & body weight         | Reduces adiposity and body weight; promotes adipose tissue "browning" (↑UCP1, ↑PGC1α) and thermogenesis                                                                    |
+| Appetite/satiety signaling   | Activates GPR41 (FFAR3) and GPR43 (FFAR2) on enteroendocrine cells → stimulates [**PYY** and **GLP-1**](./SatietyHormones.md) release → reduces appetite and energy intake |
+| Epigenetic regulation        | Inhibits histone deacetylases (HDAC8/9), increasing histone acetylation and propionylation; modulates gene expression in immune, neuronal, and cardiac cells               |
+| Direct anabolic condensation | Two propionyl-CoA molecules can condense to form *trans*-2-methyl-pentenoyl-CoA (a 6-carbon unit), a pathway recently confirmed in vivo in human myocardium                |
+| Immune modulation            | Dampens NF-κB, IL-6, STAT1/STAT3 signaling; augments Treg/Th17 ratio; anti-inflammatory in gut and systemic tissues                                                        |
+| Urea cycle interaction       | Propionyl-CoA can deplete hepatic acetyl-CoA, inhibiting N-acetylglutamate synthesis and thus carbamoyl phosphate synthetase I (first urea cycle step)                     |
 
 ## Sources of Propionate
 
@@ -71,9 +71,9 @@ bacteria (*Bacteroides*, *Prevotella*,
 ### Top Fiber Types for Propionate
 
 | **Fiber**                                                          | **Best Food Sources**                                                                         | **Why It Works**                                                                                                              |
-|:-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | [Inulin](../Supplements/Inulin.md) / Fructo-oligosaccharides (FOS) | Chicory root, Jerusalem artichoke, garlic, onions, leeks, asparagus, agave                    | Most direct propionate driver; a 50:50 inulin + arabinoxylan blend produced sustained propionate in continuous colonic models |
-| [Resistant starch](../Supplements/ResistantStarch.md)          | Cooked-and-cooled potatoes, rice, pasta; green (unripe) bananas; legumes (lentils, chickpeas) | Slow, distal fermentation; strongly correlated with *Bacteroidaceae* and propionate in humanized models                       |
+| [Resistant starch](../Supplements/ResistantStarch.md)              | Cooked-and-cooled potatoes, rice, pasta; green (unripe) bananas; legumes (lentils, chickpeas) | Slow, distal fermentation; strongly correlated with *Bacteroidaceae* and propionate in humanized models                       |
 | Pectin                                                             | Apples (skin on), pears, citrus, berries, okra                                                | Feeds *Bacteroides* via the succinate pathway; high propionate yield                                                          |
 | β-Glucans                                                          | Oats, barley, algae (laminarin)                                                               | Shown *in vitro* to increase propionate proportionally to chain structure                                                     |
 | Arabinoxylan                                                       | Wheat bran, barley                                                                            | Part of the most effective propionate-producing prebiotic blend studied                                                       |

@@ -138,8 +138,8 @@ distributions:
 | **GPR109A**       | Macrophages, T cells, adipose                | M2 polarization, adipocyte browning, anti-inflammatory |
 
 These receptor-mediated effects are **separate from and additive to** HDAC
-inhibition, and some (e.g., GLP-1 stimulation) occur at concentrations too low
-for epigenetic effects.
+inhibition, and some (e.g., [GLP-1](./SatietyHormones.md) stimulation) occur at
+concentrations too low for epigenetic effects.
 
 ### Inflammation (anti-inflammatory)  
 
@@ -249,9 +249,9 @@ portal vein, then enters systemic circulation. There it:
 
 This is one of the most clinically relevant systemic roles:
 
-- **Incretin secretion:** butyrate stimulates **GLP-1** and **PYY** release from
-  enteroendocrine cells via GPR41/GPR43, promoting satiety and insulin
-  secretion.
+- **Incretin secretion:** butyrate stimulates
+  [**GLP-1** and **PYY**](./SatietyHormones.md) release from enteroendocrine 
+  cells via GPR41/GPR43, promoting satiety and insulin secretion.
 - **Peripheral insulin sensitivity:** butyrate upregulates AMPK and PGC-1α in
   skeletal muscle, enhancing mitochondrial function and glucose uptake. In mice,
   butyrate reduced fasting insulin by ~50% and HOMA-IR by ~60% on a high-fat

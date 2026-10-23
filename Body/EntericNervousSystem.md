@@ -4,7 +4,7 @@
 
 - [Enteric Nervous System (ENS) vs. Central Nervous System (CNS)](#enteric-nervous-system-ens-vs-central-nervous-system-cns)
   - [Side-by-Side Comparison](#side-by-side-comparison)
-  - [Structural Organization of the ENS](#structural-organization-of-the-ens)
+  - [Structural Organization of the Enteric Nervous System](#structural-organization-of-the-enteric-nervous-system)
   - [How ENS and CNS Communicate (the Brain–Gut Axis)](#how-ens-and-cns-communicate-the-braingut-axis)
   - [Key Differences That Matter for Immunology](#key-differences-that-matter-for-immunology)
 
@@ -30,7 +30,7 @@ other.
 ## Side-by-Side Comparison
 
 | **Feature**                       | **CNS (Brain and Spinal Cord)**                                       | **ENS (Gut Wall)**                                                                                                             |
-|-----------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+|:----------------------------------|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | **Location**                      | Skull and vertebral column                                            | Mucosal/submucosal layers of GI tract                                                                                          |
 | **Neuron count**                  | ~86 billion (brain) and ~1 billion (spinal cord)                      | ~100–600 million                                                                                                               |
 | **Glial cells**                   | Astrocytes, oligodendrocytes, microglia, ependymal cells              | **Enteric glia** (astrocyte-like; outnumber neurons 3–5×)                                                                      |
@@ -43,12 +43,12 @@ other.
 | **Regeneration**                  | Very limited (neuroprotective but anti-regenerative environment)      | Greater regenerative capacity (mechanism unclear)                                                                              |
 | **Primary functions**             | Cognition, motor control, sensory integration, emotion, consciousness | Motility (peristalsis, segmentation), secretion, absorption, local blood flow, **immune modulation**                           |
 
-## Structural Organization of the ENS
+## Structural Organization of the Enteric Nervous System
 
 Two main plexuses form the ENS:
 
-| Plexus                      | Location                                                    | Primary Function                                                        |
-|-----------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Plexus**                  | **Location**                                                | **Primary Function**                                                    |
+|:----------------------------|:------------------------------------------------------------|:------------------------------------------------------------------------|
 | **Myenteric (Auerbach's)**  | Between inner circular and outer longitudinal muscle layers | Motility — velocity and intensity of contractions; sphincter relaxation |
 | **Submucosal (Meissner's)** | Between mucosa and inner circular muscle                    | Local secretion, absorption, mucosal blood flow                         |
 
@@ -62,10 +62,10 @@ Neuron types within the ENS:
 
 ## How ENS and CNS Communicate (the Brain–Gut Axis)
 
-| Direction                  | Pathway                                                                                                             | Function                                                                                       |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **CNS → ENS** (descending) | Vagus nerve (parasympathetic); sympathetic via prevertebral ganglia (celiac, superior/inferior mesenteric)          | Modulate motility, secretion, blood flow in response to stress, feeding state, emotion         |
-| **ENS → CNS** (ascending)  | Vagal afferents (80% of vagal fibers are sensory); sympathetic afferents; hormonal (enteroinsulin, CCK, GLP-1, PYY) | Report satiety, nausea, pain, nutrient status; influence mood, cognition, and stress responses |
+| Direction                  | Pathway                                                                                                                                     | Function                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **CNS → ENS** (descending) | Vagus nerve (parasympathetic); sympathetic via prevertebral ganglia (celiac, superior/inferior mesenteric)                                  | Modulate motility, secretion, blood flow in response to stress, feeding state, emotion         |
+| **ENS → CNS** (ascending)  | Vagal afferents (80% of vagal fibers are sensory); sympathetic afferents; [hormonal (enteroinsulin, CCK, GLP-1, PYY)](./SatietyHormones.md) | Report satiety, nausea, pain, nutrient status; influence mood, cognition, and stress responses |
 
 The vagus nerve is the dominant conduit — but the ENS **does not require** it to
 function. This is the key distinction: the CNS cannot operate without its
@@ -74,10 +74,10 @@ modulates.
 
 ## Key Differences That Matter for Immunology  
 
-| Feature                                    | Why It Matters                                                                                                                                                                                                                                                                        |
-|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **No blood-ENS barrier**                   | Immune cells ([T cells](ImmuneSystem/T-Cell.md), macrophages, mast cells) in the [lamina propria](ImmuneSystem/LaminaPropria.md) can directly synapse with enteric neurons. This is the neural arm of the **gut–immune axis**                                                                               |
+| **Feature**                                | **Why It Matters**                                                                                                                                                                                                                                                                    |
+|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **No blood-ENS barrier**                   | Immune cells ([T cells](ImmuneSystem/T-Cell.md), macrophages, mast cells) in the [lamina propria](ImmuneSystem/LaminaPropria.md) can directly synapse with enteric neurons. This is the neural arm of the **gut–immune axis**                                                         |
 | **Enteric neurons innervate immune cells** | ENS motor neurons release ACh, VIP, and substance P directly onto lymphocytes, mast cells, and ILCs in the LP — modulating their activity                                                                                                                                             |
-| **Microbiome → ENS → CNS**                 | [Commensal](CommensalBacteria.md) metabolites ([SCFAs](ShortChainFattyAcid.md)) and microbial PAMPs activate ENS sensory neurons → vagal afferents → NTS in brainstem → influence microglia, mood, and systemic immunity. This is the **neural arm of the microbiome–brain axis** |
+| **Microbiome → ENS → CNS**                 | [Commensal](CommensalBacteria.md) metabolites ([SCFAs](ShortChainFattyAcid.md)) and microbial PAMPs activate ENS sensory neurons → vagal afferents → NTS in brainstem → influence microglia, mood, and systemic immunity. This is the **neural arm of the microbiome–brain axis**     |
 | **Stress → CNS → ENS → gut**               | Sympathetic activation during stress → ENS → altered motility, reduced mucus, increased permeability → dysbiosis → immune activation (stress impairs immunity)                                                                                                                        |
 | **Neurodegenerative disease**              | Parkinson's: α-synuclein may originate in the ENS (GI symptoms precede motor symptoms by 10–20 years) and propagate along vagal afferents to the brain. The ENS is a potential **early diagnostic window**                                                                            |

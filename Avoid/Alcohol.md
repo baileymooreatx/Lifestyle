@@ -39,9 +39,11 @@ The main mechanisms:
   intestinal barrier, alters the microbiome, and reduces uptake of key
   nutrients (thiamine, B12, folate, zinc, magnesium), which further impairs
   metabolic and immune function.
-- **It throws off hormones and sleep.** It lowers growth hormone, testosterone,
-  and other metabolic hormones, disrupts sleep, and increases cravings for
-  calorie-dense food — all of which promote visceral fat and insulin resistance.
+- **It throws off hormones and sleep.** It lowers growth hormone, 
+  [testosterone](../Body/Testosterone.md), and other metabolic hormones, 
+  disrupts [sleep](../Sleep.md), and increases cravings for calorie-dense food 
+  — all of which promote [visceral fat](../Body/VisceralFat.md) and 
+  [insulin resistance](../Body/InsulinResistance.md).
 
 **The cumulative result** is a shift toward fat storage (especially
 visceral/abdominal and liver fat), reduced muscle protein synthesis, impaired

@@ -203,10 +203,11 @@ muscles can become insulin-resistant even before fat tissue. Notes that
 
 ### Chapter 12: Inflammation and Oxidative Stress
 
-Describes how chronic inflammation (from visceral fat hypertrophy, autoimmune
-conditions, infections) worsens IR, and how reactive oxygen species (ROS) damage
-insulin signaling. Visceral fat releases inflammatory mediators that recruit
-macrophages, creating a self-amplifying cycle.
+Describes how chronic inflammation (from [visceral fat](../Body/VisceralFat.md)  
+hypertrophy, autoimmune conditions, infections) worsens IR, and how reactive 
+oxygen species (ROS) damage insulin signaling. Visceral fat releases 
+inflammatory mediators that recruit macrophages, creating a self-amplifying 
+cycle.
 
 ### Chapter 13: Lifestyle Factors
 

@@ -134,7 +134,8 @@ activities:
   mechanism for blood pressure reduction independent of probiotic action.
 - **Blood sugar:** Kefir significantly reduced HbA1C in clinical trials. _L.
   rhamnosus_ Lb102 and _Bifidobacterium_ Bf141 improved glucose tolerance and
-  insulin sensitivity, reduced visceral fat and inflammation in metabolic
+  [insulin sensitivity](../../Body/InsulinResistance.md), reduced 
+  [visceral fat](../../Body/VisceralFat.md) and inflammation in metabolic 
   syndrome models.
 - **Obesity:** The _L. kefiri_ DH5 strain decreased body weight and adipose
   tissue in high-fat-diet mice through reduced intestinal cholesterol and PPARα

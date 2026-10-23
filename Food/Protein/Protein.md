@@ -23,13 +23,14 @@ benefit of **preserving muscle mass**.
 
 ## Key Takeaways
 
-* **Protein Leverage:** The body seeks to meet a specific protein target. If
+- **Protein Leverage:** The body seeks to meet a specific protein target. If
   protein intake is low, the body may continue to crave food to hit that target,
   leading to overeating.
-* **Visceral Fat:** Unlike subcutaneous fat, visceral fat surrounds vital organs
-  and is highly active metabolically. Increasing protein intake has been shown
-  in studies to help specifically target and reduce this dangerous fat.
-* **Muscle Preservation:** Maintaining muscle is crucial for insulin sensitivity
+- **[Visceral Fat](../../Body/VisceralFat.md):** Unlike subcutaneous fat,
+  visceral fat surrounds vital organs and is highly active metabolically. 
+  Increasing protein intake has been shown in studies to help specifically 
+  target and reduce this dangerous fat.
+- **Muscle Preservation:** Maintaining muscle is crucial for insulin sensitivity
   and a healthy metabolic rate. A high-protein approach helps protect lean mass
   while shedding fat.
 

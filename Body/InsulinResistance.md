@@ -124,8 +124,8 @@ follows, is **highly responsive** to lifestyle intervention. Meaningful drops
    dietary impact
 2. **Add resistance training** 2–3×/week → most effective exercise lever
 3. **Add 150 min/wk aerobic activity** (brisk [walking](../Walk.md), cycling)
-4. **Lose 5–10% body weight** if overweight (visceral fat reduction has the
-   greatest effect on the VLDL component)
+4. **Lose 5–10% body weight** if overweight ([visceral fat](./VisceralFat.md) 
+   reduction has the greatest effect on the VLDL component)
 5. **Fix [sleep](../Sleep.md)** (7–9 hrs) and **manage chronic stress**
 
 The STRRIDE data is particularly instructive: **exercise alone** produced modest

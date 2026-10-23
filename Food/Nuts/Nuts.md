@@ -27,7 +27,7 @@ benefits due to their healthy fats, fiber, and antioxidants.
 **Metabolic syndrome** is a cluster of conditions including 
 * high blood pressure
 * high blood sugar
-* excess body fat around the waist (visceral fat)
+* excess body fat around the waist ([visceral fat](../../Body/VisceralFat.md))
 * abnormal cholesterol levels  
 
 ## Recommended Nuts

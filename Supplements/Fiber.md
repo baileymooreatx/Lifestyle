@@ -8,6 +8,7 @@
   - [Practical Tips](#practical-tips)
   - [Who Might Need One Most?](#who-might-need-one-most)
   - [Insulin Sensitivity](#insulin-sensitivity)
+  - [Summary of My Fiber Supplements](#summary-of-my-fiber-supplements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -39,9 +40,11 @@ close that gap, though a food-first approach is always preferred.
   guar gum); psyllium carries an FDA heart-health claim
 - **Blood sugar control** — viscous fibers slow glucose absorption
 - **Satiety & weight** — gel-forming fibers increase fullness
-- **Colon health** — fermentable fibers (inulin, resistant starch) produce
-  short-chain fatty acids
-- **Blood pressure** — ~20 g soluble fiber/day modestly lowers systolic BP
+- **Colon health** — fermentable fibers ([inulin](./Inulin.md), 
+  [resistant starch](./ResistantStarch.md)) produce
+  [short-chain fatty acids](../Body/ShortChainFattyAcid.md)  
+- **[Blood pressure](../Body/BloodPressure.md)** — ~20 g soluble fiber/day 
+  modestly lowers systolic BP
 
 ## Practical Tips
 
@@ -107,3 +110,43 @@ direct and impressive evidence, and **psyllium** is the best "dual-mechanism"
 option (both viscous and partially fermentable). The two complement each other 
 well. A common approach is psyllium with meals plus a smaller dose of resistant 
 starch (e.g., cooled potato starch) between meals.
+
+## Summary of My Fiber Supplements
+
+I use psyllium husk powder, inulin, and potato starch. These three fibers all
+work through **different mechanisms**.
+
+|                            | **Psyllium husk**                                   | **Inulin**                              | **Potato starch** (resistant starch)                   |
+|:---------------------------|:----------------------------------------------------|:----------------------------------------|:-------------------------------------------------------|
+| **Type**                   | Soluble, gel-forming                                | Soluble, non-gelling                    | Soluble, fermentable                                   |
+| **Primary mechanism**      | Traps water, forms viscous gel, bulks stool         | Fermented by gut bacteria → SCFAs       | Fermented in colon → butyrate                          |
+| **Fermentability**         | Low (barely fermented)                              | High, rapid                             | High, moderate                                         |
+| **Gas / bloating risk**    | Low                                                 | High                                    | Moderate                                               |
+| **Best for**               | Constipation, LDL cholesterol, blood sugar, satiety | Microbiome diversity, prebiotic support | Colon health, butyrate production, insulin sensitivity |
+| **Typical effective dose** | 10–20 g/day                                         | 5–12 g/day                              | 10–30 g/day                                            |
+| **Key caveat**             | Needs adequate water; can thicken in throat         | High-FODMAP; may worsen IBS symptoms    | Must not be heated to retain "resistance"; initial gas |
+
+**Key contrasts in plain terms:**
+
+- **Psyllium** is the *mechanical* fiber — it physically softens and bulks stool
+  via its gel, with minimal bacterial fermentation. It has the strongest
+  clinical evidence for constipation and the only FDA-recognized soluble-fiber
+  heart-health claim.
+- **Inulin** is the *prebiotic* fiber — it doesn't gel or bulk; its entire
+  benefit comes from being rapidly fermented into short-chain fatty acids that
+  feed the microbiome. That same rapid fermentation is why it causes the most
+  gas and bloating of the three.
+- **Potato starch** sits in between — it's also a prebiotic (ferments to
+  butyrate, the colon's preferred fuel), but its fermentation is slower and more
+  targeted to the distal colon, so it's generally better tolerated than inulin
+  while still supporting microbial diversity.
+
+**Practical takeaway:** 
+- Psyllium for regularity and heart health  
+- Inulin for microbiome diversity (if you tolerate 
+  [FODMAPs](https://en.wikipedia.org/wiki/FODMAP))  
+- Resistant starch for colon health and metabolic support  
+
+They're complementary, not redundant. Many people combine psyllium with a 
+smaller dose of one of the fermentable fibers. Start low and ramp up over 1 or 
+2 weeks to minimize gas.

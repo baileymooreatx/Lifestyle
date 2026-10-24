@@ -13,7 +13,10 @@
 
 # Lifestyle  
 
-Ideas about how to improve health and wellbeing  
+Ideas about how to improve health and wellbeing.   
+
+I found all of this information on the internet. The bulk of it came from 
+AI chatbots, so **caveat emptor**.   
 
 - Pros and cons of drinking [Alkaline Water](Food/OtherFoods/AlkalineWater.md)
 - Measure [Blood Pressure](Body/BloodPressure.md) correctly
@@ -53,8 +56,8 @@ Ideas about how to improve health and wellbeing
 - [Processed Meats](./Avoid/ProcessedMeat.md)  
 - [Refined carbohydrates](./Avoid/RefinedCarbohydrate.md)  
 - Excess [Salt](./Avoid/Salt.md) - more than 2,300 mg per day  
-- [Ultra-processed Foods](./Avoid/Ultra-processedFood.md) are food-like 
-  substances that are considered harmful
+- [Ultra-processed Foods](./Avoid/Ultra-processedFood.md) are food-like substances that are **considered 
+  harmful**, more so than GOTO.  
 
 ## Weight Loss  
 

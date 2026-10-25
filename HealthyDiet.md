@@ -163,10 +163,10 @@ one of its recommended models, giving it the strongest alignment of the four.
 ### Mankai Duckweed
 
 Despite the name "mankai algae" sometimes used colloquially, it's **not an
-algae**. It's the world's smallest flowering plant, *Wolffia globosa*, a type of 
-[duckweed](https://en.wikipedia.org/wiki/Lemnoideae) that floats on still 
-freshwater. In the Green Mediterranean diet, it's consumed as a 100 g daily 
-frozen cube blended into a green shake.  
+algae**. It's the world's smallest flowering plant, 
+*[Wolffia globosa](https://en.wikipedia.org/wiki/Wolffia_globosa)*, a type of 
+duckweed that floats on still freshwater. In the Green Mediterranean diet, it's 
+consumed as a 100 g daily frozen cube blended into a green shake.  
 
 #### Why It's Notable
 

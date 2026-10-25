@@ -58,18 +58,18 @@ Based on a 2,000-calorie diet
 
 Key health benefits supported by research:
 
-- **Gut health** — Contains over 30 probiotic strains (more than yogurt), which
-  help balance gut microbiota, reduce intestinal inflammation, and improve
-  digestion.
-- **Bone health** — Provides calcium, vitamin K2, magnesium, and phosphorus;
+- **Gut health:** Contains over 30 probiotic strains (more than yogurt), which
+  help balance gut [microbiota](../../Body/Microbiome.md), reduce intestinal
+  inflammation, and improve digestion.
+- **Bone health:** Provides calcium, vitamin K2, magnesium, and phosphorus;
   studies show improved bone mineral density with regular consumption.
-- **Blood sugar control** — May lower fasting glucose and improve insulin
+- **Blood sugar control:** May lower fasting glucose and improve insulin
   sensitivity, particularly in type 2 diabetes.
-- **Cardiovascular support** — Associated with reduced LDL cholesterol, lower
+- **Cardiovascular support:** Associated with reduced LDL cholesterol, lower
   blood pressure, and improved lipid profiles.
-- **Immune function** — Probiotics stimulate immune tissues in the gut; 
+- **Immune function:** Probiotics stimulate immune tissues in the gut; 
   B vitamins and zinc support immune resilience.
-- **Lactose tolerance** — Fermentation breaks down most lactose, making it
+- **Lactose tolerance:** Fermentation breaks down most lactose, making it
   easier to digest for those with mild dairy sensitivities.
 
 Kefir also contains the unique polysaccharide **kefiran**, which has
@@ -102,10 +102,11 @@ Kefir contains **30 to 61 strains** of bacteria and yeasts (vs. 2 to 5 in
 yogurt), making it one of the most microbially diverse fermented foods. The 
 standout is **_Lactobacillus kefiri_**, found **only** in kefir.  
 
-Other notable strains include _L. plantarum_ (reduces oxidative stress markers
-like MDA), _L. kefiranofaciens_ (reduces intestinal bleeding from EHEC
-infection), and _Kluyveromyces marxianus_ (a yeast with strong adhesion to
-intestinal cells and resistance to gastric/bile conditions).
+Other notable strains include:
+* _L. plantarum_ (reduces oxidative stress markers like MDA)
+* _L. kefiranofaciens_ (reduces intestinal bleeding from EHEC infection)
+* _Kluyveromyces marxianus_ (a yeast with strong adhesion to intestinal cells 
+  and resistance to gastric/bile conditions).
 
 ## Kefiran: The Unique Polysaccharide
 
@@ -126,7 +127,7 @@ Its documented activities:
 | **Property**      | **Mechanism**                                                                                                                                                                                             |
 |:------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Prebiotic         | Resists GI enzymatic hydrolysis; ferments in the colon, stimulating _Bifidobacterium_ and _Lactobacillus_ proliferation (2.1-fold increase in vitro)                                                      |
-| Immunomodulatory  | Increases secretory IgA in intestinal mucosa; enhances peritoneal macrophage activity                                                                                                                     |
+| Immunomodulatory  | Increases secretory [IgA](../../Body/ImmuneSystem/ImmunoglobulinA.md) in intestinal mucosa; enhances peritoneal macrophage activity                                                                       |
 | Anti-inflammatory | Reduces TNF-α, IL-8, and IL-6; inhibits NF-κB signaling                                                                                                                                                   |
 | Antimicrobial     | Protects epithelial cells against _Bacillus cereus_ exocellular factors; antifungal activity against _Candida_                                                                                            |
 | Antitumor         | Water-soluble fraction retards tumor growth and pulmonary metastasis in mice; water-insoluble fraction inhibits melanoma metastasis                                                                       |

@@ -79,6 +79,7 @@ disease, diabetes, and cancer.
 - [Lemons](Fruits/Lemon.md)
 - Licorice root
 - [Lentils](Pulses/Lentil.md)  
+- [Mandarins](Fruits/Mandarin.md)
 - [Matcha](Drinks/Matcha.md)
 - [Olive oil (extra virgin)](Fats/ExtraVirginOliveOil.md)
 - [Onion](Vegetables/Onion.md)

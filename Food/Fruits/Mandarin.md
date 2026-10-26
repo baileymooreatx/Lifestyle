@@ -42,15 +42,15 @@ Chinese officials (mandarins) through whom the fruit was introduced to the West.
 
 **Major Varieties**
 
-| Variety               | Key Traits                                                                                |
-|-----------------------|-------------------------------------------------------------------------------------------|
-| **Clementine**        | Seedless, smooth deep-orange rind, mild-sweet; the most common "tangerine" in the U.S.    |
-| **Satsuma**           | Seedless, very loose rind, mild flavor; originated in Japan ~700 years ago                |
-| **Ponkan**            | Larger, seedy, sweet; one of the oldest cultivated types; source of most canned mandarins |
-| **Dancy / Tangerine** | Classic "Christmas tangerine"; deep orange-red, slightly tart, seedy                      |
-| **Murcott**           | Late-season, seedless, larger; the source of the "Delite" brand                           |
-| **Kinnow**            | Mandarin × willow-leaf hybrid; popular in Pakistan and the Middle East                    |
-| **Tango**             | Red-fleshed clementine cross; proprietary variety from UC Davis                           |
+| **Variety**       | **Key Traits**                                                                            |
+|:------------------|:------------------------------------------------------------------------------------------|
+| Clementine        | Seedless, smooth deep-orange rind, mild-sweet; the most common "tangerine" in the U.S.    |
+| Satsuma           | Seedless, very loose rind, mild flavor; originated in Japan ~700 years ago                |
+| Ponkan            | Larger, seedy, sweet; one of the oldest cultivated types; source of most canned mandarins |
+| Dancy / Tangerine | Classic "Christmas tangerine"; deep orange-red, slightly tart, seedy                      |
+| Murcott           | Late-season, seedless, larger; the source of the "Delite" brand                           |
+| Kinnow            | Mandarin × willow-leaf hybrid; popular in Pakistan and the Middle East                    |
+| Tango             | Red-fleshed clementine cross; proprietary variety from UC Davis                           |
 
 **Growing Regions**
 
@@ -85,7 +85,7 @@ A medium mandarin (about 88 g of edible flesh) provides **47 calories**, with
 almost all of it from carbohydrates.
 
 | **Nutrient**    | **Amount** | **% Daily Value** |
-|-----------------|-----------:|------------------:|
+|:----------------|-----------:|------------------:|
 | Calories        |    47 kcal |                 — |
 | Total fat       |      0.3 g |                0% |
 | Carbohydrate    |     11.7 g |                4% |
@@ -158,8 +158,8 @@ practical way to boost iron intake.
 
 ## Benefits Summary
 
-| Benefit                | Key Nutrient(s)                        |
-|------------------------|----------------------------------------|
+| **Benefit**            | **Key Nutrient(s)**                    |
+|:-----------------------|:---------------------------------------|
 | Immunity & skin        | Vitamin C, carotenoids                 |
 | Heart / blood pressure | Potassium, hesperidin, pectin          |
 | Digestion              | Soluble + insoluble fiber              |
@@ -214,8 +214,8 @@ bit of extra vitamin C without the bitterness becoming unpleasant.
 
 **Dry** (pick one method)
 
-| Method                         | Temp                 | Time                                                    |
-|--------------------------------|----------------------|---------------------------------------------------------|
+| **Method**                     | **Temp**             | **Time**                                                |
+|:-------------------------------|:---------------------|:--------------------------------------------------------|
 | **Oven**                       | 200–212°F (95–100°C) | 1–3 hours (prop door open slightly; check after 30 min) |
 | **Dehydrator**                 | 135°F (57°C)         | 6–8 hours                                               |
 | **Air fryer** (dehydrate mode) | ~160°F (70°C)        | 2–3 hours (rotate trays hourly)                         |
@@ -237,8 +237,8 @@ airflow. They're done when they **snap** rather than bend.
 **Tips**
 
 - Use **organic** mandarins (or blanch briefly) to avoid pesticide residue on
-  the peel.
-- If the peel doesn't snap after you think it's dry, give it 10–15 more minutes.  
-  Under-dried peel turns to paste and can mold.
+  the peel.  
+- If the peel doesn't snap after you think it's dry, give it 10–to 15 more 
+  minutes. Under-dried peel turns to paste and can mold.  
 - A pinch of the powder works as a direct substitute for orange zest in baked
-  goods, teas, and savory dishes.
+  goods, teas, and savory dishes.  

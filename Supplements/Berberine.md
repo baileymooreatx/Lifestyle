@@ -34,15 +34,15 @@ form is **berberine HCl**.
 
 ## How It Works
 
-| **Mechanism**                                                | **Effect**                                                                                                                 |
-|:-------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
-| **AMPK activation** (via mitochondrial complex I inhibition) | Suppresses lipogenesis, promotes fatty acid oxidation, upregulates GLUT-4 — the same pathway metformin and exercise target |
-| **Insulin receptor upregulation** (PKC-dependent)            | Increases InsR and IRS-1 phosphorylation, restoring the insulin signaling cascade                                          |
-| **[GLP-1](../Body/SatietyHormones.md) increase**             | Enhances glucose-stimulated insulin secretion from pancreatic β-cells                                                      |
-| **Gut microbiome modulation**                                | Increases SCFA-producing bacteria, reduces metabolic endotoxemia, shifts bile acid metabolism (FXR/TGR5 activation)        |
-| **Adipogenesis suppression**                                 | Downregulates PPARγ2, C/EBPα, SREBP-1c → fewer new fat cells form                                                          |
-| **Anti-inflammatory**                                        | Reduces TNF-α, IL-6, CRP; inhibits M1 macrophage activation in adipose tissue                                              |
-| **Branched-chain amino acid catabolism**                     | Lowers circulating BCAAs, which are elevated in insulin resistance                                                         |
+| **Mechanism**                                                | **Effect**                                                                                                                                            |
+|:-------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **AMPK activation** (via mitochondrial complex I inhibition) | Suppresses lipogenesis, promotes fatty acid oxidation, upregulates GLUT-4 — the same pathway metformin and exercise target                            |
+| **Insulin receptor upregulation** (PKC-dependent)            | Increases InsR and IRS-1 phosphorylation, restoring the insulin signaling cascade                                                                     |
+| **[GLP-1](../Body/SatietyHormones.md) increase**             | Enhances glucose-stimulated insulin secretion from pancreatic β-cells                                                                                 |
+| **Gut [microbiome](../Body/Microbiome.md) modulation**       | Increases [SCFA](../Body/ShortChainFattyAcid.md)-producing bacteria, reduces metabolic endotoxemia, shifts bile acid metabolism (FXR/TGR5 activation) |
+| **Adipogenesis suppression**                                 | Downregulates PPARγ2, C/EBPα, SREBP-1c → fewer new fat cells form                                                                                     |
+| **Anti-inflammatory**                                        | Reduces TNF-α, IL-6, CRP; inhibits M1 macrophage activation in adipose tissue                                                                         |
+| **Branched-chain amino acid catabolism**                     | Lowers circulating BCAAs, which are elevated in insulin resistance                                                                                    |
 
 ## Clinical Evidence
 

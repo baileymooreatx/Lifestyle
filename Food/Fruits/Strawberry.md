@@ -60,13 +60,48 @@ plant compounds and antioxidants, including:
 
 ## Nutritional Profile
 
-A standard serving of strawberries (approximately 1 cup or 8 medium berries,
-~150g) is highly efficient for nutrient intake.
+A standard serving of fresh strawberries (approximately 1 cup or 8 medium
+berries, ~150g) is highly efficient for nutrient intake.
 
-- **Calories**: ~45–48 calories (very low energy density).
-- **Sugar**: Less than 8 grams (naturally low).
-- **Fiber**: 3 grams (12% of daily value).
-- **Water Content**: High, aiding in hydration and satiety.
+| **Macronutrient**  | **Amount** | **% Daily Value** |
+|:-------------------|-----------:|------------------:|
+| Calories           |    49 kcal |                2% |
+| Protein            |      1.0 g |                2% |
+| Total Fat          |      0.5 g |                1% |
+| Carbohydrates      |     11.7 g |                4% |
+| — Dietary Fiber    |      3.0 g |               11% |
+| — Sugars (natural) |      7.1 g |                 — |
+
+| **Vitamin**           | **Amount** | **% Daily Value** |
+|:----------------------|-----------:|------------------:|
+| Vitamin C             |    89.4 mg |              149% |
+| Vitamin A             |    18.2 IU |                1% |
+| Vitamin E             |    0.44 mg |                3% |
+| Vitamin K             |     3.3 µg |                3% |
+| Thiamin (B1)          |    0.04 mg |                3% |
+| Riboflavin (B2)       |    0.03 mg |                2% |
+| Niacin (B3)           |    0.59 mg |                4% |
+| Pantothenic acid (B5) |    0.19 mg |                4% |
+| Vitamin B6            |    0.07 mg |                4% |
+| Folate (B9)           |    36.5 µg |                9% |
+| Biotin (B7)           |      ~6 µg |               20% |
+
+| **Mineral**   |  **Amount** | **% Daily Value** |
+|:--------------|------------:|------------------:|
+| **Manganese** | **0.59 mg** |           **26%** |
+| Potassium     |      233 mg |                5% |
+| Magnesium     |     19.8 mg |                5% |
+| Phosphorus    |     36.5 mg |                3% |
+| Calcium       |     24.3 mg |                2% |
+| Iron          |     0.64 mg |                3% |
+| Zinc          |     0.21 mg |                1% |
+| Copper        |     0.07 mg |                4% |
+| Selenium      |     0.61 µg |                1% |
+| Sodium        |      1.5 mg |                0% |
+
+The standout is **vitamin C**. One cup delivers nearly 150% of your daily
+requirement, more than an orange of the same size. Manganese is the other
+notable mineral at ~26% DV.
 
 They contain no sodium, fat, or cholesterol, making them an ideal snack for
 weight management. Their low glycemic impact makes them suitable for managing

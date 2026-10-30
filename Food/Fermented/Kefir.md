@@ -316,7 +316,7 @@ options, ranging from local to online.
 ### Backup Starter
 
 When your grains have multiplied enough set aside a small portion. About 
-**1 tablespoon** is plenty. Mmost people end up with extra after a few weeks of 
+**1 tablespoon** is plenty. Most people end up with extra after a few weeks of 
 regular fermentation. Preserve it using one of these methods:
 
 #### Freezing (easiest, up to ~1 year)

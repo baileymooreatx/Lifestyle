@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Plant-based Protein Powder](#plant-based-protein-powder)
+  - [Nutritional Profile](#nutritional-profile)
+  - [Toast Pumpkin Seeds](#toast-pumpkin-seeds)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Plant-based Protein Powder
 
 Grind these in small batches until fine powder, then mix:
@@ -19,6 +29,24 @@ Grind these in small batches until fine powder, then mix:
   up to 6 months).
 - Use ~4 tbsp (one scoop) per serving; it yields roughly **15 to 21 g of
   protein** per serving depending on the blend.
+
+## Nutritional Profile
+
+Here's the updated breakdown with carbs and fiber added:
+
+| **Ingredient**          | **Weight** | **Calories** | **Protein** |   **Fat** | **Carbs** | **Fiber** | **Net Carbs** |
+|:------------------------|-----------:|-------------:|------------:|----------:|----------:|----------:|--------------:|
+| Chia seeds (½ cup)      |       84 g |          408 |        14 g |      26 g |      35 g |      29 g |           6 g |
+| Hemp hearts (½ cup)     |       80 g |          442 |        25 g |      39 g |       7 g |       3 g |           4 g |
+| Pumpkin seeds (½ cup)   |       70 g |          402 |        21 g |      34 g |      10 g |       5 g |           5 g |
+| Flax seeds (¼ cup)      |       42 g |          224 |         8 g |      18 g |      12 g |      11 g |           1 g |
+| Sunflower seeds (¼ cup) |       32 g |          186 |         7 g |      16 g |       6 g |       3 g |           3 g |
+| **Total**               |  **308 g** |    **1,662** |    **75 g** | **133 g** |  **70 g** |  **51 g** |      **19 g** |
+
+The total carb number looks high (70 g), but **73% of it is fiber** (51 g), 
+leaving only ~19 g of net carbs across the entire recipe. Chia and flax drive 
+most of that fiber. On a per-scoop basis (~30 g), you'd get roughly **7 g total 
+carbs / 5 g fiber / ~2 g net carbs** — quite low.
 
 ## Toast Pumpkin Seeds
 

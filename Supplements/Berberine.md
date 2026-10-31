@@ -7,6 +7,7 @@
   - [How It Works](#how-it-works)
   - [Clinical Evidence](#clinical-evidence)
   - [Dosage](#dosage)
+    - [Why with Meals?](#why-with-meals)
   - [Side Effects](#side-effects)
   - [Drug Interactions](#drug-interactions)
   - [Who Should Avoid It](#who-should-avoid-it)
@@ -63,11 +64,35 @@ form is **berberine HCl**.
 
 ## Dosage
 
-- **Standard:** 500 mg × 2–3/day with meals (total 1,000–1,500 mg/day)
+- **Standard:** 500 mg two or three times per day **with meals**  
+  (total 1,000 to 1,500 mg/day)
 - **Duration in trials:** 8–12 weeks; long-term safety beyond 6 months is
   limited
 - **Start low:** 500 mg/day for the first week to minimize GI upset, then
   increase
+
+### Why with Meals?
+
+Food improves berberine absorption, reduces GI side effects, and aligns its
+glucose-lowering action with post-meal blood sugar spikes.  
+
+Berberine has very low oral bioavailability (under 5%), so anything that helps
+absorption matters. Animal studies show that taking it with a fat-containing
+meal can **nearly triple absorption** compared to an empty stomach. This happens
+because gut bacteria convert berberine into a more absorbable form
+(dihydroberberine) when food is present, and dietary fat triggers bile release,
+which helps solubilize the lipophilic compound so it crosses the intestinal
+lining more efficiently.  
+
+Food also acts as a **buffer against GI irritation**. Nausea, cramping, and
+diarrhea are the most common side effects, and they're dramatically reduced when
+berberine is taken with a meal rather than on an empty stomach.  
+
+Finally, timing with meals is functionally important: berberine works by
+activating AMPK and improving insulin sensitivity to blunt the post-meal glucose
+spike. Taking it **15–30 minutes before or with a meal** positions it to be
+active exactly when blood sugar rises. Because its half-life is only 4–6 hours,
+the standard protocol is 500 mg two to three times daily with meals.  
 
 ## Side Effects
 

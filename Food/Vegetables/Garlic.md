@@ -123,8 +123,8 @@ remains fully active. However, **alliinase is extremely heat-sensitive**.
 Research indicates that microwave heating or cooking can destroy this enzyme
 rapidly:
 
-* **30 seconds** of heating can inhibit **90%** of alliinase activity.
-* **60 seconds** of heating can result in **total destruction** of the enzyme.
+- **30 seconds** of heating can inhibit **90%** of alliinase activity.
+- **60 seconds** of heating can result in **total destruction** of the enzyme.
 
 If garlic is cooked immediately after crushing, the heat denatures the alliinase
 before it can convert alliin into allicin, effectively eliminating allicin
@@ -174,12 +174,12 @@ efficacy, and amplified side effects.
 Garlic possesses natural antiplatelet and blood-thinning properties, which can
 dangerously amplify the effects of anticoagulant medications.
 
-* **Warfarin (Coumadin):** Garlic supplements have been shown to increase INR
+- **Warfarin (Coumadin):** Garlic supplements have been shown to increase INR
   levels by 15–20%, significantly raising the risk of bleeding and bruising.
-* **Antiplatelet Drugs:** Combining garlic with aspirin, clopidogrel (Plavix),
+- **Antiplatelet Drugs:** Combining garlic with aspirin, clopidogrel (Plavix),
   or other antiplatelet agents can lead to excessive bleeding due to synergistic
   effects on platelet function.
-* **DOACs:** While clinical evidence is more limited for direct oral
+- **DOACs:** While clinical evidence is more limited for direct oral
   anticoagulants like rivaroxaban and apixaban, a theoretical risk of increased
   bleeding remains.
 
@@ -188,12 +188,12 @@ dangerously amplify the effects of anticoagulant medications.
 Garlic supplements can drastically reduce the effectiveness of certain
 antiretroviral therapies.
 
-* **Saquinavir:** Studies indicate that garlic supplements can lower blood
+- **Saquinavir:** Studies indicate that garlic supplements can lower blood
   concentrations of this protease inhibitor by approximately **50%**,
   potentially leading to treatment failure and viral resistance.
-* **Mechanism:** Garlic induces metabolic enzymes (CYP3A4) that break down the
+- **Mechanism:** Garlic induces metabolic enzymes (CYP3A4) that break down the
   medication too quickly.
-* **Dietary vs. Supplements:** Normal dietary consumption of garlic is generally
+- **Dietary vs. Supplements:** Normal dietary consumption of garlic is generally
   considered safe for HIV patients; the risk is primarily associated with
   high-dose capsules, oils, or extracts.
 
@@ -202,10 +202,10 @@ antiretroviral therapies.
 Because garlic naturally lowers blood sugar and blood pressure, it can cause
 additive effects when combined with prescription drugs for these conditions.
 
-* **Hypoglycemia:** When taken with insulin or oral hypoglycemics (e.g.,
+- **Hypoglycemia:** When taken with insulin or oral hypoglycemics (e.g.,
   metformin, glimepiride), garlic may cause blood sugar to drop to dangerously
   low levels.
-* **Hypotension:** Combining garlic with antihypertensive drugs can lead to
+- **Hypotension:** Combining garlic with antihypertensive drugs can lead to
   dizziness, fainting, or lightheadedness due to excessively low blood pressure.
 
 ## Surgical Considerations
@@ -213,25 +213,25 @@ additive effects when combined with prescription drugs for these conditions.
 Due to the risk of uncontrolled bleeding, it is critical to manage garlic intake
 before surgical procedures.
 
-* **Discontinuation:** Medical guidelines, including those from the American
+- **Discontinuation:** Medical guidelines, including those from the American
   Society of Anesthesiologists, recommend stopping garlic supplements at least *
   *7 to 14 days** prior to any scheduled surgery or dental procedure.
-* **Reasoning:** This timeframe allows the body to replace platelets affected by
+- **Reasoning:** This timeframe allows the body to replace platelets affected by
   garlic’s antiplatelet compounds (such as ajoene), ensuring normal clotting
   function during the operation.
-* **Dietary Garlic:** Small amounts of garlic used in cooking are generally less
+- **Dietary Garlic:** Small amounts of garlic used in cooking are generally less
   concerning than supplements but should still be disclosed to your surgical
   team.
 
 ## Summary of Risks
 
-| Medication Class              | Interaction Effect               | Risk Level        |
-|:------------------------------|:---------------------------------|:------------------|
-| **Anticoagulants** (Warfarin) | Increased bleeding risk          | **High**          |
-| **HIV Protease Inhibitors**   | Reduced drug efficacy            | **High**          |
-| **Diabetes Medication**       | Hypoglycemia (low blood sugar)   | **Moderate-High** |
-| **Antihypertensives**         | Hypotension (low blood pressure) | **Moderate**      |
-| **Surgery**                   | Excessive bleeding               | **High**          |
+| **Medication Class**      | **Interaction Effect**           | **Risk Level**    |
+|:--------------------------|:---------------------------------|:------------------|
+| Anticoagulants (Warfarin) | Increased bleeding risk          | **High**          |
+| HIV Protease Inhibitors   | Reduced drug efficacy            | **High**          |
+| Diabetes Medication       | Hypoglycemia (low blood sugar)   | **Moderate-High** |
+| Antihypertensives         | Hypotension (low blood pressure) | **Moderate**      |
+| Surgery                   | Excessive bleeding               | **High**          |
 
 ## Organic vs. Conventional
 
@@ -243,15 +243,15 @@ and shorter shelf life. **Conventional garlic** is more affordable and widely
 available, often treated to prevent sprouting, though it may contain trace
 synthetic residues that are generally considered safe after peeling.
 
-| Feature                  | Organic Garlic                              | Conventional Garlic                             |
-|:-------------------------|:--------------------------------------------|:------------------------------------------------|
-| **Pesticide Use**        | Prohibited (uses natural alternatives)      | Synthetic pesticides/fungicides permitted       |
-| **Residue Risk**         | Undetectable or trace levels (50–80% lower) | May contain trace residues (avg. 4.2 compounds) |
-| **Nutrition**            | Comparable; potentially higher antioxidants | Comparable; sometimes higher protein/fiber      |
-| **Flavor**               | Often described as more robust/complex      | Mild to standard; varies by variety             |
-| **Shelf Life**           | Shorter (sprouts sooner)                    | Longer (often treated with sprout inhibitors)   |
-| **Cost**                 | 20–50% higher                               | Lower; budget-friendly                          |
-| **Environmental Impact** | Promotes soil health & biodiversity         | Potential for soil degradation/runoff           |
+| **Feature**          | **Organic Garlic**                          | **Conventional Garlic**                         |
+|:---------------------|:--------------------------------------------|:------------------------------------------------|
+| Pesticide Use        | Prohibited (uses natural alternatives)      | Synthetic pesticides/fungicides permitted       |
+| Residue Risk         | Undetectable or trace levels (50–80% lower) | May contain trace residues (avg. 4.2 compounds) |
+| Nutrition            | Comparable; potentially higher antioxidants | Comparable; sometimes higher protein/fiber      |
+| Flavor               | Often described as more robust/complex      | Mild to standard; varies by variety             |
+| Shelf Life           | Shorter (sprouts sooner)                    | Longer (often treated with sprout inhibitors)   |
+| Cost                 | 20–50% higher                               | Lower; budget-friendly                          |
+| Environmental Impact | Promotes soil health & biodiversity         | Potential for soil degradation/runoff           |
 
 ### Production and Chemical Exposure
 
@@ -315,13 +315,13 @@ To preserve the highest levels of **allicin** and nutrients in fresh garlic,
 in the refrigerator. The ideal environment is **cool (60–65°F / 15–18°C), dark,
 dry, and well-ventilated**.
 
-* **Why Room Temperature?** Refrigerating whole garlic triggers "chill injury,"
+- **Why Room Temperature?** Refrigerating whole garlic triggers "chill injury,"
   causing the cloves to sprout prematurely and become bitter. The high humidity
   inside a fridge also promotes mold growth between the cloves.
-* **Best Containers:** Use a **wire-mesh basket**, a **paper bag with holes**,
+- **Best Containers:** Use a **wire-mesh basket**, a **paper bag with holes**,
   or a specialized **ceramic garlic keeper** with ventilation. These allow
   airflow while blocking light.
-* **Avoid:** Sealed plastic bags or airtight jars, which trap moisture and
+- **Avoid:** Sealed plastic bags or airtight jars, which trap moisture and
   accelerate rot.
 
 Stored this way, whole bulbs can retain their nutritional potency and freshness
@@ -333,14 +333,14 @@ Once garlic is peeled, chopped, or crushed, its protective skin is gone, and the
 enzyme **alliinase** begins converting alliin to allicin immediately. This state
 requires different storage to prevent nutrient degradation and spoilage.
 
-* **Refrigeration is Required:** Place peeled or minced garlic in an **airtight
+- **Refrigeration is Required:** Place peeled or minced garlic in an **airtight
   glass container** in the refrigerator. Glass is preferred over plastic, which
   can absorb sulfur compounds and impart off-flavors.
-* **Submersion Method:** For peeled whole cloves, submerging them in **dry
+- **Submersion Method:** For peeled whole cloves, submerging them in **dry
   sherry** or **vinegar** in the fridge can extend freshness and flavor
   retention up to a week. Storing in water is possible but requires daily water
   changes to prevent bacterial growth.
-* **Shelf Life:** Use refrigerated peeled or chopped garlic within **5 to 7
+- **Shelf Life:** Use refrigerated peeled or chopped garlic within **5 to 7
   days**, as allicin degrades rapidly after exposure to air.
 
 ### Freezing for Long-Term Nutrient Retention
@@ -348,12 +348,12 @@ requires different storage to prevent nutrient degradation and spoilage.
 Freezing is the most effective method for preserving **allicin** and other
 nutrients for long-term storage (up to **12 months**).
 
-* **Preparation:** You can freeze whole unpeeled cloves, peeled cloves, or
+- **Preparation:** You can freeze whole unpeeled cloves, peeled cloves, or
   minced garlic.
-* **The Oil Method:** A popular technique is placing peeled cloves or minced
+- **The Oil Method:** A popular technique is placing peeled cloves or minced
   garlic into an **ice cube tray**, covering them with **olive oil**, and
   freezing. Once solid, transfer the cubes to a freezer bag.
-* **Nutrient Lock:** Freezing halts enzymatic activity and degradation,
+- **Nutrient Lock:** Freezing halts enzymatic activity and degradation,
   effectively "locking in" the nutrient profile at the moment of freezing. While
   the texture may soften upon thawing (making it best for cooking rather than
   raw use), the health benefits remain intact.
@@ -362,11 +362,11 @@ nutrients for long-term storage (up to **12 months**).
 
 **Never store fresh garlic in oil at room temperature.**
 
-* **Botulism Risk:** Garlic is a low-acid vegetable that can carry *Clostridium
+- **Botulism Risk:** Garlic is a low-acid vegetable that can carry *Clostridium
   botulinum* spores from the soil. When submerged in oil at room temperature,
   the lack of oxygen creates an ideal environment for these spores to produce
   deadly botulinum toxin.
-* **Safe Practice:** If you must store garlic in oil (e.g., for flavored oil),
+- **Safe Practice:** If you must store garlic in oil (e.g., for flavored oil),
   it **must be refrigerated** and used within **4 days**, or frozen for longer
   storage. Commercial garlic-in-oil products are safe at room temperature only
   because they are acidified with citric or phosphoric acid during
@@ -379,28 +379,28 @@ nutrients for long-term storage (up to **12 months**).
 The ideal time to plant garlic depends on your climate, but **fall planting** is
 generally superior for most regions.
 
-* **Fall Planting (Recommended):** Plant cloves **4–6 weeks before the ground
+- **Fall Planting (Recommended):** Plant cloves **4 to 6 weeks before the ground 
   freezes** (typically September to November). This allows roots to establish
   before winter dormancy, resulting in significantly **larger bulbs** and
   stronger flavors by the following summer (July–August).
-* **Spring Planting:** If you miss the fall window, plant as soon as the soil is
-  workable (February to April). Note that spring-planted garlic often yields *
-  *smaller bulbs** because it misses the natural cold period (vernalization)
+- **Spring Planting:** If you miss the fall window, plant as soon as the soil is
+  workable (February to April). Note that spring-planted garlic often yields 
+  **smaller bulbs** because it misses the natural cold period (vernalization)
   required for optimal growth. To compensate, you can artificially "chill"
-  cloves in the refrigerator for 8–10 weeks before planting.
+  cloves in the refrigerator for 8 to 10 weeks before planting.
 
 ### Outdoor Planting Guide
 
 1. **Select Cloves:** Break a healthy bulb into individual cloves just before
    planting. Choose the **largest, healthiest cloves**, as size correlates with
    the final bulb size. Do not peel the papery skin off individual cloves.
-2. **Prepare Soil:** Choose a spot with **full sun** (6–8 hours daily) and *
-   *well-draining soil**. Garlic rots in soggy ground; raised beds are excellent
-   for heavy clay soils. Mix in 2–3 inches of compost or aged manure, as garlic
-   is a heavy feeder. Aim for a soil pH between **6.0 and 7.0**.
+2. **Prepare Soil:** Choose a spot with **full sun** (6–8 hours daily) and 
+   **well-draining soil**. Garlic rots in soggy ground; raised beds are 
+   excellent for heavy clay soils. Mix in 2–3 inches of compost or aged manure,
+   as garlic is a heavy feeder. Aim for a soil pH between **6.0 and 7.0**.
 3. **Planting:** Push cloves into the soil **pointy end up** and root end down.
     * **Depth:** 2 inches deep.
-    * **Spacing:** 4–6 inches apart within rows, with rows spaced 12 inches
+    * **Spacing:** 4 to 6 inches apart within rows, with rows spaced 12 inches
       apart.
 4. **Mulch:** Cover the bed with **4–6 inches of straw** or shredded leaves.
    This insulates the cloves against freezing temperatures, prevents frost
@@ -408,16 +408,16 @@ generally superior for most regions.
 
 ### Care and Harvest
 
-* **Watering:** Keep the soil evenly moist (about **1 inch of water per week**)
+- **Watering:** Keep the soil evenly moist (about **1 inch of water per week**)
   during active growth in spring. Stop watering completely **2–3 weeks before
   harvest** (when lower leaves turn brown) to allow the bulbs to cure and
   develop papery skins.
-* **Scapes:** If growing hardneck varieties, cut off the curly flower stalks
+- **Scapes:** If growing hardneck varieties, cut off the curly flower stalks
   (**scapes**) in early summer. This redirects energy from flower production to
   bulb growth. Scapes are edible and delicious.
-* **Harvest:** Dig up bulbs when the bottom 3–4 leaves have turned brown but the
+- **Harvest:** Dig up bulbs when the bottom 3–4 leaves have turned brown but the
   top leaves are still green. Gently lift with a fork; do not pull by the stem.
-* **Curing:** Lay bulbs in a single layer in a shaded, well-ventilated area for
+- **Curing:** Lay bulbs in a single layer in a shaded, well-ventilated area for
   **2–4 weeks** until the necks are tight and dry. Once cured, trim roots and
   stems and store in a cool, dark place.
 
@@ -426,8 +426,8 @@ generally superior for most regions.
 You can grow garlic indoors, but your harvest depends entirely on your
 goals.
 
-* **Garlic greens** are easy and fast.
-* **Full bulbs** require patience and strong light.
+- **Garlic greens** are easy and fast.
+- **Full bulbs** require patience and strong light.
 
 ### Garlic Greens vs. Full Bulbs
 
@@ -442,9 +442,9 @@ eventually deplete.
 Harvesting mature bulbs indoors is possible but difficult. It takes **6–9
 months** and requires:
 
-* **Deep pots** (at least 8–12 inches) for root expansion.
-* **Intense light** (6–8 hours of direct sun or strong grow lights).
-* **Cold simulation**: Most varieties need a "chill period" (4–8 weeks in the
+- **Deep pots** (at least 8–12 inches) for root expansion.
+- **Intense light** (6–8 hours of direct sun or strong grow lights).
+- **Cold simulation**: Most varieties need a "chill period" (4–8 weeks in the
   fridge) before planting to mimic winter, which triggers bulb formation.
   Without this, you may only get leaves.
 

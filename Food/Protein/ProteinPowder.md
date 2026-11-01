@@ -5,48 +5,43 @@
 - [Plant-based Protein Powder](#plant-based-protein-powder)
   - [Nutritional Profile](#nutritional-profile)
   - [Toast Pumpkin Seeds](#toast-pumpkin-seeds)
+  - [Cost Comparison](#cost-comparison)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Plant-based Protein Powder
 
-Grind these in small batches until fine powder, then mix:
+Given that we want **high protein + high fiber** on a budget, here's the most
+cost-effective blend:
 
-| **Ingredient**          | **Amount** |
-|:------------------------|:-----------|
-| Chia seeds              | ½ cup      |
-| Hemp hearts             | ½ cup      |
-| Pumpkin seeds (toasted) | ½ cup      |
-| Flax seeds              | ¼ cup      |
-| Sunflower seeds         | ¼ cup      |
+| **Ingredient**          | **Amount** | **Weight** |       **Cost** | **Protein** |
+|:------------------------|-----------:|-----------:|---------------:|------------:|
+| Dried red lentils       |     2 cups |      300 g |         ~$1.00 |        58 g |
+| Hemp hearts             |      ⅓ cup |       53 g |         ~$1.50 |        13 g |
+| Pumpkin seeds (toasted) |      ¼ cup |       35 g |         ~$1.00 |        11 g |
+| Chia seeds              |     2 tbsp |       21 g |         ~$0.50 |       3.5 g |
+| Flax seeds              |     2 tbsp |       21 g |         ~$0.40 |         3 g |
+| **Total**               |    ~3 cups |  **430 g** |     **~$4.40** |   **~88 g** |
 
-**Key tips:**
+## Nutritional Profile  
 
-- Use a **spice/coffee grinder** for the finest texture; a blender works but
-  use 10 to 15 sec pulses to avoid turning seeds into butter.
-- Keep the grinder bowl **dry** — moisture makes chia gel into paste.
-- Store in an **airtight container in the fridge** up to 1 month (or freezer for
-  up to 6 months).
-- Use ~4 tbsp (one scoop) per serving; it yields roughly **15 to 21 g of
-  protein** per serving depending on the blend.
+| **Nutrient**   | **Per Scoop** (30 g) |
+|:---------------|---------------------:|
+| Calories       |            ~130 kcal |
+| Protein        |                 ~6 g |
+| Total Fat      |                 ~8 g |
+| Carbohydrates  |                 ~6 g |
+| Dietary Fiber  |                 ~3 g |
+| Net Carbs      |                 ~3 g |
+| Cost           |               ~$0.31 |
 
-## Nutritional Profile
+The net carbs stay low because red lentils and chia contribute a lot of fiber
+that offsets the total carb number.
 
-Here's the updated breakdown with carbs and fiber added:
-
-| **Ingredient**          | **Weight** | **Calories** | **Protein** |   **Fat** | **Carbs** | **Fiber** | **Net Carbs** |
-|:------------------------|-----------:|-------------:|------------:|----------:|----------:|----------:|--------------:|
-| Chia seeds (½ cup)      |       84 g |          408 |        14 g |      26 g |      35 g |      29 g |           6 g |
-| Hemp hearts (½ cup)     |       80 g |          442 |        25 g |      39 g |       7 g |       3 g |           4 g |
-| Pumpkin seeds (½ cup)   |       70 g |          402 |        21 g |      34 g |      10 g |       5 g |           5 g |
-| Flax seeds (¼ cup)      |       42 g |          224 |         8 g |      18 g |      12 g |      11 g |           1 g |
-| Sunflower seeds (¼ cup) |       32 g |          186 |         7 g |      16 g |       6 g |       3 g |           3 g |
-| **Total**               |  **308 g** |    **1,662** |    **75 g** | **133 g** |  **70 g** |  **51 g** |      **19 g** |
-
-The total carb number looks high (70 g), but **73% of it is fiber** (51 g), 
-leaving only ~19 g of net carbs across the entire recipe. Chia and flax drive 
-most of that fiber. On a per-scoop basis (~30 g), you'd get roughly **7 g total 
-carbs / 5 g fiber / ~2 g net carbs** — quite low.
+We're paying **5–8× less per scoop**, and you're getting fiber + omega-3s +
+minerals that commercial powders don't have. The tradeoff is you need ~4 scoops
+to match the protein of one whey scoop — but at $0.31 each, that's still only
+~$1.25 for ~24 g protein, with the bonus fiber.  
 
 ## Toast Pumpkin Seeds
 
@@ -68,3 +63,19 @@ Raw seeds have slightly higher **phytic acid**, which can modestly reduce
 absorption of minerals like zinc and magnesium. Roasting reduces phytic acid, so 
 the lightly toasted version gives you a small edge on mineral bioavailability. 
 For protein specifically, it makes no difference.
+
+## Cost Comparison
+
+This recipe vs. a commercial scoop (25 g protein at ~$1.50–$2.50)
+
+| **Source**                     | **Cost per gram of protein** |
+|:-------------------------------|-----------------------------:|
+| **Dried split peas / lentils** |                  **~$0.017** |
+| Peanut butter                  |                      ~$0.021 |
+| Eggs                           |                      ~$0.030 |
+| Tofu                           |                      ~$0.028 |
+| Whey protein (retail)          |                  ~$0.05–0.07 |
+| Plant protein powder (retail)  |                  ~$0.07–0.10 |
+
+Whole-food legumes are **3 to five times cheaper per gram of protein** than any 
+commercial powder.

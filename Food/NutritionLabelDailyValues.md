@@ -3,20 +3,20 @@
 The FDA's Daily Values (DVs) for a 2,000-calorie diet which are the reference 
 amounts used to calculate the %DV on U.S. Nutrition Facts labels
 
-| Nutrient           | Daily Value |
-|--------------------|-------------|
-| Total Fat          | 78 g        |
-| Saturated Fat      | 20 g        |
-| Cholesterol        | 300 mg      |
-| Sodium             | 2,300 mg    |
-| Total Carbohydrate | 275 g       |
-| Dietary Fiber      | 28 g        |
-| Added Sugars       | 50 g        |
-| Protein            | 50 g        |
-| Vitamin D          | 20 mcg      |
-| Calcium            | 1,300 mg    |
-| Iron               | 18 mg       |
-| Potassium          | 4,700 mg    |
+| **Nutrient**       | **Daily Value** |
+|:-------------------|----------------:|
+| Total Fat          |            78 g |
+| Saturated Fat      |            20 g |
+| Cholesterol        |          300 mg |
+| Sodium             |        2,300 mg |
+| Total Carbohydrate |           275 g |
+| Dietary Fiber      |            28 g |
+| Added Sugars       |            50 g |
+| Protein            |            50 g |
+| Vitamin D          |          20 mcg |
+| Calcium            |        1,300 mg |
+| Iron               |           18 mg |
+| Potassium          |        4,700 mg |
 
 Notes:
 

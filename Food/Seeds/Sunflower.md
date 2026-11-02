@@ -145,11 +145,11 @@ container** in a cool, dark pantry.
 
 ### Long-Term (6 Months to 1+ Year)
 
-For maximum nutrient retention, especially for shelled raw seeds, *
-*refrigeration or freezing** is superior.
+For maximum nutrient retention, especially for shelled raw seeds, **refrigeration 
+or freezing** is superior.
 
-* **Refrigeration:** Extends freshness to 6 to 12 months. The consistent cold (
-  below 40°F/4°C) significantly slows the oxidation of healthy fats.
+* **Refrigeration:** Extends freshness to 6 to 12 months. The consistent cold
+  (below 40°F/4°C) significantly slows the oxidation of healthy fats.
 * **Freezing:** Preserves nutrients for up to **12 months or longer**. Freezing
   effectively halts the rancidity process, keeping vitamin E and phenolic
   antioxidants intact better than room temperature storage.

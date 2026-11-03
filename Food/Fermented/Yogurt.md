@@ -4,12 +4,14 @@
 
 - [Probiotic Fermented Dairy](#probiotic-fermented-dairy)
   - [Lactobacillis reuteri](#lactobacillis-reuteri)
-  - [Nutritional Profile (Estimated)](#nutritional-profile-estimated)
+    - [Nutritional Profile (Estimated)](#nutritional-profile-estimated)
     - [Equipment](#equipment)
     - [Ingredients](#ingredients)
+    - [Benefits](#benefits)
   - [Lactobacillis gasseri](#lactobacillis-gasseri)
+    - [Benefits](#benefits-1)
   - [Fermentation](#fermentation)
-  - [L. gasseri affect vs. L. reuteri](#l-gasseri-affect-vs-l-reuteri)
+  - [L. gasseri vs. L. reuteri](#l-gasseri-vs-l-reuteri)
   - [Thicker Yogurt](#thicker-yogurt)
     - [Increased Protein](#increased-protein)
       - [What It Does to the Gel](#what-it-does-to-the-gel)
@@ -66,7 +68,7 @@ YouTube [video](https://www.youtube.com/watch?v=aHfqE_zLPxE)
 [PDF Instructions](.binary/EricBerg-L-Reuteri-Yogurt-Recipe.pdf)  
 Starter microbes [BioGaia Gastrus Probiotic Capsules](https://www.amazon.com/dp/B0FDX7DYP2)
 
-## Nutritional Profile (Estimated)
+### Nutritional Profile (Estimated)
 
 The base values come from ultra-pasteurized half & half (≈133 kcal, 10 g fat,
 3.3 g carbs, 3.3 g protein per 100 g); a US cup is 237 g. Per Cutting Edge
@@ -103,8 +105,10 @@ figures as approximate.
 
 [Instant Pot](https://www.youtube.com/watch?v=uyG0K1Io5oM)  
 Glass or ceramic bowl or other vessel large enough to hold at least one quart of
-liquid. I use round Pyrex 7 cup bowls with silicone slings to make it easier to
-lower them into the Instant Pot.
+liquid. I use round 
+[Pyrex 7 cup bowls](https://www.amazon.com/Pyrex-Container-Non-Toxic-Dishwasher-Microwave/dp/B0BSJZ1QYZ/) 
+with [silicone slings](https://www.amazon.com/Silicone-Handles-Cooling-Bakeware-Roasting/dp/B0DSZYWL1F/) 
+to make it easier to lower them into the Instant Pot. They fit perfectly.  
 
 ### Ingredients
 
@@ -126,15 +130,101 @@ the bacteria.
 Mix the dairy with the starter and ferment in the Instant Pot for 36 hours 
 using the "Yogurt" function set to "Less/Low."
 
+### Benefits
+
+**Lactobacillus reuteri** (now reclassified as
+*[Limosilactobacillus reuteri](https://en.wikipedia.org/wiki/Limosilactobacillus_reuteri)*)
+is a well-studied probiotic strain. Here are its main evidence-backed benefits.
+
+| **Benefit**                                                                                 | **Evidence Strength** |
+|:--------------------------------------------------------------------------------------------|:----------------------|
+| **Reduces infant colic** (crying time ↓ ~43 min/day in breastfed infants, strain DSM 17938) | Strongest             |
+| **Shortens acute infectious diarrhea** in children (~0.87 days)                             | Moderate              |
+| **Reduces *H. pylori* load** as adjunct to standard therapy                                 | Moderate              |
+| **Lowers LDL cholesterol** (~12% LDL reduction, strain NCIMB 30242)                         | Moderate              |
+| **Improves oral health** (reduces *Streptococcus mutans*, plaque, gingivitis)               | Moderate              |
+| **Strengthens gut barrier** / reduces intestinal permeability                               | Moderate              |
+| **Immune modulation** (↑ IL-10, ↑ regulatory T cells, ↓ pro-inflammatory cytokines)         | Moderate              |
+| **Prevents antibiotic-associated diarrhea**                                                 | Moderate              |
+| **Reduces atopic dermatitis / eczema** in infants                                           | Low–Moderate          |
+| **Increases vitamin D levels** (~25.5% over 9 weeks)                                        | Emerging              |
+| **Protects preterm infants** from necrotizing enterocolitis (risk ↓ 42%, death ↓ 65%)       | Moderate              |
+
+**Key mechanisms:** It produces **reuterin**, an antimicrobial compound that
+inhibits pathogenic bacteria, yeasts, and fungi without harming beneficial gut
+microbes. It also adheres to intestinal epithelium, stimulates mucus production,
+and modulates immune signaling.
+
+**Important caveats:**
+
+- Effects are **strain-dependent** — DSM 17938 is best studied for colic; NCIMB
+  30242 for cholesterol.
+- Many eye-catching claims (oxytocin, wound healing, weight loss) come from
+  **animal studies** without human replication.
+- Bone density benefits shown in one small trial were **not confirmed** in a
+  larger follow-up.
+- Side effects are generally mild: transient gas (~5–15%), abdominal discomfort,
+  or mild diarrhea.
+
 ## Lactobacillis gasseri
 Starter microbes [Swanson Lactobacillus Gasseri](https://www.amazon.com/dp/B00OLQLS64)  
 Ferment using the same instructions listed above.
 
+### Benefits
+
+Lactobacillus gasseri is one of the most studied probiotic species, with
+evidence concentrated in a handful of well-characterized strains. Here's what
+the data supports.
+
+| **Benefit**                                                                | **Key Strains**           | **Evidence Strength**            |
+|:---------------------------------------------------------------------------|:--------------------------|:---------------------------------|
+| **Reduces visceral (abdominal) fat** (4.6–8.5% over 12 weeks)              | SBT2055, BNR17            | Strongest                        |
+| **Improves sleep quality** (PSQI score ↓ ~0.77)                            | CP2305                    | Moderate (meta-analysis, 7 RCTs) |
+| **Reduces IBS symptoms** (abdominal pain ↓ ~54% at 4 weeks)                | CP2305, LA806             | Moderate                         |
+| **Supports vaginal microbiome** / BV recovery                              | TM13 + *L. crispatus*     | Moderate                         |
+| **Reduces *H. pylori* load** (adjunct)                                     | —                         | Moderate                         |
+| **Improves functional dyspepsia** (epigastric pain, postprandial fullness) | —                         | Moderate                         |
+| **Improves bowel function** (frequency, stool consistency)                 | CP2305 (heat-inactivated) | Emerging                         |
+| **Modulates metabolic hormones** (↓ leptin, ↑ GLP-1, ↑ PYY)                | LG08                      | Emerging (2026 RCT)              |
+| **Reduces fasting glucose** / modulates gut inflammation                   | —                         | Animal + early human             |
+
+**The visceral fat claim in detail:**
+The flagship trial (Kadooka et al., 2010; n=87) showed a **4.6% reduction in
+visceral fat area** and 1.4% body weight loss over 12 weeks with SBT2055. A
+larger follow-up (n=210) confirmed an **8.5% visceral fat reduction** at lower
+doses. A separate BNR17 trial (n=90, Korean adults) showed a **21.6 cm²
+reduction in visceral fat area**. Critically:
+
+- **Effects reversed within 4 weeks** of stopping the supplement.
+- Absolute weight loss was modest: **~1–2 kg (2–4 lbs)** over 12 weeks.
+- Most trials were conducted in **Japanese or Korean populations** with elevated
+  visceral fat.
+- One trial (n=62) found **no significant effect**, so results are not perfectly
+  consistent.
+
+**Sleep and stress (CP2305):**
+A 2023 meta-analysis of 7 RCTs found that daily CP2305 significantly improved
+sleep quality in adults with mild-to-moderate stress. A 24-week trial in medical
+students showed reduced anxiety (Spielberger) and improved PSQI scores. A 2025
+study also showed heat-inactivated CP2305 improved bowel function, suggesting
+some effects may not require live bacteria.
+
+**Key caveats:**
+
+- **Strain-specificity matters enormously.** SBT2055 and BNR17 are for fat;
+  CP2305 is for sleep/IBS; LG08 for metabolic hormones. You can't generalize
+  across strains.
+- **No authorized health claims** exist in the EU or UK for *L. gasseri* and
+  weight loss.
+- The evidence base, while solid for a probiotic, is still **limited in scale
+  and population diversity**.
+- Typical studied doses: **1–10 billion CFU/day** for 12+ weeks.
+
 ## Fermentation
 
 Both strains share the same optimal window, 36 hours at 97–100 °F, but they
-differ in *when* they actually start proliferating, which is the
-critical detail.
+differ in *when* they actually start proliferating, which is the critical 
+detail.  
 
 |                                          | *L. gasseri*                     | *L. reuteri*                     |
 |:-----------------------------------------|:---------------------------------|:---------------------------------|
@@ -151,7 +241,7 @@ so you'd get far fewer live cultures and less lactose consumed than the 36-hour
 version. Both manufacturers (Cutting Edge Cultures, Cultured Food Life) are
 emphatic: **do not stop before 36 hours** for either strain.
 
-If you want the full probiotic benefit from either strain, **36 hours is
+If we want the full probiotic benefit from either strain, **36 hours is
 non-negotiable**. Shorter times sacrifice the exponential growth phase that
 gives these ferments their therapeutic value.
 

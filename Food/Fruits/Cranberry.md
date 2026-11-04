@@ -24,10 +24,12 @@
     - [Stomach Acid Reducers](#stomach-acid-reducers)
     - [Recommendations](#recommendations)
   - [Storage](#storage)
-    - [Pantry (Short-Term: 6 to 12 Months)](#pantry-short-term-6-to-12-months)
-    - [Refrigeration (Medium-Term: 1 to 2 Years)](#refrigeration-medium-term-1-to-2-years)
-    - [Freezing (Long-Term: 2 to 5+ Years)](#freezing-long-term-2-to-5-years)
-    - [Signs of Nutrient Loss or Spoilage](#signs-of-nutrient-loss-or-spoilage)
+    - [Dried](#dried)
+      - [Pantry (Short-Term: 6 to 12 Months)](#pantry-short-term-6-to-12-months)
+      - [Refrigeration (Medium-Term: 1 to 2 Years)](#refrigeration-medium-term-1-to-2-years)
+      - [Freezing (Long-Term: 2 to 5 Years)](#freezing-long-term-2-to-5-years)
+      - [Signs of Nutrient Loss or Spoilage](#signs-of-nutrient-loss-or-spoilage)
+    - [Fresh](#fresh)
   - [My Preferred Brand](#my-preferred-brand)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -93,14 +95,14 @@ also a surprisingly good source of vitamin C for a dried fruit.
 
 ### Vitamins
 
-* **Vitamin C:** 94mg (104% DV) per 100g, supports immune function and acts as
+- **Vitamin C:** 94mg (104% DV) per 100g, supports immune function and acts as
   an antioxidant
-* **Vitamin A:** ~437 mcg (49% DV), important for vision and immune health.
-* **Vitamin K:** ~33.6 mcg (28% DV), essential for blood clotting.
-* **Vitamin B5 (Pantothenic Acid):** ~1.98 mg (40% DV), vital for energy
+- **Vitamin A:** ~437 mcg (49% DV), important for vision and immune health.
+- **Vitamin K:** ~33.6 mcg (28% DV), essential for blood clotting.
+- **Vitamin B5 (Pantothenic Acid):** ~1.98 mg (40% DV), vital for energy
   metabolism.
-* **Vitamin B6:** ~0.38 mg (22% DV).
-* **Vitamin E:** ~1.32 mg (9% DV).
+- **Vitamin B6:** ~0.38 mg (22% DV).
+- **Vitamin E:** ~1.32 mg (9% DV).
 
 ### Minerals
 
@@ -108,12 +110,12 @@ The mineral profile is notable for **manganese**, providing roughly **1.79 mg
 (78% DV)**, which is critical for bone formation and metabolism. Other key
 minerals include:
 
-* **Copper:** ~0.38 mg (42% DV).
-* **Potassium:** ~537 mg (11% DV), supporting heart health and blood pressure
+- **Copper:** ~0.38 mg (42% DV).
+- **Potassium:** ~537 mg (11% DV), supporting heart health and blood pressure
   regulation.
-* **Magnesium:** ~40 mg (10% DV).
-* **Iron:** ~1.5 mg (8–9% DV).
-* **Calcium:** ~54 mg (4% DV).
+- **Magnesium:** ~40 mg (10% DV).
+- **Iron:** ~1.5 mg (8–9% DV).
+- **Calcium:** ~54 mg (4% DV).
 
 ## Urinary Tract Health
 
@@ -183,15 +185,15 @@ The most significant and well-documented interaction involves **warfarin
 (Coumadin)**. Cranberries contain compounds that may inhibit the enzyme 
 **CYP2C9**, which is responsible for metabolizing warfarin.
 
-* **Effect:** This inhibition can increase the concentration of warfarin in the
+- **Effect:** This inhibition can increase the concentration of warfarin in the
   blood, potentially raising the **INR (International Normalized Ratio)** and
   increasing the risk of bleeding and bruising.
-* **Evidence:** While some clinical studies suggest moderate consumption is
+- **Evidence:** While some clinical studies suggest moderate consumption is
   safe, case reports exist of serious bleeding events in patients consuming
   large amounts of cranberry products. Patients on warfarin should consult their
   doctor and may require more frequent INR monitoring if they add unsweetened
   dried cranberries to their diet.
-* **Other Anticoagulants:** Similar caution applies to other blood thinners like
+- **Other Anticoagulants:** Similar caution applies to other blood thinners like
   **aspirin** and **clopidogrel**, as cranberries naturally contain salicylates
   which can enhance antiplatelet effects.
 
@@ -200,12 +202,12 @@ The most significant and well-documented interaction involves **warfarin
 Cranberries may inhibit **CYP3A4**, a key enzyme in the gut and liver that
 metabolizes certain statins.
 
-* **Affected Drugs:** This interaction is most relevant for **simvastatin
+- **Affected Drugs:** This interaction is most relevant for **simvastatin
   (Zocor)**, **lovastatin**, and **atorvastatin (Lipitor)**.
-* **Effect:** Inhibition of CYP3A4 can lead to higher levels of the drug in the
+- **Effect:** Inhibition of CYP3A4 can lead to higher levels of the drug in the
   bloodstream, increasing the risk of side effects such as **rhabdomyolysis**
   (muscle breakdown) and liver toxicity.
-* **Note:** Statins like rosuvastatin and pravastatin are less likely to be
+- **Note:** Statins like rosuvastatin and pravastatin are less likely to be
   affected as they use different metabolic pathways.
 
 ### Blood Pressure and Heart Medications
@@ -213,18 +215,18 @@ metabolizes certain statins.
 Certain cardiovascular drugs metabolized by CYP3A4 may also interact with
 cranberries.
 
-* **Calcium Channel Blockers:** Drugs like **nifedipine** and **felodipine** may
+- **Calcium Channel Blockers:** Drugs like **nifedipine** and **felodipine** may
   see increased absorption and potency, potentially causing blood pressure to
   drop too low or leading to edema and dizziness.
-* **Antiarrhythmics:** Medications like **amiodarone** could theoretically be
+- **Antiarrhythmics:** Medications like **amiodarone** could theoretically be
   affected, though clinical data is less robust than for statins.
 
 ### Immunosuppressants
 
 For organ transplant recipients, cranberry products pose a specific risk.
 
-* **Affected Drugs:** **Tacrolimus** and **cyclosporine**.
-* **Effect:** Cranberry supplements have been shown to alter the blood levels of
+- **Affected Drugs:** **Tacrolimus** and **cyclosporine**.
+- **Effect:** Cranberry supplements have been shown to alter the blood levels of
   these drugs, potentially leading to organ rejection (if levels drop) or
   toxicity (if levels rise). The mechanism can be unpredictable, sometimes
   inducing enzymes rather than inhibiting them.
@@ -235,10 +237,10 @@ While not a direct drug-drug interaction, the high **oxalate** content in
 unsweetened dried cranberries is a critical consideration for medication
 management.
 
-* **Risk:** Individuals taking medications for kidney conditions or those with a
+- **Risk:** Individuals taking medications for kidney conditions or those with a
   history of **calcium oxalate kidney stones** should exercise caution. High
   oxalate intake can promote stone formation.
-* **NSAIDs:** Combining high-oxalate foods with long-term use of **NSAIDs**
+- **NSAIDs:** Combining high-oxalate foods with long-term use of **NSAIDs**
   (e.g., ibuprofen, naproxen), which can stress the kidneys, may exacerbate
   renal risks in susceptible individuals.
 
@@ -254,17 +256,19 @@ in the altered environment.
 
 ### Recommendations
 
-* **Moderation:** Occasional small servings of unsweetened dried cranberries are
+- **Moderation:** Occasional small servings of unsweetened dried cranberries are
   generally considered safe for most people. Risks increase with daily,
   large-quantity consumption or the use of concentrated extracts.
-* **Consultation:** Always inform your healthcare provider if you plan to
+- **Consultation:** Always inform your healthcare provider if you plan to
   consume cranberries regularly while taking prescription medications,
   especially those with a **narrow therapeutic index** like warfarin or
   tacrolimus.
-* **Monitoring:** If you are on interacting medications, your doctor may
+- **Monitoring:** If you are on interacting medications, your doctor may
   recommend monitoring blood levels or adjusting dosages.
 
 ## Storage
+
+### Dried
 
 To retain the maximum amount of nutrients, particularly heat-sensitive
 antioxidants like **vitamin C** and **proanthocyanidins**, unsweetened dried
@@ -274,56 +278,73 @@ dry environment**.
 The primary enemies of nutrient retention in dried fruits are **heat**,
 **light**, **oxygen**, and **moisture**.
 
-* **Airtight Sealing:** Immediately transfer opened cranberries from their
+- **Airtight Sealing:** Immediately transfer opened cranberries from their
   original packaging to a glass jar or heavy-duty plastic bag with a tight seal.
   This prevents oxidation, which degrades antioxidants, and stops moisture
   absorption that can lead to mold.
-* **Temperature Control:** Store in a pantry or cupboard where the temperature
+- **Temperature Control:** Store in a pantry or cupboard where the temperature
   remains consistently below **68°F (20°C)**. Avoid storing near heat sources
   like stoves, ovens, or direct sunlight, as heat accelerates the breakdown of
   vitamins.
-* **Darkness:** Light exposure can degrade pigments like **anthocyanins** (which
+- **Darkness:** Light exposure can degrade pigments like **anthocyanins** (which
   have antioxidant properties). Opaque containers or dark cupboards are ideal.
 
 The best method depends on how quickly you plan to consume them.
 
-### Pantry (Short-Term: 6 to 12 Months)
+#### Pantry (Short-Term: 6 to 12 Months)
 
-* **Best for:** Frequent use.
-* **Nutrient Retention:** Good, provided the container is airtight and the
+- **Best for:** Frequent use.
+- **Nutrient Retention:** Good, provided the container is airtight and the
   location is cool.
-* **Note:** Nutrient degradation is slow but continuous at room temperature.
+- **Note:** Nutrient degradation is slow but continuous at room temperature.
 
-### Refrigeration (Medium-Term: 1 to 2 Years)
+#### Refrigeration (Medium-Term: 1 to 2 Years)
 
-* **Best for:** Extending freshness in warm climates or for moderate storage.
-* **Nutrient Retention:** **Superior** to pantry storage. The cold temperature
+- **Best for:** Extending freshness in warm climates or for moderate storage.
+- **Nutrient Retention:** **Superior** to pantry storage. The cold temperature
   significantly slows down enzymatic activity and oxidation, preserving vitamin
   C and flavonoids longer.
-* **Tip:** Ensure the container is perfectly sealed to prevent the cranberries
+- **Tip:** Ensure the container is perfectly sealed to prevent the cranberries
   from absorbing odors from other foods.
 
-### Freezing (Long-Term: 2 to 5+ Years)
+#### Freezing (Long-Term: 2 to 5 Years)
 
-* **Best for:** Maximum nutrient preservation and bulk storage.
-* **Nutrient Retention:** **Excellent.** Freezing effectively halts degradation
+- **Best for:** Maximum nutrient preservation and bulk storage.
+- **Nutrient Retention:** **Excellent.** Freezing effectively halts degradation
   processes. Studies suggest freezing preserves the highest levels of
   antioxidants compared to room temperature storage.
-* **Method:** Place cranberries in a freezer-safe airtight bag or container. You
+- **Method:** Place cranberries in a freezer-safe airtight bag or container. You
   can use them directly from the freezer in baking or smoothies, or let them
   thaw briefly for snacking.
 
-### Signs of Nutrient Loss or Spoilage
+#### Signs of Nutrient Loss or Spoilage
 
-Even with proper storage, check for these signs before consumption:
+Even with proper storage, check for these signs before consumption.
 
-* **Color Fading:** A loss of vibrant red color indicates the degradation of
+- **Color Fading:** A loss of vibrant red color indicates the degradation of
   **anthocyanins**.
-* **Hardening:** Excessive dryness suggests moisture loss beyond the intended
+- **Hardening:** Excessive dryness suggests moisture loss beyond the intended
   level, often accompanied by texture changes.
-* **Off Odor:** A sour or musty smell indicates spoilage or oxidation of fats
+- **Off Odor:** A sour or musty smell indicates spoilage or oxidation of fats
   (though rare in cranberries due to low fat content).
-* **Mold:** Any visible fuzz means the batch must be discarded immediately.
+- **Mold:** Any visible fuzz means the batch must be discarded immediately.
+
+### Fresh
+
+Don't wash them as soon as you bring them home. Moisture accelerates mold
+and spoilage, so store them **unwashed** in their original bag or an
+airtight container in the fridge, and wash only the amount you plan to use right
+before cooking or eating.
+
+**Sort, rinse, and dry.**
+
+1. **Sort first** — pour the berries onto a tray and discard any that are soft,
+   shriveled, bruised, or discolored.
+2. **Rinse** — place the good berries in a colander and rinse under **cool
+   running water**, gently agitating them with your hands to loosen debris. No
+   soap or special produce wash is needed.
+3. **Dry** — spread them in a single layer on paper towels or a clean kitchen
+   towel and pat dry.
 
 ## My Preferred Brand  
 

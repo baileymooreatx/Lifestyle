@@ -331,10 +331,10 @@ Even with proper storage, check for these signs before consumption.
 
 ### Fresh
 
-Don't wash them as soon as you bring them home. Moisture accelerates mold
-and spoilage, so store them **unwashed** in their original bag or an
-airtight container in the fridge, and wash only the amount you plan to use right
-before cooking or eating.
+Store them **unwashed** in their original bag or an airtight container in the 
+fridge, and wash only the amount you plan to use right before cooking or 
+eating. Don't wash them as soon as you bring them home because moisture 
+accelerates mold and spoilage.   
 
 **Sort, rinse, and dry.**
 

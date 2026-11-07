@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Ginger](#ginger)
+    - [Nutritional Profile](#nutritional-profile)
   - [Relief from Nausea and Digestive Support](#relief-from-nausea-and-digestive-support)
   - [Anti-Inflammatory and Pain Relief](#anti-inflammatory-and-pain-relief)
   - [Blood Sugar and Heart Health Management](#blood-sugar-and-heart-health-management)
@@ -15,6 +16,7 @@
   - [Safety and Considerations](#safety-and-considerations)
   - [Storage](#storage)
     - [Fresh Ginger Root](#fresh-ginger-root)
+    - [How to Dehydrate Ginger](#how-to-dehydrate-ginger)
     - [Ginger Powder](#ginger-powder)
   - [My Preferred Brand](#my-preferred-brand)
 
@@ -22,19 +24,43 @@
 
 # Ginger
 
-Ginger (Zingiber officinale) is a low-calorie root rich in bioactive compounds
-and essential minerals. A typical 4-gram serving of fresh ginger provides
-approximately **2 calories**, 0.3g of carbohydrates, and trace amounts of
-protein and fiber. While not a primary source of macronutrients, it is a potent
-source of **gingerol**, the primary bioactive compound responsible for its
-distinct aroma, flavor, and medicinal properties.
+Ginger (Zingiber officinale) is classified as a spice in culinary, nutritional, 
+and trade contexts. It is a low-calorie rhizome (a modified underground 
+stem) rich in bioactive compounds and essential minerals. While not a primary 
+source of macronutrients, it is a potent source of **gingerol**, the primary 
+bioactive compound responsible for its distinct aroma, flavor, and medicinal 
+properties. Ginger is particularly valued for its high concentration of 
+antioxidants, including gingerols, shogaols, zingerone, and paradols, which 
+combat oxidative stress and inflammation in the body.
 
-Ginger contains significant amounts of **potassium**, **magnesium**,
-**manganese**, and **vitamin B6**. It also provides smaller amounts of vitamin
-C,
-copper, phosphorus, iron, and zinc. The root is particularly valued for its
-high concentration of antioxidants, including gingerols, shogaols, zingerone,
-and paradols, which combat oxidative stress and inflammation in the body.
+### Nutritional Profile  
+
+A typical 4 g of fresh ginger is about 2 teaspoons. Sources range from 5 g to 
+8 g per tablespoon depending on how finely it's chopped or grated, so 4 g falls 
+in the ½–⅔ of a tablespoon range.
+
+| **Nutrient**       | **Amount** |
+|:-------------------|-----------:|
+| Calories           |     3 kcal |
+| Total Fat          |     0.03 g |
+| Saturated Fat      |     0.01 g |
+| Sodium             |     0.5 mg |
+| Total Carbohydrate |     0.71 g |
+| Dietary Fiber      |     0.08 g |
+| Sugars             |     0.07 g |
+| Protein            |     0.07 g |
+| Vitamin C          |     0.2 mg |
+| Potassium          |      17 mg |
+| Magnesium          |     1.7 mg |
+| Iron               |    0.02 mg |
+| Manganese          |   0.008 mg |
+| Copper             |   0.008 mg |
+
+As you can see, 4 g is nutritionally negligible. It's essentially a flavoring 
+dose. The bioactive compounds (gingerols, shogaols) aren't listed in standard 
+nutrition labels, but at 4 g you'd get roughly **2 mg of total gingerols**, 
+which is in the range used in the nausea and anti-inflammatory studies 
+(typically 1–3 g of fresh ginger, or 250–500 mg of extract).
 
 ## Relief from Nausea and Digestive Support
 
@@ -96,11 +122,15 @@ concentrates the essential oils and active compounds, resulting in a much
 stronger product by weight and volume.
 
 Chemically, the drying process transforms the flavor profile. Fresh ginger is
-rich in **gingerol**, which provides a sharp, peppery bite. During dehydration,
-gingerol converts into **shogaol**, a compound that is not only more pungent but
-also possesses a deeper, warmer heat. This chemical shift means that ground
-ginger does not just taste "stronger"; it tastes fundamentally different, with a
-resonant, spicy heat that lacks the citrusy brightness of the fresh root.
+rich in **gingerol** concentrated in the peel, which provides a sharp, peppery
+bite. Commercial powder is made from peeled ginger. A 2022 Food Chemistry study
+found that peeling removes 12–18% of total gingerols and up to 27% of shogaols,
+so the skin really is a meaningful loss if you're after those compounds. During
+dehydration, gingerol converts into **shogaol**, a compound that is not only 
+more pungent but also possesses a deeper, warmer heat. This chemical shift means 
+that ground ginger does not just taste "stronger;" it tastes fundamentally 
+different, with a resonant, spicy heat that lacks the citrusy brightness of the 
+fresh root.
 
 ### Substitution Ratios
 
@@ -166,6 +196,37 @@ antioxidants in ginger root; it effectively pauses degradation.
   prevents mold.
 * **Avoid Room Temperature:** Leaving ginger on the counter causes it to shrivel
   and lose potency within **1 tp 2 weeks**.
+
+### How to Dehydrate Ginger
+
+A convection oven is actually **better** than a standard oven because the fan 
+gives you the even, circulating airflow a dehydrator provides.
+
+**Settings:**
+
+| Parameter   | Value                                                                            |
+|-------------|----------------------------------------------------------------------------------|
+| Temperature | **150–170°F** (lowest convection setting)                                        |
+| Time        | **2–4 hours** (thinner slices = closer to 2)                                     |
+| Door        | **Prop open 2–3 inches** with a wooden spoon — critical for moisture escape      |
+| Slicing     | **⅛ inch** (3 mm), uniform thickness                                             |
+| Arrangement | Single layer on a wire rack set over a baking sheet (airflow underneath matters) |
+
+**Doneness test:** Cool a slice to room temp, then bend it. It should **snap
+cleanly**, not fold. If it's leathery, give it another 20–30 minutes.
+
+**For your specific goal (gingerols from the skin):**
+
+- Scrub, don't peel. The skin will dry into the slice.
+- The slightly higher oven temp vs. a dehydrator (125–135°F) will convert some
+  gingerols to **shogaols** (the more potent, more stable anti-inflammatory
+  compounds), so you actually get a different — arguably better — compound
+  profile.
+- After drying, cool completely, then grind in a spice grinder. Sieve out any
+  larger skin bits if you want a finer powder.
+
+**Yield:** roughly 1 cup fresh ginger → ¼ cup powder. Store in an airtight glass
+jar in a cool, dark place; lasts 1–2 years.
 
 ### Ginger Powder
 

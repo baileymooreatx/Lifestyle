@@ -1,4 +1,3 @@
 /Lifestyle.iml
-/.idea/
-/binary/*.pdf
-/private/
+/.idea/**/*
+/binary/**/*
